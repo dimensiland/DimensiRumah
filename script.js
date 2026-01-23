@@ -28,8 +28,8 @@ const properties = [
     thumbnail: "Banjaran5000.jpg"
   },
   {
-    judul: "Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt! Dekat Kawasan Wisata Menoreh!",
-    lokasi: "Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+    judul: "Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt!",
+    lokasi: "Pagerharjo, Kulon Progo, DIY",
     luas: "2.554 m²",
     harga: "Rp 350.000.000",
     deskripsi: "Status Sertifikat : SHM Pekarangan",
@@ -37,8 +37,8 @@ const properties = [
     thumbnail: "Pagerharjo2554.jpg"
   },
   {
-    judul: "Sekali Setahun! Tanah Samping Sungai, Sawah, Jalan Provinsi! Luas 1015m²! Dekat Wisata Menoreh!",
-    lokasi: "Sinogo, Pagerharjo, Samigaluh, Kulon Progo Regency, Special Region of Yogyakarta",
+    judul: "Tanah Samping Sungai & Sawah! Luas 1015m²",
+    lokasi: "Sinogo, Samigaluh, Kulon Progo, DIY",
     luas: "1.015 m²",
     harga: "Rp 495.000.000",
     deskripsi: "Status Sertifikat : SHM",
@@ -49,42 +49,74 @@ const properties = [
 
 // ================= CONFIG =================
 const WHATSAPP_NUMBER = "6287737447313";
-const container = document.getElementById("property-list");
+const ITEMS_PER_PAGE = 10;
 
-if (!container) {
-  console.error('Element dengan id "property-list" tidak ditemukan');
+let currentPage = 1;
+
+const container = document.getElementById("property-list");
+const pagination = document.getElementById("pagination");
+
+// ================= RENDER PRODUK =================
+function renderProperties(page = 1) {
+  container.innerHTML = "";
+
+  const start = (page - 1) * ITEMS_PER_PAGE;
+  const end = start + ITEMS_PER_PAGE;
+  const items = properties.slice(start, end);
+
+  items.forEach(item => {
+    const card = document.createElement("div");
+    card.className = "property-card";
+
+    card.innerHTML = `
+      <a href="${item.youtube}" target="_blank" class="thumbnail-wrapper">
+        <img src="${item.thumbnail}" alt="${item.judul}">
+        <span class="play-icon">▶</span>
+      </a>
+
+      <div class="property-content">
+        <h2>${item.judul}</h2>
+        <p class="location">${item.lokasi}</p>
+        <p><strong>Luas:</strong> ${item.luas}</p>
+        <p class="price">${item.harga}</p>
+        <p>${item.deskripsi}</p>
+
+        <a class="whatsapp-btn"
+          href="https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
+            "Saya tertarik dengan " + item.judul + " melalui DIMENSI LAND"
+          )}"
+          target="_blank">
+          Hubungi DIMENSI LAND via WhatsApp
+        </a>
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+
+  renderPagination();
 }
 
-// ================= RENDER =================
-properties.forEach(item => {
-  const card = document.createElement("div");
-  card.className = "property-card";
+// ================= PAGINATION =================
+function renderPagination() {
+  pagination.innerHTML = "";
 
-  card.innerHTML = `
-    <a href="${item.youtube}" target="_blank" class="thumbnail-wrapper">
-      <img src="${item.thumbnail}" alt="${item.judul}">
-      <span class="play-icon">▶</span>
-    </a>
+  const totalPages = Math.ceil(properties.length / ITEMS_PER_PAGE);
 
-    <div class="property-content">
-      <h2>${item.judul}</h2>
-      <p class="location">${item.lokasi}</p>
-      <p><strong>Luas:</strong> ${item.luas}</p>
-      <p class="price">${item.harga}</p>
-      <p>${item.deskripsi}</p>
+  for (let i = 1; i <= totalPages; i++) {
+    const btn = document.createElement("button");
+    btn.textContent = i;
+    btn.className = i === currentPage ? "active" : "";
 
-      <a class="whatsapp-btn"
-        href="https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
-          "Saya tertarik dengan " + item.judul + " melalui DIMENSI LAND"
-        )}"
-        target="_blank">
-        Hubungi DIMENSI LAND via WhatsApp
-      </a>
-    </div>
-  `;
+    btn.addEventListener("click", () => {
+      currentPage = i;
+      renderProperties(currentPage);
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
 
-  container.appendChild(card);
-});
+    pagination.appendChild(btn);
+  }
+}
 
-
-
+// ================= INIT =================
+renderProperties(currentPage);
