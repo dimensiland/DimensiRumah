@@ -1,6 +1,15 @@
 // ================= DATA PROPERTI =================
 const properties = [
   {
+    judul: "Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
+    lokasi: "Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah",
+    luas: "88 m²",
+    harga: "Rp 395.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/EveclyOwh3U",
+    thumbnail: "VillaMadhava.jpg"
+  },
+  {
     judul: "Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
     lokasi: "Ngadirejo, Purworejo Regency, Central Java",
     luas: "1.450 m²",
