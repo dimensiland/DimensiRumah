@@ -43,7 +43,7 @@ const properties = [
     harga: "Rp 495.000.000",
     deskripsi: "Status Sertifikat : SHM",
     youtube: "https://youtu.be/UgCrAo67P4Q",
-    thumbnail: "Pagerharjo1015.jpg"
+    thumbnail: "Pagerharjo1015.jpeg"
   }
 ];
 
@@ -85,3 +85,4 @@ properties.forEach(item => {
 
   container.appendChild(card);
 });
+
