@@ -123,13 +123,6 @@ header p {
   color: #0f3d2e;
 }
 
-/* DESKRIPSI LIMIT */
-.property-content p:last-of-type {
-  line-height: 1.5;
-  max-height: 6em;
-  overflow: hidden;
-}
-
 /* WHATSAPP */
 .whatsapp-btn {
   display: block;
@@ -146,6 +139,29 @@ header p {
 
 .whatsapp-btn:hover {
   background-color: #1ebe5d;
+}
+
+/* PAGINATION */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+  padding: 20px;
+  flex-wrap: wrap;
+}
+
+.pagination button {
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  background: #ddd;
+  cursor: pointer;
+}
+
+.pagination button.active {
+  background: #0f3d2e;
+  color: white;
+  font-weight: bold;
 }
 
 /* FOOTER */
