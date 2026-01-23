@@ -35,6 +35,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/9L--W_8UBP8",
     thumbnail: "Pagerharjo2554.jpg"
+  },
+  {
+    judul: "Sekali Setahun! Tanah Samping Sungai, Sawah, Jalan Provinsi! Luas 1015m²! Dekat Wisata Menoreh!",
+    lokasi: "Sinogo, Pagerharjo, Samigaluh, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "1.015 m²",
+    harga: "Rp 495.000.000",
+    deskripsi: "Status Sertifikat : SHM",
+    youtube: "https://youtu.be/UgCrAo67P4Q",
+    thumbnail: "Pagerharjo1015.jpg"
   }
 ];
 
