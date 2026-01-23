@@ -10,6 +10,15 @@ const properties = [
     thumbnail: "Ngadirejo1450.jpg"
   },
   {
+    judul: "Tanah View Sawah Luas 1390m² Harga 225jt! Murah! Di Moyudan! Dekat Kota Jogja Dan Kampus UGM!!!",
+    lokasi: "Sumberarum Sleman Regency, Special Region of Yogyakarta",
+    luas: "1.390 m²",
+    harga: "Rp 225.000.000",
+    deskripsi: "Status Sertifikat : SHM Sawah",
+    youtube: "https://youtu.be/HNq8tdcZrfs",
+    thumbnail: "Sumberarum1390.jpg"
+  },
+  {
     judul: "Tanah 1098m² Dialiri Mata Air View Sawah & Perbukitan",
     lokasi: "Krinjing, Nanggulan, Kulonprogo, DIY",
     luas: "1.098 m²",
@@ -26,6 +35,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/cAkiLW-B69I",
     thumbnail: "Banjaran5000.jpg"
+  },
+  {
+    judul: "Jual Cepat! Kavling View Sawah Indah 600rb/m² Luas 600m Dekat Bandara Yogyakarta",
+    lokasi: "Kemiri Wijimulyo Nanggulan Kulonprogo Yogyakarta",
+    luas: "600 m²",
+    harga: "Rp 600.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/L2oI-uq27bo",
+    thumbnail: "KavlingKemiri600.jpg"
   },
   {
     judul: "Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt!",
