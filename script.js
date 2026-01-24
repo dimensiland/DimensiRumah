@@ -28,6 +28,15 @@ const properties = [
     thumbnail: "Sumberarum1390.jpg"
   },
   {
+    judul: "Tanah Luas 1013m² Dialiri Mata Air Kondisi Datar & Rapi, Siap Bangun! Villa, Glamping Maupun Hunian",
+    lokasi: "Pendem, Pandanrejo, Kec. Kaligesing, Kabupaten Purworejo",
+    luas: "1.013 m²",
+    harga: "Rp 175.000.000",
+    deskripsi: "Status Sertifikat : SHM Sawah",
+    youtube: "https://youtu.be/KLO8aTJOOHc",
+    thumbnail: "Pendem1013.jpg"
+  },
+  {
     judul: "Tanah Luas 1315m² Harga 175Juta di Pinggir Jalan Provinsi Samigaluh Purworejo, Dekat Wisata Menoreh!",
     lokasi: "Pagerharjo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
     luas: "1.315 m²",
@@ -44,6 +53,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM",
     youtube: "https://youtu.be/LcT86J2X8cE",
     thumbnail: "Krinjing1098.jpg"
+  },
+  {
+    judul: "Tanah 2165m² View Sawah Ala Ubud, Harga 275 Juta Dekat Wisata Kuliner, Villa & Bandara NYIA",
+    lokasi: "Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
+    luas: "2.165 m²",
+    harga: "Rp 275.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/bWmDknisI4U",
+    thumbnail: "Banjaran2165.jpg"
   },
   {
     judul: "Lahan 90rb/m² View Sawah Ala Ubud Bali, Akses Tol & Bandara",
@@ -100,6 +118,15 @@ const properties = [
     thumbnail: "Donomulyo1441.jpg"
   },
   {
+    judul: "Jual Tanah Seluas 5500m² Hanya 150rb/m SHM Pekarangan Cocok Untuk Berkebun Durian Dan Alpukat",
+    lokasi: "Banjarharjo Kalibawang KulonProgo",
+    luas: "5.500 m²",
+    harga: "Rp 150.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/Pp90Kp1ZdOM",
+    thumbnail: "Banjarharjo5500.jpg"
+  },
+  {
     judul: "Tanah Samping Sungai & Sawah! Luas 1015m²",
     lokasi: "Sinogo, Samigaluh, Kulon Progo, DIY",
     luas: "1.015 m²",
@@ -107,6 +134,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM",
     youtube: "https://youtu.be/UgCrAo67P4Q",
     thumbnail: "Pagerharjo1015.jpg"
+  },
+  {
+    judul: "Turun Harga!! Jual Tanah Gratis Bangunan!!! Luas 252m² Cocok Untuk Usaha! Dekat Mall Sleman Jogja",
+    lokasi: "Tridadi Sleman",
+    luas: "252 m²",
+    harga: "Rp 5.000.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/BEKNQ4kje-Y",
+    thumbnail: "Tridadi252.jpg"
   }
 ];
 
@@ -183,4 +219,5 @@ function renderPagination() {
 
 // ================= INIT =================
 renderProperties(currentPage);
+
 
