@@ -28,6 +28,15 @@ const properties = [
     thumbnail: "Sumberarum1390.jpg"
   },
   {
+    judul: "Tanah Luas 1315m² Harga 175Juta di Pinggir Jalan Provinsi Samigaluh Purworejo, Dekat Wisata Menoreh!",
+    lokasi: "Pagerharjo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+    luas: "1.315 m²",
+    harga: "Rp 175.000.000",
+    deskripsi: "Status Sertifikat : SHM Tegalan",
+    youtube: "https://youtu.be/oPgNu09i2i8",
+    thumbnail: "Pagerharjo1315.jpg"
+  },
+  {
     judul: "Tanah 1098m² Dialiri Mata Air View Sawah & Perbukitan",
     lokasi: "Krinjing, Nanggulan, Kulonprogo, DIY",
     luas: "1.098 m²",
@@ -46,6 +55,24 @@ const properties = [
     thumbnail: "Banjaran5000.jpg"
   },
   {
+    judul: "Jual Tanah Kavling Di Moyudan Luas 99m² Harga 100jt NEGO Dekat Kota Jogja Dan Wisata Nanggulan",
+    lokasi: "Soronondan, Sendangrejo, Minggir, Sleman Regency, Special Region of Yogyakarta",
+    luas: "99 m²",
+    harga: "Rp 100.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/5NlnF-es6-0",
+    thumbnail: "Moyudan99.jpg"
+  },
+  {
+    judul: "Tanah View Sawah Dan Bukit Menoreh! Luas 3200m² Harga 495jt Dekat Tumpeng Menoreh!",
+    lokasi: "Loano, Sedayu, Purworejo Regency, Central Java",
+    luas: "3.200 m²",
+    harga: "Rp 495.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/QNXXVf2kfj8",
+    thumbnail: "Loano3200.jpg"
+  },
+  {
     judul: "Jual Cepat! Kavling View Sawah Indah 600rb/m² Luas 600m Dekat Bandara Yogyakarta",
     lokasi: "Kemiri Wijimulyo Nanggulan Kulonprogo Yogyakarta",
     luas: "600 m²",
@@ -62,6 +89,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/9L--W_8UBP8",
     thumbnail: "Pagerharjo2554.jpg"
+  },
+  {
+    judul: "Jual Tanah Luas 1441m² Dekat Wisata Nanggulan Harga 350rb/m!!! Dekat Jalan Nasional Ke Bandara YIA",
+    lokasi: "Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "1.441 m²",
+    harga: "Rp 350.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/kvU-DrOq_gM",
+    thumbnail: "Donomulyo1441.jpg"
   },
   {
     judul: "Tanah Samping Sungai & Sawah! Luas 1015m²",
