@@ -28,6 +28,15 @@ const properties = [
     thumbnail: "Sumberarum1390.jpg"
   },
   {
+    judul: "TURUN HARGA! Luas 2086m² Harga 75jt NETT!!! View Pegunungan, Sawah, Sungai Cocok Untuk Kebun",
+    lokasi: "Girimulyo Giripurwo",
+    luas: "2.086 m²",
+    harga: "Rp 75.000.000",
+    deskripsi: "Status Sertifikat : SHM Tegalan",
+    youtube: "https://youtu.be/9WpI7g4tiKA",
+    thumbnail: "Girimulyo2086.jpg"
+  },
+  {
     judul: "Tanah Luas 1013m² Dialiri Mata Air Kondisi Datar & Rapi, Siap Bangun! Villa, Glamping Maupun Hunian",
     lokasi: "Pendem, Pandanrejo, Kec. Kaligesing, Kabupaten Purworejo",
     luas: "1.013 m²",
@@ -35,6 +44,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Sawah",
     youtube: "https://youtu.be/KLO8aTJOOHc",
     thumbnail: "Pendem1013.jpg"
+  },
+  {
+    judul: "TURUN HARGA! Tanah Seluas 800m² Hanya 175 juta!!! Dekat Wisata Sungai Mudal Dan Menoreh Dreamland",
+    lokasi: "Sokomoyo, Jatimulyo, Girimulyo",
+    luas: "800 m²",
+    harga: "Rp 175.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/IJOafnEIBsQ",
+    thumbnail: "Sokomoyo800.jpg"
   },
   {
     judul: "Tanah Luas 1315m² Harga 175Juta di Pinggir Jalan Provinsi Samigaluh Purworejo, Dekat Wisata Menoreh!",
@@ -136,6 +154,24 @@ const properties = [
     thumbnail: "Pagerharjo1015.jpg"
   },
   {
+    judul: "Jual Tanah Istimewa Dekat Jalan Provinsi Luas 442m² Dengan Harga 85jt!!!",
+    lokasi: "Pandanrejo, Kaligesing",
+    luas: "442 m²",
+    harga: "Rp 85.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/3xLTMBcRuqk",
+    thumbnail: "Pandanrejo442.jpg"
+  },
+  {
+    judul: "MURAH!! Luas 251m² Hanya 220jt!!! Strategis Berada Di Jalan Godean 16 km Dari Tugu Jogja",
+    lokasi: "Jalan Godean KM 15, Sumberarum, Moyudan, Sleman",
+    luas: "251 m²",
+    harga: "Rp 220.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/vbCkXPBdREs",
+    thumbnail: "Sumberarum251.jpg"
+  },
+  {
     judul: "Turun Harga!! Jual Tanah Gratis Bangunan!!! Luas 252m² Cocok Untuk Usaha! Dekat Mall Sleman Jogja",
     lokasi: "Tridadi Sleman",
     luas: "252 m²",
@@ -219,5 +255,4 @@ function renderPagination() {
 
 // ================= INIT =================
 renderProperties(currentPage);
-
 
