@@ -10,6 +10,42 @@ const properties = [
     thumbnail: "VillaMadhava.jpg"
   },
   {
+    judul: "Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
+    lokasi: "Grigak Giripurwo Girimulyo Kulonprogo",
+    luas: "1.015 m²",
+    harga: "Rp 250.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/AyiTRArX6DM",
+    thumbnail: "SwarnaPadi1015.jpg"
+  },
+  {
+    judul: "Tanah Mewah Luas 2024m² Dekat Bandara NYIA & Exit Tol Jogja Di Daerah Kawasan Wisata VIlla & Kuliner",
+    lokasi : "Kemukus, Tanjungharjo, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
+    luas: "2.024 m²",
+    harga: "Rp 450.000.000",
+    deskripsi: "Status Sertifikat : SHM Tegalan",
+    youtube: "https://youtu.be/h1DDmB2D11k",
+    thumbnail: "Kemukus2024.jpg"
+  },
+  {
+    judul: "TANAH MURAH JOGJA! Cuma 125 Juta | Luas 215m² | 20km dari Tugu, Dekat Wisata Nanggulan",
+    lokasi: "Krinjing Lor, Jati Sarono, Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta 55671",
+    luas: "215 m²",
+    harga: "Rp 265.000.000",
+    deskripsi: "Status Sertifikat : SHM",
+    youtube: "https://youtu.be/edgifawi0bs",
+    thumbnail: "Nanggulan215.jpg"
+  },
+  {
+    judul: "Tanah Dekat Pusat Kota Jogja, Area Wisata & Bandara Luas 381m² Harga 265 Juta Berada Di Sleman Jogja",
+    lokasi: "Sumberarum, Sleman Regency, Special Region of Yogyakarta",
+    luas: "381 m²",
+    harga: "Rp 265.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/BcosLFK4P4k",
+    thumbnail: "Sumberarum381.jpg"
+  },
+  {
     judul: "Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
     lokasi: "Ngadirejo, Purworejo Regency, Central Java",
     luas: "1.450 m²",
@@ -17,6 +53,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Tegalan",
     youtube: "https://youtu.be/duhG7mcri-E",
     thumbnail: "Ngadirejo1450.jpg"
+  },
+  {
+    judul: "Jual Tanah Pekarangan MURAH! Luas 800m² Hanya 185 Juta! Cocok Untuk Kebun Durian Dan Hutan Pinus!",
+    lokasi: "Pucungroto, Purworejo Regency, Central Java",
+    luas: "800 m²",
+    harga: "Rp 185.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/ps-LKAjMprU",
+    thumbnail: "Pucungroto800.jpg"
   },
   {
     judul: "Tanah View Sawah Luas 1390m² Harga 225jt! Murah! Di Moyudan! Dekat Kota Jogja Dan Kampus UGM!!!",
