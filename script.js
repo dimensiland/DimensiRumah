@@ -46,6 +46,15 @@ const properties = [
     thumbnail: "Sumberarum381.jpg"
   },
   {
+    judul: "Tanah Pekarangan Murah! Hanya 17km Dari Tugu! Kuas 439m² Cuma 330Juta! Dekat Wisata Dan Bandara YIA",
+    lokasi: "Krinjing Tengah, Jati Sarono, Nanggulan, Kulon Progo Regency Yogyakarta",
+    luas: "439 m²",
+    harga: "Rp 329.250.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/aygOqbNygNU",
+    thumbnail: "Krinjing439.jpg"
+  },
+  {
     judul: "Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
     lokasi: "Ngadirejo, Purworejo Regency, Central Java",
     luas: "1.450 m²",
@@ -53,6 +62,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Tegalan",
     youtube: "https://youtu.be/duhG7mcri-E",
     thumbnail: "Ngadirejo1450.jpg"
+  },
+  {
+    judul: "Tanah Pekarangan Murah! Hanya 20km Dari Tugu! Kuas 378m² Cuma 285 Juta! Dekat Wisata Dan Bandara YIA",
+    lokasi: "Krinjing Tengah, Jati Sarono, Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "378 m²",
+    harga: "Rp 285.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/ljRxBhfYMRc",
+    thumbnail: "Krinjing378.jpg"
   },
   {
     judul: "Jual Tanah Pekarangan MURAH! Luas 800m² Hanya 185 Juta! Cocok Untuk Kebun Durian Dan Hutan Pinus!",
