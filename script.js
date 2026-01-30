@@ -31,8 +31,8 @@ const properties = [
     judul: "TANAH MURAH JOGJA! Cuma 125 Juta | Luas 215m² | 20km dari Tugu, Dekat Wisata Nanggulan",
     lokasi: "Krinjing Lor, Jati Sarono, Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta 55671",
     luas: "215 m²",
-    harga: "Rp 265.000.000",
-    deskripsi: "Status Sertifikat : SHM",
+    harga: "Rp 125.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/edgifawi0bs",
     thumbnail: "Nanggulan215.jpg"
   },
@@ -318,4 +318,5 @@ function renderPagination() {
 
 // ================= INIT =================
 renderProperties(currentPage);
+
 
