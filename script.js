@@ -319,4 +319,3 @@ function renderPagination() {
 // ================= INIT =================
 renderProperties(currentPage);
 
-
