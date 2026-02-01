@@ -153,6 +153,15 @@ const properties = [
     youtube: "https://youtu.be/cAkiLW-B69I",
     thumbnail: "Banjaran5000.jpg"
   },
+   {
+    judul: "Tanah Murah! Luas 95m² Hanya 130 Juta! 17km Ke Tugu, Dekat Omah Betakan dan Studio Alam Gamplong!",
+    lokasi: "Sumberagung, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+    luas: "95 m²",
+    harga: "Rp 130.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/9B9JqUACHpM",
+    thumbnail: "Sumberagung95.jpg"
+  },
   {
     judul: "Jual Tanah Kavling Di Moyudan Luas 99m² Harga 100jt NEGO Dekat Kota Jogja Dan Wisata Nanggulan",
     lokasi: "Soronondan, Sendangrejo, Minggir, Sleman Regency, Special Region of Yogyakarta",
