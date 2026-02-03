@@ -10,6 +10,15 @@ const properties = [
     thumbnail: "VillaMadhava.jpg"
   },
   {
+    judul: "Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
+    lokasi: "Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "3.180 m²",
+    harga: "Rp 250.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/8xGm3jQ6zv8",
+    thumbnail: "Pendoworejo3180.jpg"
+  },
+  {
     judul: "Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
     lokasi: "Grigak Giripurwo Girimulyo Kulonprogo",
     luas: "1.015 m²",
@@ -53,6 +62,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/aygOqbNygNU",
     thumbnail: "Krinjing439.jpg"
+  },
+  {
+    judul: "Jual Tanah 700m² Harga 500jt Dengan View Menakjubkan Paradise Sleman Barat Jogja",
+    lokasi: "Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
+    luas: "700 m²",
+    harga: "Rp 500.000.000",
+    deskripsi: "Status Sertifikat : SHM Sawah",
+    youtube: "https://youtu.be/39w8fDvNUJU",
+    thumbnail: "Minggir700.jpg"
   },
   {
     judul: "Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
