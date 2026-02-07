@@ -28,6 +28,15 @@ const properties = [
     thumbnail: "SwarnaPadi1015.jpg"
   },
   {
+    judul: "Tanah Impian! Luas 2669m² Hanya 195 Juta Samping Air Terjun! View Sawah Dan Sungai Dekat Wisata!",
+    lokasi: "Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "2.669 m²",
+    harga: "Rp 195.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/c2klTKOajzI",
+    thumbnail: "Gerbosari2669.jpg"
+  },
+  {
     judul: "Tanah Mewah Luas 2024m² Dekat Bandara NYIA & Exit Tol Jogja Di Daerah Kawasan Wisata VIlla & Kuliner",
     lokasi : "Kemukus, Tanjungharjo, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
     luas: "2.024 m²",
