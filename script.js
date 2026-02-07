@@ -37,15 +37,6 @@ const properties = [
     thumbnail: "Kemukus2024.jpg"
   },
   {
-    judul: "TANAH MURAH JOGJA! Cuma 125 Juta | Luas 215m² | 20km dari Tugu, Dekat Wisata Nanggulan",
-    lokasi: "Krinjing Lor, Jati Sarono, Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta 55671",
-    luas: "215 m²",
-    harga: "Rp 125.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/edgifawi0bs",
-    thumbnail: "Nanggulan215.jpg"
-  },
-  {
     judul: "Tanah Dekat Pusat Kota Jogja, Area Wisata & Bandara Luas 381m² Harga 265 Juta Berada Di Sleman Jogja",
     lokasi: "Sumberarum, Sleman Regency, Special Region of Yogyakarta",
     luas: "381 m²",
@@ -80,15 +71,6 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Tegalan",
     youtube: "https://youtu.be/duhG7mcri-E",
     thumbnail: "Ngadirejo1450.jpg"
-  },
-  {
-    judul: "Tanah Pekarangan Murah! Hanya 20km Dari Tugu! Kuas 378m² Cuma 285 Juta! Dekat Wisata Dan Bandara YIA",
-    lokasi: "Krinjing Tengah, Jati Sarono, Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta",
-    luas: "378 m²",
-    harga: "Rp 285.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/ljRxBhfYMRc",
-    thumbnail: "Krinjing378.jpg"
   },
   {
     judul: "Jual Tanah Pekarangan MURAH! Luas 800m² Hanya 185 Juta! Cocok Untuk Kebun Durian Dan Hutan Pinus!",
@@ -233,15 +215,6 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/Pp90Kp1ZdOM",
     thumbnail: "Banjarharjo5500.jpg"
-  },
-  {
-    judul: "Tanah Samping Sungai & Sawah! Luas 1015m²",
-    lokasi: "Sinogo, Samigaluh, Kulon Progo, DIY",
-    luas: "1.015 m²",
-    harga: "Rp 495.000.000",
-    deskripsi: "Status Sertifikat : SHM",
-    youtube: "https://youtu.be/UgCrAo67P4Q",
-    thumbnail: "Pagerharjo1015.jpg"
   },
   {
     judul: "Jual Tanah Istimewa Dekat Jalan Provinsi Luas 442m² Dengan Harga 85jt!!!",
