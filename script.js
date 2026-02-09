@@ -19,6 +19,15 @@ const properties = [
     thumbnail: "Pendoworejo3180.jpg"
   },
   {
+    judul: "Jual Tanah View Bukit Menoreh Dekat Air Terjun Terbesar Di Jogja Luas 2134m² Hanya 280Juta!!!",
+    lokasi: "Sidoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "2.134 m²",
+    harga: "Rp 280.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/EkP_0fi5W_g",
+    thumbnail: "Sidoharjo2134.jpg"
+  },
+  {
     judul: "Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
     lokasi: "Grigak Giripurwo Girimulyo Kulonprogo",
     luas: "1.015 m²",
