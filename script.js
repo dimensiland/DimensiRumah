@@ -217,13 +217,13 @@ const properties = [
     thumbnail: "Pagerharjo2554.jpg"
   },
   {
-    judul: "Jual Tanah Luas 1441m² Dekat Wisata Nanggulan Harga 350rb/m!!! Dekat Jalan Nasional Ke Bandara YIA",
-    lokasi: "Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-    luas: "1.441 m²",
-    harga: "Rp 350.000/m²",
+    judul: "Jual Rumah Luas 120m² dan Kantor Di Bantul Murah Hanya 1.9m Nego Cocok Untuk Kost Dan Kantor",
+    lokasi: "Guwasari, Kembang Putihan, Bantul",
+    luas: "120 m²",
+    harga: "Rp 1.900.000.000 Nego",
     deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/kvU-DrOq_gM",
-    thumbnail: "Donomulyo1441.jpg"
+    youtube: "https://youtu.be/KeXOTNcPsfI",
+    thumbnail: "Kantor120.jpg"
   },
   {
     judul: "Jual Tanah Seluas 5500m² Hanya 150rb/m SHM Pekarangan Cocok Untuk Berkebun Durian Dan Alpukat",
@@ -251,6 +251,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/vbCkXPBdREs",
     thumbnail: "Sumberarum251.jpg"
+  },
+  {
+    judul: "TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
+    lokasi: "Umbulharjo, Sleman, Yogyakarta",
+    luas: "1.200 m²",
+    harga: "Rp 750.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/sHsCxgkjvE0",
+    thumbnail: "Umbulharjo1200.jpg"
   },
   {
     judul: "Turun Harga!! Jual Tanah Gratis Bangunan!!! Luas 252m² Cocok Untuk Usaha! Dekat Mall Sleman Jogja",
