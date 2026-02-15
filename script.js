@@ -265,9 +265,9 @@ const properties = [
     judul: "Turun Harga!! Jual Tanah Gratis Bangunan!!! Luas 252m² Cocok Untuk Usaha! Dekat Mall Sleman Jogja",
     lokasi: "Tridadi Sleman",
     luas: "252 m²",
-    harga: "Rp 5.000.000/m²",
+    harga: "Rp 4.000.000/m²",
     deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/BEKNQ4kje-Y",
+    youtube: "https://youtu.be/Yw-D_KVz9Hg",
     thumbnail: "Tridadi252.jpg"
   }
 ];
