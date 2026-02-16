@@ -10,6 +10,15 @@ const properties = [
     thumbnail: "VillaMadhava.jpg"
   },
   {
+    judul: "Tanah View Bukit, Sawah & Sungai Luas 2669m² Harga 195 Juta! Dekat Tanah Milik Luna Maya",
+    lokasi: "Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
+    luas: "2.669 m²",
+    harga: "Rp 195.000.000",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/GpYZCJSY9yU",
+    thumbnail: "Gerbosari2669.jpg"
+  },
+  {
     judul: "Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
     lokasi: "Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
     luas: "3.180 m²",
@@ -35,15 +44,6 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/AyiTRArX6DM",
     thumbnail: "SwarnaPadi1015.jpg"
-  },
-  {
-    judul: "Tanah Impian! Luas 2669m² Hanya 195 Juta Samping Air Terjun! View Sawah Dan Sungai Dekat Wisata!",
-    lokasi: "Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
-    luas: "2.669 m²",
-    harga: "Rp 195.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/c2klTKOajzI",
-    thumbnail: "Gerbosari2669.jpg"
   },
   {
     judul: "Tanah Mewah Luas 2024m² Dekat Bandara NYIA & Exit Tol Jogja Di Daerah Kawasan Wisata VIlla & Kuliner",
