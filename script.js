@@ -28,12 +28,12 @@ const properties = [
     thumbnail: "Pendoworejo3180.jpg"
   },
   {
-    judul: "Jual Tanah View Bukit Menoreh Dekat Air Terjun Terbesar Di Jogja Luas 2134m² Hanya 280Juta!!!",
+    judul: "Tanah Luas 2134m² Dekat Wisata Tumpeng Menoreh Pernah Dikunjungi Raffi Ahmad Di The Dudas 1",
     lokasi: "Sidoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
     luas: "2.134 m²",
     harga: "Rp 280.000.000",
     deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/EkP_0fi5W_g",
+    youtube: "https://youtu.be/s75uBpy3sns",
     thumbnail: "Sidoharjo2134.jpg"
   },
   {
@@ -251,6 +251,15 @@ const properties = [
     deskripsi: "Status Sertifikat : SHM Pekarangan",
     youtube: "https://youtu.be/vbCkXPBdREs",
     thumbnail: "Sumberarum251.jpg"
+  },
+  {
+    judul: "TURUN HARGA! Tanah luas 2070m² Harga 750RB/m Nego View Pemandangan Gunung SHM Dekat Wisata Kaliuran",
+    lokasi: "Umbulharjo, Sleman, Yogyakarta",
+    luas: "2.070 m²",
+    harga: "Rp 750.000/m²",
+    deskripsi: "Status Sertifikat : SHM Pekarangan",
+    youtube: "https://youtu.be/CPkt44hFh5o",
+    thumbnail: "Umbulharjo2070.jpg"
   },
   {
     judul: "TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
