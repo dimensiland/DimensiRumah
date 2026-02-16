@@ -55,6 +55,15 @@ const properties = [
     thumbnail: "Kemukus2024.jpg"
   },
   {
+    judul: "Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
+    lokasi : "Growong, Kabupaten Magelang, Jawa Tengah",
+    luas: "6.050 m²",
+    harga: "Rp 450.000.000",
+    deskripsi: "Status Sertifikat : SHM Tegalan",
+    youtube: "https://youtu.be/kfGf5Qff894",
+    thumbnail: "Growong6050.jpg"
+  },
+  {
     judul: "Tanah Dekat Pusat Kota Jogja, Area Wisata & Bandara Luas 381m² Harga 265 Juta Berada Di Sleman Jogja",
     lokasi: "Sumberarum, Sleman Regency, Special Region of Yogyakarta",
     luas: "381 m²",
