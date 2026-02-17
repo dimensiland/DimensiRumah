@@ -1,357 +1,162 @@
-// ================= DATA PROPERTI =================
-const properties = [
-  {
-    judul: "Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
-    lokasi: "Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah",
-    luas: "88 m²",
-    harga: "Rp 395.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/EveclyOwh3U",
-    thumbnail: "VillaMadhava.jpg"
-  },
-  {
-    judul: "Tanah View Bukit, Sawah & Sungai Luas 2669m² Harga 195 Juta! Dekat Tanah Milik Luna Maya",
-    lokasi: "Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
-    luas: "2.669 m²",
-    harga: "Rp 195.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/GpYZCJSY9yU",
-    thumbnail: "Gerbosari2669.jpg"
-  },
-  {
-    judul: "Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
-    lokasi: "Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
-    luas: "3.180 m²",
-    harga: "Rp 250.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/8xGm3jQ6zv8",
-    thumbnail: "Pendoworejo3180.jpg"
-  },
-  {
-    judul: "Tanah Luas 2134m² Dekat Wisata Tumpeng Menoreh Pernah Dikunjungi Raffi Ahmad Di The Dudas 1",
-    lokasi: "Sidoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
-    luas: "2.134 m²",
-    harga: "Rp 280.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/s75uBpy3sns",
-    thumbnail: "Sidoharjo2134.jpg"
-  },
-  {
-    judul: "Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
-    lokasi: "Grigak Giripurwo Girimulyo Kulonprogo",
-    luas: "1.015 m²",
-    harga: "Rp 250.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/AyiTRArX6DM",
-    thumbnail: "SwarnaPadi1015.jpg"
-  },
-  {
-    judul: "Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
-    lokasi : "Growong, Kabupaten Magelang, Jawa Tengah",
-    luas: "6.050 m²",
-    harga: "Rp 450.000.000",
-    deskripsi: "Status Sertifikat : SHM Tegalan",
-    youtube: "https://youtu.be/kfGf5Qff894",
-    thumbnail: "Growong6050.jpg"
-  },
-  {
-    judul: "Tanah Dekat Pusat Kota Jogja, Area Wisata & Bandara Luas 381m² Harga 265 Juta Berada Di Sleman Jogja",
-    lokasi: "Sumberarum, Sleman Regency, Special Region of Yogyakarta",
-    luas: "381 m²",
-    harga: "Rp 265.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/BcosLFK4P4k",
-    thumbnail: "Sumberarum381.jpg"
-  },
-  {
-    judul: "Tanah Pekarangan Murah! Hanya 17km Dari Tugu! Kuas 439m² Cuma 330Juta! Dekat Wisata Dan Bandara YIA",
-    lokasi: "Krinjing Tengah, Jati Sarono, Nanggulan, Kulon Progo Regency Yogyakarta",
-    luas: "439 m²",
-    harga: "Rp 329.250.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/aygOqbNygNU",
-    thumbnail: "Krinjing439.jpg"
-  },
-  {
-    judul: "Jual Tanah 700m² Harga 500jt Dengan View Menakjubkan Paradise Sleman Barat Jogja",
-    lokasi: "Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
-    luas: "700 m²",
-    harga: "Rp 500.000.000",
-    deskripsi: "Status Sertifikat : SHM Sawah",
-    youtube: "https://youtu.be/39w8fDvNUJU",
-    thumbnail: "Minggir700.jpg"
-  },
-  {
-    judul: "Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
-    lokasi: "Ngadirejo, Purworejo Regency, Central Java",
-    luas: "1.450 m²",
-    harga: "Rp 175.000.000",
-    deskripsi: "Status Sertifikat : SHM Tegalan",
-    youtube: "https://youtu.be/duhG7mcri-E",
-    thumbnail: "Ngadirejo1450.jpg"
-  },
-  {
-    judul: "Jual Tanah Pekarangan MURAH! Luas 800m² Hanya 185 Juta! Cocok Untuk Kebun Durian Dan Hutan Pinus!",
-    lokasi: "Pucungroto, Purworejo Regency, Central Java",
-    luas: "800 m²",
-    harga: "Rp 185.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/ps-LKAjMprU",
-    thumbnail: "Pucungroto800.jpg"
-  },
-  {
-    judul: "Tanah View Sawah Luas 1390m² Harga 225jt! Murah! Di Moyudan! Dekat Kota Jogja Dan Kampus UGM!!!",
-    lokasi: "Sumberarum Sleman Regency, Special Region of Yogyakarta",
-    luas: "1.390 m²",
-    harga: "Rp 225.000.000",
-    deskripsi: "Status Sertifikat : SHM Sawah",
-    youtube: "https://youtu.be/HNq8tdcZrfs",
-    thumbnail: "Sumberarum1390.jpg"
-  },
-  {
-    judul: "TURUN HARGA! Luas 2086m² Harga 75jt NETT!!! View Pegunungan, Sawah, Sungai Cocok Untuk Kebun",
-    lokasi: "Girimulyo Giripurwo",
-    luas: "2.086 m²",
-    harga: "Rp 75.000.000",
-    deskripsi: "Status Sertifikat : SHM Tegalan",
-    youtube: "https://youtu.be/9WpI7g4tiKA",
-    thumbnail: "Girimulyo2086.jpg"
-  },
-  {
-    judul: "Tanah Luas 1013m² Dialiri Mata Air Kondisi Datar & Rapi, Siap Bangun! Villa, Glamping Maupun Hunian",
-    lokasi: "Pendem, Pandanrejo, Kec. Kaligesing, Kabupaten Purworejo",
-    luas: "1.013 m²",
-    harga: "Rp 175.000.000",
-    deskripsi: "Status Sertifikat : SHM Sawah",
-    youtube: "https://youtu.be/KLO8aTJOOHc",
-    thumbnail: "Pendem1013.jpg"
-  },
-  {
-    judul: "TURUN HARGA! Tanah Seluas 800m² Hanya 175 juta!!! Dekat Wisata Sungai Mudal Dan Menoreh Dreamland",
-    lokasi: "Sokomoyo, Jatimulyo, Girimulyo",
-    luas: "800 m²",
-    harga: "Rp 175.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/IJOafnEIBsQ",
-    thumbnail: "Sokomoyo800.jpg"
-  },
-  {
-    judul: "Tanah Luas 1315m² Harga 175Juta di Pinggir Jalan Provinsi Samigaluh Purworejo, Dekat Wisata Menoreh!",
-    lokasi: "Pagerharjo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-    luas: "1.315 m²",
-    harga: "Rp 175.000.000",
-    deskripsi: "Status Sertifikat : SHM Tegalan",
-    youtube: "https://youtu.be/oPgNu09i2i8",
-    thumbnail: "Pagerharjo1315.jpg"
-  },
-  {
-    judul: "Tanah 1098m² Dialiri Mata Air View Sawah & Perbukitan",
-    lokasi: "Krinjing, Nanggulan, Kulonprogo, DIY",
-    luas: "1.098 m²",
-    harga: "Rp 225.000.000",
-    deskripsi: "Status Sertifikat : SHM",
-    youtube: "https://youtu.be/LcT86J2X8cE",
-    thumbnail: "Krinjing1098.jpg"
-  },
-  {
-    judul: "Tanah 2165m² View Sawah Ala Ubud, Harga 275 Juta Dekat Wisata Kuliner, Villa & Bandara NYIA",
-    lokasi: "Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
-    luas: "2.165 m²",
-    harga: "Rp 275.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/bWmDknisI4U",
-    thumbnail: "Banjaran2165.jpg"
-  },
-  {
-    judul: "Lahan 90rb/m² View Sawah Ala Ubud Bali, Akses Tol & Bandara",
-    lokasi: "Banjaran, Girimulyo, Kulonprogo, DIY",
-    luas: "5.000 m²",
-    harga: "Rp 90.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/cAkiLW-B69I",
-    thumbnail: "Banjaran5000.jpg"
-  },
-   {
-    judul: "Tanah Murah! Luas 95m² Hanya 130 Juta! 17km Ke Tugu, Dekat Omah Betakan dan Studio Alam Gamplong!",
-    lokasi: "Sumberagung, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-    luas: "95 m²",
-    harga: "Rp 130.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/9B9JqUACHpM",
-    thumbnail: "Sumberagung95.jpg"
-  },
-  {
-    judul: "Jual Tanah Kavling Di Moyudan Luas 99m² Harga 100jt NEGO Dekat Kota Jogja Dan Wisata Nanggulan",
-    lokasi: "Soronondan, Sendangrejo, Minggir, Sleman Regency, Special Region of Yogyakarta",
-    luas: "99 m²",
-    harga: "Rp 100.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/5NlnF-es6-0",
-    thumbnail: "Moyudan99.jpg"
-  },
-  {
-    judul: "Tanah View Sawah Dan Bukit Menoreh! Luas 3200m² Harga 495jt Dekat Tumpeng Menoreh!",
-    lokasi: "Loano, Sedayu, Purworejo Regency, Central Java",
-    luas: "3.200 m²",
-    harga: "Rp 495.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/QNXXVf2kfj8",
-    thumbnail: "Loano3200.jpg"
-  },
-  {
-    judul: "Jual Cepat! Kavling View Sawah Indah 600rb/m² Luas 600m Dekat Bandara Yogyakarta",
-    lokasi: "Kemiri Wijimulyo Nanggulan Kulonprogo Yogyakarta",
-    luas: "600 m²",
-    harga: "Rp 600.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/L2oI-uq27bo",
-    thumbnail: "KavlingKemiri600.jpg"
-  },
-  {
-    judul: "Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt!",
-    lokasi: "Pagerharjo, Kulon Progo, DIY",
-    luas: "2.554 m²",
-    harga: "Rp 350.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/9L--W_8UBP8",
-    thumbnail: "Pagerharjo2554.jpg"
-  },
-  {
-    judul: "Jual Rumah Luas 120m² dan Kantor Di Bantul Murah Hanya 1.9m Nego Cocok Untuk Kost Dan Kantor",
-    lokasi: "Guwasari, Kembang Putihan, Bantul",
-    luas: "120 m²",
-    harga: "Rp 1.900.000.000 Nego",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/KeXOTNcPsfI",
-    thumbnail: "Kantor120.jpg"
-  },
-  {
-    judul: "Jual Tanah Seluas 5500m² Hanya 150rb/m SHM Pekarangan Cocok Untuk Berkebun Durian Dan Alpukat",
-    lokasi: "Banjarharjo Kalibawang KulonProgo",
-    luas: "5.500 m²",
-    harga: "Rp 150.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/Pp90Kp1ZdOM",
-    thumbnail: "Banjarharjo5500.jpg"
-  },
-  {
-    judul: "Jual Tanah Istimewa Dekat Jalan Provinsi Luas 442m² Dengan Harga 85jt!!!",
-    lokasi: "Pandanrejo, Kaligesing",
-    luas: "442 m²",
-    harga: "Rp 85.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/3xLTMBcRuqk",
-    thumbnail: "Pandanrejo442.jpg"
-  },
-  {
-    judul: "MURAH!! Luas 251m² Hanya 220jt!!! Strategis Berada Di Jalan Godean 16 km Dari Tugu Jogja",
-    lokasi: "Jalan Godean KM 15, Sumberarum, Moyudan, Sleman",
-    luas: "251 m²",
-    harga: "Rp 220.000.000",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/vbCkXPBdREs",
-    thumbnail: "Sumberarum251.jpg"
-  },
-  {
-    judul: "TURUN HARGA! Tanah luas 2070m² Harga 750RB/m Nego View Pemandangan Gunung SHM Dekat Wisata Kaliuran",
-    lokasi: "Umbulharjo, Sleman, Yogyakarta",
-    luas: "2.070 m²",
-    harga: "Rp 750.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/CPkt44hFh5o",
-    thumbnail: "Umbulharjo2070.jpg"
-  },
-  {
-    judul: "TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
-    lokasi: "Umbulharjo, Sleman, Yogyakarta",
-    luas: "1.200 m²",
-    harga: "Rp 750.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/sHsCxgkjvE0",
-    thumbnail: "Umbulharjo1200.jpg"
-  },
-  {
-    judul: "Turun Harga!! Jual Tanah Gratis Bangunan!!! Luas 252m² Cocok Untuk Usaha! Dekat Mall Sleman Jogja",
-    lokasi: "Tridadi Sleman",
-    luas: "252 m²",
-    harga: "Rp 4.000.000/m²",
-    deskripsi: "Status Sertifikat : SHM Pekarangan",
-    youtube: "https://youtu.be/Yw-D_KVz9Hg",
-    thumbnail: "Tridadi252.jpg"
-  }
+const properties=[
+
+{
+judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
+lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah 57452",
+luas:"72 - 88 m²",
+harga:"Rp 395.000.000",
+thumbnail:"VillaMadhava.jpg",
+video:"https://youtu.be/UKibhZLzA6Y"
+},
+
+{
+judul:"Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
+lokasi:"Growong, Kabupaten Magelang, Jawa Tengah",
+luas:"6050 m²",
+harga:"Rp 450.000.000",
+thumbnail:"Growong6050.jpg",
+video:"https://youtu.be/kfGf5Qff894"
+},
+
+{
+judul:"Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
+lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"3180 m²",
+harga:"Rp 250.000/m²",
+thumbnail:"Pendoworejo3180.jpg",
+video:"https://youtu.be/al9ccrWuQsg"
+}
+
 ];
 
-// ================= CONFIG =================
-const WHATSAPP_NUMBER = "6287737447313";
-const ITEMS_PER_PAGE = 10;
 
-let currentPage = 1;
 
-const container = document.getElementById("property-list");
-const pagination = document.getElementById("pagination");
+const itemsPerPage=10;
+let currentPage=1;
 
-// ================= RENDER PRODUK =================
-function renderProperties(page = 1) {
-  container.innerHTML = "";
+const container=document.getElementById("property-list");
+const pagination=document.getElementById("pagination");
 
-  const start = (page - 1) * ITEMS_PER_PAGE;
-  const end = start + ITEMS_PER_PAGE;
-  const items = properties.slice(start, end);
 
-  items.forEach(item => {
-    const card = document.createElement("div");
-    card.className = "property-card";
 
-    card.innerHTML = `
-      <a href="${item.youtube}" target="_blank" class="thumbnail-wrapper">
-        <img src="${item.thumbnail}" alt="${item.judul}">
-        <span class="play-icon">▶</span>
-      </a>
+function generateArticle(item){
 
-      <div class="property-content">
-        <h2>${item.judul}</h2>
-        <p class="location">${item.lokasi}</p>
-        <p><strong>Luas:</strong> ${item.luas}</p>
-        <p class="price">${item.harga}</p>
-        <p>${item.deskripsi}</p>
+return `
 
-        <a class="whatsapp-btn"
-          href="https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(
-            "Saya tertarik dengan " + item.judul + " melalui DIMENSI LAND"
-          )}"
-          target="_blank">
-          Hubungi DIMENSI LAND via WhatsApp
-        </a>
-      </div>
-    `;
+<div class="article">
 
-    container.appendChild(card);
-  });
+<p><strong>Saat sebagian orang masih mencari, investor yang lebih dulu bergerak sudah mengamankan aset di ${item.lokasi}.</strong></p>
 
-  renderPagination();
+<p>
+Perkembangan kawasan ini menunjukkan potensi kenaikan nilai yang kuat.
+Ketersediaan lahan semakin terbatas sementara permintaan terus meningkat.
+</p>
+
+<p>
+Dengan luas ${item.luas}, properti ini memberikan fleksibilitas sebagai hunian, villa, maupun aset investasi.
+</p>
+
+<p>
+Investor berpengalaman memahami bahwa keputusan terbaik sering diambil sebelum harga meningkat signifikan.
+</p>
+
+<p><strong>Peluang ini tersedia hari ini — dan dapat berubah seiring waktu.</strong></p>
+
+</div>
+
+`;
+
 }
 
-// ================= PAGINATION =================
-function renderPagination() {
-  pagination.innerHTML = "";
 
-  const totalPages = Math.ceil(properties.length / ITEMS_PER_PAGE);
 
-  for (let i = 1; i <= totalPages; i++) {
-    const btn = document.createElement("button");
-    btn.textContent = i;
-    btn.className = i === currentPage ? "active" : "";
+function renderPage(page){
 
-    btn.addEventListener("click", () => {
-      currentPage = i;
-      renderProperties(currentPage);
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
+container.innerHTML="";
 
-    pagination.appendChild(btn);
-  }
+const start=(page-1)*itemsPerPage;
+const end=start+itemsPerPage;
+
+const pageItems=properties.slice(start,end);
+
+pageItems.forEach((item,i)=>{
+
+const card=document.createElement("div");
+
+card.className="property-card";
+
+card.innerHTML=`
+
+<div class="thumbnail-wrapper">
+<img src="${item.thumbnail}">
+</div>
+
+<div class="property-content">
+
+<h3>${item.judul}</h3>
+
+<div class="location">${item.lokasi}</div>
+
+<div>Luas: ${item.luas}</div>
+
+<div class="price">${item.harga}</div>
+
+${generateArticle(item)}
+
+<a href="${item.video}" target="_blank" class="video-btn">
+▶ Lihat Video Properti
+</a>
+
+<a href="https://wa.me/6287737447313?text=Saya tertarik dengan properti: ${item.judul}" target="_blank" class="whatsapp-btn">
+Hubungi via WhatsApp
+</a>
+
+</div>
+
+`;
+
+container.appendChild(card);
+
+setTimeout(()=>{
+card.classList.add("show");
+},100*i);
+
+});
+
+renderPagination();
+
 }
 
-// ================= INIT =================
-renderProperties(currentPage);
 
+
+function renderPagination(){
+
+pagination.innerHTML="";
+
+const totalPages=Math.ceil(properties.length/itemsPerPage);
+
+for(let i=1;i<=totalPages;i++){
+
+const btn=document.createElement("button");
+
+btn.innerText=i;
+btn.className="page-btn";
+
+if(i===currentPage)
+btn.classList.add("active");
+
+btn.onclick=()=>{
+currentPage=i;
+renderPage(i);
+window.scrollTo({top:0,behavior:"smooth"});
+};
+
+pagination.appendChild(btn);
+
+}
+
+}
+
+
+
+renderPage(currentPage);
