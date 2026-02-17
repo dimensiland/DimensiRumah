@@ -46,15 +46,6 @@ const properties = [
     thumbnail: "SwarnaPadi1015.jpg"
   },
   {
-    judul: "Tanah Mewah Luas 2024m² Dekat Bandara NYIA & Exit Tol Jogja Di Daerah Kawasan Wisata VIlla & Kuliner",
-    lokasi : "Kemukus, Tanjungharjo, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
-    luas: "2.024 m²",
-    harga: "Rp 450.000.000",
-    deskripsi: "Status Sertifikat : SHM Tegalan",
-    youtube: "https://youtu.be/h1DDmB2D11k",
-    thumbnail: "Kemukus2024.jpg"
-  },
-  {
     judul: "Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
     lokasi : "Growong, Kabupaten Magelang, Jawa Tengah",
     luas: "6.050 m²",
