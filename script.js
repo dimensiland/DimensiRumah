@@ -53,8 +53,8 @@ air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Perkebunan, Ada Penduduk",
 kondisi:"Datar Terasering",
-prospek:"Kebun Durian & Alpukat",
-point:"Investasi Kebun Dimasa Pensiun"
+prospek:"Potensi panen durian lokal & Musang King setiap tahun,Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Harga tanah dipastikan naik karena dekat dengan kawasan industri dan pusat pembibitan nasional",
+point:"Sudah ada 30 pohon durian, Akses mobil simpangan, tersedia listrik & jaringan WiFi, Dekat Kota Magelang (6 km), Borobudur (16 km), dan Kawasan Industri Tempuran (4 km),Ketinggian 600 MDPL, udara sejuk, tanah subur, dan view Gunung Merapi/Merbabu"
 }
 
 ];
