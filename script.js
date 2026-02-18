@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Samping Sungai Mudal!",
+lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"1039m²",
+harga:"Rp 375.000.000",
+thumbnail:"SungaiMudal1039.jpg",
+video:"https://youtu.be/0kAxegjR6vM",
+
+sertifikat:"SHM Tegalan",
+muka:"25 meter",
+akses:"Tersedia 2.5m",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan Ekowisata Sungai Mudal, Kebun, Sungai, Air Terjun Dll",
+kondisi:"Datar Terasering landai, Sungai dan Air Terjun kecil membelah tanah dan Air Jernih",
+prospek:"Investasi, Villa pribadi maupun Sewa, Rumah Impian, Kebun dsb",
+point:"Akses mudah, Sangat dekat dengan wisata Sungai Mudal, Terdapat Air Terjun di tanahnya, Air Jernih dan mudah. Lingkungan kawasan wisata sungai dan Kebun yang alami, tenang dan sejuk."
+},
+
+{
 judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
 lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah ",
 luas:"72 - 88 m²",
