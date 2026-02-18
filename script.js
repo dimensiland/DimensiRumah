@@ -77,6 +77,44 @@ point:"Berada di Jogja Barat, tepatnya di Purwoharjo, Samigaluh, Kulon Progo, Se
 },
 
 {
+judul:"Tanah Luas 1013m² Dialiri Mata Air Kondisi Datar & Rapi, Siap Bangun! Villa, Glamping Maupun Hunian",
+lokasi:"Pendem, Pandanrejo, Kec. Kaligesing, Kabupaten Purworejo",
+luas:"1013m²",
+harga:"Rp 175.000.000",
+thumbnail:"Pendem1013.jpg",
+video:"https://youtu.be/KLO8aTJOOHc",
+
+sertifikat:"SHM Sawah",
+muka:"13 meter",
+akses:"Jalan Cor, +300m Jalan Jogja-Purworejo",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kebun & Perkampungan",
+kondisi:"Datar",
+prospek:"Dengan luas 1.013 m², lahan ini sangat prospektif untuk dijadikan Villa, Glamping, atau rumah pribadi bergaya slow living. Lokasinya yang berada di ketinggian 800 MDPL menawarkan suasana pegunungan yang sejuk,Konsep lahan telah ditata sedemikian rupa sehingga bisa dibangun rumah utama untuk pemilik dan unit villa/kabin terpisah untuk disewakan, memberikan potensi pendapatan tambahan.",
+point:"Tanah sudah ditata (sudah di-bego) dan dalam kondisi siap bangun,erdapat sumber mata air langsung di lokasi yang mengalir sepanjang tahun, sangat cocok untuk kolam ikan koi atau kebutuhan rumah tangga tanpa perlu sumur bor,Suhu udara berkisar antara 16°C hingga 25°C, memberikan hawa dingin dan sejuk sepanjang hari"
+},
+
+{
+judul:"Tanah Luas 1315m² Harga 175Juta di Pinggir Jalan Provinsi Samigaluh Purworejo, Dekat Wisata Menoreh!",
+lokasi:"Pagerharjo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"1315m²",
+harga:"Rp 175.000.000",
+thumbnail:"Pagerharjo1315.jpg",
+video:"https://youtu.be/oPgNu09i2i8",
+
+sertifikat:"SHM Tegalan",
+muka:"20 meter",
+akses:"Tersedia Jalan Provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Hutan Jati dan Kebun",
+kondisi:"Terasering",
+prospek:"Tanah ini sangat cocok dijadikan kebun produktif, khususnya untuk pohon durian, karena lingkungan sekitarnya sudah banyak ditanami durian lokal, Karena terletak tepat di pinggir jalan provinsi, aksesibilitasnya sangat baik dan mudah dijangkau kendaraan tanpa harus masuk ke jalan-jalan kecil (blusukan)",
+point:"Tanah memiliki kontur terasering/miring yang cukup ekstrem ke arah bawah,Menawarkan view langsung ke arah Perbukitan Menoreh dan hutan, Dekat dengan fasilitas umum seperti sekolah dan tempat ibadah"
+},
+
+{
 judul:"Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
 lokasi:"Growong, Kabupaten Magelang, Jawa Tengah",
 luas:"6050m²",
