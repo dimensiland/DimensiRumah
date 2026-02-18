@@ -5,7 +5,7 @@ judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Sampi
 lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1039m²",
 harga:"Rp 375.000.000",
-thumbnail:"SungaiMudal1039.jpg",
+thumbnail:"Mudal1039.jpg",
 video:"https://youtu.be/0kAxegjR6vM",
 
 sertifikat:"SHM Tegalan",
@@ -313,3 +313,4 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
