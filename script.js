@@ -39,6 +39,44 @@ point:"Dengan Tanah Terasering yang tidak terlalu tinggi, tanah ini mendapatkan 
 },
 
 {
+judul:"Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt! Dekat Kawasan Wisata Menoreh!",
+lokasi:"Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"2554m²",
+harga:"Rp 350.000.000",
+thumbnail:"Pagerharjo2554.jpg",
+video:"https://youtu.be/9L--W_8UBP8",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Tersedia",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Perkebunan",
+kondisi:"Terasering",
+prospek:"Lokasinya sangat dekat dengan kawasan wisata populer di Menoreh, hanya berjarak sekitar 3 km dari Tumpeng Menoreh dan Kebun Teh Nglinggo, Udara di lokasi sangat sejuk dan lingkungan asri, cocok bagi yang ingin membangun rumah tinggal dengan nuansa alam",
+point:"Terletak di Pagerharjo, Samigaluh, Kulon Progo, tepat di samping jalan provinsi (Jalan Samigaluh)Status tanah sudah SHM Pekarangan, sehingga proses balik nama bisa dilakukan oleh pemilik KTP dari mana saja,"
+},
+
+{
+judul:"Tanah Luas 2134m² Dekat Wisata Tumpeng Menoreh Pernah Dikunjungi Raffi Ahmad Di The Dudas 1",
+lokasi:"Sidoharjo, Purwoharjo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"2134m²",
+harga:"Rp 280.000.000",
+thumbnail:"Sidoharjo2134.jpg",
+video:"https://youtu.be/s75uBpy3sns",
+
+sertifikat:"SHM Pekarangan",
+muka:"80 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat Penduduk",
+kondisi:"Terasering",
+prospek:"Dengan lebar muka 80 meter, tanah ini diproyeksikan bisa dibangun sekitar 6 hingga 8 unit villa yang semuanya menghadap ke arah pemandangan lembah,Cocok bagi orang kota yang mencari tempat untuk healing atau rumah kayu dengan konsep menyatu dengan alam,",
+point:"Berada di Jogja Barat, tepatnya di Purwoharjo, Samigaluh, Kulon Progo, Sertifikat Hak Milik (SHM) Pekarangan. Hal ini memudahkan proses balik nama bagi pembeli dari KTP luar daerah sekalipun tanpa harus pindah alamat"
+},
+
+{
 judul:"Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
 lokasi:"Growong, Kabupaten Magelang, Jawa Tengah",
 luas:"6050m²",
