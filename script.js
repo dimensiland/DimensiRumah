@@ -5,7 +5,7 @@ judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Sampi
 lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1039m²",
 harga:"Rp 375.000.000",
-thumbnail:"Mudal1039.jpg",
+thumbnail:"Mudal1390.jpg",
 video:"https://youtu.be/0kAxegjR6vM",
 
 sertifikat:"SHM Tegalan",
@@ -150,6 +150,44 @@ lingkungan:"Perkebunan, Ada Penduduk",
 kondisi:"Datar Terasering",
 prospek:"Potensi panen durian lokal & Musang King setiap tahun,Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Harga tanah dipastikan naik karena dekat dengan kawasan industri dan pusat pembibitan nasional",
 point:"Sudah ada 30 pohon durian, Akses mobil simpangan, tersedia listrik & jaringan WiFi, Dekat Kota Magelang (6 km), Borobudur (16 km), dan Kawasan Industri Tempuran (4 km),Ketinggian 600 MDPL, udara sejuk, tanah subur, dan view Gunung Merapi/Merbabu"
+},
+
+{
+judul:"Tanah View Sawah Luas 1390m² Harga 225jt! Murah! Di Moyudan! Dekat Kota Jogja Dan Kampus UGM!!!",
+lokasi:"Sumberarum Sleman Regency, Special Region of Yogyakarta",
+luas:"1390m²",
+harga:"Rp 225.000.000",
+thumbnail:"Sumberarum1390.jpg",
+video:"https://youtu.be/HNq8tdcZrfs",
+
+sertifikat:"SHM Sawah",
+muka:"9 meter",
+akses:"Jalan Tanah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan, Sawah, Perkampungan",
+kondisi:"Datar Sejuk",
+prospek:"Sangat cocok dibangun rumah kayu, vila, atau guest house. Hal ini didukung oleh keberadaan ekosistem vila di sekitar lokasi, seperti Vila Arimbi dan Omah Betakan, Karena statusnya SHM Sawah dan lokasinya yang subur, tanah ini ideal untuk kebun organik, konsep pangan sehat, atau taman pribadi yang luas",
+point:"1.390 m² (terdiri dari dua sertifikat SHM Sawah: satu seluas ~340 m² dan satu lagi ~1.050 m²), Akses saat ini berupa jalan tanah (sekitar 100 meter dari jalan aspal), namun merupakan jalur rencana pengembangan pemerintah"
+},
+
+{
+judul:"MURAH!! Luas 251m² Hanya 220jt!!! Strategis Berada Di Jalan Godean 16 km Dari Tugu Jogja",
+lokasi:"Jalan Godean KM 15, Sumberarum, Moyudan, Sleman",
+luas:"251m²",
+harga:"Rp 220.000.000",
+thumbnail:"Sumberarum251.jpg",
+video:"https://youtu.be/vbCkXPBdREs",
+
+sertifikat:"SHM Pekarangan",
+muka:"12 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan, Perkampungan",
+kondisi:"Datar Sejuk",
+prospek:"Sangat cocok untuk instrumen investasi jangka panjang atau sebagai tempat tinggal pribadi, bahkan untuk rumah pensiun karena lingkungannya yang tenang namun tetap dekat dengan kota, rospek kenaikan harga didukung oleh kedekatannya dengan berbagai kampus (seperti UMY dan Mercu Buana) serta sekolah internasional, yang membuat area ini selalu dicari",
+point:"Terletak di Jalan Godean KM 15, Kelurahan Sumber Agung, Moyudan, Sleman (dekat Pondok Pesantren Bina Umat), Hanya berjarak sekitar 50-60 meter dari jalan raya utama/jalan aspal besar"
 }
 
 ];
@@ -313,4 +351,3 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
-
