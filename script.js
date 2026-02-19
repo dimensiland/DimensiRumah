@@ -58,6 +58,25 @@ point:"Dengan Tanah Terasering yang tidak terlalu tinggi, tanah ini mendapatkan 
 },
 
 {
+judul:"Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
+lokasi:"Grigak Giripurwo Girimulyo Kulonprogo",
+luas:"1015m²",
+harga:"Rp 250.000.000",
+thumbnail:"SwarnaPadi1015.jpg",
+video:"https://youtu.be/AyiTRArX6DM",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Jalan Cor Kampung",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Perkebunan",
+kondisi:"Datar",
+prospek:"Rumah tinggal, homestay,  villa atau kebun",
+point:"Dekat Svarna Padi Villa,  Resto Omah Cantrik, Resto Puncak Saka, Kawasan Wisata Nanggulan dan Fasilitas Umum."
+},
+
+{
 judul:"Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt! Dekat Kawasan Wisata Menoreh!",
 lokasi:"Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"2554m²",
@@ -351,5 +370,3 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
-
-
