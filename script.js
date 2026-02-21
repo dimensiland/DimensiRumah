@@ -20,6 +20,25 @@ point:"Akses mudah, Sangat dekat dengan wisata Sungai Mudal, Terdapat Air Terjun
 },
 
 {
+judul:"Jual Tanah Seluas 5500m² Hanya 150rb/m SHM Pekarangan Cocok Untuk Berkebun Durian Dan Alpukat",
+lokasi:"Banjarharjo Kalibawang KulonProgo",
+luas:"5500m²",
+harga:"Rp 150.000/m²",
+thumbnail:"Banjarharjo5500.jpg",
+video:"https://youtu.be/Pp90Kp1ZdOM",
+
+sertifikat:"SHM Pekarangan",
+muka:"- meter",
+akses:"Jalan Kampung",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan Perkebunan",
+kondisi:"Datar Terasering",
+prospek:"Investasi, Kebun Durian & Alpukat",
+point:"Sudah berupa kebun produktif yang berisi pohon durian, alpukat, jambu, mangga, dan kelengkeng, Tanah seluas 5.500 m² (setengah hektar lebih) dengan harga yang sangat terjangkau, yaitu Rp150.000 per meter"
+},
+
+{
 judul:"Tanah 1098m² Dialiri Mata Air View Sawah, Sungai & Perbukitan Ditanami Kebun Kopi Hanya 225 Juta",
 lokasi:"Krinjing, Jatisarono, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"1098m²",
@@ -93,6 +112,25 @@ lingkungan:"Perkampungan & Kebun",
 kondisi:"Datar Terasering",
 prospek:"Lokasinya yang memiliki pemandangan hutan (jungle view) dan suara aliran sungai menjadikannya tempat yang cocok untuk melepas penat, vila pribadi dengan konsep menyatu dengan alam, berkebun",
 point:"Berada di Jogja Barat, tepatnya di Giripurwo, Girimulyo, Kulon Progo. Jaraknya sekitar 2 km dari kantor kecamatan dan pasar"
+},
+
+{
+judul:"Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
+lokasi:"Ngadirejo, Purworejo Regency, Central Java",
+luas:"1450m²",
+harga:"Rp 175.000.000",
+thumbnail:"Ngadirejo1450.jpg",
+video:"https://youtu.be/duhG7mcri-E",
+
+sertifikat:"SHM Tegalan",
+muka:"30 meter",
+akses:"Jalan Bebatuan + Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"perkampungan, kebun, hutan, mata air",
+kondisi:"Terasering",
+prospek:"investasi, kebun, villa",
+point:"Akses samping jalan lebar, dekat Wisata Alam Menoreh dan jalan provinsi. mangku jalan dan air terjun kecil. view perbukitan menoreh dan air terjun."
 },
 
 {
