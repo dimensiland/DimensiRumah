@@ -134,6 +134,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah 1098m² Dialiri Mata Air View Sawah, Sungai & Perbukitan Ditanami Kebun Kopi Hanya 225 Juta",
+lokasi:"Krinjing, Jatisarono, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"1098m²",
+harga:"Rp 225.000.000",
+thumbnail:"Krinjing1098.jpg",
+video:"https://youtu.be/LcT86J2X8cE",
+
+sertifikat:"SHM Sawah",
+muka:"13 meter",
+akses:"Jalan Tanah Akan  Di Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Persawahan & Perkebunan",
+kondisi:"Ditanami Padi Dan Kopi",
+prospek:"Investasi, Hunian, Kebun, Kafe & Resto",
+point:"Berada Di Daerah Wisata Nanggulan, Akses Bandara & Candi Borobudur"
+},
+
+{
 judul:"Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
 lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"3180m²",
@@ -522,6 +541,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
