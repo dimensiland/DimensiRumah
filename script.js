@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
+lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"2353m²",
+harga:"Rp 250.000.000",
+thumbnail:"Samigaluh2353.jpg",
+video:"https://youtu.be/ycdjJNEnR2U",
+
+sertifikat:"SHM Tegalan",
+muka:"50 meter",
+akses:"Jalan Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Rumah Warga, Perhutanan, Sawah",
+kondisi:"Tanah Datar Terasering",
+prospek:"Tempat Wisata, Hunian, Investasi, Villa",
+point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudur, Kebun Teh Nglinggo, Tumpeng Menoreh"
+},
+
+{
 judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Samping Sungai Mudal!",
 lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1039m²",
@@ -484,4 +503,5 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
