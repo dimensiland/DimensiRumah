@@ -20,6 +20,25 @@ point:"Akses mudah, Sangat dekat dengan wisata Sungai Mudal, Terdapat Air Terjun
 },
 
 {
+judul:"Tanah 2165m² View Sawah Ala Ubud, Harga 275 Juta Dekat Wisata Kuliner, Villa & Bandara NYIA",
+lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"2165m²",
+harga:"Rp 275.000.000",
+thumbnail:"Banjaran2165.jpg",
+video:"https://youtu.be/bWmDknisI4U",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Jalan cor ukuran motor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan & Kebun",
+kondisi:"Tanah Datar & Terasering",
+prospek:"Investasi, Wisata Villa & Glamping, Wisata Kuliner",
+point:"Dekat Wisata Kuliner Wanadelima Orchard & Omah Cantrik, Wisata Villa Wisma Pancoeran & KeJogja Homestay, Akses Menuju Exit Tol Sentolo & Bandara NYIA"
+},
+
+{
 judul:"Tanah Istimewa! Luas 834m² View Perbukitan! Dekat Kawasan Wisata Sungai Mudal Dan Menoreh Dreamland!",
 lokasi:"Jl. Banyunganti, Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"834m²",
@@ -465,3 +484,4 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
