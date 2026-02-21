@@ -1,44 +1,6 @@
 const properties=[
 
 {
-judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
-lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"2353m²",
-harga:"Rp 250.000.000",
-thumbnail:"Samigaluh2353.jpg",
-video:"https://youtu.be/ycdjJNEnR2U",
-
-sertifikat:"SHM Tegalan",
-muka:"50 meter",
-akses:"Jalan Cor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Rumah Warga, Perhutanan, Sawah",
-kondisi:"Tanah Datar Terasering",
-prospek:"Tempat Wisata, Hunian, Investasi, Villa",
-point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudur, Kebun Teh Nglinggo, Tumpeng Menoreh"
-},
-
-{
-judul:"TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
-lokasi:" Umbulharjo, Sleman, Yogyakarta",
-luas:"1200m²",
-harga:"Rp 750.000/m²",
-thumbnail:"Umbulharjo1200.jpg",
-video:"https://youtu.be/sHsCxgkjvE0",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Padat Penduduk",
-kondisi:"Datar",
-prospek:"Villa, Tempat Tinggal",
-point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
-},
-
-{
 judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Samping Sungai Mudal!",
 lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1039m²",
@@ -58,6 +20,44 @@ point:"Akses mudah, Sangat dekat dengan wisata Sungai Mudal, Terdapat Air Terjun
 },
 
 {
+judul:"Tanah 1098m² Dialiri Mata Air View Sawah, Sungai & Perbukitan Ditanami Kebun Kopi Hanya 225 Juta",
+lokasi:"Krinjing, Jatisarono, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"1098m²",
+harga:"Rp 225.000.000",
+thumbnail:"Krinjing1098.jpg",
+video:"https://youtu.be/LcT86J2X8cE",
+
+sertifikat:"SHM Sawah",
+muka:"13 meter",
+akses:"Jalan Tanah Akan  Di Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Persawahan & Perkebunan",
+kondisi:"Ditanami Padi Dan Kopi",
+prospek:"Investasi, Hunian, Kebun, Kafe & Resto",
+point:"Berada Di Daerah Wisata Nanggulan, Akses Bandara & Candi Borobudur"
+},
+
+{
+judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
+lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"2353m²",
+harga:"Rp 250.000.000",
+thumbnail:"Samigaluh2353.jpg",
+video:"https://youtu.be/ycdjJNEnR2U",
+
+sertifikat:"SHM Tegalan",
+muka:"50 meter",
+akses:"Jalan Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Rumah Warga, Perhutanan, Sawah",
+kondisi:"Tanah Datar Terasering",
+prospek:"Tempat Wisata, Hunian, Investasi, Villa",
+point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudur, Kebun Teh Nglinggo, Tumpeng Menoreh"
+},
+
+{
 judul:"Tanah 2165m² View Sawah Ala Ubud, Harga 275 Juta Dekat Wisata Kuliner, Villa & Bandara NYIA",
 lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"2165m²",
@@ -74,6 +74,25 @@ lingkungan:"Perkampungan & Kebun",
 kondisi:"Tanah Datar & Terasering",
 prospek:"Investasi, Wisata Villa & Glamping, Wisata Kuliner",
 point:"Dekat Wisata Kuliner Wanadelima Orchard & Omah Cantrik, Wisata Villa Wisma Pancoeran & KeJogja Homestay, Akses Menuju Exit Tol Sentolo & Bandara NYIA"
+},
+
+{
+judul:"TURUN HARGA! Luas 2086m² Harga 75jt NETT!!! View Pegunungan, Sawah, Sungai Cocok Untuk Kebun",
+lokasi:"Pringapus, Giripurwo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"2086m²",
+harga:"Rp 75.000.000",
+thumbnail:"Girimulyo2086.jpg",
+video:"https://youtu.be/9WpI7g4tiKA",
+
+sertifikat:"SHM Tegalan",
+muka:"8 meter",
+akses:"Jalan cor ukuran motor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan & Kebun",
+kondisi:"Datar Terasering",
+prospek:"Lokasinya yang memiliki pemandangan hutan (jungle view) dan suara aliran sungai menjadikannya tempat yang cocok untuk melepas penat, vila pribadi dengan konsep menyatu dengan alam, berkebun",
+point:"Berada di Jogja Barat, tepatnya di Giripurwo, Girimulyo, Kulon Progo. Jaraknya sekitar 2 km dari kantor kecamatan dan pasar"
 },
 
 {
@@ -134,25 +153,6 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
-judul:"Tanah 1098m² Dialiri Mata Air View Sawah, Sungai & Perbukitan Ditanami Kebun Kopi Hanya 225 Juta",
-lokasi:"Krinjing, Jatisarono, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"1098m²",
-harga:"Rp 225.000.000",
-thumbnail:"Krinjing1098.jpg",
-video:"https://youtu.be/LcT86J2X8cE",
-
-sertifikat:"SHM Sawah",
-muka:"13 meter",
-akses:"Jalan Tanah Akan  Di Cor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Persawahan & Perkebunan",
-kondisi:"Ditanami Padi Dan Kopi",
-prospek:"Investasi, Hunian, Kebun, Kafe & Resto",
-point:"Berada Di Daerah Wisata Nanggulan, Akses Bandara & Candi Borobudur"
-},
-
-{
 judul:"Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
 lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"3180m²",
@@ -188,6 +188,25 @@ lingkungan:"Perkampungan dan Perkebunan",
 kondisi:"Datar",
 prospek:"Rumah tinggal, homestay,  villa atau kebun",
 point:"Dekat Svarna Padi Villa,  Resto Omah Cantrik, Resto Puncak Saka, Kawasan Wisata Nanggulan dan Fasilitas Umum."
+},
+
+{
+judul:"TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
+lokasi:" Umbulharjo, Sleman, Yogyakarta",
+luas:"1200m²",
+harga:"Rp 750.000/m²",
+thumbnail:"Umbulharjo1200.jpg",
+video:"https://youtu.be/sHsCxgkjvE0",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat Penduduk",
+kondisi:"Datar",
+prospek:"Villa, Tempat Tinggal",
+point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
 },
 
 {
@@ -541,7 +560,3 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
-
-
-
-
