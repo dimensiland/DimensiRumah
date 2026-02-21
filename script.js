@@ -115,6 +115,25 @@ point:"Dekat Svarna Padi Villa,  Resto Omah Cantrik, Resto Puncak Saka, Kawasan 
 },
 
 {
+judul:"Lahan Harga 90rb/m² Dengan View Sawah Ala Ubud Bali, Kawasan Wisata Kuliner, Akses Tol & Bandara",
+lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"5000m²",
+harga:"Rp 90.000/m²",
+thumbnail:"Banjaran5000.jpg",
+video:"https://youtu.be/cAkiLW-B69I",
+
+sertifikat:"SHM Pekarangan",
+muka:"2 Muka, 30 meter dan 100 meter",
+akses:"Jalan Aspal & Cor",
+air:"Tersedia",
+listrik:"Tersedia Tiang Listrik Dengan Panel Surya",
+lingkungan:"Perkampungan dan Perkebunan",
+kondisi:"Tanah Datar & Terasering",
+prospek:"Investasi, Wisata Villa & Glamping, Wisata Kuliner",
+point:"Dekat Wisata Kuliner Wanadelima Orchard & Omah Cantrik, Wisata Villa Wisma Pancoeran & KeJogja Homestay, Akses Menuju Exit Tol Sentolo & Bandara NYIA"
+},
+
+{
 judul:"Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt! Dekat Kawasan Wisata Menoreh!",
 lokasi:"Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"2554m²",
@@ -191,6 +210,25 @@ point:"Tanah memiliki kontur terasering/miring yang cukup ekstrem ke arah bawah,
 },
 
 {
+judul:"TURUN HARGA! Tanah luas 2070m² Harga 750RB/m Nego View Pemandangan Gunung SHM Dekat Wisata Kaliuran",
+lokasi:"Umbulharjo, Sleman, Yogyakarta",
+luas:"2070m²",
+harga:"Rp 750.000/m²",
+thumbnail:"Umbulharjo2070.jpg",
+video:"https://youtu.be/CPkt44hFh5o",
+
+sertifikat:"SHM Pekarangan",
+muka:"56 meter",
+akses:"Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Hutan Jati dan Kebun",
+kondisi:"Datar",
+prospek:"Villa, Tempat Tinggal",
+point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
+},
+
+{
 judul:"Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
 lokasi:"Growong, Kabupaten Magelang, Jawa Tengah",
 luas:"6050m²",
@@ -226,6 +264,25 @@ lingkungan:"Perkebunan, Sawah, Perkampungan",
 kondisi:"Datar Sejuk",
 prospek:"Sangat cocok dibangun rumah kayu, vila, atau guest house. Hal ini didukung oleh keberadaan ekosistem vila di sekitar lokasi, seperti Vila Arimbi dan Omah Betakan, Karena statusnya SHM Sawah dan lokasinya yang subur, tanah ini ideal untuk kebun organik, konsep pangan sehat, atau taman pribadi yang luas",
 point:"1.390 m² (terdiri dari dua sertifikat SHM Sawah: satu seluas ~340 m² dan satu lagi ~1.050 m²), Akses saat ini berupa jalan tanah (sekitar 100 meter dari jalan aspal), namun merupakan jalur rencana pengembangan pemerintah"
+},
+
+{
+judul:"Jual Tanah 700m² Harga 500jt Dengan View Menakjubkan Paradise Sleman Barat Jogja",
+lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
+luas:"700m²",
+harga:"Rp 500.000.000 Nego",
+thumbnail:"Minggir700.jpg",
+video:"https://youtu.be/39w8fDvNUJU",
+
+sertifikat:"SHM Sawah",
+muka:"20 meter",
+akses:"Jalan Tanah Selebar 5 Meter, Berjarak 30 Meter Dari Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Persawahan Dan Kebun",
+kondisi:"Tumbuh Beberapa Pohon Kelapa Di Lokasi",
+prospek:"Villa Dan Tempat Tinggal",
+point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjarak 4KM Dari Exit Tol"
 },
 
 {
