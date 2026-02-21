@@ -20,6 +20,25 @@ point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudu
 },
 
 {
+judul:"TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
+lokasi:" Umbulharjo, Sleman, Yogyakarta",
+luas:"1200m²",
+harga:"Rp 750.000/m²",
+thumbnail:"Umbulharjo1200.jpg",
+video:"https://youtu.be/sHsCxgkjvE0",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat Penduduk",
+kondisi:"Datar",
+prospek:"Villa, Tempat Tinggal",
+point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
+},
+
+{
 judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Samping Sungai Mudal!",
 lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1039m²",
@@ -503,5 +522,6 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
