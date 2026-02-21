@@ -20,6 +20,44 @@ point:"Akses mudah, Sangat dekat dengan wisata Sungai Mudal, Terdapat Air Terjun
 },
 
 {
+judul:"Tanah Istimewa! Luas 834m² View Perbukitan! Dekat Kawasan Wisata Sungai Mudal Dan Menoreh Dreamland!",
+lokasi:"Jl. Banyunganti, Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"834m²",
+harga:"Rp 450.000.000",
+thumbnail:"Banyunganti834.jpg",
+video:"https://youtu.be/HVzjscRVryk",
+
+sertifikat:"SHM Pekarangan",
+muka:"6 meter",
+akses:"Tersedia",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan Wisata Sungai Mudal",
+kondisi:"Datar Terasering",
+prospek:"Rumah Pensiun, Villa Kabin, Guesthouse, Rumah Pribadi",
+point:"Akses Mudah, Berada di Kawasan Wisata Sungai Mudal, Dekat ke Menoreh Dreamland, Ke Tugu sekitar 45 menit, Ke Bandara YIA sekitar 45 menit, Kondisi datar dan sejuk cocok untuk rumah pensiun atau rumah kedua bahkan bisa di jadikan villa"
+},
+
+{
+judul:"Tanah Pekarangan Murah Hanya 175 Juta Luas 720m² Pemandangan Hamparan Sawah, Dekat Resto Mahaloka",
+lokasi:"Krikil, Pendoworejo, Girimulyo, Kulonprogo",
+luas:"720m²",
+harga:"Rp 175.000.000",
+thumbnail:"Krikil720.jpg",
+video:"https://youtu.be/8JPNmjt_OiY",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Jalan Bebatuan + Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan Warga",
+kondisi:"Tanah Ditanami Kebun Kopi, Nangka, Kelapa, Mlinjo",
+prospek:"Hunian, Villa, Investasi",
+point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
+},
+
+{
 judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
 lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah ",
 luas:"72 - 88 m²",
