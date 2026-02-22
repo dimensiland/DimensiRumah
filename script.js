@@ -210,6 +210,25 @@ point:"Dengan Tanah Terasering yang tidak terlalu tinggi, tanah ini mendapatkan 
 },
 
 {
+judul:"Tanah View Sawah Dan Bukit Menoreh! Luas 3200m² Harga 495jt Dekat Tumpeng Menoreh!",
+lokasi:"Loano, Sedayu, Purworejo Regency, Central Java",
+luas:"3200m²",
+harga:"Rp 495.000.000",
+thumbnail:"Loano3200.jpg",
+video:"https://youtu.be/QNXXVf2kfj8",
+
+sertifikat:"SHM Tegalan",
+muka:"35 meter",
+akses:"Jalan Cor Kampung",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Perkebunan",
+kondisi:"Datar Terasering",
+prospek:"Rumah pensiun, Slow living, Resto, Kebun, dsb",
+point:"Sudah ada Rumahnya, Akses Utama jalan provinsi Jogja-Purworejo, Dekat akses wisata Alam Menoreh, View Sawah Dan Sungai."
+},
+
+{
 judul:"Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
 lokasi:"Grigak Giripurwo Girimulyo Kulonprogo",
 luas:"1015m²",
@@ -435,6 +454,63 @@ lingkungan:"Perkebunan, Perkampungan",
 kondisi:"Datar Sejuk",
 prospek:"Sangat cocok untuk instrumen investasi jangka panjang atau sebagai tempat tinggal pribadi, bahkan untuk rumah pensiun karena lingkungannya yang tenang namun tetap dekat dengan kota, rospek kenaikan harga didukung oleh kedekatannya dengan berbagai kampus (seperti UMY dan Mercu Buana) serta sekolah internasional, yang membuat area ini selalu dicari",
 point:"Terletak di Jalan Godean KM 15, Kelurahan Sumber Agung, Moyudan, Sleman (dekat Pondok Pesantren Bina Umat), Hanya berjarak sekitar 50-60 meter dari jalan raya utama/jalan aspal besar"
+},
+
+{
+judul:"Tanah Dekat Pusat Kota Jogja, Area Wisata & Bandara Luas 381m² Harga 265 Juta Berada Di Sleman Jogja",
+lokasi:"Sumberarum, Sleman Regency, Special Region of Yogyakarta",
+luas:"381m²",
+harga:"Rp 265.000.000",
+thumbnail:"Sumberarum381.jpg",
+video:"",
+
+sertifikat:"SHM Pekarangan",
+muka:"- meter",
+akses:"Jalan Cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan",
+kondisi:"Datar",
+prospek:"Rumah Pensiun, Rumah Singgah, Guesthouse, Villa",
+point:"Bisa bayar bertahap, Dekat Studio Alam Gamplong, Sekolah Internasional Bina Umat, Tanah Hook"
+},
+
+{
+judul:"TURUN HARGA!! Tanah Gratis Bangunan! Luas 252m² Hanya 4JT/m Cocok Untuk Usaha! Dekat Mall Sleman",
+lokasi:"Tridadi, Sleman",
+luas:"252m²",
+harga:"Rp 4.000.000/m²",
+thumbnail:"Tridadi252.jpg",
+video:"https://youtu.be/Yw-D_KVz9Hg",
+
+sertifikat:"SHM Pekarangan",
+muka:"14 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat Penduduk",
+kondisi:"Datar, Sudah Ada Joglo Bangunan",
+prospek:"Cafe, Resto, Warmindo, Rumah Pribadi",
+point:"Dekat Dengan Sleman City Hall, Alun-alun denggung, Daerah Ramai, View Sawah Dan Kebun"
+},
+
+{
+judul:"Jual Rumah Luas 120m² dan Kantor Di Bantul Murah Hanya 1.9m Nego Cocok Untuk Kost Dan Kantor",
+lokasi:"Guwasari, Kembang Putihan, Bantul",
+luas:"120m²",
+harga:"Rp 1.900.000.000",
+thumbnail:"Kantor120.jpg",
+video:"https://youtu.be/KeXOTNcPsfI",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:" Bata 4 meter",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perumahan, Padat penduduk",
+kondisi:"Siap Huni",
+prospek:"Rumah, Kantor, Kost",
+point:"Cocok Untuk Work Life Balance, Dekat dengan Calon Kampus UIN"
 }
 
 ];
