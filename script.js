@@ -438,6 +438,25 @@ point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjara
 },
 
 {
+judul:"Jual Tanah Pekarangan MURAH! Luas 800m² Hanya 185 Juta! Cocok Untuk Kebun Durian Dan Hutan Pinus!",
+lokasi:"Pucungroto, Purworejo Regency, Central Java",
+luas:"800m²",
+harga:"Rp 185.000.000",
+thumbnail:"Pucungroto800.jpg",
+video:"https://youtu.be/ps-LKAjMprU",
+
+sertifikat:"SHM Pekarangan",
+muka:"10 meter",
+akses:"Tersedia Masih Tanah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan Durian, Kelapa, Cengkeh, Perkampungan",
+kondisi:"Datar",
+prospek:"Kebun Durian, Klengkeng, Dsb. Kondisi Datar dan Sejuk. Akses Utama Pasar Kambing Kaligesing, Dekat Kawasan Hutan Pinus",
+point:"Tanah cenderung datar dengan sedikit terasering, Jarak ke jalan utama (Jalan Raya Kaligesing) sekitar 150-200 meter, Sekitar 30 km ke Kota Yogyakarta/Malioboro"
+},
+
+{
 judul:"MURAH!! Luas 251m² Hanya 220jt!!! Strategis Berada Di Jalan Godean 16 km Dari Tugu Jogja",
 lokasi:"Jalan Godean KM 15, Sumberarum, Moyudan, Sleman",
 luas:"251m²",
@@ -492,6 +511,25 @@ lingkungan:"Padat Penduduk",
 kondisi:"Datar, Sudah Ada Joglo Bangunan",
 prospek:"Cafe, Resto, Warmindo, Rumah Pribadi",
 point:"Dekat Dengan Sleman City Hall, Alun-alun denggung, Daerah Ramai, View Sawah Dan Kebun"
+},
+
+{
+judul:"Tanah Bonus Rumah Pinggir Jalan Aspal Luas 425m² Harga 195Jt! Dekat Kawasan Wisata Nanggulan!",
+lokasi:"Kamal, Pendoworejo, Girimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"425m²",
+harga:"Rp 195.000.000",
+thumbnail:"Kemal425.jpg",
+video:"https://youtu.be/G8ahr-y4mTM",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Sawah, Area Wisata Kuliner Nanggulan",
+kondisi:"Datar ada Rumah",
+prospek:"Rumah Tinggal, Homestay, Rumah Pensiun",
+point:"Akses Mudah, Dekat Kawasan Wisata Nanggulan dengan view sawah, Lingkungan ramai penduduk dan sejuk. Cocok sebagai rumah pribadi maupun homestay karena dekat dengan area kuliner seperti Ampirono, Dadap Sumilir, Ingkar Janji. Ke Bandara YIA hanya sekitar 45m, Ke Kota Jogja Hanya sekitar 25km"
 },
 
 {
