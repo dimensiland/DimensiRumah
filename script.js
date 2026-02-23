@@ -514,22 +514,22 @@ point:"Dekat Dengan Sleman City Hall, Alun-alun denggung, Daerah Ramai, View Saw
 },
 
 {
-judul:"Tanah Bonus Rumah Pinggir Jalan Aspal Luas 425m² Harga 195Jt! Dekat Kawasan Wisata Nanggulan!",
-lokasi:"Kamal, Pendoworejo, Girimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"425m²",
-harga:"Rp 195.000.000",
-thumbnail:"Kemal425.jpg",
-video:"https://youtu.be/G8ahr-y4mTM",
+judul:"Tanah Murah! Luas 95m² Hanya 130 Juta! 17km Ke Tugu, Dekat Omah Betakan dan Studio Alam Gamplong!",
+lokasi:"Sumberagung, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+luas:"95m²",
+harga:"Rp 130.000.000",
+thumbnail:"Sumberagung95.jpg",
+video:"https://youtu.be/9B9JqUACHpM",
 
 sertifikat:"SHM Pekarangan",
-muka:"20 meter",
+muka:"10 meter",
 akses:"Jalan Aspal",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Sawah, Area Wisata Kuliner Nanggulan",
-kondisi:"Datar ada Rumah",
+lingkungan:"Perkampungan, Padat Penduduk",
+kondisi:"Datar",
 prospek:"Rumah Tinggal, Homestay, Rumah Pensiun",
-point:"Akses Mudah, Dekat Kawasan Wisata Nanggulan dengan view sawah, Lingkungan ramai penduduk dan sejuk. Cocok sebagai rumah pribadi maupun homestay karena dekat dengan area kuliner seperti Ampirono, Dadap Sumilir, Ingkar Janji. Ke Bandara YIA hanya sekitar 45m, Ke Kota Jogja Hanya sekitar 25km"
+point:"Dekat Ke Kota Jogja hanya 15km, dekat Omah Betakan, Studio Alam Gamplong, Ke Bandara YIA Hanya 30km, Akses Administrasi dan Pendidikan maupun pasar sangat dekat"
 },
 
 {
