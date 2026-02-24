@@ -4,7 +4,7 @@ const properties=[
 judul:"Tanah Luas 1047m² Harga 250 Juta View Sawah Indah & Ada Mata Airnya, Dekat Wisata Omah Cantrik",
 lokasi:"Kemukus, Tanjungharjo, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"1047m²",
-harga:"Rp 235.000.000",
+harga:"Rp 250.000.000",
 thumbnail:"Kemukus1047.jpg",
 video:"https://youtu.be/6VSviMMXGpk",
 
@@ -731,4 +731,5 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
