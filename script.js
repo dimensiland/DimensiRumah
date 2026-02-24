@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Tanah Luas 1047m² Harga 250 Juta View Sawah Indah & Ada Mata Airnya, Dekat Wisata Omah Cantrik",
+lokasi:"Kemukus, Tanjungharjo, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
+luas:"1047m²",
+harga:"Rp 235.000.000",
+thumbnail:"Kemukus1047.jpg",
+video:"https://youtu.be/6VSviMMXGpk",
+
+sertifikat:"SHM Tegalan",
+muka:"10 meter",
+akses:"Jalan Cor",
+air:"Tersedia + Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Rumah Warga, Kebun & Sawah",
+kondisi:"Tanah Datar Ditanami Pohon",
+prospek:"Villa, Glamping, Hunian, Cafe & Resto",
+point:"Berada Di Kawasan Wisata Villa nDalem Dekana, Resto Omah Cantrik & Rumah Rindu, Dekat Dari Arah Bandara NYIA dan Exit Tol Sentolo"
+},
+
+{
 judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Samping Sungai Mudal!",
 lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1039m²",
@@ -712,3 +731,4 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
