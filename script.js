@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Murah! Luas 600m² Harga 75 Juta! View Sawah Dan Bukit, Dekat Villa Dan Wisata Kuliner Nanggulan",
+lokasi:"Krikil, Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"600m²",
+harga:"Rp 75.000.000",
+thumbnail:"Pendoworejo600.jpg",
+video:"https://youtu.be/7AUF_i4Bcng",
+
+sertifikat:"SHM",
+muka:"25 meter",
+akses:"Jalan Tanah (Butuh Cor 30m)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Pohon Jati, Sawah Terasering, Pegunungan Menoreh",
+kondisi:"Terasering",
+prospek:"Kebun Durian, Alpukat, Hunian Pribadi, Villa Kabin, Glamping",
+point:"Harga Murah, Dekat Bandara 25km, Malioboro 20km, Akses Kekota Dekat, Landscape Sawah Terasering, Kawasan Wisata Kuliner"
+},
+
+{
 judul:"Tanah Luas 1047m² Harga 250 Juta View Sawah Indah & Ada Mata Airnya, Dekat Wisata Omah Cantrik",
 lokasi:"Kemukus, Tanjungharjo, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"1047m²",
@@ -731,5 +750,6 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
