@@ -457,12 +457,12 @@ point:"1.390 m² (terdiri dari dua sertifikat SHM Sawah: satu seluas ~340 m² da
 },
 
 {
-judul:"Jual Tanah 700m² Harga 500jt Dengan View Menakjubkan Paradise Sleman Barat Jogja",
+judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
 lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
 luas:"700m²",
-harga:"Rp 500.000.000 Nego",
+harga:"Rp 395.000.000 Nego",
 thumbnail:"Minggir700.jpg",
-video:"https://youtu.be/39w8fDvNUJU",
+video:"https://youtu.be/6duk9u2aIzY",
 
 sertifikat:"SHM Sawah",
 muka:"20 meter",
@@ -750,6 +750,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
