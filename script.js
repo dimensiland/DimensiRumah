@@ -1,6 +1,44 @@
 const properties=[
 
 {
+judul:"Tanah Super Murah! Hanya 20km Dari Tugu! Luas 434m² Hanya 150 Juta! Dekat Wisata Kuliner Nanggulan!",
+lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"434m²",
+harga:"Rp 150.000.000",
+thumbnail:"Jatisarono434.jpg",
+video:"https://youtu.be/bBKZrOAiYP0",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Perumahan, Kebun dan Sawah",
+kondisi:"Datar",
+prospek:" Rumah Tinggal Dan Kebun",
+point:"Akses Mudah, Dekat Kantor Kelurahan Nanggulan, Dekat Kawasan Wisata Kuliner maupun Villa sekitar Nanggulan seperti Geblek Pari, Girimanah, Dadap Sumilir, Singkung Valley, Ampirono, Ingkar Janji, Weha Villa, Waza Villa, Dalem Dekana, Omah Cantrik  Ke Bandara YIA hanya 35 menit"
+},
+
+{
+judul:"Tanah Menarik Hanya 18km Dari Tugu! Luas 557m² Lingkungan Nyaman! Dekat Wisata Kuliner Nanggulan!",
+lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"557m²",
+harga:"Rp 800.000/m²",
+thumbnail:"Jatisarono557.jpg",
+video:"https://youtu.be/WUMBO8ibQrA",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Perumahan",
+kondisi:"Datar sementara jadi kebun kecil",
+prospek:"Rumah Tinggal maupun Rumah Pensiun dengan akses mudah dekat kawasan wisata viral Jogja Barat",
+point:"KTP manapun bisa balik nama, Akses Mudah, Dekat Ke Kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Girimanah, Menoreh View, Ampirono, Dadap Sumilir, Ingkar Janji, Puncak Saka, Omah Cantrik dan Beberapa Villa seperti Dalem Dekana, Villa Norwegia, Dalem Plerenan, Weha Villa, Waza Villa"
+},
+
+{
 judul:"Murah! Luas 600m² Harga 75 Juta! View Sawah Dan Bukit, Dekat Villa Dan Wisata Kuliner Nanggulan",
 lokasi:"Krikil, Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"600m²",
@@ -750,6 +788,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
