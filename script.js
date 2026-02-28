@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Tanah Samping Sungai Indah Dengan View Sawah, Luas 1441m² Dekat Tanah Kavling Dan Akses Tol",
+lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1441m²",
+harga:"Rp 396.275.000",
+thumbnail:"Donomulyo1441.jpg",
+video:"https://youtu.be/FxB8ySrwOuA",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Aspal dan Cor 5m",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Sawah",
+kondisi:"Terasering",
+prospek:"Rumah Singgah, Rumah Tinggal",
+point:"Dekat Akses Jalan Utama Naggulan - Bandara YIA, Dekat Wisata Nanggulan, sekitar 25km Ke Kota Jogja, sekitar 22km Ke Bandara"
+},
+
+{
 judul:"Tanah Super Murah! Hanya 20km Dari Tugu! Luas 434m² Hanya 150 Juta! Dekat Wisata Kuliner Nanggulan!",
 lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"434m²",
@@ -788,6 +807,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
