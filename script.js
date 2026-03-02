@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Tanah Bonus Rumah Samping Sungai! Luas 3812m² Hanya 450 Juta! Dekat Kawasan Wisata Alam Menoreh!",
+lokasi:"Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"3812m²",
+harga:"Rp 450.000.000",
+thumbnail:"Gerbosari3812.jpg",
+video:"https://youtu.be/m3IUPoJzKXs",
+
+sertifikat:"SHM Pekarangan",
+muka:"100 meter",
+akses:"Tersedia",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan perkebunan",
+kondisi:"Datar mangku sungai",
+prospek:"Rumah pensiun, Villa Kabin dengan Restoran",
+point:"Akses Mudah, Lokasi dekat jalan provinsi, Dekat Desa Wisata Alam Gerbosari dan Tinalah, Dekat Ke Wisata Kebun Teh Nglinggo dan Tumpeng Menoreh, Ke Jogja sekitar 30km, Bandara YIA sekitar 45km, Banyak restoran bernuansa alam dekat dengan lokasi tanah. Kondisi yang mudah dengan rumah yang sudah ada, hanya tinggal sedikit di poles akan menjadi properti impian anda"
+},
+
+{
 judul:"Tanah Samping Sungai Indah Dengan View Sawah, Luas 1441m² Dekat Tanah Kavling Dan Akses Tol",
 lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"1441m²",
@@ -807,6 +826,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
