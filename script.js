@@ -1,22 +1,22 @@
 const properties=[
 
 {
-judul:"Tanah Mewah View Sawah MURAH Hanya 17km Dari Tugu! Luas 1303m² Hanya 450rb/m! Dekat Wisata Nanggulan",
-lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1303m²",
-harga:"Rp 586.350.000",
-thumbnail:"Jatisarono1303.jpg",
-video:"https://youtu.be/vuW3W6CEBwQ",
+judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
+lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah ",
+luas:"72 - 88 m²",
+harga:"Rp 385.000.000 - Rp 495.000.000",
+thumbnail:"VillaMadhava.jpg",
+video:"https://youtu.be/cX30x30OCB8",
 
 sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Tersedia",
-air:"Tersedia Sumur",
+muka:"7 meter",
+akses:"Tersedia Coneblok 5-8m",
+air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Persawahan dan Perkebunan",
-kondisi:"Datar Terasering",
-prospek:"Rumah tinggal, Rumah pensiun, Kebun, Investasi, Resto, Villa ataupun Resort.",
-point:"KTP mana saja bisa beli, Akses Mudah karena dekat dengan kantor kecamatan Nanggulan, Lingkungan perkampungan hidup dan ramai, Kawasan sekitaran area Wisata Kuliner Nanggulan, Dekat ke Exit Tol Sentolo sekitar 10 menit, Dekat ke Kota Jogja sekitar 17km, Ke Borobudur sekitar 40 menit, Bandara YIA sekitar 45 menit"
+lingkungan:"Perkampungan Padat Penduduk, Dekat Stasiun, Lingkungan Persawahan Dengan View Gunung",
+kondisi:"Datar Siap bangun",
+prospek:"Villa Sebagai Aset Properti Pribadi Jangka Panjang dan Sebagai Rumah Pribadi Dengan Konsep Villa Vernacular maupun non-Vernacular",
+point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan Sekitarnya, Dekat Wisata Umbul di Klaten. Akses Mudah Ke Pendidikan Maupun Administrasi. Kota Jogja-Solo Mudah Di Jangkau. Sudah Termasuk SHM dan menjadi kepimilikan pribadi tanpa jangka waktu."
 },
 
 {
@@ -39,60 +39,22 @@ point:"Akses Mudah, Lokasi dekat jalan provinsi, Dekat Desa Wisata Alam Gerbosar
 },
 
 {
-judul:"Tanah Samping Sungai Indah Dengan View Sawah, Luas 1441m² Dekat Tanah Kavling Dan Akses Tol",
-lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1441m²",
-harga:"Rp 396.275.000",
-thumbnail:"Donomulyo1441.jpg",
-video:"https://youtu.be/FxB8ySrwOuA",
-
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Aspal dan Cor 5m",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Sawah",
-kondisi:"Terasering",
-prospek:"Rumah Singgah, Rumah Tinggal",
-point:"Dekat Akses Jalan Utama Naggulan - Bandara YIA, Dekat Wisata Nanggulan, sekitar 25km Ke Kota Jogja, sekitar 22km Ke Bandara"
-},
-
-{
-judul:"Tanah Super Murah! Hanya 20km Dari Tugu! Luas 434m² Hanya 150 Juta! Dekat Wisata Kuliner Nanggulan!",
+judul:"Tanah Mewah View Sawah MURAH Hanya 17km Dari Tugu! Luas 1303m² Hanya 450rb/m! Dekat Wisata Nanggulan",
 lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"434m²",
-harga:"Rp 150.000.000",
-thumbnail:"Jatisarono434.jpg",
-video:"https://youtu.be/bBKZrOAiYP0",
-
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Perumahan, Kebun dan Sawah",
-kondisi:"Datar",
-prospek:" Rumah Tinggal Dan Kebun",
-point:"Akses Mudah, Dekat Kantor Kelurahan Nanggulan, Dekat Kawasan Wisata Kuliner maupun Villa sekitar Nanggulan seperti Geblek Pari, Girimanah, Dadap Sumilir, Singkung Valley, Ampirono, Ingkar Janji, Weha Villa, Waza Villa, Dalem Dekana, Omah Cantrik  Ke Bandara YIA hanya 35 menit"
-},
-
-{
-judul:"Tanah Menarik Hanya 18km Dari Tugu! Luas 557m² Lingkungan Nyaman! Dekat Wisata Kuliner Nanggulan!",
-lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"557m²",
-harga:"Rp 800.000/m²",
-thumbnail:"Jatisarono557.jpg",
-video:"https://youtu.be/WUMBO8ibQrA",
+luas:"1303m²",
+harga:"Rp 586.350.000",
+thumbnail:"Jatisarono1303.jpg",
+video:"https://youtu.be/vuW3W6CEBwQ",
 
 sertifikat:"SHM Pekarangan",
 muka:"30 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
+akses:"Tersedia",
+air:"Tersedia Sumur",
 listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perumahan",
-kondisi:"Datar sementara jadi kebun kecil",
-prospek:"Rumah Tinggal maupun Rumah Pensiun dengan akses mudah dekat kawasan wisata viral Jogja Barat",
-point:"KTP manapun bisa balik nama, Akses Mudah, Dekat Ke Kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Girimanah, Menoreh View, Ampirono, Dadap Sumilir, Ingkar Janji, Puncak Saka, Omah Cantrik dan Beberapa Villa seperti Dalem Dekana, Villa Norwegia, Dalem Plerenan, Weha Villa, Waza Villa"
+lingkungan:"Perkampungan, Persawahan dan Perkebunan",
+kondisi:"Datar Terasering",
+prospek:"Rumah tinggal, Rumah pensiun, Kebun, Investasi, Resto, Villa ataupun Resort.",
+point:"KTP mana saja bisa beli, Akses Mudah karena dekat dengan kantor kecamatan Nanggulan, Lingkungan perkampungan hidup dan ramai, Kawasan sekitaran area Wisata Kuliner Nanggulan, Dekat ke Exit Tol Sentolo sekitar 10 menit, Dekat ke Kota Jogja sekitar 17km, Ke Borobudur sekitar 40 menit, Bandara YIA sekitar 45 menit"
 },
 
 {
@@ -112,6 +74,44 @@ lingkungan:"Pohon Jati, Sawah Terasering, Pegunungan Menoreh",
 kondisi:"Terasering",
 prospek:"Kebun Durian, Alpukat, Hunian Pribadi, Villa Kabin, Glamping",
 point:"Harga Murah, Dekat Bandara 25km, Malioboro 20km, Akses Kekota Dekat, Landscape Sawah Terasering, Kawasan Wisata Kuliner"
+},
+
+{
+judul:"Tanah Samping Sungai Indah Dengan View Sawah, Luas 1441m² Dekat Tanah Kavling Dan Akses Tol",
+lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1441m²",
+harga:"Rp 396.275.000",
+thumbnail:"Donomulyo1441.jpg",
+video:"https://youtu.be/FxB8ySrwOuA",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Aspal dan Cor 5m",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Sawah",
+kondisi:"Terasering",
+prospek:"Rumah Singgah, Rumah Tinggal",
+point:"Dekat Akses Jalan Utama Naggulan - Bandara YIA, Dekat Wisata Nanggulan, sekitar 25km Ke Kota Jogja, sekitar 22km Ke Bandara"
+},
+
+{
+judul:"Tanah Menarik Hanya 18km Dari Tugu! Luas 557m² Lingkungan Nyaman! Dekat Wisata Kuliner Nanggulan!",
+lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"557m²",
+harga:"Rp 800.000/m²",
+thumbnail:"Jatisarono557.jpg",
+video:"https://youtu.be/WUMBO8ibQrA",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Perumahan",
+kondisi:"Datar sementara jadi kebun kecil",
+prospek:"Rumah Tinggal maupun Rumah Pensiun dengan akses mudah dekat kawasan wisata viral Jogja Barat",
+point:"KTP manapun bisa balik nama, Akses Mudah, Dekat Ke Kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Girimanah, Menoreh View, Ampirono, Dadap Sumilir, Ingkar Janji, Puncak Saka, Omah Cantrik dan Beberapa Villa seperti Dalem Dekana, Villa Norwegia, Dalem Plerenan, Weha Villa, Waza Villa"
 },
 
 {
@@ -210,12 +210,12 @@ point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudu
 },
 
 {
-judul:"Tanah 2165m² View Sawah Ala Ubud, Harga 275 Juta Dekat Wisata Kuliner, Villa & Bandara NYIA",
+judul:"Jual Tanah View Bukit Dan Sawah MURAH! Luas 4300m² Dan 2165m²! Dekat Bandara YIA, Kawasan Wisata!",
 lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"2165m²",
-harga:"Rp 275.000.000",
-thumbnail:"Banjaran2165.jpg",
-video:"https://youtu.be/bWmDknisI4U",
+luas:"4300m² Dan 2165m²",
+harga:"Rp 340.000.000 Dan Rp 195.000.000",
+thumbnail:"Banjaran2165&4300.jpg",
+video:"",
 
 sertifikat:"SHM Pekarangan",
 muka:"20 meter",
@@ -224,8 +224,8 @@ air:"Tersedia Mata Air",
 listrik:"PLN tersedia",
 lingkungan:"Perkampungan & Kebun",
 kondisi:"Tanah Datar & Terasering",
-prospek:"Investasi, Wisata Villa & Glamping, Wisata Kuliner",
-point:"Dekat Wisata Kuliner Wanadelima Orchard & Omah Cantrik, Wisata Villa Wisma Pancoeran & KeJogja Homestay, Akses Menuju Exit Tol Sentolo & Bandara NYIA"
+prospek:"Rumah pribadi dengan konsep slow living, Komplek Villa, Kebun, Investasi",
+point:"Harga terjangkau, kondisi tanah dan akses nyaman, luasan ideal serta mangku jalan. Tanah dengan view bukit dan sawah dengan harga terbaik. Dekat jalan Nasional ke bandara YIA sekitar 24km, ke Malioboro sekitar 27km. Kawasan sekitaran merupakan kawasan wisata alam, kuliner maupun Villa"
 },
 
 {
@@ -305,25 +305,6 @@ point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
 },
 
 {
-judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
-lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah ",
-luas:"72 - 88 m²",
-harga:"Rp 385.000.000 - Rp 495.000.000",
-thumbnail:"VillaMadhava.jpg",
-video:"https://youtu.be/EveclyOwh3U",
-
-sertifikat:"SHM Pekarangan",
-muka:"7 meter",
-akses:"Tersedia Coneblok 5-8m",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan Padat Penduduk, Dekat Stasiun, Lingkungan Persawahan Dengan View Gunung",
-kondisi:"Datar Siap bangun",
-prospek:"Villa Sebagai Aset Properti Pribadi Jangka Panjang dan Sebagai Rumah Pribadi Dengan Konsep Villa Vernacular maupun non-Vernacular",
-point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan Sekitarnya, Dekat Wisata Umbul di Klaten. Akses Mudah Ke Pendidikan Maupun Administrasi. Kota Jogja-Solo Mudah Di Jangkau. Sudah Termasuk SHM dan menjadi kepimilikan pribadi tanpa jangka waktu."
-},
-
-{
 judul:"Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
 lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"3180m²",
@@ -400,22 +381,22 @@ point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Muda
 },
 
 {
-judul:"Lahan Harga 90rb/m² Dengan View Sawah Ala Ubud Bali, Kawasan Wisata Kuliner, Akses Tol & Bandara",
-lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"5000m²",
-harga:"Rp 90.000/m²",
-thumbnail:"Banjaran5000.jpg",
-video:"https://youtu.be/cAkiLW-B69I",
+judul:"Tanah MEWAH View Sawah! Salima 1 A4! Luas 242m² Hanya 121 Juta! Dekat Kawasan Wisata Nanggulan!",
+lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"242m²",
+harga:"Rp 500.000/m²",
+thumbnail:"Salima1A4.jpg",
+video:"https://youtu.be/8GrnsV__qpo",
 
 sertifikat:"SHM Pekarangan",
-muka:"2 Muka, 30 meter dan 100 meter",
-akses:"Jalan Aspal & Cor",
+muka:"13 Meter",
+akses:"Tersedia 5m",
 air:"Tersedia",
 listrik:"Tersedia Tiang Listrik Dengan Panel Surya",
-lingkungan:"Perkampungan dan Perkebunan",
-kondisi:"Tanah Datar & Terasering",
-prospek:"Investasi, Wisata Villa & Glamping, Wisata Kuliner",
-point:"Dekat Wisata Kuliner Wanadelima Orchard & Omah Cantrik, Wisata Villa Wisma Pancoeran & KeJogja Homestay, Akses Menuju Exit Tol Sentolo & Bandara NYIA"
+lingkungan:"Perkampungan,Sawah dan Perkebunan",
+kondisi:"Datar sedikit miring view sawah",
+prospek:"Rumah Pribadi, Rumah Singgah, Villa, Resto dsb dengan View sawah!",
+point:"Berhadapan lansung dengan sawah menghadap barat, Salima 1 A4 menjadi properti menarik nan romantis dengan view sawah dan cahaya sunset. Memberikan ketenangan dan Kenyamanan jiwa bagi pemilik. Akses Mudah, Dekat Villa Norwegia, Omah Cantrik, Omah Rindu, Dalem Plerenan, dan Kawasan Wisata Kuiliner Nanggulan lainnya. Ke Bandara hanya sekitar 40 menit. Ke Tugu Jogja hanya 25km. Lingkungan nyaman, asri dan sudah ramai"
 },
 
 {
@@ -614,7 +595,7 @@ lokasi:"Sumberarum, Sleman Regency, Special Region of Yogyakarta",
 luas:"381m²",
 harga:"Rp 265.000.000",
 thumbnail:"Sumberarum381.jpg",
-video:"",
+video:"https://youtu.be/BcosLFK4P4k",
 
 sertifikat:"SHM Pekarangan",
 muka:"- meter",
@@ -663,6 +644,25 @@ lingkungan:"Perkampungan, Padat Penduduk",
 kondisi:"Datar",
 prospek:"Rumah Tinggal, Homestay, Rumah Pensiun",
 point:"Dekat Ke Kota Jogja hanya 15km, dekat Omah Betakan, Studio Alam Gamplong, Ke Bandara YIA Hanya 30km, Akses Administrasi dan Pendidikan maupun pasar sangat dekat"
+},
+
+{
+judul:"Tanah Super Murah! Hanya 20km Dari Tugu! Luas 434m² Hanya 150 Juta! Dekat Wisata Kuliner Nanggulan!",
+lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"434m²",
+harga:"Rp 150.000.000",
+thumbnail:"Jatisarono434.jpg",
+video:"https://youtu.be/bBKZrOAiYP0",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Perumahan, Kebun dan Sawah",
+kondisi:"Datar",
+prospek:" Rumah Tinggal Dan Kebun",
+point:"Akses Mudah, Dekat Kantor Kelurahan Nanggulan, Dekat Kawasan Wisata Kuliner maupun Villa sekitar Nanggulan seperti Geblek Pari, Girimanah, Dadap Sumilir, Singkung Valley, Ampirono, Ingkar Janji, Weha Villa, Waza Villa, Dalem Dekana, Omah Cantrik  Ke Bandara YIA hanya 35 menit"
 },
 
 {
@@ -845,11 +845,3 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
-
-
-
-
-
-
-
-
