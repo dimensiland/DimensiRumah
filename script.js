@@ -215,7 +215,7 @@ lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"4300m² Dan 2165m²",
 harga:"Rp 340.000.000 Dan Rp 195.000.000",
 thumbnail:"Banjaran2165&4300.jpg",
-video:"",
+video:"https://youtu.be/87aS2NZPdM0",
 
 sertifikat:"SHM Pekarangan",
 muka:"20 meter",
