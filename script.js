@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"MURAH!!! Tanah Sejuk Luas 597m² Hanya 150 Juta! Dekat Menoreh Dreamland Dan Sungai Mudal!",
+lokasi:"Jatimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"597m²",
+harga:"Rp 150.000.000",
+thumbnail:"Jatimulyo597.jpg",
+video:"https://youtu.be/crty4bm7aX4",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Tersedia",
+air:"Tersedia mata air dan Pamsimas",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Kebun, Kuliner dan Wisata Alam",
+kondisi:"Datar Terasering",
+prospek:"Rumah pribadi, Investasi, Villa, Kebun",
+point:"Akses Nyaman dengan 2 muka, dialiri mata air tanah, udara sejuk dingin, lingkungan nyaman ramai. Dekat kawasan wisata alam seperti Menoreh Dreamland, Hutan Pinus, Ekowisata Sungai Mudal, Kembang Soka, Kedung Pedut dsb. Juga terdapat banyak Villa seperti Omah Watu Blencong. Banyak resto dan kuliner sudah ramai di sekitar kawasan tersebut"
+},
+
+{
 judul:"Tanah Bonus Rumah Samping Sungai! Luas 3812m² Hanya 450 Juta! Dekat Kawasan Wisata Alam Menoreh!",
 lokasi:"Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"3812m²",
@@ -845,3 +864,4 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
