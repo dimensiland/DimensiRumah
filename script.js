@@ -343,25 +343,6 @@ point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
 },
 
 {
-judul:"Tanah 3180m² Murah 250rb/m² Dekat Jalur Luna Maya Kulonprogo Jogja Di Daerah Wisata Kuliner & Villa",
-lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"3180m²",
-harga:"Rp 250.000/m²",
-thumbnail:"Pendoworejo3180.jpg",
-video:"https://youtu.be/al9ccrWuQsg",
-
-sertifikat:"SHM Pekarangan",
-muka:"50 meter",
-akses:"Jalan Cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perkebunan",
-kondisi:"Terasering Mangku Jalan",
-prospek:"Rumah Pribadi, Investasi, Villa, Restoran, Cafe, Maupun Wisata Puncak Menoreh",
-point:"Dengan Tanah Terasering yang tidak terlalu tinggi, tanah ini mendapatkan akses view puncak Menoreh 360 derajat. View Gunung, Bukit, Sawah, dan Laut. Lokasi tepat di kawasan Wisata Premium Jogja Barat Dengan Akses mudah dan Terkoneksi. Dekat Kota Jogja, Borobudur, dan Bandara YIA."
-},
-
-{
 judul:"Tanah View Sawah Dan Bukit Menoreh! Luas 3200m² Harga 495jt Dekat Tumpeng Menoreh!",
 lokasi:"Loano, Sedayu, Purworejo Regency, Central Java",
 luas:"3200m²",
@@ -883,6 +864,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
