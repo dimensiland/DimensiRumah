@@ -248,9 +248,9 @@ point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudu
 },
 
 {
-judul:"Jual Tanah View Bukit Dan Sawah MURAH! Luas 4300m² Dan 2165m²! Dekat Bandara YIA, Kawasan Wisata!",
+judul:"Jual Tanah View Bukit Dan Sawah MURAH! Luas 3400m² Dan 2165m²! Dekat Bandara YIA, Kawasan Wisata!",
 lokasi:"Banjaran, Giripurwo, Girimulyo, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"4300m² Dan 2165m²",
+luas:"3400m² Dan 2165m²",
 harga:"Rp 340.000.000 Dan Rp 195.000.000",
 thumbnail:"Banjaran2165&4300.jpg",
 video:"https://youtu.be/87aS2NZPdM0",
@@ -883,5 +883,6 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
