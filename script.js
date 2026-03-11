@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Samping Sungai MURAH! Luas 657m² Hanya 150 Juta! Dekat Geblek Pari Dan Ampirono!",
+lokasi:"Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"657m²m²",
+harga:"Rp 150.000.000",
+thumbnail:"Banjarsari657.jpg",
+video:"https://youtu.be/0kIvb2eoCxY",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter",
+akses:"Tersedia",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Kebun, Kuliner dan Wisata Alam",
+kondisi:"Datar sedikit terasering menempel sungai",
+prospek:"Rumah pribadi, Villa, Guesthouse, Cabin, kebun buah",
+point:"Akses mudah dan nyaman, mobil sampai ke lokasi, nempel sungai sehingga bisa di manfaatkan untuk pengairan maupun konsep villa samping sungai dan resto. Dekat kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Ampirono, Dadap Sumilir, Kopi Ingkar Janji. Dan beberapa Villa dengan konsep sawah maupun konsep serupa seperti Waza Villa, Gaia Lodge, Swantari "
+},
+
+{
 judul:"MURAH!!! Tanah Sejuk Luas 597m² Hanya 150 Juta! Dekat Menoreh Dreamland Dan Sungai Mudal!",
 lokasi:"Jatimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"597m²",
@@ -864,4 +883,5 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
