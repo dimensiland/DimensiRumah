@@ -324,25 +324,6 @@ point:"Akses Mudah, Berada di Kawasan Wisata Sungai Mudal, Dekat ke Menoreh Drea
 },
 
 {
-judul:"Tanah Pekarangan Murah Hanya 175 Juta Luas 720m² Pemandangan Hamparan Sawah, Dekat Resto Mahaloka",
-lokasi:"Krikil, Pendoworejo, Girimulyo, Kulonprogo",
-luas:"720m²",
-harga:"Rp 175.000.000",
-thumbnail:"Krikil720.jpg",
-video:"https://youtu.be/8JPNmjt_OiY",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Jalan Bebatuan + Cor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan Warga",
-kondisi:"Tanah Ditanami Kebun Kopi, Nangka, Kelapa, Mlinjo",
-prospek:"Hunian, Villa, Investasi",
-point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
-},
-
-{
 judul:"Tanah View Sawah Dan Bukit Menoreh! Luas 3200m² Harga 495jt Dekat Tumpeng Menoreh!",
 lokasi:"Loano, Sedayu, Purworejo Regency, Central Java",
 luas:"3200m²",
@@ -864,6 +845,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
