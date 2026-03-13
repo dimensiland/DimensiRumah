@@ -22,7 +22,7 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 {
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
-luas:"1435m²m²",
+luas:"1435m²",
 harga:"Rp 125.000.000",
 thumbnail:"Boro1435.jpg",
 video:"https://youtu.be/buy5FkMEu7E",
@@ -60,7 +60,7 @@ point:"Tugu 25 km, Dekat Resto Pariboro, Dekat Air Terjun Terbesar Di Jogja."
 {
 judul:"Tanah Samping Sungai MURAH! Luas 657m² Hanya 150 Juta! Dekat Geblek Pari Dan Ampirono!",
 lokasi:"Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"657m²m²",
+luas:"657m²",
 harga:"Rp 150.000.000",
 thumbnail:"Banjarsari657.jpg",
 video:"https://youtu.be/0kIvb2eoCxY",
@@ -883,6 +883,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
