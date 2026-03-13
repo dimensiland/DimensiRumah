@@ -29,11 +29,11 @@ video:"https://youtu.be/buy5FkMEu7E",
 
 sertifikat:"SHM",
 muka:"30 meter",
-akses:"alan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
+akses:"Jalan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
 air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Perkebunan yang asri dan dekat dengan perkampungan/fasilitas umum seperti pasar dan rumah sakit",
-kondisi:"anah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
+kondisi:"Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
 prospek:"Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
 point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
 },
@@ -883,6 +883,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
