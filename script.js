@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Dengan Pemandangan Premium Luas 1400m² Hanya 175 Juta Dekat Tumpeng Menoreh & Curug Sidoharjo",
+lokasi:"Purwoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1400m²m²",
+harga:"Rp 175.000.000",
+thumbnail:"Purwoharjo1400.jpg",
+video:"https://youtu.be/vF2CUuS1L9c",
+
+sertifikat:"SHM Tegalan",
+muka:"40 meter",
+akses:"Jalan Cor (Akses Mobil)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan Padat Penduduk",
+kondisi:"Terasering View Sawah Dan Bukit Menoreh",
+prospek:"Villa, Rumah Tinggal / Rumah Pensiun",
+point:"Tugu 25 km, Dekat Resto Pariboro, Dekat Air Terjun Terbesar Di Jogja."
+},
+
+{
 judul:"Tanah Samping Sungai MURAH! Luas 657m² Hanya 150 Juta! Dekat Geblek Pari Dan Ampirono!",
 lokasi:"Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"657m²m²",
@@ -845,6 +864,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
