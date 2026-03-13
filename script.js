@@ -275,8 +275,8 @@ thumbnail:"Banjaran2165&4300.jpg",
 video:"https://youtu.be/87aS2NZPdM0",
 
 sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Jalan cor ukuran motor",
+muka:"100 & 20 meter",
+akses:"Tersedia",
 air:"Tersedia Mata Air",
 listrik:"PLN tersedia",
 lingkungan:"Perkampungan & Kebun",
@@ -864,6 +864,7 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
+
 
 
 
