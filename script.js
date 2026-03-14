@@ -625,25 +625,6 @@ lingkungan:"Perkampungan, Perumahan, Kebun dan Sawah",
 kondisi:"Datar",
 prospek:" Rumah Tinggal Dan Kebun",
 point:"Akses Mudah, Dekat Kantor Kelurahan Nanggulan, Dekat Kawasan Wisata Kuliner maupun Villa sekitar Nanggulan seperti Geblek Pari, Girimanah, Dadap Sumilir, Singkung Valley, Ampirono, Ingkar Janji, Weha Villa, Waza Villa, Dalem Dekana, Omah Cantrik  Ke Bandara YIA hanya 35 menit"
-},
-
-{
-judul:"Jual Rumah Luas 120m² dan Kantor Di Bantul Murah Hanya 1.9m Nego Cocok Untuk Kost Dan Kantor",
-lokasi:"Guwasari, Kembang Putihan, Bantul",
-luas:"120m²",
-harga:"Rp 1.900.000.000",
-thumbnail:"Kantor120.jpg",
-video:"https://youtu.be/KeXOTNcPsfI",
-
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:" Bata 4 meter",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perumahan, Padat penduduk",
-kondisi:"Siap Huni",
-prospek:"Rumah, Kantor, Kost",
-point:"Cocok Untuk Work Life Balance, Dekat dengan Calon Kampus UIN"
 }
 
 ];
