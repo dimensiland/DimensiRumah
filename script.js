@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Luas 850m² Harga 250jt! Istimewa Bisa Bayar Bertahap Dekat Wisata Kaliurang Dan UII",
+lokasi:"Girikerto, Sleman Regency, Special Region of Yogyakarta",
+luas:"850m²",
+harga:"Rp 250.000.000 Bisa Bertahap, Global 450.000.000",
+thumbnail:"Girikerto850.jpg",
+video:"https://youtu.be/87EbZTNRGw0",
+
+sertifikat:"SHM Pekarangan",
+muka:"40 meter",
+akses:"Tersedia",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan",
+kondisi:"Datar Sejuk",
+prospek:"Villa, Rumah Pensiun, Investasi, Kebun Durian, Kebun Alpukat",
+point:"Harga murah kondisi bagus dengan akses Mudah, Ke UII sekitar 12km, dari lokasi ke tugu jogja sekitar 22km"
+},
+
+{
 judul:"Jual Tanah MURAH Luas 2031m² Hanya 225 Juta! View Sawah Dan Bukit Menoreh!",
 lokasi:"Sidoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"2031m²",
