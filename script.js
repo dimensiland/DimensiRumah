@@ -609,25 +609,6 @@ point:"Bisa bayar bertahap, Dekat Studio Alam Gamplong, Sekolah Internasional Bi
 },
 
 {
-judul:"TURUN HARGA!! Tanah Gratis Bangunan! Luas 252m² Hanya 4JT/m Cocok Untuk Usaha! Dekat Mall Sleman",
-lokasi:"Tridadi, Sleman",
-luas:"252m²",
-harga:"Rp 4.000.000/m²",
-thumbnail:"Tridadi252.jpg",
-video:"https://youtu.be/Yw-D_KVz9Hg",
-
-sertifikat:"SHM Pekarangan",
-muka:"14 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Padat Penduduk",
-kondisi:"Datar, Sudah Ada Joglo Bangunan",
-prospek:"Cafe, Resto, Warmindo, Rumah Pribadi",
-point:"Dekat Dengan Sleman City Hall, Alun-alun denggung, Daerah Ramai, View Sawah Dan Kebun"
-},
-
-{
 judul:"Tanah Super Murah! Hanya 20km Dari Tugu! Luas 434m² Hanya 150 Juta! Dekat Wisata Kuliner Nanggulan!",
 lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"434m²",
