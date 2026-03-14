@@ -172,25 +172,6 @@ point:"Harga Murah, Dekat Bandara 25km, Malioboro 20km, Akses Kekota Dekat, Land
 },
 
 {
-judul:"Tanah Samping Sungai Indah Dengan View Sawah, Luas 1441m² Dekat Tanah Kavling Dan Akses Tol",
-lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1441m²",
-harga:"Rp 396.275.000",
-thumbnail:"Donomulyo1441.jpg",
-video:"https://youtu.be/FxB8ySrwOuA",
-
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Aspal dan Cor 5m",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Sawah",
-kondisi:"Terasering",
-prospek:"Rumah Singgah, Rumah Tinggal",
-point:"Dekat Akses Jalan Utama Naggulan - Bandara YIA, Dekat Wisata Nanggulan, sekitar 25km Ke Kota Jogja, sekitar 22km Ke Bandara"
-},
-
-{
 judul:"Tanah Menarik Hanya 18km Dari Tugu! Luas 557m² Lingkungan Nyaman! Dekat Wisata Kuliner Nanggulan!",
 lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"557m²",
@@ -207,25 +188,6 @@ lingkungan:"Perkampungan dan Perumahan",
 kondisi:"Datar sementara jadi kebun kecil",
 prospek:"Rumah Tinggal maupun Rumah Pensiun dengan akses mudah dekat kawasan wisata viral Jogja Barat",
 point:"KTP manapun bisa balik nama, Akses Mudah, Dekat Ke Kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Girimanah, Menoreh View, Ampirono, Dadap Sumilir, Ingkar Janji, Puncak Saka, Omah Cantrik dan Beberapa Villa seperti Dalem Dekana, Villa Norwegia, Dalem Plerenan, Weha Villa, Waza Villa"
-},
-
-{
-judul:"Tanah Dengan Air Terjun! Luas 1039m² Harga 375 Juta! Lokasi Sejuk, Samping Sungai Mudal!",
-lokasi:"Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-luas:"1039m²",
-harga:"Rp 375.000.000",
-thumbnail:"EkoWisata.jpg",
-video:"https://youtu.be/0kAxegjR6vM",
-
-sertifikat:"SHM Tegalan",
-muka:"25 meter",
-akses:"Tersedia 2.5m",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan Ekowisata Sungai Mudal, Kebun, Sungai, Air Terjun Dll",
-kondisi:"Datar Terasering landai, Sungai dan Air Terjun kecil membelah tanah dan Air Jernih",
-prospek:"Investasi, Villa pribadi maupun Sewa, Rumah Impian, Kebun dsb",
-point:"Akses mudah, Sangat dekat dengan wisata Sungai Mudal, Terdapat Air Terjun di tanahnya, Air Jernih dan mudah. Lingkungan kawasan wisata sungai dan Kebun yang alami, tenang dan sejuk."
 },
 
 {
@@ -663,25 +625,6 @@ lingkungan:"Padat Penduduk",
 kondisi:"Datar, Sudah Ada Joglo Bangunan",
 prospek:"Cafe, Resto, Warmindo, Rumah Pribadi",
 point:"Dekat Dengan Sleman City Hall, Alun-alun denggung, Daerah Ramai, View Sawah Dan Kebun"
-},
-
-{
-judul:"Tanah Murah! Luas 95m² Hanya 130 Juta! 17km Ke Tugu, Dekat Omah Betakan dan Studio Alam Gamplong!",
-lokasi:"Sumberagung, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
-luas:"95m²",
-harga:"Rp 130.000.000",
-thumbnail:"Sumberagung95.jpg",
-video:"https://youtu.be/9B9JqUACHpM",
-
-sertifikat:"SHM Pekarangan",
-muka:"10 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Padat Penduduk",
-kondisi:"Datar",
-prospek:"Rumah Tinggal, Homestay, Rumah Pensiun",
-point:"Dekat Ke Kota Jogja hanya 15km, dekat Omah Betakan, Studio Alam Gamplong, Ke Bandara YIA Hanya 30km, Akses Administrasi dan Pendidikan maupun pasar sangat dekat"
 },
 
 {
