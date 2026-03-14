@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Jual Tanah MURAH Luas 2031m² Hanya 225 Juta! View Sawah Dan Bukit Menoreh!",
+lokasi:"Sidoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"2031m²",
+harga:"Rp 225.000.000",
+thumbnail:"Sidoharjo2031.jpg",
+video:"https://youtu.be/KKJYlHxpj8Y",
+
+sertifikat:"SHM Pekarangan",
+muka:"50 meter",
+akses:"Tersedia",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan, Sawah, Perkampungan",
+kondisi:"Sejuk, Datar Terasering",
+prospek:"Kebun dan Rumah Pribadi, Komplek Villa",
+point:"Akses Dekat Wisata Menoreh dan Nglinggo seperti Tumpeng Menoreh, Dan Kebun Teh Nglinggo. Ke Tugu sekitar 28km, Ke Borobudur sekitar 35 menit, Bandara YIA sekitar 40km"
+},
+
+{
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
 luas:"1435m²",
