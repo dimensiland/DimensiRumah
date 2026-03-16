@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Mandi Udara Segar & Sejuk Setiap Hari Di Tanah Adem Seluas 1235m² Dekat Tumpeng Menoreh & Kebun Teh",
+lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh",
+luas:"1235m²",
+harga:"Rp 225.000.000",
+thumbnail:"Gerbosari1235.jpg",
+video:"https://youtu.be/azOdjj3rgoQ",
+
+sertifikat:"SHM Pekarangan",
+muka:"± 40 meter",
+akses:"Jalan cor blok, lebar dan mobil bisa masuk",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sejuk, asri, banyak pohon kelapa, dan memiliki suasana tenang seperti pedesaan di Jepang",
+kondisi:"Tanah relatif datar untuk ukuran pegunungan, terdiri dari beberapa trap/level lebar yang mudah ditata",
+prospek:"Sangat cocok untuk slow living, rumah pensiun, berkebun, atau dibangun villa/kabin kayu untuk disewakan",
+point:"Memiliki pemandangan langsung ke Pegunungan Menoreh, kaya oksigen, dan berlokasi dekat dengan objek wisata Tumpeng Menoreh serta Kebun Teh"
+},
+
+{
 judul:"Tanah Luas 850m² Harga 250jt! Istimewa Bisa Bayar Bertahap Dekat Wisata Kaliurang Dan UII",
 lokasi:"Girikerto, Sleman Regency, Special Region of Yogyakarta",
 luas:"850m²",
