@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Dekat Jalan Provinsi & Samping Sungai Luas 839m² Berada Di Daerah Wisata Kebun Teh Nglinggo",
+lokasi:"Nyalian, Ngargosari, Samigaluh, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"839m²",
+harga:"Rp 195.000.000",
+thumbnail:"Nyalian839.jpg",
+video:"https://youtu.be/LLLMhxfKqVE",
+
+sertifikat:"SHM",
+muka:"Mangku Sungai  ± 25 meter Hingga ± 50 meter",
+akses:"Jarak dari jalan provinsi hanya sekitar 100 meter. Terdapat akses jalan pribadi lebar 3-4 meter yang sedang dalam proses perapian agar bisa dilalui mobil sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana pegunungan yang tenang, asri (vibe tropis), dan berada di kawasan ekosistem wisata Menoreh",
+kondisi:"Tanah berupa terasiring yang landai dan mudah ditata. Di lokasi sudah terdapat berbagai pohon produktif seperti durian, alpukat, jambu, cengkeh, petai, pisang, dan pepaya",
+prospek:"Sangat cocok untuk dibangun villa/resort (bisa muat sekitar 4 kabin), kafe pinggir sungai, atau tempat healing/meditasi karena suasananya yang damai",
+point:"Dekat dengan objek wisata populer seperti Tumpeng Menoreh (4 km) dan Kebun Teh Nglinggo, sekitar 45 menit ke Malioboro dan 1 jam ke Bandara YIA"
+},
+
+{
 judul:"Mandi Udara Segar & Sejuk Setiap Hari Di Tanah Adem Seluas 1235m² Dekat Tumpeng Menoreh & Kebun Teh",
 lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh",
 luas:"1235m²",
