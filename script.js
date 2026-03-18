@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Dengan Mata Air Dan Sungai Jernih MURAH! Luas 1526m² Hanya 225 Juta! Dekat Kopi Ingkar Janji!",
+lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1227m² dan 299m²",
+harga:"Rp 225.000.000 Global",
+thumbnail:"Pendoworejo1526.jpg",
+video:"https://youtu.be/92TLpo7mDAg",
+
+sertifikat:"SHM Sawah",
+muka:"± 10 meter",
+akses:"Tersedia",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan Perkebunan",
+kondisi:"Datar",
+prospek:"Rumah Pribadi atau Villa dan Resto Dengan konsep Slow living Garden",
+point:"Akses Mudah mobil sampai ke lokasi, nempel sungai jernih dan sejuk, kondisi mudah di bangun dengan luasan ideal. Dekat Kopi Ingkar Janji hanya 5km dan Kawasan Wisata Kuliner Nanggulan Seperti Geblek Pari sekitar 6km, Dari Tugu Jogja sekitar 20 km, Dari Bandara YIA sekitar 45 menit"
+},
+
+{
 judul:"Tanah KEREN View City Lights, Sawah, Bukit Menoreh! Luas 3314m² Hanya 150rb/m Dekat Wisata Kuliner!",
 lokasi:"Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"3314m²",
