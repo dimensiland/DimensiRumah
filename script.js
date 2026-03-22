@@ -42,7 +42,7 @@ point:"4 km ke Goa Maria Lawangsih, 6 km ke Kopi Ingkar Janji, Tinitah Alam, 7 k
 judul:"PESAN SEKARANG!! Villa Eksklusif D'Limasan! Dekat Exit Tol Sentolo Dan Wisata Nanggulan! TERBATAS!",
 lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"268m² 246m² 246m² 240m²",
-harga:"A1 268m2 Harga 785jt, A2 246m2 Harga 765jt, A3 246m2 Harga 765jt , A4 240m2 Harga 760jt",
+harga:"785jt, 765jt, 765jt , 760jt",
 thumbnail:"DlIMASAN.jpg",
 video:"https://youtu.be/3PJfUsK7AYQ",
 
