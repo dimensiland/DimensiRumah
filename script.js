@@ -20,6 +20,63 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Diapit 2 Sungai View Bukit Dan Sawah, Harga Mulai Dari 145 Juta Dekat Resto Ingkar Janji",
+lokasi:"Jalan Girimulyo - Samigaluh, Karangrejo Purwosari Girimulyo Kulonprogo Yogyakarta",
+luas:"3092m² 2517m² 400m²",
+harga:"Rp 773.000.000 Rp 692.000.000 Rp 145.000.000",
+thumbnail:"Girimulyo3sertifikat.jpg",
+video:"https://youtu.be/xoNvZU_wIsQ",
+
+sertifikat:"SHM Pekarangan",
+muka:"3092m2 : ±100 Meter 2517m2 : ±30 meter dan ±80 meter 400m2 : ±20 Meter",
+akses:"Pinggir jalan kabupaten",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan kebun",
+kondisi:"Datar Terasering",
+prospek:"Lokasi menarik, cocok untuk investasi, tempat tinggal slow living, villa atau kebun",
+point:"4 km ke Goa Maria Lawangsih, 6 km ke Kopi Ingkar Janji, Tinitah Alam, 7 km ke Gebleg Pari,  Swantari Villa,  Waza Villa Luxury,  Gaia Lodge, 8 km ke Sleman,  29 km ke Malioboro,  dan 38 km ke Bandara NYIA"
+},
+
+{
+judul:"PESAN SEKARANG!! Villa Eksklusif D'Limasan! Dekat Exit Tol Sentolo Dan Wisata Nanggulan! TERBATAS!",
+lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"268m² 246m² 246m² 240m²",
+harga:"A1 268m2 Harga 785jt, A2 246m2 Harga 765jt, A3 246m2 Harga 765jt , A4 240m2 Harga 760jt",
+thumbnail:"DlIMASAN.jpg",
+video:"https://youtu.be/3PJfUsK7AYQ",
+
+sertifikat:"SHM Pekarangan",
+muka:"± 10 meter",
+akses:"Tersedia Coneblok 5-6m",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Lingkungan Persawahan",
+kondisi:"Datar Siap Huni",
+prospek:"Villa Sebagai Aset Properti Pribadi Jangka Panjang dan Sebagai Rumah Pribadi Dengan Konsep Villa Vernacular",
+point:"Lokasi Strategis, Dekat Akses Tol Sentolo, Komplek Wisata Nanggulan dan Sekitarnya. Akses Mudah Ke Pendidikan Maupun Administrasi. Kota Jogja dan Bandara YIA Mudah Di Jangkau. Sudah Termasuk SHM dan menjadi kepemilikan pribadi tanpa jangka waktu"
+},
+
+{
+judul:"TURUN HARGA Tanah Murah! Hanya 17km Dari Tugu! Luas 439m² Cuma 308Juta! Dekat Wisata Dan Bandara YIA",
+lokasi:"Krinjing Tengah, Jati Sarono, Nanggulan, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"439m²",
+harga:"Rp 308.000.000",
+thumbnail:"Krinjing439.jpg",
+video:"https://youtu.be/c-D7VAIwSz8",
+
+sertifikat:"SHM Pekarangan",
+muka:"± 20 meter",
+akses:"Tersedia Aspal",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Pendidikan, Wisata, Sawah, Kebun",
+kondisi:"Datar",
+prospek:"Rumah Tinggal, Rumah Pensiun, Investasi, Kos",
+point:"Akses mudah ke Kelurahan maupun Kecamatan, Dekat Kantor Pos, SD, TK, SMP, SMK. Lingkungan hidup dan dekat dengan Kawasan Wisata Menoreh-Nanggulan. Dekat Ke Bandara YIA sekitar 40 menit, Ke Kota Jogja hanya 17km"
+},
+
+{
 judul:"Tanah Dengan Mata Air Dan Sungai Jernih MURAH! Luas 1526m² Hanya 225 Juta! Dekat Kopi Ingkar Janji!",
 lokasi:"Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"1227m² dan 299m²",
