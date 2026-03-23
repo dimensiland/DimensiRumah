@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah View Bukit Dan Sawah! Luas 1517m² Hanya 375 Juta! Dekat Air Terjun Dan Pariboro!",
+lokasi:"Puser, Banjararum, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"1517m²",
+harga:"Rp 375.000.000",
+thumbnail:"Puser1517.jpg",
+video:"https://youtu.be/NC0MIDsIIIA",
+
+sertifikat:"SHM Pekarangan",
+muka:"±15 Meter",
+akses:"Tersedia Lebar 2m",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan dan Perkampungan",
+kondisi:"Datar Terasering",
+prospek:"Kebun Durian, Rumah pensiun konsep slow living",
+point:"Akses mobil sampai lokasi, lingkungan ramai, dekat wisata Air Terjun Sidoharjo, Paralayang Boro, udara Sejuk, Ke Kota Jogja sekitar 45 menit. Kawasan sekitar aktif dan sekelilingnya merupakan wisata alam dan kuliner"
+},
+
+{
 judul:"Tanah Diapit 2 Sungai View Bukit Dan Sawah, Harga Mulai Dari 145 Juta Dekat Resto Ingkar Janji",
 lokasi:"Jalan Girimulyo - Samigaluh, Karangrejo Purwosari Girimulyo Kulonprogo Yogyakarta",
 luas:"3092m² 2517m² 400m²",
