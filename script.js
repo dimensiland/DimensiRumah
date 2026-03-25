@@ -552,25 +552,6 @@ point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Muda
 },
 
 {
-judul:"Tanah MEWAH View Sawah! Salima 1 A4! Luas 242m² Hanya 121 Juta! Dekat Kawasan Wisata Nanggulan!",
-lokasi:"Donomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"242m²",
-harga:"Rp 500.000/m²",
-thumbnail:"Salima1A4.jpg",
-video:"https://youtu.be/8GrnsV__qpo",
-
-sertifikat:"SHM Pekarangan",
-muka:"13 Meter",
-akses:"Tersedia 5m",
-air:"Tersedia",
-listrik:"Tersedia Tiang Listrik Dengan Panel Surya",
-lingkungan:"Perkampungan,Sawah dan Perkebunan",
-kondisi:"Datar sedikit miring view sawah",
-prospek:"Rumah Pribadi, Rumah Singgah, Villa, Resto dsb dengan View sawah!",
-point:"Berhadapan lansung dengan sawah menghadap barat, Salima 1 A4 menjadi properti menarik nan romantis dengan view sawah dan cahaya sunset. Memberikan ketenangan dan Kenyamanan jiwa bagi pemilik. Akses Mudah, Dekat Villa Norwegia, Omah Cantrik, Omah Rindu, Dalem Plerenan, dan Kawasan Wisata Kuiliner Nanggulan lainnya. Ke Bandara hanya sekitar 40 menit. Ke Tugu Jogja hanya 25km. Lingkungan nyaman, asri dan sudah ramai"
-},
-
-{
 judul:"Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt! Dekat Kawasan Wisata Menoreh!",
 lokasi:"Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"2554m²",
