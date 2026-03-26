@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah View Bukit Dan Sawah Nempel Sungai! Luas 2301m² Hanya 295 Juta Dekat Glamping Menoreh!",
+lokasi:"Purwoharjo, Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"2301m²",
+harga:"Rp 295.000.000",
+thumbnail:"Banjarsari2301.jpg",
+video:"https://youtu.be/49UA_exG3_M",
+
+sertifikat:"SHM Pekarangan",
+muka:"±50 Meter",
+akses:"Tersedia",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Kebun Dan Sawah",
+kondisi:"Datar Terasering",
+prospek:"Rumah pensiun dengan konsep slow living, Kebun, wisata seperti villa dan restoran",
+point:"Akses mobil dengan view perbukitan menoreh dan sawah terasering, nempel sungai besar dengan batu eksotik. Dekat Glamping menoreh, Desa Wisata Tinalah, Teras Menoreh, Kripala serta Kawasan Wisata Kuliner Nanggulan seperti Kopi Ingkar Janji, Geblek Pari dsb. Ke Kota Jogja hanya sekitar 25km dan Bandara YIA sekitar 35km"
+},
+
+{
 judul:"Tanah View Bukit Dan Sawah! Luas 1517m² Hanya 375 Juta! Dekat Air Terjun Dan Pariboro!",
 lokasi:"Puser, Banjararum, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1517m²",
