@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Pekarangan Murah Hanya 175 Juta Luas 720m² Pemandangan Hamparan Sawah, Dekat Resto Mahaloka",
+lokasi:"Krikil, Pendoworejo, Girimulyo, Kulonprogo",
+luas:"720m²",
+harga:"Rp 175.000.000",
+thumbnail:"Krikil720.jpg",
+video:"https://youtu.be/XEg46OnDIOw",
+
+sertifikat:"SHM Pekarangan",
+muka:"2 Muka  ±30 Meter",
+akses:"Jalan Bebatuan + Cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan Warga",
+kondisi:"Tanah Ditanami Kebun Kopi, Nangka, Kelapa, Mlinjo",
+prospek:"Hunian, Villa, Investasi",
+point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
+},
+
+{
 judul:"Tanah View Bukit Dan Sawah Nempel Sungai! Luas 2301m² Hanya 295 Juta Dekat Glamping Menoreh!",
 lokasi:"Purwoharjo, Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"2301m²",
