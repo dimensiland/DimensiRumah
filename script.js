@@ -101,7 +101,7 @@ lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"268m² 246m² 246m² 240m²",
 harga:"785jt, 765jt, 765jt , 760jt",
 thumbnail:"DlIMASAN.jpg",
-video:"https://youtu.be/3PJfUsK7AYQ",
+video:"https://youtu.be/A3MFn07_N0s",
 
 sertifikat:"SHM Pekarangan",
 muka:"± 10 meter",
@@ -169,25 +169,6 @@ lingkungan:"Perkampungan dan Perkebunan",
 kondisi:"Datar Terasering",
 prospek:"Villa, Rumah pribadi, Kebun dan Investasi",
 point:"Akses mudah, tanah mayoritas datar, view sawah terasering, bukit menoreh dan City lights. Dekat kawasan Desa Wisata Tinalah, Kota Jogja, Borobudur dan Bandara YIA. Ke Ingkar Janji, Ampirono, Dadap Sumilir hanya 5km. Ke Geblek Pari dan Girimanah hanya 6km"
-},
-
-{
-judul:"Tanah Dekat Jalan Provinsi & Samping Sungai Luas 839m² Berada Di Daerah Wisata Kebun Teh Nglinggo",
-lokasi:"Nyalian, Ngargosari, Samigaluh, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"839m²",
-harga:"Rp 195.000.000",
-thumbnail:"Nyalian839.jpg",
-video:"https://youtu.be/LLLMhxfKqVE",
-
-sertifikat:"SHM",
-muka:"Mangku Sungai  ± 25 meter Hingga ± 50 meter",
-akses:"Jarak dari jalan provinsi hanya sekitar 100 meter. Terdapat akses jalan pribadi lebar 3-4 meter yang sedang dalam proses perapian agar bisa dilalui mobil sampai lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Suasana pegunungan yang tenang, asri (vibe tropis), dan berada di kawasan ekosistem wisata Menoreh",
-kondisi:"Tanah berupa terasiring yang landai dan mudah ditata. Di lokasi sudah terdapat berbagai pohon produktif seperti durian, alpukat, jambu, cengkeh, petai, pisang, dan pepaya",
-prospek:"Sangat cocok untuk dibangun villa/resort (bisa muat sekitar 4 kabin), kafe pinggir sungai, atau tempat healing/meditasi karena suasananya yang damai",
-point:"Dekat dengan objek wisata populer seperti Tumpeng Menoreh (4 km) dan Kebun Teh Nglinggo, sekitar 45 menit ke Malioboro dan 1 jam ke Bandara YIA"
 },
 
 {
@@ -386,7 +367,7 @@ lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"557m²",
 harga:"Rp 800.000/m²",
 thumbnail:"Jatisarono557.jpg",
-video:"https://youtu.be/WUMBO8ibQrA",
+video:"https://youtu.be/ZIhfnaIvabc",
 
 sertifikat:"SHM Pekarangan",
 muka:"30 meter",
@@ -419,31 +400,12 @@ point:"Sudah berupa kebun produktif yang berisi pohon durian, alpukat, jambu, ma
 },
 
 {
-judul:"Tanah 1098m² Dialiri Mata Air View Sawah, Sungai & Perbukitan Ditanami Kebun Kopi Hanya 225 Juta",
-lokasi:"Krinjing, Jatisarono, Nanggulan, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"1098m²",
-harga:"Rp 225.000.000",
-thumbnail:"Krinjing1098.jpg",
-video:"https://youtu.be/LcT86J2X8cE",
-
-sertifikat:"SHM Sawah",
-muka:"13 meter",
-akses:"Jalan Tanah Akan  Di Cor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Persawahan & Perkebunan",
-kondisi:"Ditanami Padi Dan Kopi",
-prospek:"Investasi, Hunian, Kebun, Kafe & Resto",
-point:"Berada Di Daerah Wisata Nanggulan, Akses Bandara & Candi Borobudur"
-},
-
-{
 judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
 lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"2353m²",
 harga:"Rp 250.000.000",
 thumbnail:"Samigaluh2353.jpg",
-video:"https://youtu.be/ycdjJNEnR2U",
+video:"https://youtu.be/LwsmBTVReZs",
 
 sertifikat:"SHM Tegalan",
 muka:"50 meter",
@@ -709,7 +671,7 @@ lokasi:"Sumberarum Sleman Regency, Special Region of Yogyakarta",
 luas:"1390m²",
 harga:"Rp 225.000.000",
 thumbnail:"Sumberarum1390.jpg",
-video:"https://youtu.be/fhebECinE54",
+video:"https://youtu.be/K-pTLmjVONg",
 
 sertifikat:"SHM Sawah",
 muka:"9 meter",
