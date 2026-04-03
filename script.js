@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Jual Villa Lono Villa Menoreh Etnik Dengan Tanah Luas 1137m² Cocok Untuk Slow Living Tinggal Tempati",
+lokasi:"Sibolong, Giripurwo, Girimulyo",
+luas:"1137m²",
+harga:"Rp 3.500.000.000",
+thumbnail:"LonoVilla.jpg",
+video:"https://youtu.be/BjHgRAgnBFA",
+
+sertifikat:"SHM Pekarangan",
+muka:"± Meter",
+akses:"Jalan Aspal Kampung",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Tidak Padat Alias Private Villa",
+kondisi:"Datar",
+prospek:"Villa Private, Villa Disewakan, Ekosistem Villa Tinggal Melanjutkan, Sudah terdaftar Marketing Via Online dan Google Maps",
+point:"Mengusung konsep Etnik Jawa Modern dengan bangunan utama berbentuk Limasan. Material bangunan menggunakan kayu jati lawasan berkualitas tinggi, namun dipadukan dengan dinding modern yang bersih dan lantai granit, 4 Kamar Tidur, 2 Kamar Mandi dalam yang bersih dan modern, serta 1 kamar mandi luar, Dua dapur (dapur bersih di dalam dan dapur kotor di belakang) serta area jemuran"
+},
+
+{
 judul:"Tanah Pekarangan Murah Hanya 175 Juta Luas 720m² Pemandangan Hamparan Sawah, Dekat Resto Mahaloka",
 lokasi:"Krikil, Pendoworejo, Girimulyo, Kulonprogo",
 luas:"720m²",
