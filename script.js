@@ -172,25 +172,6 @@ point:"Akses Mudah mobil sampai ke lokasi, nempel sungai jernih dan sejuk, kondi
 },
 
 {
-judul:"Tanah KEREN View City Lights, Sawah, Bukit Menoreh! Luas 3314m² Hanya 150rb/m Dekat Wisata Kuliner!",
-lokasi:"Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"3314m²",
-harga:"Rp 150.000/m²",
-thumbnail:"Banjarsari3314.jpg",
-video:"https://youtu.be/q6QFk-hk7uM",
-
-sertifikat:"SHM Pekarangan",
-muka:"± 28 meter",
-akses:"Tersedia (Akses Mobil)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perkebunan",
-kondisi:"Datar Terasering",
-prospek:"Villa, Rumah pribadi, Kebun dan Investasi",
-point:"Akses mudah, tanah mayoritas datar, view sawah terasering, bukit menoreh dan City lights. Dekat kawasan Desa Wisata Tinalah, Kota Jogja, Borobudur dan Bandara YIA. Ke Ingkar Janji, Ampirono, Dadap Sumilir hanya 5km. Ke Geblek Pari dan Girimanah hanya 6km"
-},
-
-{
 judul:"Mandi Udara Segar & Sejuk Setiap Hari Di Tanah Adem Seluas 1235m² Dekat Tumpeng Menoreh & Kebun Teh",
 lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh",
 luas:"1235m²",
