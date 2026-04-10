@@ -381,25 +381,6 @@ point:"KTP manapun bisa balik nama, Akses Mudah, Dekat Ke Kawasan Wisata Kuliner
 },
 
 {
-judul:"Jual Tanah Seluas 5500m² Hanya 150rb/m SHM Pekarangan Cocok Untuk Berkebun Durian Dan Alpukat",
-lokasi:"Banjarharjo Kalibawang KulonProgo",
-luas:"5500m²",
-harga:"Rp 150.000/m²",
-thumbnail:"Banjarharjo5500.jpg",
-video:"https://youtu.be/Pp90Kp1ZdOM",
-
-sertifikat:"SHM Pekarangan",
-muka:"- meter",
-akses:"Jalan Kampung",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan Perkebunan",
-kondisi:"Datar Terasering",
-prospek:"Investasi, Kebun Durian & Alpukat",
-point:"Sudah berupa kebun produktif yang berisi pohon durian, alpukat, jambu, mangga, dan kelengkeng, Tanah seluas 5.500 m² (setengah hektar lebih) dengan harga yang sangat terjangkau, yaitu Rp150.000 per meter"
-},
-
-{
 judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
 lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"2353m²",
