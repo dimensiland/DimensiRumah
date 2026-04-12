@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Investasi Cerdas! Tanah 1500m² di Kawasan Viral Menoreh, Potensi Passive Income 30 Juta/Bulan!",
+lokasi:"Kawasan Rock Cabin Menoreh, Desa Pagerharjo, Samigaluh, Kulon Progo (Jogja Barat)",
+luas:"1500m²",
+harga:"Rp 650.000.000",
+thumbnail:"RockCabin.jpg",
+video:"https://youtu.be/u4yZ1v0C-Sg",
+
+sertifikat:"SHM Pekarangan",
+muka:"±50-70 meter nempel sungai",
+akses:"Jalan Setapak (Terintegrasi dengan jalur wisata dan event lari internasional)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan Wisata (Rock Cabin Menoreh), dekat Tumpeng Menoreh, suasana tropis/hutan, tenang, dan asri",
+kondisi:"Datar Terasering",
+prospek:"Sangat bagus untuk investasi Villa atau Cabin, dapat diintegrasikan dengan manajemen penginapan setempat",
+point:"Terletak di dalam ekosistem wisata yang sudah jadi (okupansi kabin sekitar mencapai 70-100%), Lahan "mangku" sungai dengan air terjun kecil dan batu-batu alam yang eksotis, Hanya berjarak sekitar 1 jam dari Bandara YIA dan 45 menit dari Malioboro, Pengelolaan properti (hospitality) bisa diserahkan sepenuhnya ke manajemen kawasan"
+},
+
+{
 judul:"Jual Villa Lono Villa Menoreh Etnik Dengan Tanah Luas 1137m² Cocok Untuk Slow Living Tinggal Tempati",
 lokasi:"Sibolong, Giripurwo, Girimulyo",
 luas:"1137m²",
