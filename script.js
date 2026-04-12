@@ -381,25 +381,6 @@ point:"Harga Murah, Dekat Bandara 25km, Malioboro 20km, Akses Kekota Dekat, Land
 },
 
 {
-judul:"Tanah Menarik Hanya 18km Dari Tugu! Luas 557m² Lingkungan Nyaman! Dekat Wisata Kuliner Nanggulan!",
-lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"557m²",
-harga:"Rp 800.000/m²",
-thumbnail:"Jatisarono557.jpg",
-video:"https://youtu.be/ZIhfnaIvabc",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perumahan",
-kondisi:"Datar sementara jadi kebun kecil",
-prospek:"Rumah Tinggal maupun Rumah Pensiun dengan akses mudah dekat kawasan wisata viral Jogja Barat",
-point:"KTP manapun bisa balik nama, Akses Mudah, Dekat Ke Kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Girimanah, Menoreh View, Ampirono, Dadap Sumilir, Ingkar Janji, Puncak Saka, Omah Cantrik dan Beberapa Villa seperti Dalem Dekana, Villa Norwegia, Dalem Plerenan, Weha Villa, Waza Villa"
-},
-
-{
 judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
 lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"2353m²",
