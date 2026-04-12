@@ -27,7 +27,7 @@ harga:"Rp 650.000.000",
 thumbnail:"RockCabin.jpg",
 video:"https://youtu.be/u4yZ1v0C-Sg",
 
-sertifikat:"SHM Pekarangan",
+sertifikat:"SHM Tanah Pertanian darat",
 muka:"±50-70 meter nempel sungai",
 akses:"Jalan Setapak (Terintegrasi dengan jalur wisata dan event lari internasional)",
 air:"Tersedia",
