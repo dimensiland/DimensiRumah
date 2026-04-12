@@ -35,7 +35,7 @@ listrik:"PLN tersedia",
 lingkungan:"Kawasan Wisata (Rock Cabin Menoreh), dekat Tumpeng Menoreh, suasana tropis/hutan, tenang, dan asri",
 kondisi:"Datar Terasering",
 prospek:"Sangat bagus untuk investasi Villa atau Cabin, dapat diintegrasikan dengan manajemen penginapan setempat",
-point:"Terletak di dalam ekosistem wisata yang sudah jadi (okupansi kabin sekitar mencapai 70-100%), Lahan "mangku" sungai dengan air terjun kecil dan batu-batu alam yang eksotis, Hanya berjarak sekitar 1 jam dari Bandara YIA dan 45 menit dari Malioboro, Pengelolaan properti (hospitality) bisa diserahkan sepenuhnya ke manajemen kawasan"
+point:"Terletak di dalam ekosistem wisata yang sudah jadi (okupansi kabin sekitar mencapai 70-100%), Lahan mangku sungai dengan air terjun kecil dan batu-batu alam yang eksotis, Hanya berjarak sekitar 1 jam dari Bandara YIA dan 45 menit dari Malioboro, Pengelolaan properti (hospitality) bisa diserahkan sepenuhnya ke manajemen kawasan"
 },
 
 {
