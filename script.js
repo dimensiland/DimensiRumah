@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
+lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
+luas:"1338m²",
+harga:"Rp 825.000.000",
+thumbnail:"Kluwih1338.jpg",
+video:"https://youtu.be/JB_VZfAgF-0",
+
+sertifikat:"SHM Pekarangan",
+muka:"± Meter",
+akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat penduduk di bagian bawah, dikelilingi ekosistem wisata villa dan restoran, serta memiliki suasana alam yang asri",
+kondisi:"Tanah dengan kontur miring (landscape) yang menawarkan pemandangan lepas, sebagian area masih berupa pepohonan/jungle",
+prospek:"Sangat cocok untuk slow living, rumah tinggal pensiun, villa, atau pembangunan kabin-kabin penginapan karena berada di kawasan wisata",
+point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah, serta pemandangan Kota Jogja dari ketinggian. Lokasi strategis hanya berjarak sekitar 30 menit dari Malioboro dan 45 menit dari Bandara YIA"
+},
+
+{
 judul:"Investasi Cerdas! Tanah 1500m² di Kawasan Viral Menoreh, Potensi Passive Income 30 Juta/Bulan!",
 lokasi:"Kawasan Rock Cabin Menoreh, Desa Pagerharjo, Samigaluh, Kulon Progo (Jogja Barat)",
 luas:"1500m²",
