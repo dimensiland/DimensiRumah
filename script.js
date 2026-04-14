@@ -115,25 +115,6 @@ point:"Akses mobil sampai lokasi, lingkungan ramai, dekat wisata Air Terjun Sido
 },
 
 {
-judul:"Tanah Diapit 2 Sungai View Bukit Dan Sawah, Harga Mulai Dari 145 Juta Dekat Resto Ingkar Janji",
-lokasi:"Jalan Girimulyo - Samigaluh, Karangrejo Purwosari Girimulyo Kulonprogo Yogyakarta",
-luas:"3092m² 2517m² 400m²",
-harga:"Rp 773.000.000 Rp 692.000.000 Rp 145.000.000",
-thumbnail:"Girimulyo3sertifikat.jpg",
-video:"https://youtu.be/xoNvZU_wIsQ",
-
-sertifikat:"SHM Pekarangan",
-muka:"3092m2 : ±100 Meter 2517m2 : ±30 meter dan ±80 meter 400m2 : ±20 Meter",
-akses:"Pinggir jalan kabupaten",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan kebun",
-kondisi:"Datar Terasering",
-prospek:"Lokasi menarik, cocok untuk investasi, tempat tinggal slow living, villa atau kebun",
-point:"4 km ke Goa Maria Lawangsih, 6 km ke Kopi Ingkar Janji, Tinitah Alam, 7 km ke Gebleg Pari,  Swantari Villa,  Waza Villa Luxury,  Gaia Lodge, 8 km ke Sleman,  29 km ke Malioboro,  dan 38 km ke Bandara NYIA"
-},
-
-{
 judul:"PESAN SEKARANG!! Villa Eksklusif D'Limasan! Dekat Exit Tol Sentolo Dan Wisata Nanggulan! TERBATAS!",
 lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"268m² 246m² 246m² 240m²",
@@ -359,25 +340,6 @@ lingkungan:"Perkampungan, Persawahan dan Perkebunan",
 kondisi:"Datar Terasering",
 prospek:"Rumah tinggal, Rumah pensiun, Kebun, Investasi, Resto, Villa ataupun Resort.",
 point:"KTP mana saja bisa beli, Akses Mudah karena dekat dengan kantor kecamatan Nanggulan, Lingkungan perkampungan hidup dan ramai, Kawasan sekitaran area Wisata Kuliner Nanggulan, Dekat ke Exit Tol Sentolo sekitar 10 menit, Dekat ke Kota Jogja sekitar 17km, Ke Borobudur sekitar 40 menit, Bandara YIA sekitar 45 menit"
-},
-
-{
-judul:"Murah! Luas 600m² Harga 75 Juta! View Sawah Dan Bukit, Dekat Villa Dan Wisata Kuliner Nanggulan",
-lokasi:"Krikil, Pendoworejo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"600m²",
-harga:"Rp 75.000.000",
-thumbnail:"Pendoworejo600.jpg",
-video:"https://youtu.be/uSKHN6-h0so",
-
-sertifikat:"SHM",
-muka:"25 meter",
-akses:"Jalan Tanah (Butuh Cor 30m)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Pohon Jati, Sawah Terasering, Pegunungan Menoreh",
-kondisi:"Terasering",
-prospek:"Kebun Durian, Alpukat, Hunian Pribadi, Villa Kabin, Glamping",
-point:"Harga Murah, Dekat Bandara 25km, Malioboro 20km, Akses Kekota Dekat, Landscape Sawah Terasering, Kawasan Wisata Kuliner"
 },
 
 {
