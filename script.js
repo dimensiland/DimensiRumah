@@ -28,7 +28,7 @@ thumbnail:"Kluwih1338.jpg",
 video:"https://youtu.be/JB_VZfAgF-0",
 
 sertifikat:"SHM Pekarangan",
-muka:"± Meter",
+muka:"Memiliki dua muka (pinggir aspal atas dan jalan desa di bawah) dengan lebar muka sekitar 20 meter",
 akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
 air:"Tersedia",
 listrik:"PLN tersedia",
