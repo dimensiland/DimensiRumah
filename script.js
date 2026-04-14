@@ -23,7 +23,7 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
 lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
 luas:"1338m²",
-harga:"Rp 825.000.000",
+harga:"Rp 225.000.000",
 thumbnail:"Kluwih1338.jpg",
 video:"https://youtu.be/JB_VZfAgF-0",
 
