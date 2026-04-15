@@ -39,6 +39,63 @@ point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah,
 },
 
 {
+judul:"Investasi Cerdas! Tanah Datar 989m² di Kota Wates, Cocok Banget Buat Kos-Kosan Eksklusif",
+lokasi:"Kalikepek, Giripeni, Kota Wates, Kulon Progo",
+luas:"989m²",
+harga:"Rp 1.000.000/m",
+thumbnail:"Kalikepek989.jpg",
+video:"https://youtu.be/750MVVErlgE",
+
+sertifikat:"SHM Pekarangan",
+muka:"±20 Meter",
+akses:"Pinggir jalan besar/jalan utama yang ramai, dekat dengan jalan nasional Wates",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Dekat komplek perumahan, dekat rumah sakit (negeri dan swasta), hotel, serta area kampus",
+kondisi:"Tanah betul-betul datar, tidak perlu uruk, dan siap bangun",
+prospek:"Sangat bagus untuk investasi ruko, kos-kosan (karena dekat rencana kampus Atma Jaya dan Bandara YIA), atau hunian pribadi",
+point:"Sangat dekat dengan rencana pembangunan Kampus Terpadu Atma Jaya (belakang lokasi), Hanya berjarak sekitar 14-15 km (±15 menit) dari Bandara NYIA"
+},
+
+{
+judul:"Tanah Murah 2200m² di Perbukitan Menoreh - Hanya 375rb/m! Cocok Untuk Villa Premium",
+lokasi:"Kawasan Perbukitan Menoreh, Kulon Progo. Berjarak sekitar 5 km dari rencana exit tol, 30 menit dari Bandara YIA, dan sekitar 1 jam dari pusat Kota Jogja",
+luas:"2200m²",
+harga:"Rp 375.000/m",
+thumbnail:"BukitMenoreh2200.jpg",
+video:"https://youtu.be/Hv21VcZ-stY",
+
+sertifikat:"SHM Pekarangan",
+muka:"±100 Meter",
+akses:"Sangat lebar, kurang lebih 7 meter, dapat diakses mobil maupun bus untuk simpangan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan suasana hutan (jungle), pemandangan lembah, sawah, perbukitan Menoreh, serta view Kota Wates dan Yogyakarta dari ketinggian",
+kondisi:"Lahan siap bangun dengan kontur yang mendukung desain bangunan bertingkat atau panggung karena posisinya yang memiliki view depan dan belakang",
+prospek:"Sangat bagus untuk investasi properti, pembangunan villa premium (kapasitas hingga 9-10 unit villa), atau manajemen semi-kantor",
+point:"Memiliki dua sisi pemandangan (double view): depan menghadap lembah dan belakang menghadap panorama kota serta matahari terbit (sunrise), Lebar muka 100 meter memungkinkan setiap unit bangunan memiliki akses jalan langsung dan parkir pribadi"
+},
+
+{
+judul:"Investasi Cerdas! Tanah Luas 4000m² di Jalur Wisata Sedayu Jogja, Hanya 1,5 KM dari Jalan Wates",
+lokasi:"Sedayu, Jogja. Tepatnya di Jalan Wates KM 9 (daerah Universitas Mercu Buana atau PLN ke selatan 1,5 km), berada di belakang Perumahan Sedayu Permai atau Ciputra",
+luas:"4004m²",
+harga:"Rp 500.000/m",
+thumbnail:"Sedayu4004.jpg",
+video:"https://youtu.be/BP75YNr6RR4",
+
+sertifikat:"SHM Pekarangan",
+muka:"Lebar depan 40 meter dengan panjang ke belakang 100 meter",
+akses:"Terletak di kawasan yang dekat dengan Jalan Wates yang merupakan jalur utama menuju bandara",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat penduduk, dekat dengan perumahan besar seperti Sedayu Permai dan Ciputra, serta dekat dengan kawasan wisata kuliner dan penginapan premium",
+kondisi:"Tanah berbentuk terasering yang lebar-lebar dengan pemandangan (view) istimewa",
+prospek:"Sangat cocok untuk dibangun tempat tinggal, kafe, vila premium dengan kolam renang, atau tempat kuliner",
+point:"Memiliki pemandangan city view Kota Jogja, serta pemandangan pegunungan Merapi, Merbabu, dan Menoreh, Lokasi hanya berjarak sekitar 9 km dari Malioboro"
+},
+
+{
 judul:"Investasi Cerdas! Tanah 1500m² di Kawasan Viral Menoreh, Potensi Passive Income 30 Juta/Bulan!",
 lokasi:"Kawasan Rock Cabin Menoreh, Desa Pagerharjo, Samigaluh, Kulon Progo (Jogja Barat)",
 luas:"1500m²",
