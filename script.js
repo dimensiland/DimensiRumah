@@ -381,25 +381,6 @@ point:"Akses Mudah, Lokasi dekat jalan provinsi, Dekat Desa Wisata Alam Gerbosar
 },
 
 {
-judul:"Tanah Mewah View Sawah MURAH Hanya 17km Dari Tugu! Luas 1303m² Hanya 450rb/m! Dekat Wisata Nanggulan",
-lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1303m²",
-harga:"Rp 586.350.000",
-thumbnail:"Jatisarono1303.jpg",
-video:"https://youtu.be/vuW3W6CEBwQ",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Tersedia",
-air:"Tersedia Sumur",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Persawahan dan Perkebunan",
-kondisi:"Datar Terasering",
-prospek:"Rumah tinggal, Rumah pensiun, Kebun, Investasi, Resto, Villa ataupun Resort.",
-point:"KTP mana saja bisa beli, Akses Mudah karena dekat dengan kantor kecamatan Nanggulan, Lingkungan perkampungan hidup dan ramai, Kawasan sekitaran area Wisata Kuliner Nanggulan, Dekat ke Exit Tol Sentolo sekitar 10 menit, Dekat ke Kota Jogja sekitar 17km, Ke Borobudur sekitar 40 menit, Bandara YIA sekitar 45 menit"
-},
-
-{
 judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
 lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
 luas:"2353m²",
