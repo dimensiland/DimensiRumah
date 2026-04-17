@@ -39,6 +39,25 @@ point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelap
 },
 
 {
+judul:"CUMA 175JUTA! Tanah Luas 1400m² View Pegunungan di Kawasan Wisata Kulon Progo, Dekat Tumpeng Menoreh",
+lokasi:"Purwoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1400m²",
+harga:"Rp 175.000.000",
+thumbnail:"Bangunrejo1400.jpg",
+video:"https://youtu.be/892Omz-5sEY",
+
+sertifikat:"SHM Tegalan",
+muka:"40 meter",
+akses:"Jalan mobil sampai lokasi, kondisi jalan sudah dicor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana pedesaan yang adem, sejuk, dan tenang (cocok untuk slow living), dekat dengan rumah warga/Pak Dukuh",
+kondisi:"Tanah terasering yang saat ini ditanami pisang dan ketela, memiliki pemandangan (view) pegunungan Menoreh dan sawah yang indah",
+prospek:"Sangat bagus untuk hunian masa tua (slow living), investasi aset, atau dijadikan kebun buah seperti alpukat dan durian",
+point:"Dekat dengan objek wisata populer: Air Terjun Sidoharjo (3 km), Tumpeng Menoreh, dan Kebun Teh Nglinggo, Sekitar 6-7 km dari Minggir (Sleman) dan kurang lebih 45 menit dari pusat Kota Yogyakarta"
+},
+
+{
 judul:"Investasi Cerdas! Tanah Luas 638m² Hanya 135 Juta! Di Godean KM 13 Dekat Omah Betakan Dan Malioboro!",
 lokasi:"Klampis, Sumberrahayu, Kec. Moyudan, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
 luas:"638m²",
@@ -283,25 +302,6 @@ lingkungan:"Perkebunan, Sawah, Perkampungan",
 kondisi:"Sejuk, Datar Terasering",
 prospek:"Kebun dan Rumah Pribadi, Komplek Villa",
 point:"Akses Dekat Wisata Menoreh dan Nglinggo seperti Tumpeng Menoreh, Dan Kebun Teh Nglinggo. Ke Tugu sekitar 28km, Ke Borobudur sekitar 35 menit, Bandara YIA sekitar 40km"
-},
-
-{
-judul:"Tanah Dengan Pemandangan Premium Luas 1400m² Hanya 175 Juta Dekat Tumpeng Menoreh & Curug Sidoharjo",
-lokasi:"Purwoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1400m²",
-harga:"Rp 175.000.000",
-thumbnail:"Purwoharjo1400.jpg",
-video:"https://youtu.be/vF2CUuS1L9c",
-
-sertifikat:"SHM Tegalan",
-muka:"40 meter",
-akses:"Jalan Cor (Akses Mobil)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan Padat Penduduk",
-kondisi:"Terasering View Sawah Dan Bukit Menoreh",
-prospek:"Villa, Rumah Tinggal / Rumah Pensiun",
-point:"Tugu 25 km, Dekat Resto Pariboro, Dekat Air Terjun Terbesar Di Jogja."
 },
 
 {
