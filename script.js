@@ -39,25 +39,6 @@ point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah,
 },
 
 {
-judul:"Tanah Murah 2200m² di Perbukitan Menoreh - Hanya 375rb/m! Cocok Untuk Villa Premium",
-lokasi:"Kawasan Perbukitan Menoreh, Kulon Progo. Berjarak sekitar 5 km dari rencana exit tol, 30 menit dari Bandara YIA, dan sekitar 1 jam dari pusat Kota Jogja",
-luas:"2200m²",
-harga:"Rp 375.000/m",
-thumbnail:"BukitMenoreh2200.jpg",
-video:"https://youtu.be/Hv21VcZ-stY",
-
-sertifikat:"SHM Pekarangan",
-muka:"±100 Meter",
-akses:"Sangat lebar, kurang lebih 7 meter, dapat diakses mobil maupun bus untuk simpangan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri dengan suasana hutan (jungle), pemandangan lembah, sawah, perbukitan Menoreh, serta view Kota Wates dan Yogyakarta dari ketinggian",
-kondisi:"Lahan siap bangun dengan kontur yang mendukung desain bangunan bertingkat atau panggung karena posisinya yang memiliki view depan dan belakang",
-prospek:"Sangat bagus untuk investasi properti, pembangunan villa premium (kapasitas hingga 9-10 unit villa), atau manajemen semi-kantor",
-point:"Memiliki dua sisi pemandangan (double view): depan menghadap lembah dan belakang menghadap panorama kota serta matahari terbit (sunrise), Lebar muka 100 meter memungkinkan setiap unit bangunan memiliki akses jalan langsung dan parkir pribadi"
-},
-
-{
 judul:"Investasi Cerdas! Tanah Luas 4000m² di Jalur Wisata Sedayu Jogja, Hanya 1,5 KM dari Jalan Wates",
 lokasi:"Sedayu, Jogja. Tepatnya di Jalan Wates KM 9 (daerah Universitas Mercu Buana atau PLN ke selatan 1,5 km), berada di belakang Perumahan Sedayu Permai atau Ciputra",
 luas:"4004m²",
