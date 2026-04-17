@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Investasi Cerdas! Tanah Luas 638m² Hanya 135 Juta! Di Godean KM 13 Dekat Omah Betakan Dan Malioboro!",
+lokasi:"Klampis, Sumberrahayu, Kec. Moyudan, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
+luas:"638m²",
+harga:"Rp 135.000.000",
+thumbnail:"Klampis639.jpg",
+video:"https://youtu.be/RED1adcewWo",
+
+sertifikat:"SHM Sawah",
+muka:"±7 Meter",
+akses:"Tersedia 4m, Sementara masih tanah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan dan pertanian",
+kondisi:"Datar dan masih berbentuk kebun",
+prospek:"Investasi jangka panjang, Sebagai kebun buah sayuran maupun sebagai lahan peternakan maupun pertanian karena kondisi lahan yang sejuk dan subur",
+point:"Akses tersedia sampai ke lokasi, kondisi tanah subur, dekat Jl. Klangon-Tempel, Omah betakan, Jl. Wates, Ke Tugu sekitar 14km, Bandara YIA sekitar 40 menit, Lingkungan ramai"
+},
+
+{
 judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
 lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
 luas:"1338m²",
@@ -690,7 +709,7 @@ lokasi:"Sumberarum, Sleman Regency, Special Region of Yogyakarta",
 luas:"381m²",
 harga:"Rp 265.000.000",
 thumbnail:"Sumberarum381.jpg",
-video:"https://youtu.be/H9iDBs7XG6Y",
+video:"https://youtu.be/lLeissCcUq4",
 
 sertifikat:"SHM Pekarangan",
 muka:"- meter",
