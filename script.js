@@ -25,7 +25,7 @@ lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo 
 luas:"1435m²",
 harga:"Rp 125.000.000",
 thumbnail:"KebunDurian1435.jpg",
-video:"https://youtu.be/buy5FkMEu7E",
+video:"https://youtu.be/IQU-r6XnOX8",
 
 sertifikat:"SHM",
 muka:"30 meter",
