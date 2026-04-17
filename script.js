@@ -20,11 +20,30 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
+lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
+luas:"1435m²",
+harga:"Rp 125.000.000",
+thumbnail:"KebunDurian1435.jpg",
+video:"https://youtu.be/buy5FkMEu7E",
+
+sertifikat:"SHM",
+muka:"30 meter",
+akses:"Jalan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan yang asri dan dekat dengan perkampungan/fasilitas umum seperti pasar dan rumah sakit",
+kondisi:"Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
+prospek:"Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
+point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
+},
+
+{
 judul:"Investasi Cerdas! Tanah Luas 638m² Hanya 135 Juta! Di Godean KM 13 Dekat Omah Betakan Dan Malioboro!",
 lokasi:"Klampis, Sumberrahayu, Kec. Moyudan, Kabupaten Sleman, Daerah Istimewa Yogyakarta",
 luas:"638m²",
 harga:"Rp 135.000.000",
-thumbnail:"Klampis639.jpg",
+thumbnail:"Klampis638.jpg",
 video:"https://youtu.be/RED1adcewWo",
 
 sertifikat:"SHM Sawah",
@@ -264,25 +283,6 @@ lingkungan:"Perkebunan, Sawah, Perkampungan",
 kondisi:"Sejuk, Datar Terasering",
 prospek:"Kebun dan Rumah Pribadi, Komplek Villa",
 point:"Akses Dekat Wisata Menoreh dan Nglinggo seperti Tumpeng Menoreh, Dan Kebun Teh Nglinggo. Ke Tugu sekitar 28km, Ke Borobudur sekitar 35 menit, Bandara YIA sekitar 40km"
-},
-
-{
-judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
-lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
-luas:"1435m²",
-harga:"Rp 125.000.000",
-thumbnail:"Boro1435.jpg",
-video:"https://youtu.be/buy5FkMEu7E",
-
-sertifikat:"SHM",
-muka:"30 meter",
-akses:"Jalan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan yang asri dan dekat dengan perkampungan/fasilitas umum seperti pasar dan rumah sakit",
-kondisi:"Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
-prospek:"Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
-point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
 },
 
 {
