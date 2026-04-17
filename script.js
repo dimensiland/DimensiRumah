@@ -39,25 +39,6 @@ point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah,
 },
 
 {
-judul:"Investasi Cerdas! Tanah Datar 989m² di Kota Wates, Cocok Banget Buat Kos-Kosan Eksklusif",
-lokasi:"Kalikepek, Giripeni, Kota Wates, Kulon Progo",
-luas:"989m²",
-harga:"Rp 1.000.000/m",
-thumbnail:"Kalikepek989.jpg",
-video:"https://youtu.be/750MVVErlgE",
-
-sertifikat:"SHM Pekarangan",
-muka:"±20 Meter",
-akses:"Pinggir jalan besar/jalan utama yang ramai, dekat dengan jalan nasional Wates",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Dekat komplek perumahan, dekat rumah sakit (negeri dan swasta), hotel, serta area kampus",
-kondisi:"Tanah betul-betul datar, tidak perlu uruk, dan siap bangun",
-prospek:"Sangat bagus untuk investasi ruko, kos-kosan (karena dekat rencana kampus Atma Jaya dan Bandara YIA), atau hunian pribadi",
-point:"Sangat dekat dengan rencana pembangunan Kampus Terpadu Atma Jaya (belakang lokasi), Hanya berjarak sekitar 14-15 km (±15 menit) dari Bandara NYIA"
-},
-
-{
 judul:"Tanah Murah 2200m² di Perbukitan Menoreh - Hanya 375rb/m! Cocok Untuk Villa Premium",
 lokasi:"Kawasan Perbukitan Menoreh, Kulon Progo. Berjarak sekitar 5 km dari rencana exit tol, 30 menit dari Bandara YIA, dan sekitar 1 jam dari pusat Kota Jogja",
 luas:"2200m²",
