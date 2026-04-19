@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"TURUN HARGA! Tanah Murah di Sleman Jogja Luas 381m² 250jt Dekat Studio Alam Gamplong & Bandara YIA",
+lokasi:"Jl. Godean KM 15, Sleman, Yogyakarta (Barat Studio Alam Gamplong)",
+luas:"381m²",
+harga:"Rp 250.000.000,- (Turun harga dari sebelumnya 265jt)",
+thumbnail:"Sejati381.jpg",
+video:"https://youtu.be/TPGfcR4MInw",
+
+sertifikat:"SHM Pekarangan",
+muka:"±13 Meter",
+akses:"Jalan lebar mobil bisa berpapasan, hanya 100 meter dari jalan aspal kabupaten",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang (nuansa healing), dan sudah banyak rumah penduduk serta vila di sekitarnya",
+kondisi:"Tanah datar siap bangun",
+prospek:"Sangat bagus untuk hunian, vila, atau investasi karena dekat pusat kota Jogja dan akses bandara YIA",
+point:"Hanya 30 menit ke Malioboro, Tugu Jogja, dan Kampus UGM, Selatan Studio Alam Gamplong (1 km) dan dekat Gua Maria Jatiningsih, Dekat Pasar Ngijon (1,5 km) dan sekitar 15 menit dari Ringroad Gamping"
+},
+
+{
 judul:"Tanah Luas 657m² Siap Bangun! Lokasi Asri Samping Sungai, Dekat di Kawasan Wisata Menoreh",
 lokasi:"Balong, Banjarsari, Samigaluh, Kulon Progo (Jogja Barat), utara Resto Ingkar Janji",
 luas:"657m²",
@@ -682,44 +701,6 @@ lingkungan:"Perkebunan Durian, Kelapa, Cengkeh, Perkampungan",
 kondisi:"Datar",
 prospek:"Kebun Durian, Klengkeng, Dsb. Kondisi Datar dan Sejuk. Akses Utama Pasar Kambing Kaligesing, Dekat Kawasan Hutan Pinus",
 point:"Tanah cenderung datar dengan sedikit terasering, Jarak ke jalan utama (Jalan Raya Kaligesing) sekitar 150-200 meter, Sekitar 30 km ke Kota Yogyakarta/Malioboro"
-},
-
-{
-judul:"MURAH!! Luas 251m² Hanya 220jt!!! Strategis Berada Di Jalan Godean 16 km Dari Tugu Jogja",
-lokasi:"Jalan Godean KM 15, Sumberarum, Moyudan, Sleman",
-luas:"251m²",
-harga:"Rp 220.000.000",
-thumbnail:"Sumberarum251.jpg",
-video:"https://youtu.be/nLk6qqA0d2M",
-
-sertifikat:"SHM Pekarangan",
-muka:"12 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan, Perkampungan",
-kondisi:"Datar Sejuk",
-prospek:"Sangat cocok untuk instrumen investasi jangka panjang atau sebagai tempat tinggal pribadi, bahkan untuk rumah pensiun karena lingkungannya yang tenang namun tetap dekat dengan kota, rospek kenaikan harga didukung oleh kedekatannya dengan berbagai kampus (seperti UMY dan Mercu Buana) serta sekolah internasional, yang membuat area ini selalu dicari",
-point:"Terletak di Jalan Godean KM 15, Kelurahan Sumber Agung, Moyudan, Sleman (dekat Pondok Pesantren Bina Umat), Hanya berjarak sekitar 50-60 meter dari jalan raya utama/jalan aspal besar"
-},
-
-{
-judul:"Tanah Dekat Pusat Kota Jogja, Area Wisata & Bandara Luas 381m² Harga 265 Juta Berada Di Sleman Jogja",
-lokasi:"Sumberarum, Sleman Regency, Special Region of Yogyakarta",
-luas:"381m²",
-harga:"Rp 265.000.000",
-thumbnail:"Sumberarum381.jpg",
-video:"https://youtu.be/lLeissCcUq4",
-
-sertifikat:"SHM Pekarangan",
-muka:"- meter",
-akses:"Jalan Cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan",
-kondisi:"Datar",
-prospek:"Rumah Pensiun, Rumah Singgah, Guesthouse, Villa",
-point:"Bisa bayar bertahap, Dekat Studio Alam Gamplong, Sekolah Internasional Bina Umat, Tanah Hook"
 },
 
 {
