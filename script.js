@@ -252,7 +252,7 @@ judul:"PESAN SEKARANG!! Villa Eksklusif D'Limasan! Dekat Exit Tol Sentolo Dan Wi
 lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"268m² 246m² 246m² 240m²",
 harga:"785jt, 765jt, 765jt , 760jt",
-thumbnail:"DlIMASAN.jpg",
+thumbnail:"DLimasan.jpg",
 video:"https://youtu.be/A3MFn07_N0s",
 
 sertifikat:"SHM Pekarangan",
@@ -359,25 +359,6 @@ lingkungan:"Perkampungan, Kebun, Kuliner dan Wisata Alam",
 kondisi:"Datar Terasering",
 prospek:"Rumah pribadi, Investasi, Villa, Kebun",
 point:"Akses Nyaman dengan 2 muka, dialiri mata air tanah, udara sejuk dingin, lingkungan nyaman ramai. Dekat kawasan wisata alam seperti Menoreh Dreamland, Hutan Pinus, Ekowisata Sungai Mudal, Kembang Soka, Kedung Pedut dsb. Juga terdapat banyak Villa seperti Omah Watu Blencong. Banyak resto dan kuliner sudah ramai di sekitar kawasan tersebut"
-},
-
-{
-judul:"Tanah Bonus Rumah Samping Sungai! Luas 3812m² Hanya 450 Juta! Dekat Kawasan Wisata Alam Menoreh!",
-lokasi:"Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"3812m²",
-harga:"Rp 450.000.000",
-thumbnail:"Gerbosari3812.jpg",
-video:"https://youtu.be/m3IUPoJzKXs",
-
-sertifikat:"SHM Pekarangan",
-muka:"100 meter",
-akses:"Tersedia",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan perkebunan",
-kondisi:"Datar mangku sungai",
-prospek:"Rumah pensiun, Villa Kabin dengan Restoran",
-point:"Akses Mudah, Lokasi dekat jalan provinsi, Dekat Desa Wisata Alam Gerbosari dan Tinalah, Dekat Ke Wisata Kebun Teh Nglinggo dan Tumpeng Menoreh, Ke Jogja sekitar 30km, Bandara YIA sekitar 45km, Banyak restoran bernuansa alam dekat dengan lokasi tanah. Kondisi yang mudah dengan rumah yang sudah ada, hanya tinggal sedikit di poles akan menjadi properti impian anda"
 },
 
 {
