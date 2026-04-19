@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Luas 657m² Siap Bangun! Lokasi Asri Samping Sungai, Dekat di Kawasan Wisata Menoreh",
+lokasi:"Balong, Banjarsari, Samigaluh, Kulon Progo (Jogja Barat), utara Resto Ingkar Janji",
+luas:"657m²",
+harga:"Rp 150.000.000",
+thumbnail:"Balong657.jpg",
+video:"https://youtu.be/0-yNomk6fZo",
+
+sertifikat:"SHM Pekarangan",
+muka:"±30 Meter",
+akses:"Jalan cor, mobil bisa sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana pedesaan yang tenang di kawasan Menoreh, dekat dengan pemukiman warga, dan berbatasan langsung dengan sungai kecil yang jernih",
+kondisi:"Tanah relatif datar (sekitar 80% datar) dan subur",
+prospek:"Sangat cocok untuk rumah singgah/villa, investasi berkebun (durian/alpukat), atau konsep slow living dengan kabin penginapan karena dekat kawasan kuliner populer",
+point:"Sisi belakang tanah menempel langsung dengan sungai dengan suara gemericik air yang menenangkan, Berjarak sekitar 45 menit dari Malioboro dan 1 jam dari Bandara YIA, dekat berbagai resto populer seperti Ingkar Janji, Ampirono, dan Geblek Pari (sekitar 5-6 km)"
+},
+
+{
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
 luas:"1435m²",
@@ -302,25 +321,6 @@ lingkungan:"Perkebunan, Sawah, Perkampungan",
 kondisi:"Sejuk, Datar Terasering",
 prospek:"Kebun dan Rumah Pribadi, Komplek Villa",
 point:"Akses Dekat Wisata Menoreh dan Nglinggo seperti Tumpeng Menoreh, Dan Kebun Teh Nglinggo. Ke Tugu sekitar 28km, Ke Borobudur sekitar 35 menit, Bandara YIA sekitar 40km"
-},
-
-{
-judul:"Tanah Samping Sungai MURAH! Luas 657m² Hanya 150 Juta! Dekat Geblek Pari Dan Ampirono!",
-lokasi:"Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"657m²",
-harga:"Rp 150.000.000",
-thumbnail:"Banjarsari657.jpg",
-video:"https://youtu.be/0kIvb2eoCxY",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Tersedia",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Kebun, Kuliner dan Wisata Alam",
-kondisi:"Datar sedikit terasering menempel sungai",
-prospek:"Rumah pribadi, Villa, Guesthouse, Cabin, kebun buah",
-point:"Akses mudah dan nyaman, mobil sampai ke lokasi, nempel sungai sehingga bisa di manfaatkan untuk pengairan maupun konsep villa samping sungai dan resto. Dekat kawasan Wisata Kuliner Nanggulan seperti Geblek Pari, Ampirono, Dadap Sumilir, Kopi Ingkar Janji. Dan beberapa Villa dengan konsep sawah maupun konsep serupa seperti Waza Villa, Gaia Lodge, Swantari "
 },
 
 {
