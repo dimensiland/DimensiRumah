@@ -39,6 +39,25 @@ point:"Sisi belakang tanah menempel langsung dengan sungai dengan suara gemerici
 },
 
 {
+judul:"Tanah Indah View Sawah Dan Bukit di Jogja! Tanah Mewah 2208m² Hanya 450 Juta Dekat Wisata Nanggulan!",
+lokasi:"Ngaran, Banjarsari, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas:"2208m²",
+harga:"Rp 450.000.000 (Net)",
+thumbnail:"Ngaran2208.jpg",
+video:"https://youtu.be/hSH7rOKf9kA",
+
+sertifikat:"SHM Sawah",
+muka:"±60 Meter",
+akses:"Pecah akses jalan, Akses mobil lebar 4 meter (jalan cor/semen), hanya berjarak 200 meter dari jalan provinsi Nanggulan-Samigaluh",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, udara dingin dan sejuk. Area sekitar sudah mulai berkembang dengan adanya villa-villa premium",
+kondisi:"Tanah didominasi lahan datar (sekitar 90%), sebagian kecil berundak, menghadap langsung ke lembah sawah terasering dan Pegunungan Menoreh",
+prospek:"Sangat cocok untuk Slow Living, pembangunan Villa Premium (kapasitas hingga 5 unit villa dengan kolam renang), Glamping, atau investasi jangka panjang",
+point:"Dekat Vila Puri Kamaratik, Ke jalan Nasional hanya 200m, Dekat Kawasan Wisata Kuliner Nanggulan dan Menoreh, Udara Sejuk. View Spektakuler mencakup Landscape sawah terasering dan Gunung Menoreh (Aura tenang dan jernih). Strategis ke Tempat Wisata 4 km dari Kopi Ingkar Janji. 2 km dari Bali Bungah Glamping. 3 km dari lahan milik Luna Maya"
+},
+
+{
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
 luas:"1435m²",
