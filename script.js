@@ -405,7 +405,7 @@ lokasi:"Jatimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"597m²",
 harga:"Rp 150.000.000",
 thumbnail:"Jatimulyo597.jpg",
-video:"https://youtu.be/crty4bm7aX4",
+video:"https://youtu.be/NpzbkSZMWbo",
 
 sertifikat:"SHM Pekarangan",
 muka:"20 meter",
@@ -454,25 +454,6 @@ lingkungan:"Perkampungan & Kebun",
 kondisi:"Tanah Datar & Terasering",
 prospek:"Rumah pribadi dengan konsep slow living, Komplek Villa, Kebun, Investasi",
 point:"Harga terjangkau, kondisi tanah dan akses nyaman, luasan ideal serta mangku jalan. Tanah dengan view bukit dan sawah dengan harga terbaik. Dekat jalan Nasional ke bandara YIA sekitar 24km, ke Malioboro sekitar 27km. Kawasan sekitaran merupakan kawasan wisata alam, kuliner maupun Villa"
-},
-
-{
-judul:"TURUN HARGA! Luas 2086m² Harga 75jt NETT!!! View Pegunungan, Sawah, Sungai Cocok Untuk Kebun",
-lokasi:"Pringapus, Giripurwo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-luas:"2086m²",
-harga:"Rp 75.000.000",
-thumbnail:"Girimulyo2086.jpg",
-video:"https://youtu.be/M-7fWKFrm78",
-
-sertifikat:"SHM Tegalan",
-muka:"8 meter",
-akses:"Jalan cor ukuran motor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan & Kebun",
-kondisi:"Datar Terasering",
-prospek:"Lokasinya yang memiliki pemandangan hutan (jungle view) dan suara aliran sungai menjadikannya tempat yang cocok untuk melepas penat, vila pribadi dengan konsep menyatu dengan alam, berkebun",
-point:"Berada di Jogja Barat, tepatnya di Giripurwo, Girimulyo, Kulon Progo. Jaraknya sekitar 2 km dari kantor kecamatan dan pasar"
 },
 
 {
