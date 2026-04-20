@@ -614,7 +614,7 @@ lokasi:"Pendem, Pandanrejo, Kec. Kaligesing, Kabupaten Purworejo",
 luas:"1013m²",
 harga:"Rp 175.000.000",
 thumbnail:"Pendem1013.jpg",
-video:"https://youtu.be/tK4JWAWvXfU",
+video:"https://youtu.be/xZZZR9Jr7mY",
 
 sertifikat:"SHM Sawah",
 muka:"13 meter",
