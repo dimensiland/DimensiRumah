@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Murah 2301m² Dekat Glamping Menoreh, Cuma 295 Juta Menempel Sungai Cocok Untuk Villa & Healing",
+lokasi:"Purwoharjo, Samigaluh, Kulon Progo (Jogja Barat)",
+luas:"2301m²",
+harga:"Rp 295.000.000",
+thumbnail:"Purwoharjo2301.jpg",
+video:"https://youtu.be/ljY5D_A_cR4",
+
+sertifikat:"SHM Pekarangan",
+muka:"±50 Meter",
+akses:"Jalan desa, sekitar 3 km dari jalan aspal mobil dapat simpangan jika jalan diperlebar pemerintah ke depannya",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang tenang",
+kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
+prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
+point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
+},
+
+{
 judul:"Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
 lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
 luas:"442m²",
@@ -264,25 +283,6 @@ lingkungan:"Perkampungan Warga",
 kondisi:"Tanah Ditanami Kebun Kopi, Nangka, Kelapa, Mlinjo",
 prospek:"Hunian, Villa, Investasi",
 point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
-},
-
-{
-judul:"Tanah View Bukit Dan Sawah Nempel Sungai! Luas 2301m² Hanya 295 Juta Dekat Glamping Menoreh!",
-lokasi:"Purwoharjo, Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"2301m²",
-harga:"Rp 295.000.000",
-thumbnail:"Banjarsari2301.jpg",
-video:"https://youtu.be/49UA_exG3_M",
-
-sertifikat:"SHM Pekarangan",
-muka:"±50 Meter",
-akses:"Tersedia",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Kebun Dan Sawah",
-kondisi:"Datar Terasering",
-prospek:"Rumah pensiun dengan konsep slow living, Kebun, wisata seperti villa dan restoran",
-point:"Akses mobil dengan view perbukitan menoreh dan sawah terasering, nempel sungai besar dengan batu eksotik. Dekat Glamping menoreh, Desa Wisata Tinalah, Teras Menoreh, Kripala serta Kawasan Wisata Kuliner Nanggulan seperti Kopi Ingkar Janji, Geblek Pari dsb. Ke Kota Jogja hanya sekitar 25km dan Bandara YIA sekitar 35km"
 },
 
 {
