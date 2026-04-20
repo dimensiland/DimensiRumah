@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
+lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
+luas:"442m²",
+harga:"Rp 85.000.000",
+thumbnail:"Pandanrejo442.jpg",
+video:"https://youtu.be/fcULADTB1HQ",
+
+sertifikat:"SHM Pekarangan",
+muka:"±- Meter",
+akses:"Sangat dekat dengan jalan provinsi (sekitar 70 meter). Saat ini akses ke lokasi berupa jalan resmi yang belum dicor, namun bisa dilewati kendaraan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan penduduk yang ramai namun memiliki suasana pegunungan yang sangat tenang, sejuk (suhu sekitar 20-an derajat), dan nyaman",
+kondisi:"Tanah datar di atas gunung",
+prospek:"Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
+point:"Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
+},
+
+{
 judul:"TURUN HARGA! Tanah Murah di Sleman Jogja Luas 381m² 250jt Dekat Studio Alam Gamplong & Bandara YIA",
 lokasi:"Jl. Godean KM 15, Sleman, Yogyakarta (Barat Studio Alam Gamplong)",
 luas:"381m²",
