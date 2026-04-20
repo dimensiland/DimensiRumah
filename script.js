@@ -329,7 +329,7 @@ lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh
 luas:"1235m²",
 harga:"Rp 225.000.000",
 thumbnail:"Gerbosari1235.jpg",
-video:"https://youtu.be/azOdjj3rgoQ",
+video:"https://youtu.be/K00fTe6L7Fs",
 
 sertifikat:"SHM Pekarangan",
 muka:"± 40 meter",
