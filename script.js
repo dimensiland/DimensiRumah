@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Jual Tanah View Bukit Menoreh Indah luas 4387m² Hanya 495 Juta!!! Cocok Untuk Slow Living Dan Villa!",
+lokasi:"Purwosari, Samigaluh, Kulon Progo",
+luas:"4.387m² (Terdiri dari 2 SHM: 2.253m² dan 2.134m²)",
+harga:"Rp 495.000.000, Rp275 Juta (untuk luas 2.253 m²) dan Rp265 Juta (untuk luas 2.130 m²)",
+thumbnail:"Purwosari4387.jpg",
+video:"https://youtu.be/zUQJ-VMjCJg",
+
+sertifikat:"SHM Pekarangan",
+muka:"±80 Meter",
+akses:"Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dan dikelilingi pemandangan pegunungan (Bukit Menoreh). Dekat dengan berbagai resto terkenal dan objek wisata",
+kondisi:"Datar Terasering",
+prospek:"Villa, Rumah Pensiun atau Slow Living",
+point:"Sangat cocok untuk Slow Living, hunian pribadi, villa, kabin/glamping, atau investasi kebun produktif, View Bukit Menoreh, Matahari Terbit dan Tenggelam, Dekat jalan Besar"
+},
+
+{
 judul:"TURUN HARGA! Tanah 2086m² Hanya 75Jt di Kulon Progo Cocok Untuk Kebun Investasi Masa Depan di Jogja",
 lokasi:"Giripurwo, Girimulyo, Kulon Progo (Jogja Barat), dekat dengan area Wisma Pancoran dan Jogja Stay",
 luas:"2086m²",
@@ -587,25 +606,6 @@ lingkungan:"Perkampungan dan Perkebunan",
 kondisi:"Terasering",
 prospek:"Lokasinya sangat dekat dengan kawasan wisata populer di Menoreh, hanya berjarak sekitar 3 km dari Tumpeng Menoreh dan Kebun Teh Nglinggo, Udara di lokasi sangat sejuk dan lingkungan asri, cocok bagi yang ingin membangun rumah tinggal dengan nuansa alam",
 point:"Terletak di Pagerharjo, Samigaluh, Kulon Progo, tepat di samping jalan provinsi (Jalan Samigaluh)Status tanah sudah SHM Pekarangan, sehingga proses balik nama bisa dilakukan oleh pemilik KTP dari mana saja,"
-},
-
-{
-judul:"Tanah Luas 2134m² Dekat Wisata Tumpeng Menoreh Pernah Dikunjungi Raffi Ahmad Di The Dudas 1",
-lokasi:"Sidoharjo, Purwoharjo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-luas:"2134m²",
-harga:"Rp 280.000.000",
-thumbnail:"Sidoharjo2134.jpg",
-video:"https://youtu.be/SeNeILw8Wtc",
-
-sertifikat:"SHM Pekarangan",
-muka:"80 meter",
-akses:"Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Padat Penduduk",
-kondisi:"Terasering",
-prospek:"Dengan lebar muka 80 meter, tanah ini diproyeksikan bisa dibangun sekitar 6 hingga 8 unit villa yang semuanya menghadap ke arah pemandangan lembah,Cocok bagi orang kota yang mencari tempat untuk healing atau rumah kayu dengan konsep menyatu dengan alam,",
-point:"Berada di Jogja Barat, tepatnya di Purwoharjo, Samigaluh, Kulon Progo, Sertifikat Hak Milik (SHM) Pekarangan. Hal ini memudahkan proses balik nama bagi pembeli dari KTP luar daerah sekalipun tanpa harus pindah alamat"
 },
 
 {
