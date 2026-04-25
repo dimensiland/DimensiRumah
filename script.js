@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Jual Tanah MURAH Di Kokap Luas 1683m² Harga 130jt Nett Dekat Bandara YIA Dan Pesantren!!!",
+lokasi:"Hargomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1683m²",
+harga:"Rp 130.432.500",
+thumbnail:"Kokap1683.jpg",
+video:"https://youtu.be/t1o1YLTVKQ8",
+
+sertifikat:"SHM Pekarangan",
+muka:"±40 Meter",
+akses:"Tersedia Setapak (sementara)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan dan Perkampungan",
+kondisi:"Datar dan Miring -+30%",
+prospek:"Rumah Pensiun, Aset, Perkebunan",
+point:"Dekat Bandara -+ 10km, Dekat Pesantren Kanjeng Sunan Gunung Jati -+5 menit, Lingkungan sudah Ramai Penduduk, Ke Jalan Utama sekitar 10 menit"
+},
+
+{
 judul:"Tanah Murah di Jogja! 70Jt di Sedayu Sertifikat Sudah Pecah, Siap Balik Nama – Villa Kampung Sedayu",
 lokasi:"Argodadi, Sedayu, Bantul",
 luas:"Mulai dari 72 m² (Tersedia untuk Kavling A3 Dan A4)",
