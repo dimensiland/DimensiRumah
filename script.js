@@ -25,7 +25,7 @@ lokasi:"Banjarsari, Samigaluh, Kulonprogo Jalan Nanggulan - Samigaluh, Utara Kop
 luas:"1891m²",
 harga:"Rp 350.000.000",
 thumbnail:"Banjarsari1891.jpg",
-video:"",
+video:"https://youtu.be/78tDZAJJQeY",
 
 sertifikat:"SHM Tegalan",
 muka:"±30 Meter",
