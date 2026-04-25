@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Strategis Luas 1891 m² Hanya 350 Juta! – View Sawah & Gunung, Cocok untuk Villa/Slow Living",
+lokasi:"Banjarsari, Samigaluh, Kulonprogo Jalan Nanggulan - Samigaluh, Utara Kopi Ingkar Janji",
+luas:"1891m²",
+harga:"Rp 350.000.000",
+thumbnail:"Banjarsari1891.jpg",
+video:"",
+
+sertifikat:"SHM Pekarangan",
+muka:"±30 Meter",
+akses:"Pinggir Jalan Provinsi (Aspal Lebar)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan vegetasi subur pohon kelapa, udara sejuk, dan kawasan berkembang banyak terdapat villa/penginapan",
+kondisi:"Tanah pekarangan dengan kontur terasiring yang lebar-lebar dan landai, sangat mudah untuk penataan bangunan/landscaping tanpa banyak cut and fill",
+prospek:"Sangat cocok untuk investasi jangka panjang, pembangunan villa, penginapan homestay, atau rumah tinggal konsep slow living",
+point:"Memiliki pemandangan view lepas ke arah lembah, persawahan, dan Pegunungan Menoreh, Dekat dengan Kopi Ingkar Janji 5 km, Swantari Villa, Tumpeng Menoreh, dan berbagai destinasi wisata lainnya, Berjarak sekitar 26 km dari Malioboro dan 34 km dari Bandara YIA"
+},
+
+{
 judul:"Jual Tanah View Bukit Menoreh Indah luas 4387m² Hanya 495 Juta!!! Cocok Untuk Slow Living Dan Villa!",
 lokasi:"Purwosari, Samigaluh, Kulon Progo",
 luas:"4.387m² (Terdiri dari 2 SHM: 2.253m² dan 2.134m²)",
