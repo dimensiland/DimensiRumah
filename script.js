@@ -27,7 +27,7 @@ harga:"Rp 350.000.000",
 thumbnail:"Banjarsari1891.jpg",
 video:"",
 
-sertifikat:"SHM Pekarangan",
+sertifikat:"SHM Tegalan",
 muka:"±30 Meter",
 akses:"Pinggir Jalan Provinsi (Aspal Lebar)",
 air:"Tersedia",
