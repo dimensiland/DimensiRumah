@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Jual Tanah Murah Kavling Sedayu Sisa 2 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
+lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
+luas:"570m² & 384m²",
+harga:"Rp Kavling 3 | 384m² | 192 Juta, Kavling 4 | 570m² | 285 Juta",
+thumbnail:"KavlingSedayu.jpg",
+video:"https://youtu.be/qJpvBTxJCy4",
+
+sertifikat:"SHM Pekarangan",
+muka:"±20 Meter",
+akses:"Jalan Cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perumahan",
+kondisi:"Datar",
+prospek:"Investasi, Villa & Hunian",
+point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
+},
+
+{
 judul:"Jual Tanah MURAH Di Kokap Luas 1683m² Harga 130jt Nett Dekat Bandara YIA Dan Pesantren!!!",
 lokasi:"Hargomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"1683m²",
