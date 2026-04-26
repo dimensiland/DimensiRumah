@@ -23,7 +23,7 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 judul:"Jual Tanah Murah Kavling Sedayu Sisa 2 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
 lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
 luas:"570m² & 384m²",
-harga:"Rp Kavling 3 | 384m² | 192 Juta, Kavling 4 | 570m² | 285 Juta",
+harga:"Kavling 3 | 384m² | 192 Juta, Kavling 4 | 570m² | 285 Juta",
 thumbnail:"KavlingSedayu.jpg",
 video:"https://youtu.be/qJpvBTxJCy4",
 
