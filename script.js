@@ -39,25 +39,6 @@ point:"Dekat Bandara -+ 10km, Dekat Pesantren Kanjeng Sunan Gunung Jati -+5 meni
 },
 
 {
-judul:"Tanah Murah di Jogja! 70Jt di Sedayu Sertifikat Sudah Pecah, Siap Balik Nama – Villa Kampung Sedayu",
-lokasi:"Argodadi, Sedayu, Bantul",
-luas:"Mulai dari 72 m² (Tersedia untuk Kavling A3 Dan A4)",
-harga:"Rp 70.000.000",
-thumbnail:"KampungSedayu.jpg",
-video:"https://youtu.be/MuIqmTNqzzg",
-
-sertifikat:"SHM Pekarangan",
-muka:"8 meter dan lebar belakang sekitar 9 meter",
-akses:"Sangat terjangkau, berjarak 1,5 km dari Jalan Wates dan dekat dengan akses kota",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Udara sejuk (adem), suasana tenang, dan sudah terbentuk lingkungan hunian serta kuliner",
-kondisi:"Tanah kavling siap bangun",
-prospek:"Sangat bagus untuk investasi, tempat tinggal, guest house, villa, atau cafe",
-point:"Lokasi strategis dekat dengan berbagai kampus dan sekolah internasional seperti Universitas Mercu Buana (2 km), UMY (4 km), Kampus UIN Pajangan, Sekolah Mualimin, dan Kesatuan Bangsa, Legalitas sangat aman karena sertifikat sudah pecah per kavling"
-},
-
-{
 judul:"Tanah Strategis Luas 1891 m² Hanya 350 Juta! – View Sawah & Gunung, Cocok untuk Villa/Slow Living",
 lokasi:"Banjarsari, Samigaluh, Kulonprogo Jalan Nanggulan - Samigaluh, Utara Kopi Ingkar Janji",
 luas:"1891m²",
