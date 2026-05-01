@@ -215,7 +215,7 @@ lokasi:"Ngaran, Banjarsari, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istime
 luas:"2208m²",
 harga:"Rp 450.000.000 (Net)",
 thumbnail:"Ngaran2208.jpg",
-video:"https://youtu.be/hSH7rOKf9kA",
+video:"https://youtu.be/Uf-Lt9_s1jw",
 
 sertifikat:"SHM Sawah",
 muka:"±60 Meter",
