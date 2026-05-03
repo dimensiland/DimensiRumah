@@ -609,25 +609,6 @@ point:"Sudah ada Rumahnya, Akses Utama jalan provinsi Jogja-Purworejo, Dekat aks
 },
 
 {
-judul:"Tanah 1015m² Dekat Resto Svarna Padi & Puncak Saka, Harga Hanya 250 Juta",
-lokasi:"Grigak Giripurwo Girimulyo Kulonprogo",
-luas:"1015m²",
-harga:"Rp 250.000.000",
-thumbnail:"SwarnaPadi1015.jpg",
-video:"https://youtu.be/AyiTRArX6DM",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 meter",
-akses:"Jalan Cor Kampung",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perkebunan",
-kondisi:"Datar",
-prospek:"Rumah tinggal, homestay,  villa atau kebun",
-point:"Dekat Svarna Padi Villa,  Resto Omah Cantrik, Resto Puncak Saka, Kawasan Wisata Nanggulan dan Fasilitas Umum."
-},
-
-{
 judul:"TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
 lokasi:" Umbulharjo, Sleman, Yogyakarta",
 luas:"1200m²",
