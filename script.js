@@ -34,7 +34,7 @@ air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Asri dengan view bentangan sawah, Pegunungan Menoreh, dan dekat dengan area villa (seperti Villa Arimbi dan Omah Betakan)",
 kondisi:"Tanah sawah dengan landscape yang cantik dan udara yang segar",
-prospek:"ngat cocok untuk investasi, dibangun villa, rumah kayu/slow living, kebun organik, atau tempat peristirahatan",
+prospek:"Sangat cocok untuk investasi, dibangun villa, rumah kayu/slow living, kebun organik, atau tempat peristirahatan",
 point:"±30 menit ke Malioboro/Kampus UGM dan ±20 menit ke akses Tol Gamping, Sisi belakang tanah berbatasan langsung dengan pemandangan arah Sungai Progo dan Pegunungan Menoreh"
 },
 
