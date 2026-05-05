@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"TURUN HARGA!!! Tanah 1.390m² Hanya 195jt! Cocok Untuk Villa & Berkebun – Dekat Studio Gamplong Jogja",
+lokasi:"Jalan Godean KM 15, Pakelan, Sumber Arum, Moyudan, Sleman, Yogyakarta (Utara Studio Alam Gamplong)",
+luas:"1390m²",
+harga:"Rp 195.000.000",
+thumbnail:"Sumberarum1390.jpg",
+video:"https://youtu.be/NpyBYl5v_uY",
+
+sertifikat:"SHM Sawah (Terdiri dari 2 sertifikat)",
+muka:"±9 Meter",
+akses:"Jalan tanah (masuk ±100 meter dari jalan aspal), direncanakan menjadi akses ke Jalan Utama Wates",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan view bentangan sawah, Pegunungan Menoreh, dan dekat dengan area villa (seperti Villa Arimbi dan Omah Betakan)",
+kondisi:"Tanah sawah dengan landscape yang cantik dan udara yang segar",
+prospek:"ngat cocok untuk investasi, dibangun villa, rumah kayu/slow living, kebun organik, atau tempat peristirahatan",
+point:"±30 menit ke Malioboro/Kampus UGM dan ±20 menit ke akses Tol Gamping, Sisi belakang tanah berbatasan langsung dengan pemandangan arah Sungai Progo dan Pegunungan Menoreh"
+},
+
+{
 judul:"Jual Tanah STRATEGIS Murah 920m² di Nanggulan Dekat Kopi Ampirono & Geblek Pari Nanggulan",
 lokasi:"Krinjing, Jatisarono, Nanggulan, Kulon Progo",
 luas:"920m²",
@@ -720,25 +739,6 @@ lingkungan:"Perkebunan, Ada Penduduk",
 kondisi:"Datar Terasering",
 prospek:"Potensi panen durian lokal & Musang King setiap tahun,Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Harga tanah dipastikan naik karena dekat dengan kawasan industri dan pusat pembibitan nasional",
 point:"Sudah ada 30 pohon durian, Akses mobil simpangan, tersedia listrik & jaringan WiFi, Dekat Kota Magelang (6 km), Borobudur (16 km), dan Kawasan Industri Tempuran (4 km),Ketinggian 600 MDPL, udara sejuk, tanah subur, dan view Gunung Merapi/Merbabu"
-},
-
-{
-judul:"Tanah View Sawah Luas 1390m² Harga 225jt! Murah! Di Moyudan! Dekat Kota Jogja Dan Kampus UGM!!!",
-lokasi:"Sumberarum Sleman Regency, Special Region of Yogyakarta",
-luas:"1390m²",
-harga:"Rp 225.000.000",
-thumbnail:"Sumberarum1390.jpg",
-video:"https://youtu.be/K-pTLmjVONg",
-
-sertifikat:"SHM Sawah",
-muka:"9 meter",
-akses:"Jalan Tanah",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan, Sawah, Perkampungan",
-kondisi:"Datar Sejuk",
-prospek:"Sangat cocok dibangun rumah kayu, vila, atau guest house. Hal ini didukung oleh keberadaan ekosistem vila di sekitar lokasi, seperti Vila Arimbi dan Omah Betakan, Karena statusnya SHM Sawah dan lokasinya yang subur, tanah ini ideal untuk kebun organik, konsep pangan sehat, atau taman pribadi yang luas",
-point:"1.390 m² (terdiri dari dua sertifikat SHM Sawah: satu seluas ~340 m² dan satu lagi ~1.050 m²), Akses saat ini berupa jalan tanah (sekitar 100 meter dari jalan aspal), namun merupakan jalur rencana pengembangan pemerintah"
 },
 
 {
