@@ -20,6 +20,26 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Villa D’Limasan Perpaduan Mewah Kayu Jati & Private Pool di Lahan 1000m² Dekat Pintu Tol Sentolo!",
+lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1000m²",
+harga:"Rp 1.750.000.000",
+thumbnail:"D'Limasan.jpg",
+video:"https://youtu.be/nc87vxll07c",
+
+sertifikat:"SHM Pekarangan",
+Struktur:"Pondasi batu kali yang kokoh dengan Struktur Kayu Jati asli",
+PrivatePool:"Kolam renang pribadi (3x2,5 m) dengan lantai decking kayu di sampingnya",
+akses:"Pinggir Jalan Kabupaten (Aspal 6m), mobil papasan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+Atap:"Rangka kayu dengan Genteng Sokka yang klasik dan sejuk",
+Dinding:"Kombinasi kayu dan bata ekspos cat putih (Gaya Etnik Modern)",
+Lantai:"Keramik Motif Terazo di seluruh ruangan utama",
+Plaffond:"GRC bersih dan rapi"
+},
+
+{
 judul:"TURUN HARGA!!! Tanah 1.390m² Hanya 195jt! Cocok Untuk Villa & Berkebun – Dekat Studio Gamplong Jogja",
 lokasi:"Jalan Godean KM 15, Pakelan, Sumber Arum, Moyudan, Sleman, Yogyakarta (Utara Studio Alam Gamplong)",
 luas:"1390m²",
@@ -435,25 +455,6 @@ lingkungan:"Perkebunan dan Perkampungan",
 kondisi:"Datar Terasering",
 prospek:"Kebun Durian, Rumah pensiun konsep slow living",
 point:"Akses mobil sampai lokasi, lingkungan ramai, dekat wisata Air Terjun Sidoharjo, Paralayang Boro, udara Sejuk, Ke Kota Jogja sekitar 45 menit. Kawasan sekitar aktif dan sekelilingnya merupakan wisata alam dan kuliner"
-},
-
-{
-judul:"PESAN SEKARANG!! Villa Eksklusif D'Limasan! Dekat Exit Tol Sentolo Dan Wisata Nanggulan! TERBATAS!",
-lokasi:"Wijimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"268m² 246m² 246m² 240m²",
-harga:"785jt, 765jt, 765jt , 760jt",
-thumbnail:"DLimasan.jpg",
-video:"https://youtu.be/A3MFn07_N0s",
-
-sertifikat:"SHM Pekarangan",
-muka:"± 10 meter",
-akses:"Tersedia Coneblok 5-6m",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Lingkungan Persawahan",
-kondisi:"Datar Siap Huni",
-prospek:"Villa Sebagai Aset Properti Pribadi Jangka Panjang dan Sebagai Rumah Pribadi Dengan Konsep Villa Vernacular",
-point:"Lokasi Strategis, Dekat Akses Tol Sentolo, Komplek Wisata Nanggulan dan Sekitarnya. Akses Mudah Ke Pendidikan Maupun Administrasi. Kota Jogja dan Bandara YIA Mudah Di Jangkau. Sudah Termasuk SHM dan menjadi kepemilikan pribadi tanpa jangka waktu"
 },
 
 {
