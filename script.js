@@ -101,7 +101,7 @@ lokasi:"Banjarsari, Samigaluh, Kulonprogo Jalan Nanggulan - Samigaluh, Utara Kop
 luas:"1891m²",
 harga:"Rp 350.000.000",
 thumbnail:"Banjarsari1891.jpg",
-video:"https://youtu.be/78tDZAJJQeY",
+video:"https://youtu.be/-FCnqKMBbXM",
 
 sertifikat:"SHM Tegalan",
 muka:"±30 Meter",
@@ -117,7 +117,7 @@ point:"Memiliki pemandangan view lepas ke arah lembah, persawahan, dan Pegununga
 {
 judul:"Jual Tanah View Bukit Menoreh Indah luas 4387m² Hanya 495 Juta!!! Cocok Untuk Slow Living Dan Villa!",
 lokasi:"Purwosari, Samigaluh, Kulon Progo",
-luas:"4.387m² (Terdiri dari 2 SHM: 2.253m² dan 2.134m²)",
+luas:"4387m² (Terdiri dari 2 SHM: 2.253m² dan 2.134m²)",
 harga:"Rp 495.000.000, Rp275 Juta (untuk luas 2.253 m²) dan Rp265 Juta (untuk luas 2.130 m²)",
 thumbnail:"Purwosari4387.jpg",
 video:"https://youtu.be/zUQJ-VMjCJg",
@@ -215,7 +215,7 @@ lokasi:"Balong, Banjarsari, Samigaluh, Kulon Progo (Jogja Barat), utara Resto In
 luas:"657m²",
 harga:"Rp 150.000.000",
 thumbnail:"Balong657.jpg",
-video:"https://youtu.be/0-yNomk6fZo",
+video:"https://youtu.be/MnCFfSY0zH4",
 
 sertifikat:"SHM Pekarangan",
 muka:"±30 Meter",
