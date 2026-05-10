@@ -704,25 +704,6 @@ point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Muda
 },
 
 {
-judul:"Jual Tanah Hutan Durian Di Magelang Luas 6050m² Harga 450Juta!!! Sudah Banyak Pohon Durian Besar",
-lokasi:"Growong, Kabupaten Magelang, Jawa Tengah",
-luas:"6050m²",
-harga:"Rp 450.000.000",
-thumbnail:"Growong6050.jpg",
-video:"https://youtu.be/kfGf5Qff894",
-
-sertifikat:"SHM Tegalan",
-muka:"80 meter",
-akses:"Jalan Cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan, Ada Penduduk",
-kondisi:"Datar Terasering",
-prospek:"Potensi panen durian lokal & Musang King setiap tahun,Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Masih bisa ditambah 30-50 pohon durian unggul/alpukat, Harga tanah dipastikan naik karena dekat dengan kawasan industri dan pusat pembibitan nasional",
-point:"Sudah ada 30 pohon durian, Akses mobil simpangan, tersedia listrik & jaringan WiFi, Dekat Kota Magelang (6 km), Borobudur (16 km), dan Kawasan Industri Tempuran (4 km),Ketinggian 600 MDPL, udara sejuk, tanah subur, dan view Gunung Merapi/Merbabu"
-},
-
-{
 judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
 lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
 luas:"700m²",
