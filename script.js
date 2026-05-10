@@ -348,7 +348,7 @@ lokasi:"Jalan Godean KM 15, Kelurahan Sumberarum, Moyudan dekat Ngemplak/Sumber 
 luas:"251m²",
 harga:"Rp 210.000.000",
 thumbnail:"Km15Godean251.jpg",
-video:"https://youtu.be/P_YkXSAKC3k",
+video:"https://youtu.be/nECeedxuoDc",
 
 sertifikat:"SHM Pekarangan",
 muka:"±12 Meter",
