@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Dijual Tanah 770m² di Nanggulan Jogja, Cocok untuk Villa Mewah View Sawah, Dekat Kopi Ampirono",
+lokasi:"Krikil, Pendoworejo, Girimulyo (Kawasan Wisata Nanggulan, Kulon Progo, DIY)",
+luas:"770m²",
+harga:"Rp 225.000.000",
+thumbnail:"Krikil770.jpg",
+video:"https://youtu.be/Ia9HPCK-bVA",
+
+sertifikat:"SHM Pekarangan",
+muka:"±40 Meter",
+akses:"Pinggir jalan aspal (Mobil bisa simpangan)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata yang sudah terbentuk, dekat dengan berbagai villa dan resto populer seperti Kopi Ampirono (±500m), Waza Villa Laksari, Kopi Ingkar Janji, dan Geblek Pari. Dekat juga dengan fasilitas umum seperti pasar, rumah sakit, dan sekolah",
+kondisi:"Tanah datar, namun posisinya lebih rendah sekitar 2 meter dari bahu jalan (disarankan membangun dengan konsep rumah panggung atau dua lantai untuk efisiensi biaya urug)",
+prospek:"Sangat cocok untuk villa/homestay (bisa dipecah menjadi 3-4 unit villa), tempat tinggal masa pensiun, atau investasi karena berada di area yang sedang viral",
+point:"Pemandangan loss ke arah sawah, Gunung Merapi, Merbabu, dan city view Jogja, Berada di kawasan Menoreh, sekitar 35 menit ke Tugu/Malioboro, 30 menit ke Candi Borobudur, dan 30 menit ke Bandara YIA, Dekat dengan berbagai spot foto dan kuliner terkenal di Nanggulan"
+},
+
+{
 judul:"TURUN HARGA!!! Tanah 1.390m² Hanya 195jt! Cocok Untuk Villa & Berkebun – Dekat Studio Gamplong Jogja",
 lokasi:"Jalan Godean KM 15, Pakelan, Sumber Arum, Moyudan, Sleman, Yogyakarta (Utara Studio Alam Gamplong)",
 luas:"1390m²",
