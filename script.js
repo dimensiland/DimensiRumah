@@ -79,10 +79,10 @@ point:"Dekat dengan berbagai pusat kuliner populer seperti Kopi Ampirono, Geblek
 {
 judul:"Jual Tanah Murah Kavling Sedayu Sisa 2 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
 lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
-luas:"570m² & 384m²",
-harga:"Kavling 3 | 384m² | 192 Juta, Kavling 4 | 570m² | 285 Juta",
+luas:"430m² & 384m²",
+harga:"Kavling 2 | 430m² | 215 Juta, Kavling 3 | 384m² | 192 Juta",
 thumbnail:"KavlingSedayu.jpg",
-video:"https://youtu.be/qJpvBTxJCy4",
+video:"https://youtu.be/RcAG0Cnu8zs",
 
 sertifikat:"SHM Pekarangan",
 muka:"±20 Meter",
