@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Murah 1923m² Harga 175Jt Menempel Sungai! Lokasi Strategis di Jalur Wisata Menoreh, View Sawah",
+lokasi:"Sembuh, Sidoharjo, Kalirejo, Samigaluh, Kulon Progo (Jogja Barat)",
+luas:"1923m²",
+harga:"Rp 175.000.000",
+thumbnail:"Sembuh1923.jpg",
+video:"https://youtu.be/0ppwJcaGfUY",
+
+sertifikat:"SHM Pekarangan",
+muka:"±25–30 meter (Menempel jalan dan aliran sungai)",
+akses:"Jalan resmi terdaftar di sertifikat, namun kondisi saat ini masih berupa jalan tanah (butuh pengerasan/cor sekitar 80–100 meter menuju lokasi)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana tenang, asri dengan pemandangan sawah dan pegunungan Menoreh. Dekat dengan berbagai objek wisata dan kuliner (Tumpeng Menoreh, Kebun Teh Nglinggo, Kopi Ingkar Janji, dll)",
+kondisi:"Tanah berupa terasering lebar yang bisa ditata ulang, saat ini sudah ada beberapa pohon jati, pisang, dan alpukat yang tidak terawat",
+prospek:"Sangat cocok untuk slow living, pembangunan vila/kabin, atau dijadikan kebun produktif (Durian Musang King, alpukat, atau kopi) karena tanahnya yang sangat subur",
+point:"Lokasi berada di ekosistem wisata aktif Menoreh, Tanah memanjang dan berbatasan langsung dengan sungai kecil yang jernih, Harga sangat kompetitif di bawah 200 juta untuk luasan hampir 2.000 m² dengan status pekarangan"
+},
+
+{
 judul:"Dijual Tanah 770m² di Nanggulan Jogja, Cocok untuk Villa Mewah View Sawah, Dekat Kopi Ampirono",
 lokasi:"Krikil, Pendoworejo, Girimulyo (Kawasan Wisata Nanggulan, Kulon Progo, DIY)",
 luas:"770m²",
