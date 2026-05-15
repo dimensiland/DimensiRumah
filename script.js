@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"TANAH MURAH PINGGIR JALAN RAYA! Luas 3200m² View Sawah Terasering & Bukit Menoreh (Bisa Dicicil 6x)",
+lokasi:"Pinggir Jalan Raya Provinsi Loano - Samigaluh, kawasan Bukit Menoreh, Jogja Barat (dekat perbatasan ke arah Purworejo)",
+luas:"3200m²",
+harga:"Rp 475.000.000 (Net). Skema pembayaran bisa dicicil/bertahap hingga 6x",
+thumbnail:"Loano3200.jpg",
+video:"https://youtu.be/bPz5Z8ypyh0",
+
+sertifikat:"SHM Pekarangan (Luas 1.218 m²) Konversi Letter C ke SHM (Luas 1.982 m²) yang sedang diproses",
+muka:"±40 hingga 50 Meter",
+akses:"Sangat mudah, berada persis di pinggir jalan raya utama (jalan provinsi). Mobil bisa langsung masuk ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Berada di kawasan perbukitan yang sejuk, asri, dan tenang. Menawarkan suasana alam dengan suara aliran sungai terdekat, kabut pagi, serta pemandangan (view) indah berupa sawah terasering di bagian depan dan hutan pinus di bagian timur/samping",
+kondisi:"Tanah berupa lahan subur berundak (terasering)",
+prospek:"Sangat cocok dan potensial untuk dikembangkan sebagai kebun durian premium mandiri (bisa menampung tambahan sekitar 30–40 pohon durian premium seperti Musang King atau Duri Hitam/Alpukat), tempat villa/homestay peristirahan keluarga, atau investasi properti karena berada di jalur berkembangnya objek wisata",
+point:"Akses berkendara sekitar 1 jam menuju Malioboro (Kota Jogja), Bandara YIA, maupun ke Candi Borobudur, 6 km di bawah Tumpeng Menoreh, dekat dengan Menoreh Farm Stay (sekitar 0,5 - 1 km), Air Terjun Cibiru (1 km), Glamping Menoreh (5 km), Rimbono Homestay (5 km)"
+},
+
+{
 judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
 lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
 luas:"700m²",
