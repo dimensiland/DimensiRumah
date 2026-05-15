@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Kavling Murah di Sedayu, Bantul – Luas 116m² Cuma 155 Juta, Strategis & Siap Bangun!",
+lokasi:"Argodadi, Sedayu, Bantul (Jalan Wates KM 12)",
+luas:"116m²",
+harga:"Rp 155.000.000",
+thumbnail:"KampungSedayu.jpg",
+video:"https://youtu.be/Prz0RvakZEU",
+
+sertifikat:"SHM Pekarangan",
+muka:"±10 Meter",
+akses:"Jalan lingkungan blok (lebar ±4,5 meter, mobil masuk papasan), dekat dengan jalan aspal utama",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, sudah banyak hunian dan rumah dengan konsep limasan/modern di sekitarnya",
+kondisi:"Tanah datar, siap bangun, batas patok jelas",
+prospek:"Sangat bagus untuk hunian pribadi, villa, guest house, atau investasi karena pertumbuhan area Sedayu yang pesat",
+point:"Hanya 5 menit ke Jalan Nasional (Jalan Wates). Dekat dengan kampus UMY, Mercu Buana, dan UNISA. Dekat dengan RS Queen Latifa. Hanya 20 menit ke Malioboro/Tugu Jogja dan 30 menit ke Bandara YIA. Posisi hook (dua muka) memberikan fleksibilitas desain bangunan yang lebih menarik"
+},
+
+{
 judul:"TANAH MURAH PINGGIR JALAN RAYA! Luas 3200m² View Sawah Terasering & Bukit Menoreh (Bisa Dicicil 6x)",
 lokasi:"Pinggir Jalan Raya Provinsi Loano - Samigaluh, kawasan Bukit Menoreh, Jogja Barat (dekat perbatasan ke arah Purworejo)",
 luas:"3200m²",
@@ -36,6 +55,25 @@ lingkungan:"Berada di kawasan perbukitan yang sejuk, asri, dan tenang. Menawarka
 kondisi:"Tanah berupa lahan subur berundak (terasering)",
 prospek:"Sangat cocok dan potensial untuk dikembangkan sebagai kebun durian premium mandiri (bisa menampung tambahan sekitar 30–40 pohon durian premium seperti Musang King atau Duri Hitam/Alpukat), tempat villa/homestay peristirahan keluarga, atau investasi properti karena berada di jalur berkembangnya objek wisata",
 point:"Akses berkendara sekitar 1 jam menuju Malioboro (Kota Jogja), Bandara YIA, maupun ke Candi Borobudur, 6 km di bawah Tumpeng Menoreh, dekat dengan Menoreh Farm Stay (sekitar 0,5 - 1 km), Air Terjun Cibiru (1 km), Glamping Menoreh (5 km), Rimbono Homestay (5 km)"
+},
+
+{
+judul:"Jual Tanah Murah Kavling Sedayu Sisa 2 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
+lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
+luas:"430m² & 384m²",
+harga:"Kavling 2 | 430m² | 215 Juta, Kavling 3 | 384m² | 192 Juta",
+thumbnail:"KavlingSedayu.jpg",
+video:"https://youtu.be/RcAG0Cnu8zs",
+
+sertifikat:"SHM Pekarangan",
+muka:"±20 Meter",
+akses:"Jalan Cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perumahan",
+kondisi:"Datar",
+prospek:"Investasi, Villa & Hunian",
+point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
 },
 
 {
@@ -93,25 +131,6 @@ lingkungan:"Nasionalis, sudah ramai pemukiman, warga ramah, udara sejuk dan asri
 kondisi:"Tanah datar, subur, saat ini terdapat pohon kelapa, pisang, dan mahoni",
 prospek:"Cocok untuk rumah hunian pribadi, rumah masa tua/pensiun, villa, atau investasi homestay karena dekat kawasan wisata kuliner",
 point:"Dekat dengan berbagai pusat kuliner populer seperti Kopi Ampirono, Geblek Pari, dan Kopi Ingkar Janji, Dekat dengan Kantor Kecamatan Nanggulan, pasar, sekolah (TK, SMP, SMA), dan bank, Hanya sekitar 10 menit ke rencana Exit Tol Sentolo, 30 menit ke pusat Kota Jogja/Malioboro, dan sekitar 45 menit ke Bandara YIA"
-},
-
-{
-judul:"Jual Tanah Murah Kavling Sedayu Sisa 2 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
-lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
-luas:"430m² & 384m²",
-harga:"Kavling 2 | 430m² | 215 Juta, Kavling 3 | 384m² | 192 Juta",
-thumbnail:"KavlingSedayu.jpg",
-video:"https://youtu.be/RcAG0Cnu8zs",
-
-sertifikat:"SHM Pekarangan",
-muka:"±20 Meter",
-akses:"Jalan Cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perumahan",
-kondisi:"Datar",
-prospek:"Investasi, Villa & Hunian",
-point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
 },
 
 {
