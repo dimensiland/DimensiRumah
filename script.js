@@ -40,7 +40,7 @@ point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjara
 
 {
 judul:"Tanah Murah 1923m² Harga 175Jt Menempel Sungai! Lokasi Strategis di Jalur Wisata Menoreh, View Sawah",
-lokasi:"Sembuh, Sidoharjo, Kalirejo, Samigaluh, Kulon Progo (Jogja Barat)",
+lokasi:"Sembuh Sidoharjo, Kalirejo, Samigaluh, Kulon Progo (Jogja Barat)",
 luas:"1923m²",
 harga:"Rp 175.000.000",
 thumbnail:"Sembuh1923.jpg",
