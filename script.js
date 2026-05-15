@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
+lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
+luas:"700m²",
+harga:"Rp 395.000.000 Nego",
+thumbnail:"Minggir700.jpg",
+video:"https://youtu.be/6duk9u2aIzY",
+
+sertifikat:"SHM Sawah",
+muka:"20 meter",
+akses:"Jalan Tanah Selebar 5 Meter, Berjarak 30 Meter Dari Jalan Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Persawahan Dan Kebun",
+kondisi:"Tumbuh Beberapa Pohon Kelapa Di Lokasi",
+prospek:"Villa Dan Tempat Tinggal",
+point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjarak 4KM Dari Exit Tol"
+},
+
+{
 judul:"Tanah Murah 1923m² Harga 175Jt Menempel Sungai! Lokasi Strategis di Jalur Wisata Menoreh, View Sawah",
 lokasi:"Sembuh, Sidoharjo, Kalirejo, Samigaluh, Kulon Progo (Jogja Barat)",
 luas:"1923m²",
@@ -36,25 +55,6 @@ lingkungan:"Suasana tenang, asri dengan pemandangan sawah dan pegunungan Menoreh
 kondisi:"Tanah berupa terasering lebar yang bisa ditata ulang, saat ini sudah ada beberapa pohon jati, pisang, dan alpukat yang tidak terawat",
 prospek:"Sangat cocok untuk slow living, pembangunan vila/kabin, atau dijadikan kebun produktif (Durian Musang King, alpukat, atau kopi) karena tanahnya yang sangat subur",
 point:"Lokasi berada di ekosistem wisata aktif Menoreh, Tanah memanjang dan berbatasan langsung dengan sungai kecil yang jernih, Harga sangat kompetitif di bawah 200 juta untuk luasan hampir 2.000 m² dengan status pekarangan"
-},
-
-{
-judul:"TURUN HARGA!!! Tanah 1.390m² Hanya 195jt! Cocok Untuk Villa & Berkebun – Dekat Studio Gamplong Jogja",
-lokasi:"Jalan Godean KM 15, Pakelan, Sumber Arum, Moyudan, Sleman, Yogyakarta (Utara Studio Alam Gamplong)",
-luas:"1390m²",
-harga:"Rp 195.000.000",
-thumbnail:"Sumberarum1390.jpg",
-video:"https://youtu.be/NpyBYl5v_uY",
-
-sertifikat:"SHM Sawah (Terdiri dari 2 sertifikat)",
-muka:"±9 Meter",
-akses:"Jalan tanah (masuk ±100 meter dari jalan aspal), direncanakan menjadi akses ke Jalan Utama Wates",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri dengan view bentangan sawah, Pegunungan Menoreh, dan dekat dengan area villa (seperti Villa Arimbi dan Omah Betakan)",
-kondisi:"Tanah sawah dengan landscape yang cantik dan udara yang segar",
-prospek:"Sangat cocok untuk investasi, dibangun villa, rumah kayu/slow living, kebun organik, atau tempat peristirahatan",
-point:"±30 menit ke Malioboro/Kampus UGM dan ±20 menit ke akses Tol Gamping, Sisi belakang tanah berbatasan langsung dengan pemandangan arah Sungai Progo dan Pegunungan Menoreh"
 },
 
 {
@@ -229,25 +229,6 @@ point:"Hanya 30 menit ke Malioboro, Tugu Jogja, dan Kampus UGM, Selatan Studio A
 },
 
 {
-judul:"Tanah Luas 657m² Siap Bangun! Lokasi Asri Samping Sungai, Dekat di Kawasan Wisata Menoreh",
-lokasi:"Balong, Banjarsari, Samigaluh, Kulon Progo (Jogja Barat), utara Resto Ingkar Janji",
-luas:"657m²",
-harga:"Rp 150.000.000",
-thumbnail:"Balong657.jpg",
-video:"https://youtu.be/MnCFfSY0zH4",
-
-sertifikat:"SHM Pekarangan",
-muka:"±30 Meter",
-akses:"Jalan cor, mobil bisa sampai lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Suasana pedesaan yang tenang di kawasan Menoreh, dekat dengan pemukiman warga, dan berbatasan langsung dengan sungai kecil yang jernih",
-kondisi:"Tanah relatif datar (sekitar 80% datar) dan subur",
-prospek:"Sangat cocok untuk rumah singgah/villa, investasi berkebun (durian/alpukat), atau konsep slow living dengan kabin penginapan karena dekat kawasan kuliner populer",
-point:"Sisi belakang tanah menempel langsung dengan sungai dengan suara gemericik air yang menenangkan, Berjarak sekitar 45 menit dari Malioboro dan 1 jam dari Bandara YIA, dekat berbagai resto populer seperti Ingkar Janji, Ampirono, dan Geblek Pari (sekitar 5-6 km)"
-},
-
-{
 judul:"Tanah Indah View Sawah Dan Bukit di Jogja! Tanah Mewah 2208m² Hanya 450 Juta Dekat Wisata Nanggulan!",
 lokasi:"Ngaran, Banjarsari, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"2208m²",
@@ -419,25 +400,6 @@ point:"Mengusung konsep Etnik Jawa Modern dengan bangunan utama berbentuk Limasa
 },
 
 {
-judul:"Tanah Pekarangan Murah Hanya 175 Juta Luas 720m² Pemandangan Hamparan Sawah, Dekat Resto Mahaloka",
-lokasi:"Krikil, Pendoworejo, Girimulyo, Kulonprogo",
-luas:"720m²",
-harga:"Rp 175.000.000",
-thumbnail:"Krikil720.jpg",
-video:"https://youtu.be/XEg46OnDIOw",
-
-sertifikat:"SHM Pekarangan",
-muka:"2 Muka  ±30 Meter",
-akses:"Jalan Bebatuan + Cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan Warga",
-kondisi:"Tanah Ditanami Kebun Kopi, Nangka, Kelapa, Mlinjo",
-prospek:"Hunian, Villa, Investasi",
-point:"Dekat Wisata Kuliner Menoreh & Di Daerah Wisata VIlla & Penginapan"
-},
-
-{
 judul:"Tanah View Bukit Dan Sawah! Luas 1517m² Hanya 375 Juta! Dekat Air Terjun Dan Pariboro!",
 lokasi:"Puser, Banjararum, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"1517m²",
@@ -511,25 +473,6 @@ lingkungan:"Perkampungan",
 kondisi:"Datar Sejuk",
 prospek:"Villa, Rumah Pensiun, Investasi, Kebun Durian, Kebun Alpukat",
 point:"Harga murah kondisi bagus dengan akses Mudah, Ke UII sekitar 12km, dari lokasi ke tugu jogja sekitar 22km"
-},
-
-{
-judul:"Jual Tanah MURAH Luas 2031m² Hanya 225 Juta! View Sawah Dan Bukit Menoreh!",
-lokasi:"Sidoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"2031m²",
-harga:"Rp 225.000.000",
-thumbnail:"Sidoharjo2031.jpg",
-video:"https://youtu.be/R3KrBHhs_aM",
-
-sertifikat:"SHM Pekarangan",
-muka:"50 meter",
-akses:"Tersedia",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan, Sawah, Perkampungan",
-kondisi:"Sejuk, Datar Terasering",
-prospek:"Kebun dan Rumah Pribadi, Komplek Villa",
-point:"Akses Dekat Wisata Menoreh dan Nglinggo seperti Tumpeng Menoreh, Dan Kebun Teh Nglinggo. Ke Tugu sekitar 28km, Ke Borobudur sekitar 35 menit, Bandara YIA sekitar 40km"
 },
 
 {
@@ -609,25 +552,6 @@ point:"Akses Mudah, Berada di Kawasan Wisata Sungai Mudal, Dekat ke Menoreh Drea
 },
 
 {
-judul:"Tanah View Sawah Dan Bukit Menoreh! Luas 3200m² Harga 495jt Dekat Tumpeng Menoreh!",
-lokasi:"Loano, Sedayu, Purworejo Regency, Central Java",
-luas:"3200m²",
-harga:"Rp 495.000.000",
-thumbnail:"Loano3200.jpg",
-video:"https://youtu.be/0W03ga4AJjE",
-
-sertifikat:"SHM Tegalan",
-muka:"35 meter",
-akses:"Jalan Cor Kampung",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perkebunan",
-kondisi:"Datar Terasering",
-prospek:"Rumah pensiun, Slow living, Resto, Kebun, dsb",
-point:"Sudah ada Rumahnya, Akses Utama jalan provinsi Jogja-Purworejo, Dekat akses wisata Alam Menoreh, View Sawah Dan Sungai."
-},
-
-{
 judul:"TURUN HARGA!! Luas 1200m² Harga 750RB/m View Gunung Merapi!!! Dekat Wisata Kaliurang",
 lokasi:" Umbulharjo, Sleman, Yogyakarta",
 luas:"1200m²",
@@ -644,44 +568,6 @@ lingkungan:"Padat Penduduk",
 kondisi:"Datar",
 prospek:"Villa, Tempat Tinggal",
 point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
-},
-
-{
-judul:"Tanah Samping Jalan Provinsi! Luas 2554m² Hanya 350jt! Dekat Kawasan Wisata Menoreh!",
-lokasi:"Pagerharjo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"2554m²",
-harga:"Rp 350.000.000",
-thumbnail:"Pagerharjo2554.jpg",
-video:"https://youtu.be/9L--W_8UBP8",
-
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Tersedia",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan Perkebunan",
-kondisi:"Terasering",
-prospek:"Lokasinya sangat dekat dengan kawasan wisata populer di Menoreh, hanya berjarak sekitar 3 km dari Tumpeng Menoreh dan Kebun Teh Nglinggo, Udara di lokasi sangat sejuk dan lingkungan asri, cocok bagi yang ingin membangun rumah tinggal dengan nuansa alam",
-point:"Terletak di Pagerharjo, Samigaluh, Kulon Progo, tepat di samping jalan provinsi (Jalan Samigaluh)Status tanah sudah SHM Pekarangan, sehingga proses balik nama bisa dilakukan oleh pemilik KTP dari mana saja,"
-},
-
-{
-judul:"Tanah Luas 1013m² Dialiri Mata Air Kondisi Datar & Rapi, Siap Bangun! Villa, Glamping Maupun Hunian",
-lokasi:"Pendem, Pandanrejo, Kec. Kaligesing, Kabupaten Purworejo",
-luas:"1013m²",
-harga:"Rp 175.000.000",
-thumbnail:"Pendem1013.jpg",
-video:"https://youtu.be/xZZZR9Jr7mY",
-
-sertifikat:"SHM Sawah",
-muka:"13 meter",
-akses:"Jalan Cor, +300m Jalan Jogja-Purworejo",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kebun & Perkampungan",
-kondisi:"Datar",
-prospek:"Dengan luas 1.013 m², lahan ini sangat prospektif untuk dijadikan Villa, Glamping, atau rumah pribadi bergaya slow living. Lokasinya yang berada di ketinggian 800 MDPL menawarkan suasana pegunungan yang sejuk,Konsep lahan telah ditata sedemikian rupa sehingga bisa dibangun rumah utama untuk pemilik dan unit villa/kabin terpisah untuk disewakan, memberikan potensi pendapatan tambahan.",
-point:"Tanah sudah ditata (sudah di-bego) dan dalam kondisi siap bangun,erdapat sumber mata air langsung di lokasi yang mengalir sepanjang tahun, sangat cocok untuk kolam ikan koi atau kebutuhan rumah tangga tanpa perlu sumur bor,Suhu udara berkisar antara 16°C hingga 25°C, memberikan hawa dingin dan sejuk sepanjang hari"
 },
 
 {
@@ -720,44 +606,6 @@ lingkungan:"Perkampungan, Hutan Jati dan Kebun",
 kondisi:"Datar",
 prospek:"Villa, Tempat Tinggal",
 point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
-},
-
-{
-judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
-lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
-luas:"700m²",
-harga:"Rp 395.000.000 Nego",
-thumbnail:"Minggir700.jpg",
-video:"https://youtu.be/6duk9u2aIzY",
-
-sertifikat:"SHM Sawah",
-muka:"20 meter",
-akses:"Jalan Tanah Selebar 5 Meter, Berjarak 30 Meter Dari Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Persawahan Dan Kebun",
-kondisi:"Tumbuh Beberapa Pohon Kelapa Di Lokasi",
-prospek:"Villa Dan Tempat Tinggal",
-point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjarak 4KM Dari Exit Tol"
-},
-
-{
-judul:"Jual Tanah Pekarangan MURAH! Luas 800m² Hanya 185 Juta! Cocok Untuk Kebun Durian Dan Hutan Pinus!",
-lokasi:"Pucungroto, Purworejo Regency, Central Java",
-luas:"800m²",
-harga:"Rp 185.000.000",
-thumbnail:"Pucungroto800.jpg",
-video:"https://youtu.be/ps-LKAjMprU",
-
-sertifikat:"SHM Pekarangan",
-muka:"10 meter",
-akses:"Tersedia Masih Tanah",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan Durian, Kelapa, Cengkeh, Perkampungan",
-kondisi:"Datar",
-prospek:"Kebun Durian, Klengkeng, Dsb. Kondisi Datar dan Sejuk. Akses Utama Pasar Kambing Kaligesing, Dekat Kawasan Hutan Pinus",
-point:"Tanah cenderung datar dengan sedikit terasering, Jarak ke jalan utama (Jalan Raya Kaligesing) sekitar 150-200 meter, Sekitar 30 km ke Kota Yogyakarta/Malioboro"
 },
 
 {
