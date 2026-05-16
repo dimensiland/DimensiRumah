@@ -39,6 +39,25 @@ point:"Hanya 5 menit ke Jalan Nasional (Jalan Wates). Dekat dengan kampus UMY, M
 },
 
 {
+judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
+lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
+luas:"1338m²",
+harga:"Rp 225.000.000",
+thumbnail:"Kluwih1338.jpg",
+video:"https://youtu.be/JB_VZfAgF-0",
+
+sertifikat:"SHM Pekarangan",
+muka:"Memiliki dua muka (pinggir aspal atas dan jalan desa di bawah) dengan lebar muka sekitar 20 meter",
+akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat penduduk di bagian bawah, dikelilingi ekosistem wisata villa dan restoran, serta memiliki suasana alam yang asri",
+kondisi:"Tanah dengan kontur miring (landscape) yang menawarkan pemandangan lepas, sebagian area masih berupa pepohonan/jungle",
+prospek:"Sangat cocok untuk slow living, rumah tinggal pensiun, villa, atau pembangunan kabin-kabin penginapan karena berada di kawasan wisata",
+point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah, serta pemandangan Kota Jogja dari ketinggian. Lokasi strategis hanya berjarak sekitar 30 menit dari Malioboro dan 45 menit dari Bandara YIA"
+},
+
+{
 judul:"TANAH MURAH PINGGIR JALAN RAYA! Luas 3200m² View Sawah Terasering & Bukit Menoreh (Bisa Dicicil 6x)",
 lokasi:"Pinggir Jalan Raya Provinsi Loano - Samigaluh, kawasan Bukit Menoreh, Jogja Barat (dekat perbatasan ke arah Purworejo)",
 luas:"3200m²",
@@ -74,6 +93,25 @@ lingkungan:"Perumahan",
 kondisi:"Datar",
 prospek:"Investasi, Villa & Hunian",
 point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
+},
+
+{
+judul:"Mandi Udara Segar & Sejuk Setiap Hari Di Tanah Adem Seluas 1235m² Dekat Tumpeng Menoreh & Kebun Teh",
+lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh",
+luas:"1235m²",
+harga:"Rp 225.000.000",
+thumbnail:"Gerbosari1235.jpg",
+video:"https://youtu.be/K00fTe6L7Fs",
+
+sertifikat:"SHM Pekarangan",
+muka:"± 40 meter",
+akses:"Jalan cor blok, lebar dan mobil bisa masuk",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sejuk, asri, banyak pohon kelapa, dan memiliki suasana tenang seperti pedesaan di Jepang",
+kondisi:"Tanah relatif datar untuk ukuran pegunungan, terdiri dari beberapa trap/level lebar yang mudah ditata",
+prospek:"Sangat cocok untuk slow living, rumah pensiun, berkebun, atau dibangun villa/kabin kayu untuk disewakan",
+point:"Memiliki pemandangan langsung ke Pegunungan Menoreh, kaya oksigen, dan berlokasi dekat dengan objek wisata Tumpeng Menoreh serta Kebun Teh"
 },
 
 {
@@ -343,25 +381,6 @@ point:"Akses tersedia sampai ke lokasi, kondisi tanah subur, dekat Jl. Klangon-T
 },
 
 {
-judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
-lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
-luas:"1338m²",
-harga:"Rp 225.000.000",
-thumbnail:"Kluwih1338.jpg",
-video:"https://youtu.be/JB_VZfAgF-0",
-
-sertifikat:"SHM Pekarangan",
-muka:"Memiliki dua muka (pinggir aspal atas dan jalan desa di bawah) dengan lebar muka sekitar 20 meter",
-akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Padat penduduk di bagian bawah, dikelilingi ekosistem wisata villa dan restoran, serta memiliki suasana alam yang asri",
-kondisi:"Tanah dengan kontur miring (landscape) yang menawarkan pemandangan lepas, sebagian area masih berupa pepohonan/jungle",
-prospek:"Sangat cocok untuk slow living, rumah tinggal pensiun, villa, atau pembangunan kabin-kabin penginapan karena berada di kawasan wisata",
-point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah, serta pemandangan Kota Jogja dari ketinggian. Lokasi strategis hanya berjarak sekitar 30 menit dari Malioboro dan 45 menit dari Bandara YIA"
-},
-
-{
 judul:"Investasi Cerdas! Tanah Luas 4000m² di Jalur Wisata Sedayu Jogja, Hanya 1,5 KM dari Jalan Wates",
 lokasi:"Sedayu, Jogja. Tepatnya di Jalan Wates KM 9 (daerah Universitas Mercu Buana atau PLN ke selatan 1,5 km), berada di belakang Perumahan Sedayu Permai atau Ciputra",
 luas:"4004m²",
@@ -473,25 +492,6 @@ lingkungan:"Perkampungan, Pendidikan, Wisata, Sawah, Kebun",
 kondisi:"Datar",
 prospek:"Rumah Tinggal, Rumah Pensiun, Investasi, Kos",
 point:"Akses mudah ke Kelurahan maupun Kecamatan, Dekat Kantor Pos, SD, TK, SMP, SMK. Lingkungan hidup dan dekat dengan Kawasan Wisata Menoreh-Nanggulan. Dekat Ke Bandara YIA sekitar 40 menit, Ke Kota Jogja hanya 17km"
-},
-
-{
-judul:"Mandi Udara Segar & Sejuk Setiap Hari Di Tanah Adem Seluas 1235m² Dekat Tumpeng Menoreh & Kebun Teh",
-lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh",
-luas:"1235m²",
-harga:"Rp 225.000.000",
-thumbnail:"Gerbosari1235.jpg",
-video:"https://youtu.be/K00fTe6L7Fs",
-
-sertifikat:"SHM Pekarangan",
-muka:"± 40 meter",
-akses:"Jalan cor blok, lebar dan mobil bisa masuk",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Sejuk, asri, banyak pohon kelapa, dan memiliki suasana tenang seperti pedesaan di Jepang",
-kondisi:"Tanah relatif datar untuk ukuran pegunungan, terdiri dari beberapa trap/level lebar yang mudah ditata",
-prospek:"Sangat cocok untuk slow living, rumah pensiun, berkebun, atau dibangun villa/kabin kayu untuk disewakan",
-point:"Memiliki pemandangan langsung ke Pegunungan Menoreh, kaya oksigen, dan berlokasi dekat dengan objek wisata Tumpeng Menoreh serta Kebun Teh"
 },
 
 {
