@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah Nuansa Ubud Bali di Samigaluh Luas 884m² Cuma 200 Jutaan! Bonus Sumber Mata Air Melimpah!",
+lokasi:"Ngemplak, Pagerharjo, Samigaluh, Kulon Progo, D.I. Yogyakarta (Kawasan Wisata Perbukitan Menoreh)",
+luas:"884m²",
+harga:"Rp 275.000.000",
+thumbnail:"Ngemplak880.jpg",
+video:"https://youtu.be/F4bDsp_kWno",
+
+sertifikat:"SHM Sawah",
+muka:"± Meter",
+akses:"Berupa Jalan Setapak sepanjang kurang lebih 150 meter hingga 200 meter dari pinggir jalan raya utama tempat parkir kendaraan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Berada di kawasan pedesaan yang asri, adem, tenang, dikelilingi pemandangan sawah terasering 360 derajat, berhawa sejuk, dan dekat dengan berbagai destinasi wisata Menoreh",
+kondisi:"Lahan produktif berupa hamparan sawah datar dengan aliran air alami yang terus-menerus mengalir",
+prospek:"Sangat kuat dan cocok untuk dikembangkan menjadi kawasan hidden gem villa dengan konsep panggung/kayu modern, farm stay, penginapan dengan konsep ketahanan pangan (perpaduan padi, sayuran, dan kolam ikan koi/konsumsi), atau tempat meditasi dan healing",
+point:"Berjarak dekat dengan berbagai destinasi wisata populer (sekitar 2-6 km dari Menoreh Rock Cabin, Tumpeng Menoreh, Menoreh Farm Stay, Borobudur Highland, dan Kebun Teh Nglinggo), Struktur tanah datar di area terasering memudahkan penataan landscape yang estetik"
+},
+
+{
 judul:"Tanah View Kota Jogja, Perbukitan & Pegunungan Cocok Untuk Kebun Pribadi Luas 1517m² Harga 275 Juta",
 lokasi:"Puser, Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat",
 luas:"1517m²",
