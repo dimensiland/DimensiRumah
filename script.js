@@ -20,6 +20,25 @@ point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan 
 },
 
 {
+judul:"Tanah View Kota Jogja, Perbukitan & Pegunungan Cocok Untuk Kebun Pribadi Luas 1517m² Harga 275 Juta",
+lokasi:"Puser, Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat",
+luas:"1517m²",
+harga:"Rp 275.000.000",
+thumbnail:"Puser1517.jpg",
+video:"https://youtu.be/c8_ebEJKQ14",
+
+sertifikat:"SHM Pekarangan",
+muka:"± Meter",
+akses:"Memiliki akses jalan yang masuk ke area satu kompleks kebun, sudah ada komitmen akses tempat parkir mobil selamanya yang nyaman di area lokasi kebun",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dan aman. Berada di kawasan pedesaan/perbukitan Menoreh yang subur dan dekat dengan tetangga (warga lokal yang ramah)",
+kondisi:"Kebun produktif yang sudah dibersihkan, dipupuk (kohe/organik), dan dirawat. Sudah ditanami sekitar 40 pohon buah",
+prospek:"Sangat cocok untuk kebun buah pribadi, tempat peristirahatan keluarga (villa/saung keluarga), investasi properti, atau dikembangkan untuk tempat nongkrong/wisata karena pemandangannya yang sangat indah",
+point:"Bisa dititipkan perawatannya ke warga lokal (pemilik awal) dengan biaya yang sangat terjangkau (tanpa biaya bulanan, hanya bayar saat butuh pembersihan/pupuk/pruning sekitar 3 kali setahun), Dekat lokasi Paralayang Giri Sembung, ± 500 meter dari Air Terjun Sidoharjo, ± 2 km ke Jalur Sepeda Luna Maya, ± 3 km ke Teras Menoreh, Kripala Resto, dan Banjar Arum,± 4 km ke Desa Wisata (Dewi) Tinalah,± 5 km (15 menit) ke Sleman,± 9 km ke Mahaloka / Girimanah,± 15 km (30 menit) ke Tumpeng Menoreh,± 25 km (45 menit) ke Malioboro, Kota Yogyakarta,± 43 km (1 jam) ke Bandara YIA"
+},
+
+{
 judul:"Tanah Kavling Murah di Sedayu, Bantul – Luas 116m² Cuma 155 Juta, Strategis & Siap Bangun!",
 lokasi:"Argodadi, Sedayu, Bantul (Jalan Wates KM 12)",
 luas:"116m²",
