@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"MURAH!!! Tanah Sejuk Luas 597m² Hanya 150 Juta! Dekat Menoreh Dreamland Dan Sungai Mudal!",
+lokasi:"Jatimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"597m²",
+harga:"Rp 150.000.000",
+thumbnail:"Jatimulyo597.jpg",
+video:"https://youtu.be/NpzbkSZMWbo",
+
+sertifikat:"SHM Pekarangan",
+muka:"20 meter",
+akses:"Tersedia",
+air:"Tersedia mata air dan Pamsimas",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan, Kebun, Kuliner dan Wisata Alam",
+kondisi:"Datar Terasering",
+prospek:"Rumah pribadi, Investasi, Villa, Kebun",
+point:"Akses Nyaman dengan 2 muka, dialiri mata air tanah, udara sejuk dingin, lingkungan nyaman ramai. Dekat kawasan wisata alam seperti Menoreh Dreamland, Hutan Pinus, Ekowisata Sungai Mudal, Kembang Soka, Kedung Pedut dsb. Juga terdapat banyak Villa seperti Omah Watu Blencong. Banyak resto dan kuliner sudah ramai di sekitar kawasan tersebut"
+},
+
+{
 judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
 lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah ",
 luas:"72 - 88 m²",
@@ -530,44 +549,6 @@ lingkungan:"Perkampungan",
 kondisi:"Datar Sejuk",
 prospek:"Villa, Rumah Pensiun, Investasi, Kebun Durian, Kebun Alpukat",
 point:"Harga murah kondisi bagus dengan akses Mudah, Ke UII sekitar 12km, dari lokasi ke tugu jogja sekitar 22km"
-},
-
-{
-judul:"MURAH!!! Tanah Sejuk Luas 597m² Hanya 150 Juta! Dekat Menoreh Dreamland Dan Sungai Mudal!",
-lokasi:"Jatimulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"597m²",
-harga:"Rp 150.000.000",
-thumbnail:"Jatimulyo597.jpg",
-video:"https://youtu.be/NpzbkSZMWbo",
-
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Tersedia",
-air:"Tersedia mata air dan Pamsimas",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Kebun, Kuliner dan Wisata Alam",
-kondisi:"Datar Terasering",
-prospek:"Rumah pribadi, Investasi, Villa, Kebun",
-point:"Akses Nyaman dengan 2 muka, dialiri mata air tanah, udara sejuk dingin, lingkungan nyaman ramai. Dekat kawasan wisata alam seperti Menoreh Dreamland, Hutan Pinus, Ekowisata Sungai Mudal, Kembang Soka, Kedung Pedut dsb. Juga terdapat banyak Villa seperti Omah Watu Blencong. Banyak resto dan kuliner sudah ramai di sekitar kawasan tersebut"
-},
-
-{
-judul:"Tanah Indah View Sawah Dekat Air Terjun Luas 2353m² Harga 250JT Dekat Tumpeng Menoreh & Bandara NYIA",
-lokasi:"Pagerharjo, Samigaluh, Kulonprogo, Daerah Istimewa Yogyakarta",
-luas:"2353m²",
-harga:"Rp 250.000.000",
-thumbnail:"Samigaluh2353.jpg",
-video:"https://youtu.be/LwsmBTVReZs",
-
-sertifikat:"SHM Tegalan",
-muka:"50 meter",
-akses:"Jalan Cor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"Rumah Warga, Perhutanan, Sawah",
-kondisi:"Tanah Datar Terasering",
-prospek:"Tempat Wisata, Hunian, Investasi, Villa",
-point:"Dekat Jalan Purworejo - Yogyakarta, Bandara NYIA, Badan Otoritas Borobudur, Kebun Teh Nglinggo, Tumpeng Menoreh"
 },
 
 {
