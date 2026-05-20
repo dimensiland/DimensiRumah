@@ -9,7 +9,7 @@ thumbnail:"Tlogoguwo1863.jpg",
 video:"https://youtu.be/sddBNSpK9Zc",
 
 sertifikat:"SHM Pekarangan",
-muka:"± Meter",
+muka:"±40 Meter",
 akses:"Sangat bagus, jalan aspal/cor blok, akses mobil bisa berpapasan/simpangan lancar sampai ke lokasi lahan",
 air:"Tersedia",
 listrik:"PLN tersedia",
