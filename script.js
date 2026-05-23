@@ -1,6 +1,63 @@
 const properties=[
 
 {
+judul:"Tanah Murah Luas 5331m² Pinggir Sungai Eksotis Cocok untuk Villa & Resort View Sungai Menoreh",
+lokasi:"Grigak, Girimulyo, Kulon Progo, Jogja Barat (Belakang Pasar Seribit / Belakang Polsek, Puskesmas, & Kecamatan Girimulyo)",
+luas:"5331m²",
+harga:"Rp 150.000/m",
+thumbnail:"Grigak5331.jpg",
+video:"https://youtu.be/-mTmmwtyzKw",
+
+sertifikat:"SHM",
+muka:"±30 Meter",
+akses:"Jalan resmi. Dari jalan aspal kabupaten ke titik lokasi berjarak sekitar 50-70 meter (saat ini perlu dicor/pengerasan jalan)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata, asri, tenang, dan dikelilingi oleh pemandangan sawah serta pegunungan/Perbukitan Menoreh",
+kondisi:"90% lahan berupa tanah datar/landai (siap bangun tanpa perlu alat berat/bego), saat ini ditanami pohon sengon dan rumput pakan ternak",
+prospek:"Sangat ideal untuk dibangun resort, kompleks private villa (kapasitas hingga 10 unit), resto/cafe berkonsep kabin kaca, tempat pensiun, atau hunian berkonsep slow living",
+point:"Hanya Rp 150 ribu/m², Memiliki panjang muka yang menghadap ke sungai berbatu alami sepanjang lebih dari 100 meter, sangat premium untuk view kamar villa atau area nongkrong, Berdekatan dengan berbagai destinasi populer seperti Suarna Padi (500 m), Puncak Saka (1 km), Kopi Ampirono, Ingkar Janji, Omah Cantrik, dan Geblek Pari, Hanya sekitar 5 km dari rencana pintu tol Sentolo, 22 km (±35 menit) dari Malioboro/Kota Jogja, dan 24 km dari Bandara YIA"
+},
+
+{
+judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
+lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
+luas:"1025m²",
+harga:"Rp 650.000.000",
+thumbnail:"Kamal1025.jpg",
+video:"https://youtu.be/FITBDigpKVs",
+
+sertifikat:"SHM Pekarangan",
+muka:"±40 Meter",
+akses:"Jalan mobil bisa sampai ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dekat dengan pemukiman tetangga, dan berbatasan dengan sungai jernih yang mengalir sepanjang tahun",
+kondisi:"Lahan berkontur datar keseluruhan, siap bangun",
+prospek:"Sangat ideal untuk hunian masa tua/pensiun (slow living), villa, tempat berkebun, maupun usaha rekreasi air skala kecil (seperti river tubing atau area santai pinggir sungai) ",
+point:"Berjarak sekitar 7–8 km dari pusat Kota Wates, ±15 km dari Bandara (YIA), Dekat dengan Bumi Perkemahan Kedung Jinggo, serta berjarak sekitar 4–5 km di bawah objek wisata Waduk Sermo"
+},
+
+{
+judul:"TANAH 9500m² PUNCAK BUKIT DI MENOREH! View Sawah, Bukit & City Light, Cocok Banget Buat Vila/Resto!",
+lokasi:"Giripurwo, Kulon Progo, DI Yogyakarta (Utara Pasar Giripurwo / Pasar Serpit, kawasan wisata Nanggulan/kaki perbukitan Menoreh)",
+luas:"9500m²",
+harga:"Rp 175.000/m",
+thumbnail:"Swarnapadi9500.jpg",
+video:"https://youtu.be/N_4sTOwBYzg",
+
+sertifikat:"SHM",
+muka:"± 45 – 50 Meter",
+akses:"Mobil bisa masuk sampai ke lokasi, jalan utama sudah cor beton",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan asri perbukitan, sudah ada rumah-rumah tetangga di sekitar lokasi, dan berada di zona destinasi wisata kuliner/alam",
+kondisi:"Tanah berupa puncak bukit yang landai (kemiringan sangat rendah sekitar 5–7 derajat), memiliki 3 trap/terasering besar yang cukup datar karena dulunya sempat digunakan untuk bangunan rumah dan kebun. Area atas/puncak sudah dibersihkan oleh pemilik",
+prospek:"Sangat potensial untuk dibangun vila, resort, homestay, atau resto/kafe wisata, didukung oleh tren perkembangan pariwisata di kawasan Menoreh",
+point:" Menyuguhkan pemandangan perbukitan hijau, hamparan sawah terasering yang luas, serta pemandangan lampu kota (city light) saat malam hari, Kurang dari 5 menit ke Suasana Padi, ± 7 menit ke Puncak Saka, dekat dengan Kopi Ingkar Janji (4-5 km), Geblek Pari (6-7 km), Omah Cantrik, dan jalur menuju Wisata Goa Kiskendo serta Menoreh Dreamland,Hanya ± 1,5 km dari jalan raya aspal utama (Jalan Giripurwo). Berjarak sekitar 35 menit berkendara menuju Kota Yogyakarta (Malioboro/Tugu) dan sekitar 40 menit menuju Bandara Internasional Yogyakarta (YIA)"
+},
+  
+{
 judul:"Suasana Tenang Setiap Hari! TANAH PEKARANGAN MURAH 250 JUTA! Luas 1863m² Cocok Buat Villa Kabin!",
 lokasi:"Togoguwo, Kaligesing, kawasan Menoreh Jogja Barat / perbatasan Kulon Progo",
 luas:"1863m²",
