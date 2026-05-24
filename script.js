@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"TANAH 587m² MURAH 175jt LANGKA! Sawah Tapi SHM Pekarangan di Nanggulan, KTP Luar Jogja Bisa Beli!",
+lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo",
+luas:"587m²",
+harga:"Rp 175.000.000",
+thumbnail:"Rejoso587.jpg",
+video:"https://youtu.be/LPJF0b0vQJc",
+
+sertifikat:"SHM Pekarangan",
+muka:"± Meter",
+akses:"Akses jalan resmi saat ini lebar 1 meter, namun ada opsi lobi ke pemilik lahan depan untuk diperlebar menjadi 3 meter (biaya pembelian lahan jalan ditanggung pembeli)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana sangat tenang, damai (konsep slow living), dikelilingi oleh pemandangan hamparan persawahan yang asri",
+kondisi:"Saat ini fisik tanah masih berupa sawah (sedang ditanami padi), namun status hukum di sertifikat sudah pekarangan",
+prospek:"Sangat cocok untuk dibangun villa, saung, tempat santai outdoor, atau investasi lahan pangan mandiri, Di sekitar kawasan ini juga sedang berkembang pesat pembangunan berbagai kawasan villa komersial dan dekat dengan banyak destinasi kuliner/wisata terkenal",
+point:"Berada di tengah sawah namun berstatus hukum SHM Pekarangan, sehingga aman dibeli oleh pemilik KTP dari luar daerah mana pun tanpa regulasi ketat Zonasi, Hanya berjarak 4 km dari calon exit Tol Sentolo, sekitar 20 menit (20 km) dari Malioboro, dan 30 menit (25 km) menuju Bandara YIA"
+},
+
+{
 judul:"Tanah Murah Luas 5331m² Pinggir Sungai Eksotis Cocok untuk Villa & Resort View Sungai Menoreh",
 lokasi:"Grigak, Girimulyo, Kulon Progo, Jogja Barat (Belakang Pasar Seribit / Belakang Polsek, Puskesmas, & Kecamatan Girimulyo)",
 luas:"5331m²",
