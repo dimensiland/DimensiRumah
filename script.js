@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Tanah 879m² Pekarangan Datar View Sawah di Kawasan Wisata Kuliner Nanggulan Dekat Pintu Tol Sentolo!",
+lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo, Jogja Barat",
+luas:"879m²",
+harga:"Rp 350.000.000",
+thumbnail:"Rejoso879.jpg",
+video:"https://youtu.be/O3_6-PbXAL8",
+
+sertifikat:"SHM Pekarangan",
+muka:"±30 Meter",
+akses:"Berjarak sekitar 200 meter dari jalan provinsi. Saat ini merupakan jalan pertolongan di samping rumah warga, namun pihak agensi berencana membeli sisa lahan tanah untuk dijadikan akses jalan resmi dengan lebar minimal 3 meter agar mobil bisa masuk lancar sampai ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan berkembang yang tenang, asri, bernuansa slow living, dan sudah banyak dibangun vila/kavling di sekitarnya. Dekat dengan berbagai destinasi wisata kuliner dan resto populer di Nanggulan",
+kondisi:"Tanah pekarangan dengan kontur yang sangat datar, siap bangun, dan dikelilingi oleh vegetasi alami seperti pohon kelapa, pohon jati, serta rumpun bambu petung hitam yang eksotis",
+prospek:"Sangat cocok dan potensial untuk dibangun kawasan hidden gem vila (bisa memuat hingga sekitar 4 unit vila dengan kolam renang menghadap sawah), tempat peristirahatan pribadi, atau investasi properti karena harga tanah di area tersebut tergolong masih sangat murah dibanding harga pasarannya",
+point:"Menyuguhkan view pemandangan hamparan sawah hijau yang indah di sisi utara dan barat dengan suasana romantis saat matahari terbenam (sunset), Memiliki suasana yang damai dengan suara gemercik aliran air alami sepanjang hari, Hanya berjarak sekitar 4 km (kurang lebih 10 menit) dari gerbang pintu tol Sentolo, serta sekitar 20 km (kurang lebih 20 menit) untuk menuju ke kawasan Malioboro, Kota YogyakartaHanya berjarak sekitar 4 km (kurang lebih 10 menit) dari gerbang pintu tol Sentolo, serta sekitar 20 km (kurang lebih 20 menit) untuk menuju ke kawasan Malioboro, Kota Yogyakarta"
+},
+
+{
 judul:"TANAH 587m² MURAH 175jt LANGKA! Sawah Tapi SHM Pekarangan di Nanggulan, KTP Luar Jogja Bisa Beli!",
 lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo",
 luas:"587m²",
