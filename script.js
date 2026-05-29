@@ -20,22 +20,22 @@ point:"Dekat Nanggula (kawasan wisata kuliner yang ramai), Dekat Bandara YIA"
 },
 
 {
-judul:"",
-lokasi:"",
-luas:"m²",
-harga:"Rp ",
-thumbnail:".jpg",
-video:"",
+judul:"Hidden Gem Jogja Barat! Tanah Pinggir Sungai Luas 6105m² Cocok Untuk Villa Premium & Resto Eksotis!",
+lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo (Jogja Barat)",
+luas:"6105m²",
+harga:"Rp 325.000/m",
+thumbnail:"Rejoso6105.jpg",
+video:"https://youtu.be/QuNsuEwZBvk",
 
 sertifikat:"SHM Pekarangan",
-muka:"± Meter",
-akses:"",
+muka:"±150 Meter",
+akses:"Pinggir jalan aspal kabupaten yang besar, sangat lancar untuk simpangan mobil, bus wisata, HiAce, maupun kendaraan keluarga. Hanya berjarak 200 meter dari jalan provinsi",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"",
-kondisi:"",
-prospek:"",
-point:""
+lingkungan:"Kawasan berkembang Matahari Terbit pariwisata Jogja Barat yang asri, tenang, privat, dan dikelilingi oleh berbagai kafe/villa ternama (Labarka, Swarna Padi, Joglo Argo Park, Villa Norvegia)",
+kondisi:"Area bibir sungai memiliki lahan datar yang cukup luas (lebar ±20–80 meter), diikuti kontur tanah berundak/terasering yang sangat estetis di bagian atasnya. Vegetasi tanah dipenuhi pohon kelapa eksotis dan penjual memberikan fasilitas gratis pembersihan lahan (line clearing)",
+prospek:"Sangat tinggi untuk dijadikan kawasan eco-tourism terpadu, komplek Premium Private Villa (potensi sewa tinggi), Resto/Cafe berlatar alam, wedding venue outdoor, hingga wisata air (wahana kano/kapal ala Venesia)",
+point:"Memiliki pemandangan menakjubkan dari kombinasi pegunungan Menoreh, hamparan sawah terasering, serta sungai lebar seperti danau. Lokasi Strategis: Berjarak sekitar 5 Km dari rencana pintu Tol Sentolo, 20 Km dari Tugu Jogja/Malioboro, dan hanya 25 Km (sekitar 30 menit) menuju Bandara YIA. Bebas Biaya Pembersihan: Terima lahan dalam kondisi bersih, siap dikonsep bersama arsitek"
 },
 
 {
