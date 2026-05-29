@@ -1,22 +1,22 @@
 const properties=[
 
 {
-judul:"",
-lokasi:"",
-luas:"m²",
-harga:"Rp ",
-thumbnail:".jpg",
-video:"",
+judul:"INTRUMEN INVESTASI IDEAL! Luas Tanah 4000m² Bisa Dibeli Sebagian! View Cantik Dekat Wisata Nanggulan",
+lokasi:"Wareng, Donomulyo, Nanggulan, Kulon Progo, Yogjakarta",
+luas:"4000m²",
+harga:"Rp 325.000/m",
+thumbnail:"Wareng4000.jpg",
+video:"https://youtu.be/sBlq7DEyDMM",
 
 sertifikat:"SHM Pekarangan",
-muka:"± Meter",
-akses:"",
+muka:"±30 Meter",
+akses:"Tersedia Cor",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"",
-kondisi:"",
-prospek:"",
-point:""
+lingkungan:"Perkampungan dan kebun",
+kondisi:"Datar 50% terasering 50% sudah di clearance",
+prospek:"Villa atau Rumah dengan konsep slow living. Sebagai passive income dan instrumen Investasi menjanjikan",
+point:"Dekat Nanggula (kawasan wisata kuliner yang ramai), Dekat Bandara YIA"
 },
 
 {
