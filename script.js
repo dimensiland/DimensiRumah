@@ -1,6 +1,44 @@
 const properties=[
 
 {
+judul:"",
+lokasi:"",
+luas:"m²",
+harga:"Rp ",
+thumbnail:".jpg",
+video:"",
+
+sertifikat:"SHM Pekarangan",
+muka:"± Meter",
+akses:"",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"",
+kondisi:"",
+prospek:"",
+point:""
+},
+
+{
+judul:"",
+lokasi:"",
+luas:"m²",
+harga:"Rp ",
+thumbnail:".jpg",
+video:"",
+
+sertifikat:"SHM Pekarangan",
+muka:"± Meter",
+akses:"",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"",
+kondisi:"",
+prospek:"",
+point:""
+},
+
+{
 judul:"Tanah 879m² Pekarangan Datar View Sawah di Kawasan Wisata Kuliner Nanggulan Dekat Pintu Tol Sentolo!",
 lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo, Jogja Barat",
 luas:"879m²",
