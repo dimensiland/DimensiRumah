@@ -1,6 +1,25 @@
 const properties=[
 
 {
+judul:"Villa 600m² Mewah Private Pool View Sawah Di Nanggulan 30 Menit Ke Malioboro & Dekat Bandara YIA",
+lokasi:"Kemiri, Wijimulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
+luas:"600m²",
+harga:"Rp 1.850.000.000",
+thumbnail:"NanggulanJoglo.jpg",
+video:"https://youtu.be/PG4h7p343m4",
+
+sertifikat:"SHM Pekarangan",
+muka:"Menghadap ke arah Utara (menyajikan pemandangan langsung ke hamparan sawah dan kaki Gunung Menoreh)",
+akses:"Berada di pinggir jalan lingkungan (Jalan Setapak warga), berjarak hanya 200 meter dari jalan provinsi dan sekitar 3 km dari rencana pintu tol Sentolo",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan sekitar sudah terbentuk dan sudah banyak dibangun vila-vila. Suasana sangat tenang, asri, dikelilingi hamparan sawah tera siring di sisi utara, selatan, dan barat, serta memiliki pemandangan pegunungan dan matahari terbenam (sunset)",
+kondisi:"Properti ditawarkan dengan konsep inden/rencana pembangunan Vila Nanggulan Joglo (berkonsep tradisional kontemporer/Jawa-modern yang memadukan unsur etnik khas Jogja dengan sentuhan minimalis bersih). Desain 3D dan gambar kerja sudah siap dieksekusi setelah kesepakatan",
+prospek:"Sangat potensial sebagai investasi properti, vila komersial/persewaan, tempat istirahat pribadi, maupun tempat singgah pariwisata karena lokasinya strategis di area berkembang Yogyakarta Barat",
+point:"Hanya 30 menit ke Malioboro (sekitar 15-18 km) dan 35 menit ke Bandara YIA (sekitar 25 km), Dekat dengan berbagai destinasi kuliner dan resort ternama seperti Resto La Barca (2 km), Rumah Rindu (3 km), The Palerenan (2 km), Mahaloka (7 km), dan Studio Alam Gamplong (7 km), Tata ruang vila privat dilengkapi dengan fasilitas area parkir untuk 3 mobil, pintu gebyok lawasan, kolam renang pribadi menghadap sawah, gazebo, ruang keluarga berpintu geser lebar, dapur, serta kamar mandi semi-terbuka dengan bathtub, Transaksi aman dan legal berlandaskan perjanjian resmi di hadapan Notaris"
+},
+
+{
 judul:"INTRUMEN INVESTASI IDEAL! Luas Tanah 4000m² Bisa Dibeli Sebagian! View Cantik Dekat Wisata Nanggulan",
 lokasi:"Wareng, Donomulyo, Nanggulan, Kulon Progo, Yogjakarta",
 luas:"4000m²",
