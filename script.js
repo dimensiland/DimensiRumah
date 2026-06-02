@@ -846,7 +846,6 @@ const container=document.getElementById("property-list");
 const pagination=document.getElementById("pagination");
 
 
-
 function generateDetail(item){
 
 return `
@@ -860,7 +859,7 @@ return `
 
 <div class="detail-item">
 <span>Luasan</span>
-<strong>${item.luas}</strong>
+<strong>${item.luas}${item.mdpl ? ` | ${item.mdpl} mdpl` : ""}</strong>
 </div>
 
 <div class="detail-item">
@@ -908,7 +907,6 @@ Point Penting: ${item.point}
 }
 
 
-
 function renderPage(page){
 
 container.innerHTML="";
@@ -940,7 +938,7 @@ ${generateDetail(item)}
 ▶ Lihat Video
 </a>
 
-<a href="https://wa.me/6287737447313?text=Saya tertarik dengan properti: ${item.judul}"
+<a href="https://wa.me/6287737447313?text=Saya tertarik dengan properti: ${encodeURIComponent(item.judul)}"
 target="_blank"
 class="whatsapp-btn">
 Hubungi WhatsApp
@@ -959,7 +957,6 @@ setTimeout(()=>card.classList.add("show"),100*i);
 renderPagination();
 
 }
-
 
 
 function renderPagination(){
@@ -997,14 +994,3 @@ pagination.appendChild(btn);
 
 
 renderPage(currentPage);
-
-
-
-
-
-
-
-
-
-
-
