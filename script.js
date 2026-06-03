@@ -4,7 +4,7 @@ const properties=[
 judul:"Villa 600m² Mewah Private Pool View Sawah Di Nanggulan 30 Menit Ke Malioboro & Dekat Bandara YIA",
 lokasi:"Kemiri, Wijimulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
 luas :"600m²",
-mdpl:"",
+mdpl:"80 - 90 Meter",
 harga:"Rp 1.850.000.000",
 thumbnail:"NanggulanJoglo.jpg",
 video:"https://youtu.be/PG4h7p343m4",
