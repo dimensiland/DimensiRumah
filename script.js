@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Murah! Mulai Dari 35 Juta!! Dapat Tanah 1000m² !!! Total 3 Tanah Cocok Untuk Kebun Kopi & Durian",
+lokasi:"Dusun Temanggul, Desa Kerinjing, Kecamatan Kajoran, Kabupaten Magelang, Jawa Tengah",
+luas :"1000m² 1000m² 1095m²",
+mdpl:"480 - 500",
+harga:"Rp 40jt Rp 35jt Rp 50jt",
+thumbnail:"3LokasiKrinjing.jpg",
+video:"https://youtu.be/xu885tFpDjM",
+
+sertifikat:"Letter C desa (proses balik nama dibantu hingga atas nama pembeli, nantinya bisa diajukan SHM lewat program Prona)",
+muka:"",
+akses:"Lokasi 1 Sekitar 50 meter dari jalan aspal utama, Lokasi 2 Sekitar 150 - 200 meter dari jalan aspal, Lokasi 3 Tidak jauh dari jalan raya utama",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, dikelilingi pemandangan sawah terasiring serta pegunungan Menoreh",
+kondisi:"Tanah berupa lahan kebun subur yang sudah ditumbuhi beberapa tanaman eksisting seperti kopi, kapulaga, dan pohon pisang (terutama di Lokasi 3)",
+prospek:"Sangat bagus untuk investasi passive income perkebunan buah premium jangka panjang (seperti Durian Bawor/Musang King, Alpukat Aligator/Miki, dan Kopi robusta)",
+point:"Pembeli yang berada di luar kota tidak perlu repot, karena proses line clearing, penanaman bibit, pemupukan, hingga perawatan rutin tahunan bisa dikelola langsung oleh tim/warga lokal yang sudah dipercaya oleh dimensi, Lokasi mendukung sistem kebun terintegrasi (pupuk kandang organik melimpah dari peternak kambing sekitar), Khusus Lokasi 2 Berdampingan dengan blok lahan yang sudah dibeli oleh lembaga CSJ, sehingga pengelolaannya bisa dikerjasamakan secara kelompok"
+},
+
+{
 judul:"Tanah Pekarangan 1255m² Hidden Gem di Kaki Menoreh! Tanah Datar Cocok Rumah Pensiun & Slow Living",
 lokasi:"Jogja Barat, tepatnya di sekitar kaki Perbukitan Menoreh, dekat Jalan Dekso-Samigaluh, Sendangrejo, Kulon Progo (belakang Dewi Tinalah)",
 luas :"1255m²",
