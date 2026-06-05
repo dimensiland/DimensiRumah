@@ -43,14 +43,15 @@ point:"Hanya 30 menit ke Malioboro (sekitar 15-18 km) dan 35 menit ke Bandara YI
 {
 judul:"INTRUMEN INVESTASI IDEAL! Luas Tanah 4000m² Bisa Dibeli Sebagian! View Cantik Dekat Wisata Nanggulan",
 lokasi:"Wareng, Donomulyo, Nanggulan, Kulon Progo, Yogjakarta",
-luas:"4000m²",
+luas :"4000m²",
+mdpl:"111 - 120",
 harga:"Rp 325.000/m",
 thumbnail:"Wareng4000.jpg",
 video:"https://youtu.be/sBlq7DEyDMM",
 
 sertifikat:"SHM Pekarangan",
-muka:"±30 Meter",
-akses:"Tersedia Cor",
+muka:"30m Global",
+akses:"Tersedia cor",
 air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Perkampungan dan kebun",
