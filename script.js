@@ -234,25 +234,6 @@ kondisi:"Tanah berupa puncak bukit yang landai (kemiringan sangat rendah sekitar
 prospek:"Sangat potensial untuk dibangun vila, resort, homestay, atau resto/kafe wisata, didukung oleh tren perkembangan pariwisata di kawasan Menoreh",
 point:" Menyuguhkan pemandangan perbukitan hijau, hamparan sawah terasering yang luas, serta pemandangan lampu kota (city light) saat malam hari, Kurang dari 5 menit ke Suasana Padi, ± 7 menit ke Puncak Saka, dekat dengan Kopi Ingkar Janji (4-5 km), Geblek Pari (6-7 km), Omah Cantrik, dan jalur menuju Wisata Goa Kiskendo serta Menoreh Dreamland,Hanya ± 1,5 km dari jalan raya aspal utama (Jalan Giripurwo). Berjarak sekitar 35 menit berkendara menuju Kota Yogyakarta (Malioboro/Tugu) dan sekitar 40 menit menuju Bandara Internasional Yogyakarta (YIA)"
 },
-  
-{
-judul:"Suasana Tenang Setiap Hari! TANAH PEKARANGAN MURAH 250 JUTA! Luas 1863m² Cocok Buat Villa Kabin!",
-lokasi:"Togoguwo, Kaligesing, kawasan Menoreh Jogja Barat / perbatasan Kulon Progo",
-luas:"1863m²",
-harga:"Rp 250.000.000",
-thumbnail:"Tlogoguwo1863.jpg",
-video:"https://youtu.be/sddBNSpK9Zc",
-
-sertifikat:"SHM Pekarangan",
-muka:"±40 Meter",
-akses:"Sangat bagus, jalan aspal/cor blok, akses mobil bisa berpapasan/simpangan lancar sampai ke lokasi lahan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Berada di kawasan wisata perbukitan yang sangat subur, tenang, sejuk, dan sering berkabut/berembun. Dekat dengan pemukiman warga (jarak sekitar 50 meter) namun tetap menjaga privasi dan ketenangan",
-kondisi:"Tanah pekarangan dengan kontur terasering yang subur, sangat cocok untuk ditanami berbagai tanaman perkebunan",
-prospek:"Sangat cocok untuk konsep hunian slow living, kebun produktif, atau dibangun kompleks kabin/villa panggung modern (seperti proyek Seleh Menoreh yang sedang dibangun di dekat area tersebut)",
-point:"Lebar muka tanah sangat luas (40 meter), memudahkan penataan arsitektur kabin villa Lokasi sangat strategis di zona wisata dan fasilitas umum, hanya 1 km dari Pasar Pendem Kaligesing, 1,5 km dari Pasar Hewan Kaligesing, 5 km dari Menoreh Dreamland & Goa Maria Lawangsih, serta sekitar 8 km dari Ekowisata Sungai Mudal, Berada di ekosistem perbukitan Menoreh yang sudah ramai dilirik untuk pembangunan villa komersial, Legalitas aman karena berstatus pekarangan, sehingga tidak ada batasan asal KTP pembeli untuk proses balik nama sertifikat"
-},
 
 {
 judul:"MURAH!!! Tanah Sejuk Luas 597m² Hanya 150 Juta! Dekat Menoreh Dreamland Dan Sungai Mudal!",
