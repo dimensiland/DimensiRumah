@@ -11,13 +11,33 @@ video:"https://youtu.be/WPLz9gCqkzU",
 
 sertifikat:"SHM Tegalan",
 muka:"Berkontur terasiring/punden berundak yang lebar, sebagian besar lahan datar dan siap bangun",
-akses:" Saat ini berupa jalan setapak resmi (lebar sekitar 2,5 meter). Berjarak hanya sekitar 100 meter dari kampus ITNY Jogja dan dekat dengan jalan aspal kabupaten. Bisa dilebarkan/dicor agar mobil masuk lokasi, atau opsi sewa/beli lahan tetangga untuk area parkir mobil",
+akses:"Saat ini berupa jalan setapak resmi (lebar sekitar 2,5 meter). Berjarak hanya sekitar 100 meter dari kampus ITNY Jogja dan dekat dengan jalan aspal kabupaten. Bisa dilebarkan/dicor agar mobil masuk lokasi, atau opsi sewa/beli lahan tetangga untuk area parkir mobil",
 air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Lingkungan asri, tenang (hidden gem), bebas dari bising kendaraan. Terletak di kawasan zona wisata yang sudah berkembang, dekat dengan jalur sepeda Luna Maya, Geblek Pari, Resto Girimanah, dan berbagai villa premium (seperti Niscala Lodge)",
 kondisi:"Tanah menghadap pemandangan alam yang eksotis. Di dalam lahan sudah tumbuh pohon-pohon lokal berukuran besar yang eksotik khas villa Bali. Bagian bawah tanah berbatasan langsung dengan pertemuan dua aliran sungai yang bersih dan berbatu alami",
 prospek:"Sangat tinggi untuk dikembangkan menjadi villa komersial, private house, tempat slow living, kebun produktif, maupun aesthetic café/resto pinggir sungai karena berada di ekosistem wisata yang sudah jadi. Harga pasaran tanah di sekitar lokasi rata-rata sudah mencapai Rp 2 juta/m², sementara tanah ini ditawarkan jauh di bawah harga pasar (di bawah Rp 100 ribu/m²)",
 point:"Mendapatkan Golden View 3-in-1 hamparan sawah terasiring, pegunungan Menoreh, dan aliran sungai eksotis. Berada tepat di selatan Kampus ITNY Jogja (hanya berjarak ±100 meter). Akses strategis ke berbagai fasilitas Hanya 5 km dari Sleman, 25 km ke Malioboro, dan 24 km ke Candi Borobudur. Memiliki aura lingkungan yang sangat positif, menenangkan, dan memberikan kedamaian spiritual bagi penghuninya"
+},
+
+{
+judul:"Kavling Sakana Siap Bangun di Belakang Omah Cantrik! Luas 116m² Dan 189m² View Sawah Dan Bukit",
+lokasi:"Nanggulan, Kulon Progo, D.I. Yogyakarta (Tepat di belakang Omah Cantrik milik Raminton)",
+luas :"Kavling A8 : 189m², Kavling A7 : 116m²",
+mdpl:"90 - 117",
+harga:"Kavling A8 (189m²) : Rp189 Juta, Kavling A7 (116m²) : Rp116 Juta",
+thumbnail:"Kavlingsakana.jpg",
+video:"https://youtu.be/gvfYhul5X0M",
+
+sertifikat:"Sudah pecah per kavling, siap balik nama (sudah ada 5 kavling yang balik nama)",
+muka:"Kavling A8 : 11,9 meter, Kavling A7 : 7 meter",
+akses:"Jalan lingkungan selebar 5 meter dan sudah dicor semen tebal. Di samping jalan sudah disiapkan saluran drainase/air mengalir",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan pemandangan (view) sawah terasering dan pegunungan Menoreh. Suasananya tenang, nyaman, dan sejuk jauh dari kebisingan kota, namun tetap dekat dengan area wisata kuliner",
+kondisi:"Tanah kavling siap bangun, batas patok jelas, dan beberapa kavling tetangga di sekitarnya sudah laku bahkan mulai dibangun rumah joglo / villa",
+prospek:"Sangat cocok untuk dibangun villa, rumah joglo, atau hunian peristirahatan karena berada di kawasan berkembang dekat berbagai destinasi kuliner/wisata viral serta dekat akses infrastruktur utama",
+point:" Lokasi super strategis, menempel / tepat di belakang resto terkenal Omah Cantrik (bisa jalan kaki), Hanya berjarak sekitar 500 meter dari jalan provinsi (Jalan raya Nanggulan), Berada di area kuldesak (cul-de-sac) di ujung kavling tertentu sehingga memberikan ruang parkir umum ekstra yang bisa muat hingga 2 mobil, Hanya 5 km (10 menit) dari Exit Tol Sentolo, sekitar 30 menit (20 km) dari Malioboro/Kota Jogja, dan sekitar 35 menit (24 km) dari Bandara Internasional YIA"
 },
 
 {
