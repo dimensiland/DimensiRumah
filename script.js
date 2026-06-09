@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah 9560m² View 7 Gunung! Harga 175rb/m² Cocok Untuk Kebun Kemandirian Pangan Indonesia!",
+lokasi:"Girirejo, Kecamatan Tempuran, Kabupaten Magelang (berada di area perbukitan atas Kota Magelang sekitar 10 km / 15 menit dari Kota Magelang dan 12 km ke arah barat dari Candi Borobudur)",
+luas :"9560m²",
+mdpl:"330 - 350",
+harga:"Rp 175rb/m²",
+thumbnail:"Magelang9560.jpg",
+video:"https://youtu.be/K8r_Zm9-fHM",
+
+sertifikat:"SHM Pekarangan",
+muka:"80 meter, dengan panjang ke belakang sekitar 100 - 120 meter",
+akses:"Lebar jalan sekitar 6 meter dan hanya berjarak 30 meter dari jalan utama desa",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, dan alami. Dikelilingi pemandangan hutan pinus, area persawahan di bagian bawah, serta lingkungan hijau yang masih sangat terjaga",
+kondisi:"Tanah berupa hamparan luas dengan kontur landai / hampir datar berbentuk terasering (bukan miring curam). Sebelumnya ditanami pohon jati yang sudah dipanen, saat ini tanah sangat subur",
+prospek:"Sangat cocok untuk investasi jangka panjang, kebun buah (seperti durian, alpukat, kopi, pisang), atau dibangun villa keluarga dengan konsep slow living yang tenang dekat area wisata Borobudur dan Kota Magelang",
+point:"Memiliki View Istimewa 7 Gunung, yaitu Gunung Merapi, Merbabu, Telomoyo, Andong, Sindoro, Sumbing, serta bonus pemandangan Gunung Tidar dan Pegunungan Menoreh, Pada malam hari dapat menikmati pemandangan langsung city light atau lampu-lampu Kota Magelang dari ketinggian, Kemudahan skema pembayaran yang bisa dicicil hingga 10 bulan langsung ke pemilik properti"
+},
+
+{
 judul:"Hanya 250Jt! Tanah Kalibawang Luas 2549m² nempel Sungai Eksotis View Sawah Dan Bukit Di Jogja Barat!",
 lokasi:"Dusun Degan, Banjararum, Kec. Kalibawang, Kabupaten Kulon Progo, D.I. Yogyakarta",
 luas :"2549m²",
