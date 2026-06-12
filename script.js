@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Pekarangan IDEAL 657 m² di Menoreh, Dekat Pasar Kambing – Kawasan Adem & Padat Penduduk!",
+lokasi:"Pandanrejo, Kaligesing, kawasan Menoreh, Jogja Barat",
+luas :"657m²",
+mdpl:"718 - 743 Menoreh yang dingin dengan suhu rata-rata harian berkisar antara 17°C hingga 25°C",
+harga:"Rp 235.000.000",
+thumbnail:"Pandanrejo657.jpg",
+video:"https://youtu.be/8uRqEbWfGgo",
+
+sertifikat:"SHM Pakarangan",
+muka:"23–25 meter",
+akses:"Jalan lebar cor-coran, mobil berpapasan longgar/nyaman. Hanya berjarak sekitar 100 meter dari Jalan Provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, adem, dan sudah padat penduduk. Berada di depan Pasar Hewan Kaligesing & dekat dengan Pasar Pendem. Di sekitar lokasi sudah banyak dibangun villa oleh pendatang/orang Jakarta.",
+kondisi:"Tanah dominan datar (tinggal sedikit perataan/bego agar rata sempurna). Saat ini di atas tanah sudah terdapat tanaman produktif lebat seperti alpukat, manggis, genitri, sengon, kelapa, kopi, pisang, dan tanaman talas.",
+prospek:"Sangat cocok untuk slow living, tempat tinggal/rumah kedua, bangun villa peristirahatan keluarga, maupun untuk investasi berkebun.",
+point:"Hanya 100 meter dari Jalan Provinsi & depan Pasar Kaligesing. ± 3 km ke Gua Maria Lawangsih. ± 4 km ke Menoreh Dreamland. ± 5 km ke Air Terjun Kembang Soka & Sungai Mudal. ± 10 km ke Tumpeng Menoreh. ± 13 km ke Girimanah & Mahaloka Paradise. ± 25 km ke Malioboro (Kota Yogyakarta). ± 30 km ke Bandara YIA (Yogyakarta International Airport)"
+},
+
+{
 judul:"Tanah 9560m² View 7 Gunung! Harga 175rb/m² Cocok Untuk Kebun Kemandirian Pangan Indonesia!",
 lokasi:"Girirejo, Kecamatan Tempuran, Kabupaten Magelang (berada di area perbukitan atas Kota Magelang sekitar 10 km / 15 menit dari Kota Magelang dan 12 km ke arah barat dari Candi Borobudur)",
 luas :"9560m²",
