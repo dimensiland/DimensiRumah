@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Hidden Gem Jogja! Tanah 1618m² Datar Nempel Sungai Jernih & View Sawah di Jogja Barat Cuma 425 Juta!",
+lokasi:"Kanoman, Banjararum, Kalibawang, Kulon Progo (Jogja Barat)",
+luas :"1618m²",
+mdpl:"115 - 132",
+harga:"Rp 425.000.000 (Net)",
+thumbnail:"Kanoman1618.jpg",
+video:"https://youtu.be/2NVaL9uRcFs",
+
+sertifikat:"SHM Pekarangan seluas 202m² dan SHM Sawah seluas 1416m²",
+muka:"Menghadap jalan sekitar 20 meter di bagian depan, dan melebar hingga sekitar 30 meter di bagian belakang (tanah ngantong)",
+akses:"Mobil sampai lokasi (lebar jalan masuk kurang lebih 2,5 meter), berjarak 500 meter dari jalan provinsi (Jalan Nanggulan - Mendut)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Hening, tenang, asri, dikelilingi oleh pemandangan sawah, pohon kelapa yang subur, vegetasi bambu eksotis, serta dekat dengan kawasan wisata kuliner/restoran (Resto Pariboro, Kripala, Teras Menoreh, Dulandiso, Pari Klegong, Unagi, dll.) dan homestay.",
+kondisi:"Tanah datar (flat) dan subur. Sisi utara tanah menempel langsung di pinggir sungai (sungai ngedung/dalam dengan batu-batuan eksotis sepanjang 60–70 meter), serta sisi lainnya berbatasan langsung dengan pemandangan sawah sepanjang sekitar 50 meter.",
+prospek:"Sangat cocok untuk tempat tinggal pribadi, tempat healing / peristirahatan, maupun dikembangkan sebagai properti komersial yang disewakan seperti homestay, villa, atau resort karena memiliki panorama alam yang lengkap.",
+point:"Memiliki pemandangan alam 360 derajat berupa aliran sungai yang jernih di satu sisi dan hamparan sawah yang luas serta Pegunungan Menoreh di sisi lainnya, Meskipun lokasinya tenang dan tersembunyi, properti ini hanya berjarak sekitar 3 km dari perbatasan Sleman Barat, 20 km (±30-35 menit) dari Malioboro/Kota Jogja, 20 km (±30 menit) ke Borobudur, dan sekitar 30 km (±40 menit) menuju Bandara YIA."
+},
+
+{
 judul:"Tanah Pekarangan IDEAL 657 m² di Menoreh, Dekat Pasar Kambing – Kawasan Adem & Padat Penduduk!",
 lokasi:"Pandanrejo, Kaligesing, kawasan Menoreh, Jogja Barat",
 luas :"657m²",
