@@ -7,7 +7,7 @@ luas :"657m²",
 mdpl:"718 - 743 Menoreh yang dingin dengan suhu rata-rata harian berkisar antara 17°C hingga 25°C",
 harga:"Rp 235.000.000",
 thumbnail:"Pandanrejo657.jpg",
-video:"https://youtu.be/8uRqEbWfGgo",
+video:"https://youtu.be/lr4B4j7Ksko",
 
 sertifikat:"SHM Pakarangan",
 muka:"23–25 meter",
