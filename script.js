@@ -7,7 +7,7 @@ luas :"1618m²",
 mdpl:"115 - 132",
 harga:"Rp 425.000.000 (Net)",
 thumbnail:"Kanoman1618.jpg",
-video:"https://youtu.be/2NVaL9uRcFs",
+video:"https://youtu.be/7bvW29jrisc",
 
 sertifikat:"SHM Pekarangan seluas 202m² dan SHM Sawah seluas 1416m²",
 muka:"Menghadap jalan sekitar 20 meter di bagian depan, dan melebar hingga sekitar 30 meter di bagian belakang (tanah ngantong)",
