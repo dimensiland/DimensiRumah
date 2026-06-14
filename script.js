@@ -14,7 +14,7 @@ muka:"Menghadap jalan sekitar 20 meter di bagian depan, dan melebar hingga sekit
 akses:"Mobil sampai lokasi (lebar jalan masuk kurang lebih 2,5 meter), berjarak 500 meter dari jalan provinsi (Jalan Nanggulan - Mendut)",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Hening, tenang, asri, dikelilingi oleh pemandangan sawah, pohon kelapa yang subur, vegetasi bambu eksotis, serta dekat dengan kawasan wisata kuliner/restoran (Resto Pariboro, Kripala, Teras Menoreh, Dulandiso, Pari Klegong, Unagi, dll.) dan homestay.",
+lingkungan:"Hening, tenang, asri, dikelilingi oleh pemandangan sawah, pohon kelapa yang subur, Vegetasi bambu eksotis, serta dekat dengan kawasan wisata kuliner/restoran (Resto Pariboro, Kripala, Teras Menoreh, Dulandiso, Pari Klegong, Unagi, dll.) dan homestay.",
 kondisi:"Tanah datar (flat) dan subur. Sisi utara tanah menempel langsung di pinggir sungai (sungai ngedung/dalam dengan batu-batuan eksotis sepanjang 60–70 meter), serta sisi lainnya berbatasan langsung dengan pemandangan sawah sepanjang sekitar 50 meter.",
 prospek:"Sangat cocok untuk tempat tinggal pribadi, tempat healing / peristirahatan, maupun dikembangkan sebagai properti komersial yang disewakan seperti homestay, villa, atau resort karena memiliki panorama alam yang lengkap.",
 point:"Memiliki pemandangan alam 360 derajat berupa aliran sungai yang jernih di satu sisi dan hamparan sawah yang luas serta Pegunungan Menoreh di sisi lainnya, Meskipun lokasinya tenang dan tersembunyi, properti ini hanya berjarak sekitar 3 km dari perbatasan Sleman Barat, 20 km (±30-35 menit) dari Malioboro/Kota Jogja, 20 km (±30 menit) ke Borobudur, dan sekitar 30 km (±40 menit) menuju Bandara YIA."
