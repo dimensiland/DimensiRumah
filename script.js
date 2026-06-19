@@ -468,22 +468,23 @@ point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjara
 },
 
 {
-judul:"Tanah Murah 1923m² Harga 175Jt Menempel Sungai! Lokasi Strategis di Jalur Wisata Menoreh, View Sawah",
-lokasi:"Sembuh Sidoharjo, Kalirejo, Samigaluh, Kulon Progo (Jogja Barat)",
-luas:"1923m²",
+judul:"Tanah Pekarangan MURAH! Hanya 175 Juta di Sleman Luas 288 m² Dekat Tugu Dan Studio Alam Gamplong!",
+lokasi:"Sumber Arum, Moyudan, Sleman, Yogyakarta",
+luas :"288m²",
+mdpl:"74 - 80",
 harga:"Rp 175.000.000",
-thumbnail:"Sembuh1923.jpg",
-video:"https://youtu.be/0ppwJcaGfUY",
+thumbnail:"GodeanKM14.jpg",
+video:"https://youtu.be/8ag6snZZatk",
 
 sertifikat:"SHM Pekarangan",
-muka:"±25–30 meter (Menempel jalan dan aliran sungai)",
-akses:"Jalan resmi terdaftar di sertifikat, namun kondisi saat ini masih berupa jalan tanah (butuh pengerasan/cor sekitar 80–100 meter menuju lokasi)",
+muka:"± 20 Meter (Bentuk tanah kotak ideal, panjang ke belakang ± 14-18 Meter)",
+akses:"Jalan utama sudah aspal. Akses masuk ke lokasi saat ini 2 meter, namun akan diperlebar oleh pihak penjual menjadi 2,5 meter sehingga mobil dipastikan bisa masuk berpapasan longgar.",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Suasana tenang, asri dengan pemandangan sawah dan pegunungan Menoreh. Dekat dengan berbagai objek wisata dan kuliner (Tumpeng Menoreh, Kebun Teh Nglinggo, Kopi Ingkar Janji, dll)",
-kondisi:"Tanah berupa terasering lebar yang bisa ditata ulang, saat ini sudah ada beberapa pohon jati, pisang, dan alpukat yang tidak terawat",
-prospek:"Sangat cocok untuk slow living, pembangunan vila/kabin, atau dijadikan kebun produktif (Durian Musang King, alpukat, atau kopi) karena tanahnya yang sangat subur",
-point:"Lokasi berada di ekosistem wisata aktif Menoreh, Tanah memanjang dan berbatasan langsung dengan sungai kecil yang jernih, Harga sangat kompetitif di bawah 200 juta untuk luasan hampir 2.000 m² dengan status pekarangan"
+lingkungan:"Lingkungan nasionalis, sudah ramai pemukiman, dan dekat dengan rumah warga/tetangga sekitar",
+kondisi:"Tanah pekarangan dengan kondisi sudah rata/datar dan bersih, terdapat pohon bambu besar di bagian belakang yang bisa dimanfaatkan",
+prospek:"Sangat ideal untuk dibangun rumah pribadi, rumah masa tua/pensiun, maupun untuk investasi kebun mini di area Jogja Barat",
+point:"Akses Strategis: Hanya 5 menit ke Jalan Raya Gedongan-Tempel, 30 menit menuju Tugu Jogja & Malioboro, serta ±45 menit ke Bandara YIA. Dekat Wisata & Fasilitas: Hanya 15 menit ke Studio Alam Gamplong, dekat ke kuliner hits Nanggulan (Geblek Pari, Dadap Semilir, Kopi Ingkar Janji), serta dekat dengan Kampus Mercu Buana, sekolah (SMA/SMK Muhammadiyah), pasar, dan swalayan. Kemudahan Transaksi: Pembelian tanah sudah termasuk fasilitas pelebaran jalan luar yang diurus langsung oleh penjual, serta sistem pembayaran yang fleksibel karena bisa di-tempo."
 },
 
 {
