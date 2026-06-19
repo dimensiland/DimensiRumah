@@ -1,6 +1,46 @@
 const properties=[
 
 {
+judul:"Tanah Pekarangan 879m² Datar View Sawah di Kawasan Wisata Kuliner Nanggulan Dekat Pintu Tol Sentolo!",
+lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo, Jogja Barat",
+luas :"879m²",
+mdpl:"85 - 88",
+harga:"Rp 350.000.000",
+thumbnail:"Rejoso879.jpg",
+video:"https://youtu.be/MJWC2iG6H8U",
+
+sertifikat:"SHM Pekarangan",
+muka:"30 meter dan panjang ke belakang sekitar 40 meter",
+akses:"Berjarak sekitar 200 meter dari jalan provinsi. Saat ini merupakan jalan pertolongan di samping rumah warga, namun pihak agensi berencana membeli sisa lahan tanah untuk dijadikan akses jalan resmi dengan lebar minimal 3 meter agar mobil bisa masuk lancar sampai ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan berkembang yang tenang, asri, bernuansa slow living, dan sudah banyak dibangun vila/kavling di sekitarnya. Dekat dengan berbagai destinasi wisata kuliner dan resto populer di Nanggulan",
+kondisi:"Tanah pekarangan dengan kontur yang sangat datar, siap bangun, dan dikelilingi oleh vegetasi alami seperti pohon kelapa, pohon jati, serta rumpun bambu petung hitam yang eksotis",
+prospek:"Sangat cocok dan potensial untuk dibangun kawasan hidden gem vila (bisa memuat hingga sekitar 4 unit vila dengan kolam renang menghadap sawah), tempat peristirahatan pribadi, atau investasi properti karena harga tanah di area tersebut tergolong masih sangat murah dibanding harga pasarannya",
+point:"Menyuguhkan view pemandangan hamparan sawah hijau yang indah di sisi utara dan barat dengan suasana romantis saat matahari terbenam (sunset), Memiliki suasana yang damai dengan suara gemercik aliran air alami sepanjang hari, Hanya berjarak sekitar 4 km (kurang lebih 10 menit) dari gerbang pintu tol Sentolo, serta sekitar 20 km (kurang lebih 20 menit) untuk menuju ke kawasan Malioboro, Kota YogyakartaHanya berjarak sekitar 4 km (kurang lebih 10 menit) dari gerbang pintu tol Sentolo, serta sekitar 20 km (kurang lebih 20 menit) untuk menuju ke kawasan Malioboro, Kota Yogyakarta"
+},
+
+{
+judul:"TANAH 587m² MURAH 175jt LANGKA! Sawah Tapi SHM Pekarangan di Nanggulan, KTP Luar Jogja Bisa Beli!",
+lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo",
+luas :"587m²",
+mdpl:"85 - 88",
+harga:"Rp 175.000.000 Net",
+thumbnail:"Rejoso587.jpg",
+video:"https://youtu.be/8bhDJu8iAMM",
+
+sertifikat:"SHM Pekarangan",
+muka:"-",
+akses:"Akses jalan resmi saat ini lebar 1 meter, namun ada opsi lobi ke pemilik lahan depan untuk diperlebar menjadi 3 meter (biaya pembelian lahan jalan ditanggung pembeli)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana sangat tenang, damai (konsep slow living), dikelilingi oleh pemandangan hamparan persawahan yang asri",
+kondisi:"Saat ini fisik tanah masih berupa sawah (sedang ditanami padi), namun status hukum di sertifikat sudah pekarangan",
+prospek:"Sangat cocok untuk dibangun villa, saung, tempat santai outdoor, atau investasi lahan pangan mandiri, Di sekitar kawasan ini juga sedang berkembang pesat pembangunan berbagai kawasan villa komersial dan dekat dengan banyak destinasi kuliner/wisata terkenal",
+point:"Berada di tengah sawah namun berstatus hukum SHM Pekarangan, sehingga aman dibeli oleh pemilik KTP dari luar daerah mana pun tanpa regulasi ketat Zonasi, Hanya berjarak 4 km dari calon exit Tol Sentolo, sekitar 20 menit (20 km) dari Malioboro, dan 30 menit (25 km) menuju Bandara YIA"
+},
+
+{
 judul:"Tanah Pekarangan IDEAL 657 m² di Menoreh, Dekat Pasar Kambing – Kawasan Adem & Padat Penduduk!",
 lokasi:"Pandanrejo, Kaligesing, kawasan Menoreh, Jogja Barat",
 luas :"657m²",
@@ -158,44 +198,6 @@ lingkungan:"Kawasan berkembang Matahari Terbit pariwisata Jogja Barat yang asri,
 kondisi:" Area bibir sungai memiliki lahan datar yang cukup luas (lebar ±20–80 meter), diikuti kontur tanah berundak/terasering yang sangat estetis di bagian atasnya. Vegetasi tanah dipenuhi pohon kelapa eksotis dan penjual memberikan fasilitas gratis pembersihan lahan (line clearing)",
 prospek:"Sangat tinggi untuk dijadikan kawasan eco-tourism terpadu, komplek Premium Private Villa (potensi sewa tinggi), Resto/Cafe berlatar alam, wedding venue outdoor, hingga wisata air (wahana kano/kapal ala Venesia)",
 point:"Memiliki pemandangan menakjubkan dari kombinasi pegunungan Menoreh, hamparan sawah terasering, serta sungai lebar seperti danau. Lokasi Strategis: Berjarak sekitar 5 Km dari rencana pintu Tol Sentolo, 20 Km dari Tugu Jogja/Malioboro, dan hanya 25 Km (sekitar 30 menit) menuju Bandara YIA. Bebas Biaya Pembersihan: Terima lahan dalam kondisi bersih, siap dikonsep bersama arsitek"
-},
-
-{
-judul:"Tanah 879m² Pekarangan Datar View Sawah di Kawasan Wisata Kuliner Nanggulan Dekat Pintu Tol Sentolo!",
-lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo, Jogja Barat",
-luas:"879m²",
-harga:"Rp 350.000.000",
-thumbnail:"Rejoso879.jpg",
-video:"https://youtu.be/O3_6-PbXAL8",
-
-sertifikat:"SHM Pekarangan",
-muka:"±30 Meter",
-akses:"Berjarak sekitar 200 meter dari jalan provinsi. Saat ini merupakan jalan pertolongan di samping rumah warga, namun pihak agensi berencana membeli sisa lahan tanah untuk dijadikan akses jalan resmi dengan lebar minimal 3 meter agar mobil bisa masuk lancar sampai ke lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan berkembang yang tenang, asri, bernuansa slow living, dan sudah banyak dibangun vila/kavling di sekitarnya. Dekat dengan berbagai destinasi wisata kuliner dan resto populer di Nanggulan",
-kondisi:"Tanah pekarangan dengan kontur yang sangat datar, siap bangun, dan dikelilingi oleh vegetasi alami seperti pohon kelapa, pohon jati, serta rumpun bambu petung hitam yang eksotis",
-prospek:"Sangat cocok dan potensial untuk dibangun kawasan hidden gem vila (bisa memuat hingga sekitar 4 unit vila dengan kolam renang menghadap sawah), tempat peristirahatan pribadi, atau investasi properti karena harga tanah di area tersebut tergolong masih sangat murah dibanding harga pasarannya",
-point:"Menyuguhkan view pemandangan hamparan sawah hijau yang indah di sisi utara dan barat dengan suasana romantis saat matahari terbenam (sunset), Memiliki suasana yang damai dengan suara gemercik aliran air alami sepanjang hari, Hanya berjarak sekitar 4 km (kurang lebih 10 menit) dari gerbang pintu tol Sentolo, serta sekitar 20 km (kurang lebih 20 menit) untuk menuju ke kawasan Malioboro, Kota YogyakartaHanya berjarak sekitar 4 km (kurang lebih 10 menit) dari gerbang pintu tol Sentolo, serta sekitar 20 km (kurang lebih 20 menit) untuk menuju ke kawasan Malioboro, Kota Yogyakarta"
-},
-
-{
-judul:"TANAH 587m² MURAH 175jt LANGKA! Sawah Tapi SHM Pekarangan di Nanggulan, KTP Luar Jogja Bisa Beli!",
-lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo",
-luas:"587m²",
-harga:"Rp 175.000.000",
-thumbnail:"Rejoso587.jpg",
-video:"https://youtu.be/LPJF0b0vQJc",
-
-sertifikat:"SHM Pekarangan",
-muka:"± Meter",
-akses:"Akses jalan resmi saat ini lebar 1 meter, namun ada opsi lobi ke pemilik lahan depan untuk diperlebar menjadi 3 meter (biaya pembelian lahan jalan ditanggung pembeli)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Suasana sangat tenang, damai (konsep slow living), dikelilingi oleh pemandangan hamparan persawahan yang asri",
-kondisi:"Saat ini fisik tanah masih berupa sawah (sedang ditanami padi), namun status hukum di sertifikat sudah pekarangan",
-prospek:"Sangat cocok untuk dibangun villa, saung, tempat santai outdoor, atau investasi lahan pangan mandiri, Di sekitar kawasan ini juga sedang berkembang pesat pembangunan berbagai kawasan villa komersial dan dekat dengan banyak destinasi kuliner/wisata terkenal",
-point:"Berada di tengah sawah namun berstatus hukum SHM Pekarangan, sehingga aman dibeli oleh pemilik KTP dari luar daerah mana pun tanpa regulasi ketat Zonasi, Hanya berjarak 4 km dari calon exit Tol Sentolo, sekitar 20 menit (20 km) dari Malioboro, dan 30 menit (25 km) menuju Bandara YIA"
 },
 
 {
