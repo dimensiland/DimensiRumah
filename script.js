@@ -1,26 +1,6 @@
 const properties=[
 
 {
-judul:"Tanah MURAH!! Luas 250m² Hanya 75 Juta Depan Vila Di Jogja Barat! Dekat Menoreh Dreamland!",
-lokasi:"Pandanrejo, Kaligesing, Jogja Barat (Kawasan Pegunungan Menoreh)",
-luas :"250m²",
-mdpl:"700 - 710",
-harga:"Rp 75.000.000",
-thumbnail:"Pandanrejo250.jpg",
-video:"https://youtu.be/vf6CObX9dSw",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 Meter",
-akses:"Pinggir jalan cor desa, berjarak sekitar 500 meter dari jalan provinsi/Pasar Hewan Kaligesing",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Berada tepat di depan vila dengan konsep etnik, kawasan tenang, sejuk, asri, dan sudah mulai banyak dibangun vila-vila di sekitarnya",
-kondisi:"Tanah berkarakter datar (meski berada di atas pegunungan), saat ini masih berupa lahan rimbun yang ditumbuhi pohon vanili yang subur (penjual berkomitmen membersihkan lahan sebelum dicek)",
-prospek:"Sangat cocok untuk dibangun vila pribadi, rumah singgah (rumah kedua), atau disewakan kembali sebagai penginapan komersial dengan konsep kebun etnik",
-point:"Akses sangat dekat dengan berbagai destinasi wisata Menoreh (1 km dari Kopi Puncak, 3 km dari Gua Maria Lawangsih, 4 km dari Menoreh Dreamland, serta 5 km dari Sungai Mudal dan Air Terjun Kembang Soka), Akses ke Kota Jogja sekitar 30–45 menit dan ke Bandara YIA sekitar 30 km, Memiliki bonus tanaman vanili subur yang sudah mulai berbunga di dalam lahan."
-},
-
-{
 judul:"Tanah Pekarangan 879m² Datar View Sawah di Kawasan Wisata Kuliner Nanggulan Dekat Pintu Tol Sentolo!",
 lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo, Jogja Barat",
 luas :"879m²",
