@@ -297,25 +297,6 @@ point:"Akses Nyaman dengan 2 muka, dialiri mata air tanah, udara sejuk dingin, l
 },
 
 {
-judul:"Villa Dekat Candi Prambanan Dan Exit Tol Jogja, Madhava Prambanan, Harga Mulai Dari 395 Juta!",
-lokasi:"Jl. Sesek, Rejoso, Kec. Jogonalan, Kabupaten Klaten, Jawa Tengah ",
-luas:"72 - 88 m²",
-harga:"Rp 385.000.000 - Rp 495.000.000",
-thumbnail:"VillaMadhava.jpg",
-video:"https://youtu.be/cX30x30OCB8",
-
-sertifikat:"SHM Pekarangan",
-muka:"7 meter",
-akses:"Tersedia Coneblok 5-8m",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan Padat Penduduk, Dekat Stasiun, Lingkungan Persawahan Dengan View Gunung",
-kondisi:"Datar Siap bangun",
-prospek:"Villa Sebagai Aset Properti Pribadi Jangka Panjang dan Sebagai Rumah Pribadi Dengan Konsep Villa Vernacular maupun non-Vernacular",
-point:"Lokasi Strategis, Dekat Akses Tol Prambanan, Komplek Candi Prambanan dan Sekitarnya, Dekat Wisata Umbul di Klaten. Akses Mudah Ke Pendidikan Maupun Administrasi. Kota Jogja-Solo Mudah Di Jangkau. Sudah Termasuk SHM dan menjadi kepimilikan pribadi tanpa jangka waktu."
-},
-
-{
 judul:"Tanah Nuansa Ubud Bali di Samigaluh Luas 884m² Cuma 200 Jutaan! Bonus Sumber Mata Air Melimpah!",
 lokasi:"Ngemplak, Pagerharjo, Samigaluh, Kulon Progo, D.I. Yogyakarta (Kawasan Wisata Perbukitan Menoreh)",
 luas:"884m²",
