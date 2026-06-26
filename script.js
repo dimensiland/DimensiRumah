@@ -16,7 +16,7 @@ air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Asri, adem, sejuk, dan dikelilingi oleh pemandangan sawah persawahan serta pegunungan (Menoreh & Sumbing), Di depan lokasi terdapat lembaga pendidikan/sekolah berasrama (boarding school An-Nawawi) dan sekitarnya didominasi oleh perkebunan buah (seperti kebun alpukat) serta area persawahan",
 kondisi:"Tanah berupa tanah datar yang terdiri dari 2 trap/tingkatan yang cukup luas Di dalam lokasi sudah tumbuh beberapa tanaman keras dan pohon kelapa, Area tanah subur dan memiliki mata air mandiri. Bagian tanah sepanjang 25 meter mangku/berbatasan langsung dengan sungai",
-prospek:"angat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah kayu/etnik, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
+prospek:"sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah kayu/etnik, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
 point:"Hanya berjarak sekitar 13 km atau sekitar 15–20 menit berkendara ke arah barat Candi Borobudur, Berjarak sekitar 11 km dari perbatasan Yogyakarta (kawasan Menoreh), Hanya sekitar 2 km masuk dari Jalan Raya Nasional Magelang–Salaman"
 },
 
