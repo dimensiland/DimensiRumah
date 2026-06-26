@@ -161,26 +161,6 @@ point:"Mendapatkan pemandangan penuh matahari terbit (sunrise) dan matahari terb
 },
 
 {
-judul:"Tanah Pekarangan 1255m² Hidden Gem di Kaki Menoreh! Tanah Datar Cocok Rumah Pensiun & Slow Living",
-lokasi:"Jogja Barat, tepatnya di sekitar kaki Perbukitan Menoreh, dekat Jalan Dekso-Samigaluh, Sendangrejo, Kulon Progo (belakang Dewi Tinalah)",
-luas :"1255m²",
-mdpl:"210 - 240",
-harga:"Rp 275.000.000",
-thumbnail:"Sendangrejo1255.jpg",
-video:"https://youtu.be/fJNk-XLRIXQ",
-
-sertifikat:"SHM Pekarangan",
-muka:"30 Meter",
-akses:"Menempel jalan desa, berjarak sekitar 500 meter dari jalan raya provinsi (Jalan Dekso-Samigaluh)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Adem, tenang, damai, kental dengan nuansa pedesaan, dekat dengan aliran sungai yang jernih, dan dikelilingi banyak tempat wisata serta kuliner (seperti Tumpeng Menoreh, Tinalah, Kripala Resto, dll.)",
-kondisi:"90% tanah berkarakter datar, siap bangun dan tinggal dirapikan",
-prospek:"Sangat cocok untuk slow living, tempat tinggal masa pensiun, berkebun, maupun aset investasi karena lokasinya yang bernuansa hidden gem namun dekat jalur wisata",
-point:"Memiliki view pemandangan sawah dan perbukitan Menoreh 180 derajat yang asri, berjarak sekitar 7 km dari Sleman Barat (Minggir), serta kurang lebih 35-45 menit menuju Malioboro atau Bandara Internasional Yogyakarta (YIA)"
-},
-
-{
 judul:"Villa 600m² Mewah Private Pool View Sawah Di Nanggulan 30 Menit Ke Malioboro & Dekat Bandara YIA",
 lokasi:"Kemiri, Wijimulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
 luas :"600m²",
