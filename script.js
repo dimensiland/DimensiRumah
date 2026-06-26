@@ -165,7 +165,7 @@ judul:"TANAH 1639m² VIEW MEWAH Di JOGJA! Siap Bangun Villa Dekat Kopi Ampirono 
 lokasi:"Kamal, Pendoworejo, Nanggulan, Kulon Progo, Jogja Barat",
 luas :"1639m²",
 mdpl:"93 - 109",
-harga:"Rp 650.000/m",
+harga:"Rp650.000/m",
 thumbnail:"Kamal1639.jpg",
 video:"https://youtu.be/1Ag6Yb6K4HE",
 
