@@ -4,10 +4,10 @@ const properties=[
 judul:"Jual Tanah Murah 1502m² Pinggir Jalan Provinsi Cuma 295 Juta! View Sungai Jernih & Gunung",
 lokasi:"Kedung Rante, Kaligono, Kaligesing, Purworejo (Kawasan Menoreh, Jogja Barat)",
 luas :"1502m²",
-mdpl:"",
+mdpl:"317 - 377",
 harga:"Rp 295.000.000",
 thumbnail:"Kaligono.jpg",
-video:"https://youtu.be/ETRKvpxjsyw",
+video:"https://youtu.be/cR9HmZM7S20",
 
 sertifikat:"Letter C (Bisa dibantu konversi ke SHM dengan pembayaran awal 50% setelah konversi, pelunasan saat SHM jadi)",
 muka:"Mangku sungai sekitar 25-30 meter, dan muka tanah pinggir jalan raya sekitar 40-50 meter",
