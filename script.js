@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Jual Tanah Murah 1502m² Pinggir Jalan Provinsi Cuma 295 Juta! View Sungai Jernih & Gunung",
+lokasi:"Kedung Rante, Kaligono, Kaligesing, Purworejo (Kawasan Menoreh, Jogja Barat)",
+luas :"1502m²",
+mdpl:"",
+harga:"Rp 295.000.000",
+thumbnail:"Kaligono.jpg",
+video:"https://youtu.be/ETRKvpxjsyw",
+
+sertifikat:"Letter C (Bisa dibantu konversi ke SHM dengan pembayaran awal 50% setelah konversi, pelunasan saat SHM jadi)",
+muka:"Mangku sungai sekitar 25-30 meter, dan muka tanah pinggir jalan raya sekitar 40-50 meter",
+akses:"Pinggir jalan raya provinsi (Jalan Raya Godean - Kaligesing) yang sudah diperlebar, akses mobil, truk, dan bus sangat mudah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata duren & duku (Duren Menor), lingkungan asri, tenang, dikelilingi pepohonan besar, dekat dengan beberapa tempat wisata kuliner/vila seperti Menoreh Dreamland (±5 km), Sungai Mudal (±7 km), Kopi Puncak (±5 km), dan Kopi Ingkar Janji (±15 km)",
+kondisi:"Tanah berkontur terasering/miring dari jalan raya ke arah bawah menuju sungai, terdapat area datar sekitar 400 m² di pinggir sungai, dipenuhi vegetasi pohon durian dan pohon duku",
+prospek:"Sangat cocok untuk vila pribadi, kebun buah pribadi, tempat healing/menenangkan diri (hidden gem dengan view pegunungan dan sungai), atau investasi properti wisata",
+point:"bisa bayar DP 50% setelah konversi ke SHM, sisa pelunasan setelah SHM selesai, Terbuka untuk KTP mana saja (WNI maupun keturunan), Posisi tanah sangat strategis karena nempel jalan provinsi sekaligus mangku sungai jernih berbatu di bagian bawahnya"
+},
+
+{
 judul:"Tanah Dekat Candi Borobudur, Samping Sungai & Jalan Aspal Luas 2100m² Hanya 275 Juta!",
 lokasi:"Banjarharjo, Salaman, Magelang, Jawa Tengah",
 luas :"2100m²",
