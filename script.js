@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah 1700m² Hanya 75 Juta! Dekat Candi Borobudur, Cocok Untuk Kebun Kemandirian Pangan",
+lokasi:"Growong, Tempuran, Magelang, Jawa Tengah",
+luas :"1700m²",
+mdpl:"508 - 527",
+harga:"Rp 75.000.000",
+thumbnail:"Tempuran1700.jpg",
+video:"https://youtu.be/INyuiV6ycf4",
+
+sertifikat:"SHM",
+muka:"Kurang lebih sekitar 30 - 40 meter (tidak mangku jalan utama), panjang ke belakang sekitar 60 meter",
+akses:"Berjarak sekitar 100 meter dari pinggir jalan utama/jalan besar (akses masuk jalan kaki, terdapat tempat parkir mobil di pinggir jalan utama)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana tenang, asri, udara bersih, dan memiliki pemandangan (view) alam yang sangat bagus/istimewa",
+kondisi:"Tanah berupa lahan perkebunan subur yang saat ini masih berupa lahan rimbun pepohonan (perlu dibersihkan), di dalamnya sudah terdapat 3 pohon durian berukuran besar yang sudah berbuah, serta vegetasi alami seperti pohon bambu dan kayu mandiri",
+prospek:"Sangat prospektif untuk kebun produktif keluarga jangka panjang (passive income) atau area healing/pensiun. Cocok ditanami komoditas seperti durian (muat ~20 pohon), alpukat (~15 pohon), kopi (~50 tanaman), pisang (~25 pohon), empon-empon (serai), maupun sayuran",
+point:"Lahan seluas 1700m² hanya seharga 75 juta rupiah net, Sudah ada 3 pohon durian besar yang siap panen serta stok pohon kayu yang melimpah di lokasi—cukup untuk bahan baku membuat gubuk/pondok peristirahatan tanpa perlu beli kayu dari luar, Direkomendasikan khusus untuk aktivitas agrowisata pribadi/berkebun, bukan sebagai tapak rumah tinggal utama karena posisinya yang masuk 100 meter dari jalan utama"
+},
+
+{
 judul:"Jual Tanah Murah 1502m² Pinggir Jalan Provinsi Cuma 295 Juta! View Sungai Jernih & Gunung",
 lokasi:"Kedung Rante, Kaligono, Kaligesing, Purworejo (Kawasan Menoreh, Jogja Barat)",
 luas :"1502m²",
