@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah 150 Juta di Godean Sleman! Luas 274m² SHM Pekarangan, Siap Bangun Rumah Pertama",
+lokasi:"Sidoarjo, Godean, Sleman, DI Yogyakarta (Jalan Godean KM 13, ke utara dari Pasar Godean)",
+luas :"274m²",
+mdpl:"119 - 121",
+harga:"Rp 150.000.000 (Nett)",
+thumbnail:"Godean274.jpg",
+video:"https://youtu.be/-JWgIINg0mo",
+
+sertifikat:"SHM Pekarangan",
+muka:"Lebar depan 20 meter",
+akses:"Akses jalan masuk satu mobil (belum bisa simpangan), berjarak sekitar 70–100 meter dari jalan besar/jalan aspal utama kabupaten",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sangat dekat dengan kompleks perumahan-perumahan subsidi yang ramai, lingkungan sekitar juga banyak diisi oleh rumah warga pendatang serta pengrajin genteng",
+kondisi:"Tanah berkondisi agak masuk ke bawah (bekas dikeduk untuk bahan genteng oleh pemilik sebelumnya), sehingga membutuhkan urukan tanah agar rata dengan jalan",
+prospek:"Sangat cocok untuk investasi jangka panjang, dijadikan rumah tinggal pertama, ataupun tempat usaha/kursus karena lokasinya hanya berjarak 13 km (sekitar 20 menit) dari kawasan Malioboro",
+point:"Harga sangat terjangkau di bawah pasar untuk luasan hampir 300 m² di area Godean, Estimasi biaya pengurukan tanah agar rata sekitar Rp10 juta (menggunakan sekitar 20 truk tanah), namun bisa disiasati dengan biaya lebih hemat (sekitar Rp3 juta) jika membeli tanah uruk dari tetangga sebelah menggunakan sewa alat berat/bego, Fasilitas umum terdekat mencakup Pasar Kliwonan yang berjarak hanya sekitar 500 meter"
+},
+
+{
 judul:"Tanah 1700m² Hanya 75 Juta! Dekat Candi Borobudur, Cocok Untuk Kebun Kemandirian Pangan",
 lokasi:"Growong, Tempuran, Magelang, Jawa Tengah",
 luas :"1700m²",
