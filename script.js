@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
+lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
+luas :"10.000m² (1 Hektar)",
+mdpl:"800 - 1000",
+harga:"Rp 295.000/m",
+thumbnail:"1HKopiPuncak.jpg",
+video:"https://youtu.be/MHiPOl-wYxU",
+
+sertifikat:"SHM Tegalan",
+muka:"70 hingga 80 meter",
+akses:"Pinggir jalan raya utama / jalan provinsi. Akses mudah dijangkau dari arah Kota Jogja maupun Sleman",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan ekosistem wisata alam yang asri, dikelilingi oleh lanskap perkebunan kopi dan kebun teh. Udara sangat sejuk, tenang, dan sering turun kabut. Samping lahan sudah laku dibeli untuk kawasan vila pensiunan dan kebun organik",
+kondisi:"Sebagian lahan sudah ditanami pohon kopi dan pohon sengon. Kontur tanah bervariasi dengan komposisi sekitar 50% hingga 60% berupa lahan datar (baik di area pinggir jalan utama maupun di area bawah), sisanya berupa lanskap terasering yang cantik",
+prospek:"Sangat fleksibel dan bernilai investasi tinggi. Cocok untuk dibangun kawasan wisata, tempat pernikahan (wedding venue), vila/resort, tempat pensiunan, perkebunan organik, maupun restoran kuliner karena berada satu jalur dengan berbagai objek wisata viral",
+point:"Lokasi emas nempel persis di samping Resto Kopi Puncak. Lebar muka tanah sangat panjang (70-80 meter) di pinggir jalan provinsi, memudahkan penataan gerbang utama maupun area parkir luas. Suasana di area bawah sangat tenang, bebas dari kebisingan jalan raya, dan memiliki pemandangan perbukitan yang lepas (view los). Dekat dengan banyak destinasi wisata dan vila terkenal di Menoreh (seperti Menoreh Dreamland, Gua Kiskendo, Eko Wisata Sungai Mudal, dll). Berjarak sekitar 10 km dari Sleman, serta sekitar 30 km dari Malioboro dan Bandara YIA"
+},
+
+{
 judul:"Tanah Indah View Sawah Dan Bukit di Jogja! Tanah Mewah 2208m² Hanya 450 Juta Dekat Wisata Nanggulan!",
 lokasi:"Ngaran, Banjarsari, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"2208m²",
