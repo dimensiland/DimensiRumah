@@ -3,7 +3,7 @@ const properties=[
 {
 judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
 lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
-luas :"10.000m² (1 Hektar)",
+luas :"10.000m² - 1 Hektar",
 mdpl:"800 - 1000",
 harga:"Rp 295.000/m",
 thumbnail:"1HKopiPuncak.jpg",
