@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
+lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
+luas:"1338m²",
+mdpl:"158 - 185",
+harga:"Rp 225.000.000",
+thumbnail:"Kluwih1338.jpg",
+video:"https://youtu.be/RwjC3M69uNo",
+
+sertifikat:"SHM Pekarangan",
+muka:"Memiliki dua muka (pinggir aspal atas dan jalan desa di bawah) dengan lebar muka sekitar 20 meter",
+akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat penduduk di bagian bawah, dikelilingi ekosistem wisata villa dan restoran, serta memiliki suasana alam yang asri",
+kondisi:"Tanah dengan kontur miring (landscape) yang menawarkan pemandangan lepas, sebagian area masih berupa pepohonan/jungle",
+prospek:"Sangat cocok untuk slow living, rumah tinggal pensiun, villa, atau pembangunan kabin-kabin penginapan karena berada di kawasan wisata",
+point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah, serta pemandangan Kota Jogja dari ketinggian. Lokasi strategis hanya berjarak sekitar 30 menit dari Malioboro dan 45 menit dari Bandara YIA"
+},
+
+{
 judul:"Tanah Murah 150 Juta di Godean Sleman! Luas 274m² SHM Pekarangan, Siap Bangun Rumah Pertama",
 lokasi:"Sidoarjo, Godean, Sleman, DI Yogyakarta (Jalan Godean KM 13, ke utara dari Pasar Godean)",
 luas :"274m²",
@@ -412,25 +432,6 @@ lingkungan:"Asri, tenang, sudah banyak hunian dan rumah dengan konsep limasan/mo
 kondisi:"Tanah datar, siap bangun, batas patok jelas",
 prospek:"Sangat bagus untuk hunian pribadi, villa, guest house, atau investasi karena pertumbuhan area Sedayu yang pesat",
 point:"Hanya 5 menit ke Jalan Nasional (Jalan Wates). Dekat dengan kampus UMY, Mercu Buana, dan UNISA. Dekat dengan RS Queen Latifa. Hanya 20 menit ke Malioboro/Tugu Jogja dan 30 menit ke Bandara YIA. Posisi hook (dua muka) memberikan fleksibilitas desain bangunan yang lebih menarik"
-},
-
-{
-judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
-lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
-luas:"1338m²",
-harga:"Rp 225.000.000",
-thumbnail:"Kluwih1338.jpg",
-video:"https://youtu.be/JB_VZfAgF-0",
-
-sertifikat:"SHM Pekarangan",
-muka:"Memiliki dua muka (pinggir aspal atas dan jalan desa di bawah) dengan lebar muka sekitar 20 meter",
-akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Padat penduduk di bagian bawah, dikelilingi ekosistem wisata villa dan restoran, serta memiliki suasana alam yang asri",
-kondisi:"Tanah dengan kontur miring (landscape) yang menawarkan pemandangan lepas, sebagian area masih berupa pepohonan/jungle",
-prospek:"Sangat cocok untuk slow living, rumah tinggal pensiun, villa, atau pembangunan kabin-kabin penginapan karena berada di kawasan wisata",
-point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah, serta pemandangan Kota Jogja dari ketinggian. Lokasi strategis hanya berjarak sekitar 30 menit dari Malioboro dan 45 menit dari Bandara YIA"
 },
 
 {
