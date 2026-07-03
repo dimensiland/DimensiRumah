@@ -41,6 +41,26 @@ point:"Harga sangat terjangkau di bawah pasar untuk luasan hampir 300 m² di are
 },
 
 {
+judul:"CUMA 175JUTA! Tanah Luas 1400m² View Pegunungan di Kawasan Wisata Kulon Progo, Dekat Tumpeng Menoreh",
+lokasi:"Purwoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
+luas:"1400m²",
+mdpl:"427 - 460",
+harga:"Rp 175.000.000",
+thumbnail:"Bangunrejo1400.jpg",
+video:"https://youtu.be/W6BBLjihnHo",
+
+sertifikat:"SHM Tegalan",
+muka:"40 meter",
+akses:"Jalan mobil sampai lokasi, kondisi jalan sudah dicor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana pedesaan yang adem, sejuk, dan tenang (cocok untuk slow living), dekat dengan rumah warga/Pak Dukuh",
+kondisi:"Tanah terasering yang saat ini ditanami pisang dan ketela, memiliki pemandangan (view) pegunungan Menoreh dan sawah yang indah",
+prospek:"Sangat bagus untuk hunian masa tua (slow living), investasi aset, atau dijadikan kebun buah seperti alpukat dan durian",
+point:"Dekat dengan objek wisata populer: Air Terjun Sidoharjo (3 km), Tumpeng Menoreh, dan Kebun Teh Nglinggo, Sekitar 6-7 km dari Minggir (Sleman) dan kurang lebih 45 menit dari pusat Kota Yogyakarta"
+},
+
+{
 judul:"Tanah 1700m² Hanya 75 Juta! Dekat Candi Borobudur, Cocok Untuk Kebun Kemandirian Pangan",
 lokasi:"Growong, Tempuran, Magelang, Jawa Tengah",
 luas :"1700m²",
@@ -550,25 +570,6 @@ point:"Dekat dengan berbagai pusat kuliner populer seperti Kopi Ampirono, Geblek
 },
 
 {
-judul:"Jual Tanah MURAH Di Kokap Luas 1683m² Harga 130jt Nett Dekat Bandara YIA Dan Pesantren!!!",
-lokasi:"Hargomulyo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1683m²",
-harga:"Rp 130.432.500",
-thumbnail:"Kokap1683.jpg",
-video:"https://youtu.be/t1o1YLTVKQ8",
-
-sertifikat:"SHM Pekarangan",
-muka:"±40 Meter",
-akses:"Tersedia Setapak (sementara)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan dan Perkampungan",
-kondisi:"Datar dan Miring -+30%",
-prospek:"Rumah Pensiun, Aset, Perkebunan",
-point:"Dekat Bandara -+ 10km, Dekat Pesantren Kanjeng Sunan Gunung Jati -+5 menit, Lingkungan sudah Ramai Penduduk, Ke Jalan Utama sekitar 10 menit"
-},
-
-{
 judul:"Tanah Strategis Luas 1891 m² Hanya 350 Juta! – View Sawah & Gunung, Cocok untuk Villa/Slow Living",
 lokasi:"Banjarsari, Samigaluh, Kulonprogo Jalan Nanggulan - Samigaluh, Utara Kopi Ingkar Janji",
 luas:"1891m²",
@@ -718,25 +719,6 @@ lingkungan:"Perkebunan yang asri dan dekat dengan perkampungan/fasilitas umum se
 kondisi:"Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
 prospek:"Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
 point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
-},
-
-{
-judul:"CUMA 175JUTA! Tanah Luas 1400m² View Pegunungan di Kawasan Wisata Kulon Progo, Dekat Tumpeng Menoreh",
-lokasi:"Purwoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"1400m²",
-harga:"Rp 175.000.000",
-thumbnail:"Bangunrejo1400.jpg",
-video:"https://youtu.be/892Omz-5sEY",
-
-sertifikat:"SHM Tegalan",
-muka:"40 meter",
-akses:"Jalan mobil sampai lokasi, kondisi jalan sudah dicor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Suasana pedesaan yang adem, sejuk, dan tenang (cocok untuk slow living), dekat dengan rumah warga/Pak Dukuh",
-kondisi:"Tanah terasering yang saat ini ditanami pisang dan ketela, memiliki pemandangan (view) pegunungan Menoreh dan sawah yang indah",
-prospek:"Sangat bagus untuk hunian masa tua (slow living), investasi aset, atau dijadikan kebun buah seperti alpukat dan durian",
-point:"Dekat dengan objek wisata populer: Air Terjun Sidoharjo (3 km), Tumpeng Menoreh, dan Kebun Teh Nglinggo, Sekitar 6-7 km dari Minggir (Sleman) dan kurang lebih 45 menit dari pusat Kota Yogyakarta"
 },
 
 {
