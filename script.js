@@ -321,26 +321,6 @@ point:"Pembeli yang berada di luar kota tidak perlu repot, karena proses line cl
 },
 
 {
-judul:"TANAH 1639m² VIEW MEWAH Di JOGJA! Siap Bangun Villa Dekat Kopi Ampirono & Geblek Pari, Air Melimpah!",
-lokasi:"Kamal, Pendoworejo, Nanggulan, Kulon Progo, Jogja Barat",
-luas :"1639m²",
-mdpl:"93 - 109",
-harga:"Rp 650.000/m",
-thumbnail:"Kamal1639.jpg",
-video:"https://youtu.be/1Ag6Yb6K4HE",
-
-sertifikat:"SHM Sawah",
-muka:"Melebar (menghadap ke pemandangan sawah dan pegunungan)",
-akses:"Sangat luas, mobil bisa masuk dengan nyaman",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, dan dekat dengan rumah warga. Menawarkan nuansa pedesaan yang syahdu dengan pemandangan hamparan sawah, perbukitan/pegunungan Menoreh, serta Gunung Merapi yang terlihat jelas di pagi hari",
-kondisi:"Tanah subur berwujud sawah produktif yang memiliki bonus area perkebunan kecil di bagian belakangnya (sudah ditanami pohon kelapa dan beberapa pohon buah-buahan)",
-prospek:"Sangat potensial dan cocok untuk dibangun villa, tempat kediaman/rumah peristirahatan keluarga, kolam/empang pemancingan, maupun gazebo untuk bersantai karena lokasinya berada di jalur destinasi wisata populer",
-point:"Mendapatkan pemandangan penuh matahari terbit (sunrise) dan matahari terbenam (sunset) langsung dari lokasi lahan, Berjarak hanya sekitar 1 km dari Westlake/Waz Villa dan Geblek Pari, Hanya sekitar 2 km menuju destinasi kuliner/wisata Girimanah, Kopi Ampirono, Dadap Sumilir, dan Kopi Ingkar Janji"
-},
-
-{
 judul:"Villa 600m² Mewah Private Pool View Sawah Di Nanggulan 30 Menit Ke Malioboro & Dekat Bandara YIA",
 lokasi:"Kemiri, Wijimulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
 luas :"600m²",
