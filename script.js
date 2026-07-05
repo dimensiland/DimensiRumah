@@ -81,6 +81,26 @@ point:"Memiliki pemandangan view lepas ke arah lembah, persawahan, dan Pegununga
 },
 
 {
+judul:"Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
+lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
+luas:"442m²",
+mdpl:"730 - 744",
+harga:"Rp 85.000.000",
+thumbnail:"Pandanrejo442.jpg",
+video:"https://youtu.be/ddEYwakwvSQ",
+
+sertifikat:"SHM Pekarangan",
+muka:"±- Meter",
+akses:"Sangat dekat dengan jalan provinsi (sekitar 70 meter). Saat ini akses ke lokasi berupa jalan resmi yang belum dicor, namun bisa dilewati kendaraan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan penduduk yang ramai namun memiliki suasana pegunungan yang sangat tenang, sejuk (suhu sekitar 20-an derajat), dan nyaman",
+kondisi:"Tanah datar di atas gunung",
+prospek:"Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
+point:"Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
+},
+
+{
 judul:"Tanah Mewah View Los Kota Jogja & Gunung Menoreh! 1338m² di Girimulyo, Kulon Progo",
 lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
 luas:"1338m²",
@@ -704,25 +724,6 @@ lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang 
 kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
 prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
 point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
-},
-
-{
-judul:"Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
-lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
-luas:"442m²",
-harga:"Rp 85.000.000",
-thumbnail:"Pandanrejo442.jpg",
-video:"https://youtu.be/fcULADTB1HQ",
-
-sertifikat:"SHM Pekarangan",
-muka:"±- Meter",
-akses:"Sangat dekat dengan jalan provinsi (sekitar 70 meter). Saat ini akses ke lokasi berupa jalan resmi yang belum dicor, namun bisa dilewati kendaraan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan penduduk yang ramai namun memiliki suasana pegunungan yang sangat tenang, sejuk (suhu sekitar 20-an derajat), dan nyaman",
-kondisi:"Tanah datar di atas gunung",
-prospek:"Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
-point:"Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
 },
 
 {
