@@ -141,6 +141,26 @@ point:"Harga sangat terjangkau di bawah pasar untuk luasan hampir 300 m² di are
 },
 
 {
+judul:"Tanah Murah 2301m² Dekat Glamping Menoreh, Cuma 295 Juta Menempel Sungai Cocok Untuk Villa & Healing",
+lokasi:"Purwoharjo, Samigaluh, Kulon Progo (Jogja Barat)",
+luas:"2301m²",
+mdpl:"238 - 247",
+harga:"Rp 295.000.000",
+thumbnail:"Purwoharjo2301.jpg",
+video:"https://youtu.be/x29U1qPLcMs",
+
+sertifikat:"SHM Pekarangan",
+muka:"±50 Meter",
+akses:"Jalan desa, sekitar 3 km dari jalan aspal mobil dapat simpangan jika jalan diperlebar pemerintah ke depannya",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang tenang",
+kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
+prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
+point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
+},
+
+{
 judul:"CUMA 175JUTA! Tanah Luas 1400m² View Pegunungan di Kawasan Wisata Kulon Progo, Dekat Tumpeng Menoreh",
 lokasi:"Purwoharjo, Kulon Progo Regency, Special Region of Yogyakarta",
 luas:"1400m²",
@@ -705,25 +725,6 @@ lingkungan:"Asri, view perbukitan dan sawah, dekat aliran sungai jernih, lingkun
 kondisi:"Datar Terasesing",
 prospek:"Cocok untuk kebun produktif, atau investasi jangka panjang",
 point:"Hanya Rp75 juta untuk luas tanah lebih dari 2.000m2 di wilayah Jogja, Sekitar 7 km dari pintu Tol Sentolo dan 2 km dari pusat Kecamatan Girimulyo"
-},
-
-{
-judul:"Tanah Murah 2301m² Dekat Glamping Menoreh, Cuma 295 Juta Menempel Sungai Cocok Untuk Villa & Healing",
-lokasi:"Purwoharjo, Samigaluh, Kulon Progo (Jogja Barat)",
-luas:"2301m²",
-harga:"Rp 295.000.000",
-thumbnail:"Purwoharjo2301.jpg",
-video:"https://youtu.be/ljY5D_A_cR4",
-
-sertifikat:"SHM Pekarangan",
-muka:"±50 Meter",
-akses:"Jalan desa, sekitar 3 km dari jalan aspal mobil dapat simpangan jika jalan diperlebar pemerintah ke depannya",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang tenang",
-kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
-prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
-point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
 },
 
 {
