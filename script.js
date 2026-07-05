@@ -221,6 +221,26 @@ point:"Hanya berjarak sekitar 20 menit ke Candi Borobudur, sekitar 10 menit (6 k
 },
 
 {
+judul:"Tanah Datar Luas 12.661m² SHM Pekarangan Pinggir Jalan Provinsi, Cocok untuk Kawasan Vila & Wisata!",
+lokasi:"Banyuroto, Nanggulan, Kulon Progo, Yogyakarta",
+luas :"12.661m²",
+mdpl:"118 - 132",
+harga:"Rp 350.000/m",
+thumbnail:"Banyuroto12661.jpg",
+video:"https://youtu.be/fQm2oG4UEXs",
+
+sertifikat:"SHM Pekarangan",
+muka:"sekitar 110m",
+akses:"Jalan cor dengan lebar badan jalan sekitar 3,5 meter, bisa diakses mobil sampai lokasi, dan hanya berjarak sekitar 50 meter dari Jalan Provinsi Pengasih-Nanggulan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Dekat dengan pemukiman warga, asri, dengan pemandangan alam (jungle view) yang dikelilingi pohon kelapa dan pepohonan hijau",
+kondisi:"Tanah cenderung datar dengan kontur agak terasering landai (tidak ekstrem), terdapat area yang saat ini difungsikan sebagai sawah, serta ditumbuhi pohon kelapa dan pohon jati",
+prospek:"Sangat cocok untuk dikembangkan menjadi kawasan wisata, vila, kebun produktif, atau peternakan",
+point:"Bentuk tanah cenderung trapesium sehingga mudah untuk ditata atau dipatok ulang, Memiliki ekosistem yang lengkap di dalam satu lahan (bisa untuk hunian vila, berkebun, bertani, sekaligus beternak), Lokasinya sangat strategis karena sangat dekat dengan jalan provinsi utama"
+},
+
+{
 judul:"Tanah Pekarangan 879m² Datar View Sawah di Kawasan Wisata Kuliner Nanggulan Dekat Pintu Tol Sentolo!",
 lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo, Jogja Barat",
 luas :"879m²",
