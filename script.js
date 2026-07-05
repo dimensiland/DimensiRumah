@@ -21,6 +21,26 @@ point:"Lokasi emas nempel persis di samping Resto Kopi Puncak. Lebar muka tanah 
 },
 
 {
+judul:"Tanah 1039m² Pekarangan Murah di Kulon Progo Dekat Kopi Ingkar Janji & Siap Balik Nama KTP Mana Saja",
+lokasi:"Jatisarono, Nanggulan, Kulon Progo",
+luas :"1039m²",
+mdpl:"82 - 93",
+harga:"Rp 475.000/m",
+thumbnail:"Jatisarono1039.jpg",
+video:"https://youtu.be/1TyDho9BLoc",
+
+sertifikat:"SHM Pekarangan",
+muka:"Sekitar 15m",
+akses:"Saat ini akses masuk masih jalan tanah (lebar ±3 meter, muat 1 mobil 1 motor), di sertifikat sudah tercatat sebagai jalan resmi. Dekat ke jalan raya besar Nanggulan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dikelilingi pemandangan (view) hamparan sawah dan Bukit Menoreh. Konsep lokasi seperti hidden gem",
+kondisi:"Tanah pekarangan dengan kontur ngetrap (terdiri dari 2 trap/undakan)",
+prospek:"Sangat cocok untuk dibangun villa, homestay, atau tempat tinggal karena lingkungannya yang tenang dengan pemandangan alam yang indah",
+point:"Dekat dengan berbagai tempat wisata kuliner populer di Nanggulan (Kopi Ingkar Janji ±1 km, Dadap Sumilir, Iwak Kalen, Vila Suwantari, dll), Samping tanah berbatasan langsung dengan sungai kecil, View langsung menghadap sawah, Bukit Menoreh, dan pemandangan matahari terbenam (sunset),kses ke Kota Jogja sekitar 15 km dan ke Bandara YIA sekitar 25 km (dekat perempatan Kenteng / jalur Godean-Kulon Progo)"
+},
+
+{
 judul:"Tanah Indah View Sawah Dan Bukit di Jogja! Tanah Mewah 2208m² Hanya 450 Juta Dekat Wisata Nanggulan!",
 lokasi:"Ngaran, Banjarsari, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"2208m²",
