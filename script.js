@@ -21,6 +21,25 @@ point:"Lokasi berada di ekosistem wisata aktif Menoreh, Tanah memanjang dan berb
 },
 
 {
+judul:"Tanah Murah Luas 5331m² Pinggir Sungai Eksotis Cocok untuk Villa & Resort View Sungai Menoreh",
+lokasi:"Grigak, Girimulyo, Kulon Progo, Jogja Barat (Belakang Pasar Seribit / Belakang Polsek, Puskesmas, & Kecamatan Girimulyo)",
+luas:"5331m²",
+harga:"Rp 150.000/m",
+thumbnail:"Grigak5331.jpg",
+video:"https://youtu.be/36ara-X6oAA",
+
+sertifikat:"SHM Sawah",
+muka:"±30 Meter",
+akses:"Jalan resmi. Dari jalan aspal kabupaten ke titik lokasi berjarak sekitar 50-70 meter (saat ini perlu dicor/pengerasan jalan)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata, asri, tenang, dan dikelilingi oleh pemandangan sawah serta pegunungan/Perbukitan Menoreh",
+kondisi:"90% lahan berupa tanah datar/landai (siap bangun tanpa perlu alat berat/bego), saat ini ditanami pohon sengon dan rumput pakan ternak",
+prospek:"Sangat ideal untuk dibangun resort, kompleks private villa (kapasitas hingga 10 unit), resto/cafe berkonsep kabin kaca, tempat pensiun, atau hunian berkonsep slow living",
+point:"Hanya Rp 150 ribu/m², Memiliki panjang muka yang menghadap ke sungai berbatu alami sepanjang lebih dari 100 meter, sangat premium untuk view kamar villa atau area nongkrong, Berdekatan dengan berbagai destinasi populer seperti Suarna Padi (500 m), Puncak Saka (1 km), Kopi Ampirono, Ingkar Janji, Omah Cantrik, dan Geblek Pari, Hanya sekitar 5 km dari rencana pintu tol Sentolo, 22 km (±35 menit) dari Malioboro/Kota Jogja, dan 24 km dari Bandara YIA"
+},
+
+{
 judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
 lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
 luas:"1025m²",
@@ -498,25 +517,6 @@ lingkungan:"Kawasan berkembang Matahari Terbit pariwisata Jogja Barat yang asri,
 kondisi:" Area bibir sungai memiliki lahan datar yang cukup luas (lebar ±20–80 meter), diikuti kontur tanah berundak/terasering yang sangat estetis di bagian atasnya. Vegetasi tanah dipenuhi pohon kelapa eksotis dan penjual memberikan fasilitas gratis pembersihan lahan (line clearing)",
 prospek:"Sangat tinggi untuk dijadikan kawasan eco-tourism terpadu, komplek Premium Private Villa (potensi sewa tinggi), Resto/Cafe berlatar alam, wedding venue outdoor, hingga wisata air (wahana kano/kapal ala Venesia)",
 point:"Memiliki pemandangan menakjubkan dari kombinasi pegunungan Menoreh, hamparan sawah terasering, serta sungai lebar seperti danau. Lokasi Strategis: Berjarak sekitar 5 Km dari rencana pintu Tol Sentolo, 20 Km dari Tugu Jogja/Malioboro, dan hanya 25 Km (sekitar 30 menit) menuju Bandara YIA. Bebas Biaya Pembersihan: Terima lahan dalam kondisi bersih, siap dikonsep bersama arsitek"
-},
-
-{
-judul:"Tanah Murah Luas 5331m² Pinggir Sungai Eksotis Cocok untuk Villa & Resort View Sungai Menoreh",
-lokasi:"Grigak, Girimulyo, Kulon Progo, Jogja Barat (Belakang Pasar Seribit / Belakang Polsek, Puskesmas, & Kecamatan Girimulyo)",
-luas:"5331m²",
-harga:"Rp 150.000/m",
-thumbnail:"Grigak5331.jpg",
-video:"https://youtu.be/-mTmmwtyzKw",
-
-sertifikat:"SHM",
-muka:"±30 Meter",
-akses:"Jalan resmi. Dari jalan aspal kabupaten ke titik lokasi berjarak sekitar 50-70 meter (saat ini perlu dicor/pengerasan jalan)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan wisata, asri, tenang, dan dikelilingi oleh pemandangan sawah serta pegunungan/Perbukitan Menoreh",
-kondisi:"90% lahan berupa tanah datar/landai (siap bangun tanpa perlu alat berat/bego), saat ini ditanami pohon sengon dan rumput pakan ternak",
-prospek:"Sangat ideal untuk dibangun resort, kompleks private villa (kapasitas hingga 10 unit), resto/cafe berkonsep kabin kaca, tempat pensiun, atau hunian berkonsep slow living",
-point:"Hanya Rp 150 ribu/m², Memiliki panjang muka yang menghadap ke sungai berbatu alami sepanjang lebih dari 100 meter, sangat premium untuk view kamar villa atau area nongkrong, Berdekatan dengan berbagai destinasi populer seperti Suarna Padi (500 m), Puncak Saka (1 km), Kopi Ampirono, Ingkar Janji, Omah Cantrik, dan Geblek Pari, Hanya sekitar 5 km dari rencana pintu tol Sentolo, 22 km (±35 menit) dari Malioboro/Kota Jogja, dan 24 km dari Bandara YIA"
 },
 
 {
