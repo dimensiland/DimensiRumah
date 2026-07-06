@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Kavling Sakana Siap Bangun di Belakang Omah Cantrik! Luas 116m² Dan 189m² View Sawah Dan Bukit",
+lokasi:"Nanggulan, Kulon Progo, D.I. Yogyakarta (Tepat di belakang Omah Cantrik milik Raminton)",
+luas :"Kavling A8 : 189m², Kavling A7 : 116m²",
+mdpl:"90 - 117",
+harga:"Kavling A8 (189m²) : Rp189 Juta, Kavling A7 (116m²) : Rp116 Juta",
+thumbnail:"Kavlingsakana.jpg",
+video:"https://youtu.be/iOIsgQu3Z0U",
+
+sertifikat:"Sudah pecah per kavling, siap balik nama (sudah ada 5 kavling yang balik nama)",
+muka:"Kavling A8 : 11,9 meter, Kavling A7 : 7 meter",
+akses:"Jalan lingkungan selebar 5 meter dan sudah dicor semen tebal. Di samping jalan sudah disiapkan saluran drainase/air mengalir",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan pemandangan (view) sawah terasering dan pegunungan Menoreh. Suasananya tenang, nyaman, dan sejuk jauh dari kebisingan kota, namun tetap dekat dengan area wisata kuliner",
+kondisi:"Tanah kavling siap bangun, batas patok jelas, dan beberapa kavling tetangga di sekitarnya sudah laku bahkan mulai dibangun rumah joglo / villa",
+prospek:"Sangat cocok untuk dibangun villa, rumah joglo, atau hunian peristirahatan karena berada di kawasan berkembang dekat berbagai destinasi kuliner/wisata viral serta dekat akses infrastruktur utama",
+point:" Lokasi super strategis, menempel / tepat di belakang resto terkenal Omah Cantrik (bisa jalan kaki), Hanya berjarak sekitar 500 meter dari jalan provinsi (Jalan raya Nanggulan), Berada di area kuldesak (cul-de-sac) di ujung kavling tertentu sehingga memberikan ruang parkir umum ekstra yang bisa muat hingga 2 mobil, Hanya 5 km (10 menit) dari Exit Tol Sentolo, sekitar 30 menit (20 km) dari Malioboro/Kota Jogja, dan sekitar 35 menit (24 km) dari Bandara Internasional YIA"
+},
+
+{
 judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
 lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
 luas :"10.000m² - 1 Hektar",
@@ -358,26 +378,6 @@ lingkungan:"Asri, sejuk, dan alami. Dikelilingi pemandangan hutan pinus, area pe
 kondisi:"Tanah berupa hamparan luas dengan kontur landai / hampir datar berbentuk terasering (bukan miring curam). Sebelumnya ditanami pohon jati yang sudah dipanen, saat ini tanah sangat subur",
 prospek:"Sangat cocok untuk investasi jangka panjang, kebun buah (seperti durian, alpukat, kopi, pisang), atau dibangun villa keluarga dengan konsep slow living yang tenang dekat area wisata Borobudur dan Kota Magelang",
 point:"Memiliki View Istimewa 7 Gunung, yaitu Gunung Merapi, Merbabu, Telomoyo, Andong, Sindoro, Sumbing, serta bonus pemandangan Gunung Tidar dan Pegunungan Menoreh, Pada malam hari dapat menikmati pemandangan langsung city light atau lampu-lampu Kota Magelang dari ketinggian, Kemudahan skema pembayaran yang bisa dicicil hingga 10 bulan langsung ke pemilik properti"
-},
-
-{
-judul:"Kavling Sakana Siap Bangun di Belakang Omah Cantrik! Luas 116m² Dan 189m² View Sawah Dan Bukit",
-lokasi:"Nanggulan, Kulon Progo, D.I. Yogyakarta (Tepat di belakang Omah Cantrik milik Raminton)",
-luas :"Kavling A8 : 189m², Kavling A7 : 116m²",
-mdpl:"90 - 117",
-harga:"Kavling A8 (189m²) : Rp189 Juta, Kavling A7 (116m²) : Rp116 Juta",
-thumbnail:"Kavlingsakana.jpg",
-video:"https://youtu.be/gvfYhul5X0M",
-
-sertifikat:"Sudah pecah per kavling, siap balik nama (sudah ada 5 kavling yang balik nama)",
-muka:"Kavling A8 : 11,9 meter, Kavling A7 : 7 meter",
-akses:"Jalan lingkungan selebar 5 meter dan sudah dicor semen tebal. Di samping jalan sudah disiapkan saluran drainase/air mengalir",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri dengan pemandangan (view) sawah terasering dan pegunungan Menoreh. Suasananya tenang, nyaman, dan sejuk jauh dari kebisingan kota, namun tetap dekat dengan area wisata kuliner",
-kondisi:"Tanah kavling siap bangun, batas patok jelas, dan beberapa kavling tetangga di sekitarnya sudah laku bahkan mulai dibangun rumah joglo / villa",
-prospek:"Sangat cocok untuk dibangun villa, rumah joglo, atau hunian peristirahatan karena berada di kawasan berkembang dekat berbagai destinasi kuliner/wisata viral serta dekat akses infrastruktur utama",
-point:" Lokasi super strategis, menempel / tepat di belakang resto terkenal Omah Cantrik (bisa jalan kaki), Hanya berjarak sekitar 500 meter dari jalan provinsi (Jalan raya Nanggulan), Berada di area kuldesak (cul-de-sac) di ujung kavling tertentu sehingga memberikan ruang parkir umum ekstra yang bisa muat hingga 2 mobil, Hanya 5 km (10 menit) dari Exit Tol Sentolo, sekitar 30 menit (20 km) dari Malioboro/Kota Jogja, dan sekitar 35 menit (24 km) dari Bandara Internasional YIA"
 },
 
 {
