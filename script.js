@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah 1923m² Harga 175Jt Menempel Sungai! Lokasi Strategis di Jalur Wisata Menoreh, View Sawah",
+lokasi:"Sembuh, Sidoharjo, Kalirejo, Samigaluh, Kulon Progo",
+luas :"1923m²",
+mdpl:"356 - 361",
+harga:"Rp 175.000.000",
+thumbnail:"Sembuh1923.jpg",
+video:"https://youtu.be/SOqRwGuZFeQ",
+
+sertifikat:"SHM Pekarangan",
+muka:"Kurang lebih 25–30 meter (Menempel jalan dan aliran sungai)",
+akses:"Jalan resmi terdaftar di sertifikat, namun kondisi saat ini masih berupa jalan tanah (butuh pengerasan/cor sekitar 80–100 meter menuju lokasi)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana tenang, asri dengan pemandangan sawah dan pegunungan Menoreh. Dekat dengan berbagai objek wisata dan kuliner (Tumpeng Menoreh, Kebun Teh Nglinggo, Kopi Ingkar Janji, dll)",
+kondisi:"Tanah berupa terasering lebar yang bisa ditata ulang, saat ini sudah ada beberapa pohon jati, pisang, dan alpukat yang tidak terawat",
+prospek:"Sangat cocok untuk slow living, pembangunan vila/kabin, atau dijadikan kebun produktif (Durian Musang King, alpukat, atau kopi) karena tanahnya yang sangat subur",
+point:"Lokasi berada di ekosistem wisata aktif Menoreh, Tanah memanjang dan berbatasan langsung dengan sungai kecil yang jernih, Harga sangat kompetitif di bawah 200 juta untuk luasan hampir 2.000 m² dengan status pekarangan"
+},
+
+{
 judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
 lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
 luas:"1025m²",
