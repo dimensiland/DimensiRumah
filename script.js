@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
+lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
+luas:"1025m²",
+mdpl:"65 - 76",
+harga:"Rp 650.000.000",
+thumbnail:"Kamal1025.jpg",
+video:"https://youtu.be/TMbO5HIuPq0",
+
+sertifikat:"SHM Pekarangan",
+muka:"±40 Meter",
+akses:"Jalan mobil bisa sampai ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dekat dengan pemukiman tetangga, dan berbatasan dengan sungai jernih yang mengalir sepanjang tahun",
+kondisi:"Lahan berkontur datar keseluruhan, siap bangun",
+prospek:"Sangat ideal untuk hunian masa tua/pensiun (slow living), villa, tempat berkebun, maupun usaha rekreasi air skala kecil (seperti river tubing atau area santai pinggir sungai) ",
+point:"Berjarak sekitar 7–8 km dari pusat Kota Wates, ±15 km dari Bandara (YIA), Dekat dengan Bumi Perkemahan Kedung Jinggo, serta berjarak sekitar 4–5 km di bawah objek wisata Waduk Sermo"
+},
+
+{
 judul:"Kavling Sakana Siap Bangun di Belakang Omah Cantrik! Luas 116m² Dan 189m² View Sawah Dan Bukit",
 lokasi:"Nanggulan, Kulon Progo, D.I. Yogyakarta (Tepat di belakang Omah Cantrik milik Raminton)",
 luas :"Kavling A8 : 189m², Kavling A7 : 116m²",
@@ -477,25 +497,6 @@ lingkungan:"Kawasan wisata, asri, tenang, dan dikelilingi oleh pemandangan sawah
 kondisi:"90% lahan berupa tanah datar/landai (siap bangun tanpa perlu alat berat/bego), saat ini ditanami pohon sengon dan rumput pakan ternak",
 prospek:"Sangat ideal untuk dibangun resort, kompleks private villa (kapasitas hingga 10 unit), resto/cafe berkonsep kabin kaca, tempat pensiun, atau hunian berkonsep slow living",
 point:"Hanya Rp 150 ribu/m², Memiliki panjang muka yang menghadap ke sungai berbatu alami sepanjang lebih dari 100 meter, sangat premium untuk view kamar villa atau area nongkrong, Berdekatan dengan berbagai destinasi populer seperti Suarna Padi (500 m), Puncak Saka (1 km), Kopi Ampirono, Ingkar Janji, Omah Cantrik, dan Geblek Pari, Hanya sekitar 5 km dari rencana pintu tol Sentolo, 22 km (±35 menit) dari Malioboro/Kota Jogja, dan 24 km dari Bandara YIA"
-},
-
-{
-judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
-lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
-luas:"1025m²",
-harga:"Rp 650.000.000",
-thumbnail:"Kamal1025.jpg",
-video:"https://youtu.be/FITBDigpKVs",
-
-sertifikat:"SHM Pekarangan",
-muka:"±40 Meter",
-akses:"Jalan mobil bisa sampai ke lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, dekat dengan pemukiman tetangga, dan berbatasan dengan sungai jernih yang mengalir sepanjang tahun",
-kondisi:"Lahan berkontur datar keseluruhan, siap bangun",
-prospek:"Sangat ideal untuk hunian masa tua/pensiun (slow living), villa, tempat berkebun, maupun usaha rekreasi air skala kecil (seperti river tubing atau area santai pinggir sungai) ",
-point:"Berjarak sekitar 7–8 km dari pusat Kota Wates, ±15 km dari Bandara (YIA), Dekat dengan Bumi Perkemahan Kedung Jinggo, serta berjarak sekitar 4–5 km di bawah objek wisata Waduk Sermo"
 },
 
 {
