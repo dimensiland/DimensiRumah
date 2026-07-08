@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Pekarangan 2900m² di Wonosari Lokasi Idaman Buat Bangun Joglo & Kebun Alpukat Masa Pensiun!",
+lokasi:"Desa Karangrejo, Kecamatan Karangmojo, Wonosari, Gunungkidul",
+luas :"2900m²",
+mdpl:"279 - 287",
+harga:"Rp 195.000.000",
+thumbnail:"Wonosari2900.jpg",
+video:"https://youtu.be/RL0WcuYX4rk",
+
+sertifikat:"SHM Pekarangan",
+muka:"±35 meter",
+akses:"Jalan lebar, mobil bisa masuk sampai ke lokasi lahan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, aman, dan sudah padat penduduk (berdampingan langsung dengan rumah warga sekitar)",
+kondisi:"Tanah pekarangan siap balik nama, kontur tanah berundak/memiliki variasi ketinggian dengan kemiringan landai (sekitar 20 derajat) sehingga penataannya bagus. Terdapat pohon jati dan kelapa di lokasi. Bagian bawah tanah langsung berbatasan dengan sungai berair jernih dengan landscape batuan yang ikonik",
+prospek:"Sangat cocok untuk rumah masa tua/pensiun (slow living), villa/rumah kedua (joglo), perkebunan (sangat bagus untuk ditanami alpukat), atau peternakan (seperti kambing)",
+point:"Menempel/mangku sungai jernih yang airnya terus mengalir murni dari mata air pegunungan meski di musim kemarau, View alam lembah pegunungan yang indah; matahari terbit dan terbenam dapat terlihat jelas dari lokasi, ± 10–15 menit (3 km) dari Pasar Karangmojo, ± 15–20 menit (7-8 km) dari Kota Wonosari, serta ± 2 jam perjalanan dari Kota Yogyakarta."
+},
+
+{
 judul:"Tanah Murah 1923m² Harga 175Jt Menempel Sungai! Lokasi Strategis di Jalur Wisata Menoreh, View Sawah",
 lokasi:"Sembuh, Sidoharjo, Kalirejo, Samigaluh, Kulon Progo",
 luas :"1923m²",
