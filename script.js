@@ -220,6 +220,26 @@ point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah,
 },
 
 {
+judul:"TANAH PEKARANGAN 6843m² AMAN BANJIR! Nempel Sungai & View Sawah Syahdu di Banyuroto Jogja",
+lokasi:"Banyuroto, Nanggulan, Kulon Progo, Yogyakarta",
+luas :"6843m²",
+mdpl:"80 - 86",
+harga:"Rp 175.000/m",
+thumbnail:"Bnayuroto6843.jpg",
+video:"https://youtu.be/srewesSUTUg",
+
+sertifikat:"SHM Pekarangan",
+muka:"25 Meter",
+akses:"Jalan kampung dengan badan jalan yang lebar (bisa untuk akses mobil, namun saat ini belum sepenuhnya diaspal/bisa dilalui dengan optimal, tetapi secara legalitas tercatat sebagai jalan di sertifikat)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dan dikelilingi oleh area persawahan, kebun jati, serta dekat dengan sempadan sungai (Wedi Kengser), Memiliki pemandangan langsung ke hamparan sawah dan perbukitan Menoreh",
+kondisi:"Tanah berupa lahan datar Saat ini pemanfaatannya masih digunakan sebagai area sawah dan tegalan yang ditumbuhi beberapa pohon kelapa dan pisang",
+prospek:"Sangat cocok untuk dikembangkan menjadi kawasan wisata, tempat usaha kuliner, homestay, atau sebagai rumah masa pensiun karena lokasinya yang tenang dan potensial",
+point:"Bersebelahan langsung dengan Wedi Kengser (tanah bantaran sungai) sepanjang kurang lebih 10 meter yang bisa dimanfaatkan, Hanya berjarak sekitar 2 km dari Swarna Padi, Omah Cantrik, Wisma Pancoran, dan Jogja Homestay, Berjarak sekitar 4 km dari pusat kuliner populer Nanggulan (Kopi Ampirono, Geblek Pari, Ingkar Janji, dll.)"
+},
+
+{
 judul:"Tanah Murah 150 Juta di Godean Sleman! Luas 274m² SHM Pekarangan, Siap Bangun Rumah Pertama",
 lokasi:"Sidoarjo, Godean, Sleman, DI Yogyakarta (Jalan Godean KM 13, ke utara dari Pasar Godean)",
 luas :"274m²",
