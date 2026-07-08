@@ -308,7 +308,7 @@ harga:"Rp 75.000.000",
 thumbnail:"Tempuran1700.jpg",
 video:"https://youtu.be/INyuiV6ycf4",
 
-sertifikat:"SHM",
+sertifikat:"Letter C",
 muka:"Kurang lebih sekitar 30 - 40 meter (tidak mangku jalan utama), panjang ke belakang sekitar 60 meter",
 akses:"Berjarak sekitar 100 meter dari pinggir jalan utama/jalan besar (akses masuk jalan kaki, terdapat tempat parkir mobil di pinggir jalan utama)",
 air:"Tersedia",
