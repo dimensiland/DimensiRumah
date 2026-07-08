@@ -225,7 +225,7 @@ lokasi:"Banyuroto, Nanggulan, Kulon Progo, Yogyakarta",
 luas :"6843m²",
 mdpl:"80 - 86",
 harga:"Rp 175.000/m",
-thumbnail:"Bnayuroto6843.jpg",
+thumbnail:"Banyuroto6843.jpg",
 video:"https://youtu.be/srewesSUTUg",
 
 sertifikat:"SHM Pekarangan",
