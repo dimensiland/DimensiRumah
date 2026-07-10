@@ -360,26 +360,6 @@ point:"Hanya berjarak sekitar 13 km atau sekitar 15–20 menit berkendara ke ara
 },
 
 {
-judul:"Jual Kebun Durian Produktif Siap Panen Luas 4000m² Dekat Borobudur Bonus View Gunung & Bisa Dicicil!",
-lokasi:"Copak, Banjarasri, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-luas :"4000m²",
-mdpl:"287 - 291",
-harga:"Rp 485.000.000",
-thumbnail:"KebunDuren4000.jpg",
-video:"https://youtu.be/QiGlY20_hX8",
-
-sertifikat:"SHM Pekarangan",
-muka:"-",
-akses:"Mobil bisa masuk dan parkir sampai ke lokasi lahan. Lahan berjarak sekitar 100 meter dari jalan utama/jalan kabupaten beraspal. Lebar jalan resmi di sertifikat tertulis 3,5 meter (sebagian jalan akses masuk sudah dicor, sebagian masih tanah)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan pusat buah duren yang asri, tenang, sejuk, aman, dan memiliki pemandangan (view) pegunungan yang indah. Cocok untuk konsep slow living",
-kondisi:"Merupakan kebun buah produktif yang sangat subur. Sudah tertanam pohon durian (jenis Musang King, Bawor, dan Montong) yang berumur sekitar 7 tahun dan siap berbuah lebat, serta tanaman buah lain seperti alpukat, nanas super, jambu air, rambutan, kelengkeng, pisang, dan kelapa. Di area lahan juga sudah terdapat rumah singgah kecil untuk keperluan berkebun.",
-prospek:"Sangat potensial untuk investasi masa tua/pensiun, aset pangan mandiri yang menghasilkan passive income dari panen buah-buahan, atau dibangun villa/rumah kayu sebagai tempat peristirahatan keluarga",
-point:"Hanya berjarak sekitar 20 menit ke Candi Borobudur, sekitar 10 menit (6 km) ke Sleman, dekat dengan wisata religi Sendangsono (1–2 km), serta dekat dengan wisata spiritual Nyi Ageng Serang. Jarak ke Malioboro sekitar 30–40 menit (± 25 km). Legalitas jalan resmi selebar 3,5 meter sudah sah dikeluarkan di dalam sertifikat pekarangannya"
-},
-
-{
 judul:"Tanah Datar Luas 12.661m² SHM Pekarangan Pinggir Jalan Provinsi, Cocok untuk Kawasan Vila & Wisata!",
 lokasi:"Banyuroto, Nanggulan, Kulon Progo, Yogyakarta",
 luas :"12.661m²",
