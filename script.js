@@ -15,7 +15,7 @@ akses:"Jalan Cor, 500m Dari Jalan Aspal Provinsi",
 air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Tenang, asri, menyatu dengan alam (vibe pegunungan dan pantai sekaligus), lingkungan sekitarnya merupakan area wisata pantai Pacitan",
-kondisi:"Tanah subur (saat ini ditumbuhi kebun kelapa), memiliki landscape batuan alami yang eksotis, kontur tanah paling atas landai (kemiringan sekitar 15-20 derajat) dan langsung turun menghadap ke pantai pasir putih bersih (hidden gem dengan privasi tinggi)Tanah subur (saat ini ditumbuhi kebun kelapa), memiliki landscape batuan alami yang eksotis, kontur tanah paling atas landai (kemiringan sekitar 15-20 derajat) dan langsung turun menghadap ke pantai pasir putih bersih (hidden gem dengan privasi tinggi)",
+kondisi:"Tanah subur (saat ini ditumbuhi kebun kelapa), memiliki landscape batuan alami yang eksotis, kontur tanah paling atas landai (kemiringan sekitar 15-20 derajat) dan langsung turun menghadap ke pantai pasir putih bersih (hidden gem dengan privasi tinggi)",
 prospek:"Sangat ideal untuk dikembangkan menjadi Resort mewah, Kafe/Resto bertema alam, kawasan Vila, tempat wisata pribadi (slow living), properti investasi jangka panjang, atau area meditasi/yoga karena suasananya yang menenangkan",
 point:"Berada langsung di pinggir Pantai Benges dengan panjang garis pantai pribadi ±200 meter lebih, Lokasi strategis, dekat dengan beberapa pantai populer lain di Pacitan seperti Pantai Soge, Pidakan, Sregit, Telengria, dan Wawaran, Hanya berjarak sekitar 15–20 menit dari pusat Kota Pacitan"
 },
