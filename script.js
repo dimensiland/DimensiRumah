@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Langka & Murah! Tanah SHM Pekarangan 1891m² di Gunungkidul, Ada Mata Air Alami & Mangku Sungai!",
+lokasi:"Dusun Sanggrahan, Kelurahan Umbulrejo, Kapanewon Ponjong, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta",
+luas :"1891m²",
+mdpl:"220 - 229",
+harga:"Rp 495.000.000",
+thumbnail:"Ponjong1891.jpg",
+video:"https://youtu.be/zPFm6o2OtsU",
+
+sertifikat:"SHM Pekarangan",
+muka:"25 meter, bentuk tanah L (bagian yang menghadap/mangku sungai memiliki panjang muka sekitar 100–150 meter)",
+akses:"Pinggir jalan aspal, mobil bisa simpangan, hanya berjarak ±1 km dari jalan provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Berada di area wisata (dekat Waduk Beton Ponjong, Gua Keneng, Gua Cokro, Gua Polar, serta dekat dengan Dinas Kelautan dan Perikanan/Bibit Mina Kencana). Kawasan sekitar sudah ramai penduduk",
+kondisi:"Tanah 100% datar, sudah memiliki pondasi keliling/talut beton yang kokoh (berbatasan langsung dengan sungai), di dalam lokasi tanah terdapat banyak pohon kelapa serta beberapa kolam ikan",
+prospek:"Sangat potensial untuk dibangun penginapan/resort berkonsep wisata air/alam, tempat tinggal untuk hari tua (slow living), vila sekunder (second home), kolam pemancingan, investasi aset, maupun tempat usaha berbasis pasif income karena lokasinya yang strategis di jalur wisata Gunung Kidul",
+point:"Lokasi sangat langka karena memiliki fenomena alam berupa air dari sungai bawah tanah yang memancar langsung di area lahan, Lahan sudah dipondasi/talut keliling (menghemat biaya konstruksi), Hanya 5-10 menit ke Pasar Karangmojo, 15 menit ke Gua Pindul, dan 20-30 menit ke pusat Kota Wonosari"
+},
+
+{
 judul:"Tanah Murah 175rb/m² Berada Di Pantai Mbenges Pacitan, Berjarak 500m Dari Jalan Provinsi",
 lokasi:"Benges, Krajan, Jetak, Kec. Tulakan, Kabupaten Pacitan, Jawa Timur",
 luas :"2 Hektar (Total lahan kawasan keluarga bisa dikembangkan hingga 5 Hektar)",
