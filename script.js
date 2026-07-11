@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah 175rb/m² Berada Di Pantai Mbenges Pacitan, Berjarak 500m Dari Jalan Provinsi",
+lokasi:"Benges, Krajan, Jetak, Kec. Tulakan, Kabupaten Pacitan, Jawa Timur",
+luas :"2 Hektar (Total lahan kawasan keluarga bisa dikembangkan hingga 5 Hektar)",
+mdpl:"57 - 79",
+harga:"Rp 175.000/m",
+thumbnail:"MbengesPacitan.jpg",
+video:"https://youtu.be/icN3ZpWw8FY",
+
+sertifikat:"SHM (Ada 3 sertifikat dengan 2 pemilik, bisa dibeli KTP mana pun)",
+muka:"Bentuk ngantong, mangku/nempel akses jalan ±40 meter, nempel/menghadap pantai di atas 200 meter",
+akses:"Jalan Cor, 500m Dari Jalan Aspal Provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Tenang, asri, menyatu dengan alam (vibe pegunungan dan pantai sekaligus), lingkungan sekitarnya merupakan area wisata pantai Pacitan",
+kondisi:"Tanah subur (saat ini ditumbuhi kebun kelapa), memiliki landscape batuan alami yang eksotis, kontur tanah paling atas landai (kemiringan sekitar 15-20 derajat) dan langsung turun menghadap ke pantai pasir putih bersih (hidden gem dengan privasi tinggi)Tanah subur (saat ini ditumbuhi kebun kelapa), memiliki landscape batuan alami yang eksotis, kontur tanah paling atas landai (kemiringan sekitar 15-20 derajat) dan langsung turun menghadap ke pantai pasir putih bersih (hidden gem dengan privasi tinggi)",
+prospek:"Sangat ideal untuk dikembangkan menjadi Resort mewah, Kafe/Resto bertema alam, kawasan Vila, tempat wisata pribadi (slow living), properti investasi jangka panjang, atau area meditasi/yoga karena suasananya yang menenangkan",
+point:"Berada langsung di pinggir Pantai Benges dengan panjang garis pantai pribadi ±200 meter lebih, Lokasi strategis, dekat dengan beberapa pantai populer lain di Pacitan seperti Pantai Soge, Pidakan, Sregit, Telengria, dan Wawaran, Hanya berjarak sekitar 15–20 menit dari pusat Kota Pacitan"
+},
+
+{
 judul:"Tanah Pekarangan 2900m² di Wonosari Lokasi Idaman Buat Bangun Joglo & Kebun Alpukat Masa Pensiun!",
 lokasi:"Desa Karangrejo, Kecamatan Karangmojo, Wonosari, Gunungkidul",
 luas :"2900m²",
