@@ -1,23 +1,23 @@
 const properties=[
 
 {
-judul:"Langka & Murah! Tanah SHM Pekarangan 1891m² di Gunungkidul, Ada Mata Air Alami & Mangku Sungai!",
-lokasi:"Dusun Sanggrahan, Kelurahan Umbulrejo, Kapanewon Ponjong, Kabupaten Gunung Kidul, Daerah Istimewa Yogyakarta",
-luas :"1891m²",
-mdpl:"220 - 229",
-harga:"Rp 495.000.000",
-thumbnail:"Ponjong1891.jpg",
-video:"https://youtu.be/zPFm6o2OtsU",
+judul:"Miliki Pantai Private Dengan Harga 125rb/m² Cocok Untuk Healing Dengan Suasana Alam Yang Indah",
+lokasi:"Besuki, Kec. Panggul, Kabupaten Trenggalek, Jawa Timur",
+luas :"2ha",
+mdpl:"1 - 7",
+harga:"Rp 125.000//m",
+thumbnail:"2haTirisan.jpg",
+video:"https://youtu.be/eW9d-6GGeag",
 
-sertifikat:"SHM Pekarangan",
-muka:"25 meter, bentuk tanah L (bagian yang menghadap/mangku sungai memiliki panjang muka sekitar 100–150 meter)",
-akses:"Pinggir jalan aspal, mobil bisa simpangan, hanya berjarak ±1 km dari jalan provinsi",
+sertifikat:"SHM (Terdiri dari 4 Sertifikat)",
+muka:"± 300 Meter langsung menempel/menghadap pantai",
+akses:"Jalan tanah, sudah bisa diakses langsung oleh mobil sampai ke lokasi lahan",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Berada di area wisata (dekat Waduk Beton Ponjong, Gua Keneng, Gua Cokro, Gua Polar, serta dekat dengan Dinas Kelautan dan Perikanan/Bibit Mina Kencana). Kawasan sekitar sudah ramai penduduk",
-kondisi:"Tanah 100% datar, sudah memiliki pondasi keliling/talut beton yang kokoh (berbatasan langsung dengan sungai), di dalam lokasi tanah terdapat banyak pohon kelapa serta beberapa kolam ikan",
-prospek:"Sangat potensial untuk dibangun penginapan/resort berkonsep wisata air/alam, tempat tinggal untuk hari tua (slow living), vila sekunder (second home), kolam pemancingan, investasi aset, maupun tempat usaha berbasis pasif income karena lokasinya yang strategis di jalur wisata Gunung Kidul",
-point:"Lokasi sangat langka karena memiliki fenomena alam berupa air dari sungai bawah tanah yang memancar langsung di area lahan, Lahan sudah dipondasi/talut keliling (menghemat biaya konstruksi), Hanya 5-10 menit ke Pasar Karangmojo, 15 menit ke Gua Pindul, dan 20-30 menit ke pusat Kota Wonosari"
+lingkungan:"Sangat asri, tenang, sejuk, dikelilingi tebing batu eksotis, pohon-pohon rindang, serta hamparan pasir putih bersih ",
+kondisi:"Merupakan hidden gem yang belum menjadi tempat wisata umum. Kondisi pantai sangat bersih tanpa sampah dan bebas dari keramaian pengunjung umum",
+prospek:"Sangat potensial dan cocok untuk dibangun kawasan private villa, resort eksklusif (disarankan maksimal 10 properti agar privasi terjaga), tempat yoga/terapi, kolam renang infinity menghadap laut, atau sebagai aset investasi pribadi premium",
+point:"Memiliki sensasi layaknya Pantai Pribadi (Private Beach) karena privasinya yang sangat tinggi, area pasir putih yang lembut, batuan karang estetis, dan area tebing tinggi dengan golden view, Hanya berjarak 10 menit dari jalan raya nasional"
 },
 
 {
