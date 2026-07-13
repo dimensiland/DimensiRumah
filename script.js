@@ -694,25 +694,6 @@ point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universit
 },
 
 {
-judul:"Mandi Udara Segar & Sejuk Setiap Hari Di Tanah Adem Seluas 1235m² Dekat Tumpeng Menoreh & Kebun Teh",
-lokasi:"Gerbosari, Samigaluh, Kulon Progo (Jogja Barat), area Pegunungan Menoreh",
-luas:"1235m²",
-harga:"Rp 225.000.000",
-thumbnail:"Gerbosari1235.jpg",
-video:"https://youtu.be/K00fTe6L7Fs",
-
-sertifikat:"SHM Pekarangan",
-muka:"± 40 meter",
-akses:"Jalan cor blok, lebar dan mobil bisa masuk",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Sejuk, asri, banyak pohon kelapa, dan memiliki suasana tenang seperti pedesaan di Jepang",
-kondisi:"Tanah relatif datar untuk ukuran pegunungan, terdiri dari beberapa trap/level lebar yang mudah ditata",
-prospek:"Sangat cocok untuk slow living, rumah pensiun, berkebun, atau dibangun villa/kabin kayu untuk disewakan",
-point:"Memiliki pemandangan langsung ke Pegunungan Menoreh, kaya oksigen, dan berlokasi dekat dengan objek wisata Tumpeng Menoreh serta Kebun Teh"
-},
-
-{
 judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
 lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
 luas:"700m²",
