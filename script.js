@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Hanya 325 Juta! Tanah SHM Pekarangan 947m² dengan Golden View Gunung Merapi & City Light Jogja",
+lokasi:"Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat (berada di atas kawasan wisata Geblek Pari / Mahaloka)",
+luas :"947m²",
+mdpl:"341 - 368",
+harga:"Rp 325.000.000",
+thumbnail:"Banjarasri947.jpg",
+video:"https://youtu.be/qSuGDiAuPNg",
+
+sertifikat:"SHM Pekarangan",
+muka:"±30 meter (posisi tanah berupa terasering, ketinggian awal ± 1,5 meter di atas jalan)",
+akses:"Pinggir jalan aspal kabupaten, lebar jalan saat ini sekitar 6 meter (mobil papasan/simpangan nyaman)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dan dikelilingi oleh ekosistem wisata Kulon Progo/Jogja Barat. Karakter tanahnya sangat subur dan alami (belum terkontaminasi bahan kimia)",
+kondisi:"Tanah berundak/terasering dengan formasi bebatuan alami yang eksotis. Sangat ideal untuk dimanfaatkan sebagai golden view karena posisinya yang tinggi",
+prospek:"Sangat cocok untuk investasi jangka panjang, tempat tinggal masa pensiun (slow living), atau dijadikan passive income (bisnis hospitality) dengan membangun kombinasi hunian pemilik (owner) dan beberapa unit vila sewa (potensi sewa harian tinggi karena dekat dengan berbagai destinasi populer)",
+point:"hamparan sawah, pegunungan Menoreh, suasana berkabut pagi hari, sunrise, hingga pemandangan Gunung Merapi & Merbabu saat cuaca cerah, serta kerlap-kerlip lampu Kota Jogja di malam hari. Berada di kawasan ekosistem wisata yang sudah jadi (dekat dengan Geblek Pari, Mahaloka, Kopi Ingkar Janji, Kopi Klotok Menoreh, Suantari Villa, Niscala Lands, dll.). Hanya berjarak ± 6 km dari Sleman, ± 25 km ke Borobudur, ± 27 km ke Malioboro, dan ± 30 km ke Bandara Internasional (YIA)"
+},
+
+{
 judul:"Miliki Pantai Private Dengan Harga 125rb/m² Cocok Untuk Healing Dengan Suasana Alam Yang Indah",
 lokasi:"Besuki, Kec. Panggul, Kabupaten Trenggalek, Jawa Timur",
 luas :"2ha",
