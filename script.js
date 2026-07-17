@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"CUMA 220 JUTA NETT! Tanah SHM 1416m² di Bawah Tumpeng Menoreh & UFO Resto Siap Bangun Villa Mewah",
+lokasi:"Desa Ngargoretno, kawasan Menoreh (Jogja Barat / perbatasan Magelang-Kulon Progo)",
+luas :"1416m²",
+mdpl:"825 - 860",
+harga:"Rp 220.000.000",
+thumbnail:"Tuumpeng1416.jpg",
+video:"https://youtu.be/ZuaL0nvsbV8",
+
+sertifikat:"SHM",
+muka:"Datar di bagian depan (sangat siap bangun) dan sebagian berkontur terasering di bagian belakang yang memberikan keuntungan untuk mendapatkan view tanpa terhalang",
+akses:"Lebar 4 meter, sudah jalan cor beton (akses mobil lancar sampai ke lokasi lahan)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, adem, dan dikelilingi oleh destinasi wisata populer serta perkebunan teh. Sangat cocok untuk konsep slow living",
+kondisi:"Sebagian tanah sudah datar bersih, sebagian lagi rimbun oleh vegetasi ringan (bambu/ranting pohon) yang jika dirapikan akan langsung membuka pemandangan view lepas 180 derajat",
+prospek:"Sangat potensial untuk dibangun villa komersial (passive income), rumah peristirahatan pribadi/masa pensiun, atau investasi properti karena berada di dalam ekosistem wisata yang sudah jadi dan terus berkembang",
+point:"Menyuguhkan pemandangan spektakuler 180 derajat ke arah Kota Jogja, Gunung Merapi, Gunung Merbabu, Gunung Sumbing, dan Gunung Sindoro. Berlokasi tepat di bawah kawasan wisata Tumpeng Menoreh, tidak jauh dari Kebun Teh Nglingo, Rock Cabin sekitar 3 km, dan berada persis di atas objek wisata UFO Resto yang terlihat langsung dari lahan. Lahan ini berada persis di sebelah menempel langsung dengan tanah milik Sandiaga Uno yang di bagian atasnya sudah dilengkapi fasilitas helipad.Pemilik membuka opsi pembayaran secara cash sekaligus maupun termin bisa dirembuk secara kekeluargaan"
+},
+
+{
 judul:"Hanya 325 Juta! Tanah SHM Pekarangan 947m² dengan Golden View Gunung Merapi & City Light Jogja",
 lokasi:"Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat (berada di atas kawasan wisata Geblek Pari / Mahaloka)",
 luas :"947m²",
