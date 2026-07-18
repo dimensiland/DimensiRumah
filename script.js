@@ -46,7 +46,7 @@ lokasi:"Donomulyo Nanggulan Kulonprogo",
 luas :"147m²",
 mdpl:"83 - 88",
 harga:"Rp 102.000.000",
-thumbnail:"Salima 2.jpg",
+thumbnail:"Salima 2 .jpg",
 video:"https://youtu.be/ATjlH06Wf4c",
 
 sertifikat:"SHM Pekarangan",
