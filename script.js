@@ -7,7 +7,7 @@ luas :"1416m²",
 mdpl:"825 - 860",
 harga:"Rp 220.000.000",
 thumbnail:"Tuumpeng1416.jpg",
-video:"https://youtu.be/ZuaL0nvsbV8",
+video:"https://youtu.be/bWVhbqMrN7w",
 
 sertifikat:"SHM",
 muka:"Datar di bagian depan (sangat siap bangun) dan sebagian berkontur terasering di bagian belakang yang memberikan keuntungan untuk mendapatkan view tanpa terhalang",
