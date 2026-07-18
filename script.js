@@ -41,6 +41,26 @@ point:"hamparan sawah, pegunungan Menoreh, suasana berkabut pagi hari, sunrise, 
 },
 
 {
+judul:"Kavling Salima 2 Masih Ada 1 Kavling A5 Harga 102jt Dekat Bandara Internasional Yogyakarta",
+lokasi:"Donomulyo Nanggulan Kulonprogo",
+luas :"147m²",
+mdpl:"83 - 88",
+harga:"Rp 102.000.000",
+thumbnail:"Salima 2.jpg",
+video:"https://youtu.be/ATjlH06Wf4c",
+
+sertifikat:"SHM Pekarangan",
+muka:"7 Meter",
+akses:"Jalan Cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan Kuliner",
+kondisi:"datar, dengan view pemandangan sawah",
+prospek:"Bisa untuk Homestay, Villa dan Tempat tinggal",
+point:"Lokasi dekat Resto Omah Cantrik, dekat Exit tol Sentolo, Kawasan Kuliner Nanggulan, SMP Donomulyo, Swarna Padi Villa, Puskesmas Girimulyo, Pasar Mudal, Polsek Nanggulan, Puncak Saka"
+},
+
+{
 judul:"Miliki Pantai Private Dengan Harga 125rb/m² Cocok Untuk Healing Dengan Suasana Alam Yang Indah",
 lokasi:"Besuki, Kec. Panggul, Kabupaten Trenggalek, Jawa Timur",
 luas :"2ha",
