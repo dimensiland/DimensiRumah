@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"TANAH MURAH DI NANGGULAN, Luas 947m² SHM Pekarangan Siap Bangun! Cuma 330jt Dekat Jalur Provinsi",
+lokasi:"Desa Lengkong, Donomulyo, Nanggulan, Kulon Progo, Yogyakarta",
+luas :"947m²",
+mdpl:"103 - 109",
+harga:"Rp 330.000.000",
+thumbnail:"947PakArif.jpg",
+video:"https://youtu.be/RkUZgcfhEEI",
+
+sertifikat:"SHM Pekarangan",
+muka:"13 meter, dan menyamping ke belakang sekitar 50 meter",
+akses:"Masuk sekitar 100 meter dari jalan provinsi, lebar jalan akses utama 4 meter dan jalan samping 5 meter",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sudah sangat ramai, asri, dan dekat dengan area pemukiman serta beberapa tempat strategis/wisata",
+kondisi:"Permukaan tanah sangat datar namun memiliki sedikit bagian yang berundak/terasiring di sisi samping",
+prospek:"Sangat cocok untuk dibangun homestay, rumah kedua, tempat peristirahatan, atau rumah masa pensiun",
+point:"Lokasi sangat strategis dekat wisata Nanggulan, Hanya berjarak 700 meter dari Villa The Palarenan, Hanya berjarak 1 km dari Pasar Kerambilan dan Kuliner Omah Cantrik, Berjarak sekitar 17 km dari Tugu Jogja dan 21 km dari Bandara YIA"
+},
+
+{
 judul:"Tanah 1535m² Datar & Sejuk di Menoreh, Jogja Datar, Nempel Sungai Jernih, Dekat Bandara YIA",
 lokasi:"Pringtali, Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
 luas :"1535m²",
