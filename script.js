@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah 1535m² Datar & Sejuk di Menoreh, Jogja Datar, Nempel Sungai Jernih, Dekat Bandara YIA",
+lokasi:"Pringtali, Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
+luas :"1535m²",
+mdpl:"258 - 272",
+harga:"Rp 325.000.000",
+thumbnail:"Pringtali1535.jpg",
+video:"https://youtu.be/SIRrC7T_WGg",
+
+sertifikat:"SHM Sawah",
+muka:"±50 meter",
+akses:"Berjarak ±80 meter dari jalan kabupaten; terdapat jalan masuk sampai lokasi yang sudah diberi pondasi penahan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, subur, sejuk, serta dikelilingi perbukitan dan ekosistem wisata/kuliner Menoreh",
+kondisi:"Tanah datar, langsung berbatasan dengan sungai batu-batuan alami nan jernih, memiliki view pemandangan sawah dan perbukitan",
+prospek:"Sangat cocok dikembangkan menjadi villa hidden gem, tempat peristirahatan/menenangkan diri, hunian pribadi, maupun investasi aset",
+point:"Rp 325 Juta Net, bisa DP dahulu dan pelunasan bertahap (3–5 bulan), Mangku sungai jernih sepanjang 50 meter yang bersumber dari Sungai Mudal/Kedung Pedut dengan elevasi ke sungai aman (±1,25 m), Hanya ±30 menit (20 km) dari Bandara Internasional Yogyakarta (YIA) dan ±45 menit (36 km) dari Malioboro / Kota Yogyakarta"
+},
+
+{
 judul:"CUMA 220 JUTA NETT! Tanah SHM 1416m² di Bawah Tumpeng Menoreh & UFO Resto Siap Bangun Villa Mewah",
 lokasi:"Desa Ngargoretno, kawasan Menoreh (Jogja Barat / perbatasan Magelang-Kulon Progo)",
 luas :"1416m²",
