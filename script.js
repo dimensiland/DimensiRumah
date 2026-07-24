@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah View Kebun Teh & Samping Sungai Luas 2802m² Cocok Untuk Villa Dan Kebun Sayur!",
+lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
+luas :"2802m²",
+mdpl:"795 - 849",
+harga:"Rp 550.000/m",
+thumbnail:"Kemuning2802.jpg",
+video:"https://youtu.be/G7eAgWlU6eQ",
+
+sertifikat:"SHM",
+muka:"-",
+akses:"Jalan kampung kawasan Kebun Teh Kemuning",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan Teh Kemuning yang Asri, adem, sejuk, dan dikelilingi oleh pemandangan Bukit Kemuning",
+kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah. Sebagian tanah mangku/berbatasan langsung dengan sungai",
+prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
+point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Kebun Teh Ndoro Dongker, Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh"
+},
+
+{
 judul:"Tanah 1535m² Datar & Sejuk di Menoreh, Jogja Datar, Nempel Sungai Jernih, Dekat Bandara YIA",
 lokasi:"Pringtali, Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
 luas :"1535m²",
