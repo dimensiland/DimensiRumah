@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah View Sawah Mewah Luas 8787m² di Jogja Barat – Cocok untuk Villa & Investasi!",
+lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Progo)",
+luas :"8787m²",
+mdpl:"134 - 163",
+harga:"Rp 250.000/m",
+thumbnail:".jpg",
+video:"https://youtu.be/ayGDGCtIEHg",
+
+sertifikat:"SHM",
+muka:"108m",
+akses:"Sudah dibuatkan akses jalan masuk mobil sampai ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sangat adem, asri, tenang, dikelilingi view persawahan hijau dan perbukitan/pegunungan Menoreh",
+kondisi:"Saat ini masih berupa lahan semak belukar dan pepohonan (bambu), namun sudah siap diolah menjadi kawasan yang nyaman",
+prospek:"Sangat potensial untuk dibangun Villa, Resort, Homestay, tempat peristirahat/pensiun, atau investasi masa depan karena berada di kawasan berkembang Jogja Barat",
+point:"Hanya berjarak 300 meter dari Desa Wisata Tinalah (Desa Wisata terkenal di Jogja Barat). Hanya 1 km dari Desa Kripala / Teras Menoreh. Hanya 3 km dari Batas Kabupaten Sleman. Hanya 8 km dari Mahaloka Paradise / Kopi Ampirono / Geblek Pari / Kopi Ingkar Janji. Sekitar 10 km dari Tumpeng Menoreh. Dekat dengan situs bersejarah Museum Sandi. Hanya sekitar 27 km menuju Bandara YIA (Yogyakarta International Airport) dan 27 km menuju Pusat Kota Jogja / Malioboro. Udara bersih, kaya oksigen, dan suasana sangat syahdu dengan view sunrise pagi hari yang jelas dan indah"
+},
+
+{
 judul:"Tanah View Kebun Teh & Samping Sungai Luas 2802m² Cocok Untuk Villa Dan Kebun Sayur!",
 lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
 luas :"2802m²",
