@@ -6,7 +6,7 @@ lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Pro
 luas :"8787m²",
 mdpl:"134 - 163",
 harga:"Rp 250.000/m",
-thumbnail:".jpg",
+thumbnail:"8787.jpg",
 video:"https://youtu.be/ayGDGCtIEHg",
 
 sertifikat:"SHM",
