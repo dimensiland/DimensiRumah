@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"DIJUAL TANAH SHM MANGKU JALAN PROVINSI DI NANGGULAN - COCOK UNTUK VILLA & CAFE (ADA MATA AIR)",
+lokasi:"Purwosari, Kulon Progo Regency, Special Region of Yogyakarta",
+luas :"953m²",
+mdpl:"800 – 900",
+harga:"Rp 500.000/m",
+thumbnail:"Prwosari953.jpg",
+video:"https://youtu.be/roOdhXeiT6Q",
+
+sertifikat:"SHM Tegalan",
+muka:"±30 meter",
+akses:"Jalan Provinsi, aspal lebar, mobil bisa simpangan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Udara dingin sejuk, asri, nyaman, dan berada di jalur utama zona wisata",
+kondisi:"Kontur tanah terasering landai (2 trap), bagian bawah rata/datar, bentuk tanah mengotak",
+prospek:"Sangat potensial untuk dibangun cafe, resto, villa, tempat tinggal, maupun investasi properti",
+point:"Posisi sangat strategis langsung tepi/mangku jalan utama provinsi dengan lebar muka ±30 meter, Memiliki sumber mata air alami sendiri di area belakang lokasi. Dekat dengan berbagai destinasi wisata populer: 1 km dari Kopi Puncak. Dekat ke Menoreh Dreamland, Goa Kiskendo, Air Terjun Mudal, Kembang Soka, Kedung Pedut, dan Kuncung Emas. 12 km dari Pusat Wisata Nanggulan ±14 km dari Sleman ±28 km dari Bandara YIA (Wates) ±34 km dari Pusat Kota / Malioboro Yogyakarta. Pembelian dapat dibicarakan untuk skema cicilan"
+},
+
+{
 judul:"Tanah Murah 7800m² Dekat Jalur Lintas Selatan (JLS) Cocok Untuk Homestay & Kuliner",
 lokasi:"Desa Giriwungu, Kecamatan Panggang, Kabupaten Gunungkidul, D.I. Yogyakarta",
 luas :"7800m²",
