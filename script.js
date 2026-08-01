@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah SHM Luas 1115m² View Waduk Sermo & Bandara YIA di Bukit Menoreh Samping Wisata Gunung Gajah",
+lokasi:"Hargotirto, Kokap, Kulon Progo, D.I. Yogyakarta (Persis di samping Objek Wisata Gunung Gajah)",
+luas :"1115m²",
+mdpl:"741-750",
+harga:"Rp 695.000.000, (Nett)",
+thumbnail:"Kokap1114.jpg",
+video:"https://youtu.be/KJPOkn9r-lo",
+
+sertifikat:"SHM Tegalan",
+muka:"22 Meter",
+akses:"Jalan Utama Menghubungkan Kec. Girimulyo & Kec. Kokap, Mobil Bisa Masuk Sampai Lokasi / Lahan Parkir",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, Sejuk, Tenang, Perbukitan Menoreh, Bebas Bising",
+kondisi:"Lahan Relatif Datar, Memanjang ke Belakang",
+prospek:"Sangat Cocok untuk Villa, Resto / Cafe Skyview, Hotel, Penginapan, Maupun Investasi",
+point:"View istimewa Waduk Sermo, Bandara YIA, dan City Light Jogja sore/malam hari, Berada di jalur wisata aktif Kulon Progo, Samping Objek Wisata Gunung Gajah, 900 M dari Gua Seplawan, 1 KM dari Ekowisata Sungai Mudal, 2 KM dari Air Terjun Kembang Soko & Kedung Pedut, 3 KM dari Hutan Pinus Kalilo, 4 KM dari Wisata Dreamland & Gua Kiskendo, 12 KM dari Waduk Sermo, 25 KM dari Bandara Internasional YIA (Yogyakarta International Airport)"
+},
+
+{
 judul:"Tanah SHM 3420m² Muka 20m Pinggir Jalan Provinsi Kopi Puncak, Cocok Untuk Usaha & Villa",
 lokasi:"Purwosari Kulon Progo Regency, Kawasan Kopi Puncak / Kalilo (Sekitar 50–100 meter dari Kopi Puncak)",
 luas :"3420m²",
