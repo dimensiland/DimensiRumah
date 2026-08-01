@@ -1,46 +1,6 @@
 const properties=[
 
 {
-judul:"DIJUAL TANAH SHM MANGKU JALAN PROVINSI DI NANGGULAN - COCOK UNTUK VILLA & CAFE (ADA MATA AIR)",
-lokasi:"Purwosari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas :"953m²",
-mdpl:"800 – 900",
-harga:"Rp 500.000/m",
-thumbnail:"Prwosari953.jpg",
-video:"https://youtu.be/roOdhXeiT6Q",
-
-sertifikat:"SHM Tegalan",
-muka:"±30 meter",
-akses:"Jalan Provinsi, aspal lebar, mobil bisa simpangan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Udara dingin sejuk, asri, nyaman, dan berada di jalur utama zona wisata",
-kondisi:"Kontur tanah terasering landai (2 trap), bagian bawah rata/datar, bentuk tanah mengotak",
-prospek:"Sangat potensial untuk dibangun cafe, resto, villa, tempat tinggal, maupun investasi properti",
-point:"Posisi sangat strategis langsung tepi/mangku jalan utama provinsi dengan lebar muka ±30 meter, Memiliki sumber mata air alami sendiri di area belakang lokasi. Dekat dengan berbagai destinasi wisata populer: 1 km dari Kopi Puncak. Dekat ke Menoreh Dreamland, Goa Kiskendo, Air Terjun Mudal, Kembang Soka, Kedung Pedut, dan Kuncung Emas. 12 km dari Pusat Wisata Nanggulan ±14 km dari Sleman ±28 km dari Bandara YIA (Wates) ±34 km dari Pusat Kota / Malioboro Yogyakarta. Pembelian dapat dibicarakan untuk skema cicilan"
-},
-
-{
-judul:"Tanah Murah 7800m² Dekat Jalur Lintas Selatan (JLS) Cocok Untuk Homestay & Kuliner",
-lokasi:"Desa Giriwungu, Kecamatan Panggang, Kabupaten Gunungkidul, D.I. Yogyakarta",
-luas :"7800m²",
-mdpl:"280-300",
-harga:"Rp 165.000.000",
-thumbnail:"Giriwungu7800.jpg",
-video:"https://youtu.be/8CLazySs5o4",
-
-sertifikat:"Letter C",
-muka:"-",
-akses:"Berjarak hanya ±250 meter dari Jalan Lintas Selatan (JLS) utama. Dari jalan utama masuk ke lokasi melalui jalan resmi selebar ±3 meter",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, berkembang, berada di kawasan jalur wisata Gunungkidul, serta dekat dengan pemukiman dan perkantoran pemerintahan setempat",
-kondisi:"Tanah kontur agak landai ngetrap (terasering per 2 meter) dan terdapat bagian datar di sisi bawah",
-prospek:"Sangat potensial untuk investasi jangka panjang, bisnis kuliner, homestay, villa, maupun tempat istirahat karena lokasinya strategis dekat JLS dan dikelilingi berbagai destinasi wisata",
-point:"Lokasi Sangat Strategis: Hanya ±250 meter dari Jalur Lintas Selatan (JLS). Dekat Pusat Pemerintahan: Hanya ±9 menit ke Kantor Kecamatan Panggang dan ±40 menit ke Kota Wonosari. Dekat Berbagai Objek Wisata, Wisata Goa Tangis (±210 meter), Wisata Goa Luweng Miri (±250 meter), Air Terjun Punawangan Srenggo (±7 km), Bukit Mojo Gumelem (±8,3 km), Bukit Panguk Kediwung (±8,4 km), Air Terjun Levo (±10,9 km)"
-},
-
-{
 judul:"Tanah Murah View Sawah Mewah Luas 8787m² di Jogja Barat – Cocok untuk Villa & Investasi!",
 lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Progo)",
 luas :"8787m²",
@@ -1276,22 +1236,43 @@ point:"Sudah tertanam ± 50 Pohon Durian (estimasi 1–2 tahun lagi mulai siap p
 },
 
 {
-judul:"Tanah Super Murah! Hanya 20km Dari Tugu! Luas 434m² Hanya 150 Juta! Dekat Wisata Kuliner Nanggulan!",
-lokasi:"Jati Sarono, Kulon Progo Regency, Special Region of Yogyakarta",
-luas:"434m²",
-harga:"Rp 150.000.000",
-thumbnail:"Jatisarono434.jpg",
-video:"https://youtu.be/bBKZrOAiYP0",
+judul:"DIJUAL TANAH SHM MANGKU JALAN PROVINSI DI NANGGULAN - COCOK UNTUK VILLA & CAFE (ADA MATA AIR)",
+lokasi:"Purwosari, Kulon Progo Regency, Special Region of Yogyakarta",
+luas :"953m²",
+mdpl:"800 – 900",
+harga:"Rp 500.000/m",
+thumbnail:"Prwosari953.jpg",
+video:"https://youtu.be/roOdhXeiT6Q",
 
-sertifikat:"SHM Pekarangan",
-muka:"20 meter",
-akses:"Jalan Aspal",
+sertifikat:"SHM Tegalan",
+muka:"±30 meter",
+akses:"Jalan Provinsi, aspal lebar, mobil bisa simpangan",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Perkampungan, Perumahan, Kebun dan Sawah",
-kondisi:"Datar",
-prospek:" Rumah Tinggal Dan Kebun",
-point:"Akses Mudah, Dekat Kantor Kelurahan Nanggulan, Dekat Kawasan Wisata Kuliner maupun Villa sekitar Nanggulan seperti Geblek Pari, Girimanah, Dadap Sumilir, Singkung Valley, Ampirono, Ingkar Janji, Weha Villa, Waza Villa, Dalem Dekana, Omah Cantrik  Ke Bandara YIA hanya 35 menit"
+lingkungan:"Udara dingin sejuk, asri, nyaman, dan berada di jalur utama zona wisata",
+kondisi:"Kontur tanah terasering landai (2 trap), bagian bawah rata/datar, bentuk tanah mengotak",
+prospek:"Sangat potensial untuk dibangun cafe, resto, villa, tempat tinggal, maupun investasi properti",
+point:"Posisi sangat strategis langsung tepi/mangku jalan utama provinsi dengan lebar muka ±30 meter, Memiliki sumber mata air alami sendiri di area belakang lokasi. Dekat dengan berbagai destinasi wisata populer: 1 km dari Kopi Puncak. Dekat ke Menoreh Dreamland, Goa Kiskendo, Air Terjun Mudal, Kembang Soka, Kedung Pedut, dan Kuncung Emas. 12 km dari Pusat Wisata Nanggulan ±14 km dari Sleman ±28 km dari Bandara YIA (Wates) ±34 km dari Pusat Kota / Malioboro Yogyakarta. Pembelian dapat dibicarakan untuk skema cicilan"
+},
+
+{
+judul:"Tanah Murah 7800m² Dekat Jalur Lintas Selatan (JLS) Cocok Untuk Homestay & Kuliner",
+lokasi:"Desa Giriwungu, Kecamatan Panggang, Kabupaten Gunungkidul, D.I. Yogyakarta",
+luas :"7800m²",
+mdpl:"280-300",
+harga:"Rp 165.000.000",
+thumbnail:"Giriwungu7800.jpg",
+video:"https://youtu.be/8CLazySs5o4",
+
+sertifikat:"Letter C",
+muka:"-",
+akses:"Berjarak hanya ±250 meter dari Jalan Lintas Selatan (JLS) utama. Dari jalan utama masuk ke lokasi melalui jalan resmi selebar ±3 meter",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, berkembang, berada di kawasan jalur wisata Gunungkidul, serta dekat dengan pemukiman dan perkantoran pemerintahan setempat",
+kondisi:"Tanah kontur agak landai ngetrap (terasering per 2 meter) dan terdapat bagian datar di sisi bawah",
+prospek:"Sangat potensial untuk investasi jangka panjang, bisnis kuliner, homestay, villa, maupun tempat istirahat karena lokasinya strategis dekat JLS dan dikelilingi berbagai destinasi wisata",
+point:"Lokasi Sangat Strategis: Hanya ±250 meter dari Jalur Lintas Selatan (JLS). Dekat Pusat Pemerintahan: Hanya ±9 menit ke Kantor Kecamatan Panggang dan ±40 menit ke Kota Wonosari. Dekat Berbagai Objek Wisata, Wisata Goa Tangis (±210 meter), Wisata Goa Luweng Miri (±250 meter), Air Terjun Punawangan Srenggo (±7 km), Bukit Mojo Gumelem (±8,3 km), Bukit Panguk Kediwung (±8,4 km), Air Terjun Levo (±10,9 km)"
 }
 
 ];
