@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah SHM 3420m² Muka 20m Pinggir Jalan Provinsi Kopi Puncak, Cocok Untuk Usaha & Villa",
+lokasi:"Purwosari Kulon Progo Regency, Kawasan Kopi Puncak / Kalilo (Sekitar 50–100 meter dari Kopi Puncak)",
+luas :"3420m²",
+mdpl:"777 - 789",
+harga:"Rp 450.000/m",
+thumbnail:"KopiPuncak3420.jpg",
+video:"https://youtu.be/3Az7N4QiSQo",
+
+sertifikat:"SHM Tegalan",
+muka:"20 Meter",
+akses:"Tepat di Pinggir Jalan Raya Provinsi (Akses mobil/kendaraan sangat mudah)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, Sejuk, Tenang, View Perbukitan Hijau, Suasana Pegunungan",
+kondisi:"Lahan Datar, Memanjang ke Belakang, Tanah Sangat Subur (Sudah Ada Tanaman Kopi, Pisang, dll.)",
+prospek:"Sangat Cocok Untuk Villa, Homestay, Rumah Pensiun/Masa Tua, Resto, Maupun Usaha Perkebunan",
+point:"Posisi sangat strategis, nol jalan raya provinsi. Berada di kawasan berkembang & jalur wisata populer (Hanya 50–100 m dari Kopi Puncak, ± 10 menit ke Wisata Kalilo). Luas tanah sangat lapang (3.420 m²) dengan bentuk memanjang ke belakang (171 m). Tanah subur dan kontur relatif datar, mudah untuk diolah atau dibangun. Suasana alam tenang dengan pemandangan pegunungan dan perbukitan yang indah. Bisa difasilitasi untuk jasa pembangunan/kontraktor langsung melalui tim Dimensi Rumah"
+},
+
+{
 judul:"CUMA 270 JUTA DAPAT 2480m² LAHAN KEBUN ASRI MUKA 35 METER DI SALAMAN MAGELANG",
 lokasi:"Krasak, Salaman, Kabupaten Magelang, Jawa Tengah",
 luas :"2480m²",
