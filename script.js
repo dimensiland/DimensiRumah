@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Dijual Tanah Luas 3470m² View Pegunungan Menoreh! Cocok untuk Villa & Resto di Nanggulan Kulon Progo",
+lokasi:"Pendoworejo, Girimulyo, Nanggulan, Kulon Progo, DI Yogyakarta",
+luas :"3470m²",
+mdpl:"161-170",
+harga:"Rp 1.125.000/m",
+thumbnail:"Pendoworejo3470.jpg",
+video:"https://youtu.be/dylxIhi_oHw",
+
+sertifikat:"SHM Tegalan",
+muka:"±70 Meter",
+akses:"Jalan dapat diakses mobil langsung sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dikelilingi pemandangan sawah terasering & view lepas Pegunungan Menoreh",
+kondisi:"Tanah berkontur miring/terasering (sangat bagus dikonsep bertingkat untuk resto, villa, atau kafe)",
+prospek:"Sangat potensial untuk investasi masa depan, usaha tempat nongkrong/kafe, villa, resto kuliner, maupun objek wisata",
+point:"Berada di kawasan wisata populer Nanggulan, Kulon Progo, ± 300 meter dari Kopi Ingkar Janji, ± 16 km ke Candi Borobudur, ± 20 km ke Pusat Kota Jogja, ± 20 km ke Tumpeng Menoreh, Berjarak ± 22 km ke Bandara Internasional Yogyakarta (YIA)"
+},
+
+{
 judul:"Tanah SHM Luas 1115m² View Waduk Sermo & Bandara YIA di Bukit Menoreh Samping Wisata Gunung Gajah",
 lokasi:"Hargotirto, Kokap, Kulon Progo, D.I. Yogyakarta (Persis di samping Objek Wisata Gunung Gajah)",
 luas :"1115m²",
@@ -98,26 +118,6 @@ lingkungan:"Perkebunan Teh Kemuning yang Asri, adem, sejuk, dan dikelilingi oleh
 kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah. Sebagian tanah mangku/berbatasan langsung dengan sungai",
 prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
 point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Kebun Teh Ndoro Dongker, Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh"
-},
-
-{
-judul:"Tanah 1535m² Datar & Sejuk di Menoreh, Jogja Datar, Nempel Sungai Jernih, Dekat Bandara YIA",
-lokasi:"Pringtali, Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
-luas :"1535m²",
-mdpl:"258 - 272",
-harga:"Rp 325.000.000",
-thumbnail:"Pringtali1535.jpg",
-video:"https://youtu.be/SIRrC7T_WGg",
-
-sertifikat:"SHM Sawah",
-muka:"±50 meter",
-akses:"Berjarak ±80 meter dari jalan kabupaten; terdapat jalan masuk sampai lokasi yang sudah diberi pondasi penahan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, subur, sejuk, serta dikelilingi perbukitan dan ekosistem wisata/kuliner Menoreh",
-kondisi:"Tanah datar, langsung berbatasan dengan sungai batu-batuan alami nan jernih, memiliki view pemandangan sawah dan perbukitan",
-prospek:"Sangat cocok dikembangkan menjadi villa hidden gem, tempat peristirahatan/menenangkan diri, hunian pribadi, maupun investasi aset",
-point:"Rp 325 Juta Net, bisa DP dahulu dan pelunasan bertahap (3–5 bulan), Mangku sungai jernih sepanjang 50 meter yang bersumber dari Sungai Mudal/Kedung Pedut dengan elevasi ke sungai aman (±1,25 m), Hanya ±30 menit (20 km) dari Bandara Internasional Yogyakarta (YIA) dan ±45 menit (36 km) dari Malioboro / Kota Yogyakarta"
 },
 
 {
