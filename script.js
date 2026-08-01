@@ -1,83 +1,23 @@
 const properties=[
 
 {
-judul:"Dijual Tanah Luas 3470m² View Pegunungan Menoreh! Cocok untuk Villa & Resto di Nanggulan Kulon Progo",
-lokasi:"Pendoworejo, Girimulyo, Nanggulan, Kulon Progo, DI Yogyakarta",
-luas :"3470m²",
-mdpl:"161-170",
-harga:"Rp 1.125.000/m",
-thumbnail:"Pendoworejo3470.jpg",
-video:"https://youtu.be/dylxIhi_oHw",
-
-sertifikat:"SHM Tegalan",
-muka:"±70 Meter",
-akses:"Jalan dapat diakses mobil langsung sampai lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, dikelilingi pemandangan sawah terasering & view lepas Pegunungan Menoreh",
-kondisi:"Tanah berkontur miring/terasering (sangat bagus dikonsep bertingkat untuk resto, villa, atau kafe)",
-prospek:"Sangat potensial untuk investasi masa depan, usaha tempat nongkrong/kafe, villa, resto kuliner, maupun objek wisata",
-point:"Berada di kawasan wisata populer Nanggulan, Kulon Progo, ± 300 meter dari Kopi Ingkar Janji, ± 16 km ke Candi Borobudur, ± 20 km ke Pusat Kota Jogja, ± 20 km ke Tumpeng Menoreh, Berjarak ± 22 km ke Bandara Internasional Yogyakarta (YIA)"
-},
-
-{
-judul:"Tanah SHM Luas 1115m² View Waduk Sermo & Bandara YIA di Bukit Menoreh Samping Wisata Gunung Gajah",
-lokasi:"Hargotirto, Kokap, Kulon Progo, D.I. Yogyakarta (Persis di samping Objek Wisata Gunung Gajah)",
-luas :"1115m²",
-mdpl:"741-750",
-harga:"Rp 695.000.000, (Nett)",
-thumbnail:"Kokap1114.jpg",
-video:"https://youtu.be/KJPOkn9r-lo",
-
-sertifikat:"SHM Tegalan",
-muka:"22 Meter",
-akses:"Jalan Utama Menghubungkan Kec. Girimulyo & Kec. Kokap, Mobil Bisa Masuk Sampai Lokasi / Lahan Parkir",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, Sejuk, Tenang, Perbukitan Menoreh, Bebas Bising",
-kondisi:"Lahan Relatif Datar, Memanjang ke Belakang",
-prospek:"Sangat Cocok untuk Villa, Resto / Cafe Skyview, Hotel, Penginapan, Maupun Investasi",
-point:"View istimewa Waduk Sermo, Bandara YIA, dan City Light Jogja sore/malam hari, Berada di jalur wisata aktif Kulon Progo, Samping Objek Wisata Gunung Gajah, 900 M dari Gua Seplawan, 1 KM dari Ekowisata Sungai Mudal, 2 KM dari Air Terjun Kembang Soko & Kedung Pedut, 3 KM dari Hutan Pinus Kalilo, 4 KM dari Wisata Dreamland & Gua Kiskendo, 12 KM dari Waduk Sermo, 25 KM dari Bandara Internasional YIA (Yogyakarta International Airport)"
-},
-
-{
-judul:"Tanah SHM 3420m² Muka 20m Pinggir Jalan Provinsi Kopi Puncak, Cocok Untuk Usaha & Villa",
-lokasi:"Purwosari Kulon Progo Regency, Kawasan Kopi Puncak / Kalilo (Sekitar 50–100 meter dari Kopi Puncak)",
-luas :"3420m²",
-mdpl:"777 - 789",
-harga:"Rp 450.000/m",
-thumbnail:"KopiPuncak3420.jpg",
-video:"https://youtu.be/3Az7N4QiSQo",
-
-sertifikat:"SHM Tegalan",
-muka:"20 Meter",
-akses:"Tepat di Pinggir Jalan Raya Provinsi (Akses mobil/kendaraan sangat mudah)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, Sejuk, Tenang, View Perbukitan Hijau, Suasana Pegunungan",
-kondisi:"Lahan Datar, Memanjang ke Belakang, Tanah Sangat Subur (Sudah Ada Tanaman Kopi, Pisang, dll.)",
-prospek:"Sangat Cocok Untuk Villa, Homestay, Rumah Pensiun/Masa Tua, Resto, Maupun Usaha Perkebunan",
-point:"Posisi sangat strategis, nol jalan raya provinsi. Berada di kawasan berkembang & jalur wisata populer (Hanya 50–100 m dari Kopi Puncak, ± 10 menit ke Wisata Kalilo). Luas tanah sangat lapang (3.420 m²) dengan bentuk memanjang ke belakang (171 m). Tanah subur dan kontur relatif datar, mudah untuk diolah atau dibangun. Suasana alam tenang dengan pemandangan pegunungan dan perbukitan yang indah. Bisa difasilitasi untuk jasa pembangunan/kontraktor langsung melalui tim Dimensi Rumah"
-},
-
-{
-judul:"CUMA 270 JUTA DAPAT 2480m² LAHAN KEBUN ASRI MUKA 35 METER DI SALAMAN MAGELANG",
-lokasi:"Krasak, Salaman, Kabupaten Magelang, Jawa Tengah",
-luas :"2480m²",
-mdpl:"145 - 152",
-harga:"Rp 270.000.000",
-thumbnail:"Krasak2480.jpg",
-video:"https://youtu.be/K4IphEI1R8A",
+judul:"Tanah Murah 7800m² Dekat Jalur Lintas Selatan (JLS) Cocok Untuk Homestay & Kuliner",
+lokasi:"Desa Giriwungu, Kecamatan Panggang, Kabupaten Gunungkidul, D.I. Yogyakarta",
+luas :"7800m²",
+mdpl:"280-300",
+harga:"Rp 165.000.000",
+thumbnail:"Giriwungu7800.jpg",
+video:"https://youtu.be/8CLazySs5o4",
 
 sertifikat:"Letter C",
-muka:"35 meter",
-akses:"Mobil Masuk Sampai Lokasi (Jalan Lebar)",
+muka:"-",
+akses:"Berjarak hanya ±250 meter dari Jalan Lintas Selatan (JLS) utama. Dari jalan utama masuk ke lokasi melalui jalan resmi selebar ±3 meter",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, dan aman, dikelilingi kawasan perkebunan produktif serta area perbukitan khas Magelang",
-kondisi:"Kebun duren produktif yang sudah tertata & dirawat, posisi tanah miring/berkontur dengan batas bawah pohon bambu penahan longsor alami",
-prospek:"Sangat ideal untuk investasi kebun buah produktif, villa/rumah singgah masa pensiun, agrowisata, maupun tabungan properti jangka panjang",
-point:"Sudah tertanam ± 50 Pohon Durian (estimasi 1–2 tahun lagi mulai siap panen) dan ± 15 Pohon Kelapa siap petik, Fasilitas Garansi Care/Perawatan: Tersedia opsi kerjasama perawatan/pemeliharaan kebun (pemupukan, penyiraman, hingga panen) langsung oleh Tim Dimensi, Lebar Muka / Mangku Jalan sangat luas (35 Meter), Akses kendaraan/mobil sangat aman & nyaman sampai ke titik lokasi lahan, Aksesibilitas & Jarak: ± 14 km ke Candi Borobudur, ± 15 km ke Kedai Kopi Aroma Kopi / Wisata Kuliner, ± 17 km ke Objek Wisata Embung Samiran / Embung Sambak, ± 20 km ke Destinasi Wisata Nepal Van Java (Sumbing)"
+lingkungan:"Asri, berkembang, berada di kawasan jalur wisata Gunungkidul, serta dekat dengan pemukiman dan perkantoran pemerintahan setempat",
+kondisi:"Tanah kontur agak landai ngetrap (terasering per 2 meter) dan terdapat bagian datar di sisi bawah",
+prospek:"Sangat potensial untuk investasi jangka panjang, bisnis kuliner, homestay, villa, maupun tempat istirahat karena lokasinya strategis dekat JLS dan dikelilingi berbagai destinasi wisata",
+point:"Lokasi Sangat Strategis: Hanya ±250 meter dari Jalur Lintas Selatan (JLS). Dekat Pusat Pemerintahan: Hanya ±9 menit ke Kantor Kecamatan Panggang dan ±40 menit ke Kota Wonosari. Dekat Berbagai Objek Wisata, Wisata Goa Tangis (±210 meter), Wisata Goa Luweng Miri (±250 meter), Air Terjun Punawangan Srenggo (±7 km), Bukit Mojo Gumelem (±8,3 km), Bukit Panguk Kediwung (±8,4 km), Air Terjun Levo (±10,9 km)"
 },
 
 {
@@ -1233,6 +1173,86 @@ lingkungan:"Perkampungan, Hutan Jati dan Kebun",
 kondisi:"Datar",
 prospek:"Villa, Tempat Tinggal",
 point:"Dekat Dengan Wisata Di Merapi, Jeep Tour, Museum Merapi, Akses Jalan Mudah, Siap Bangun"
+},
+
+{
+judul:"Dijual Tanah Luas 3470m² View Pegunungan Menoreh! Cocok untuk Villa & Resto di Nanggulan Kulon Progo",
+lokasi:"Pendoworejo, Girimulyo, Nanggulan, Kulon Progo, DI Yogyakarta",
+luas :"3470m²",
+mdpl:"161-170",
+harga:"Rp 1.125.000/m",
+thumbnail:"Pendoworejo3470.jpg",
+video:"https://youtu.be/dylxIhi_oHw",
+
+sertifikat:"SHM Tegalan",
+muka:"±70 Meter",
+akses:"Jalan dapat diakses mobil langsung sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dikelilingi pemandangan sawah terasering & view lepas Pegunungan Menoreh",
+kondisi:"Tanah berkontur miring/terasering (sangat bagus dikonsep bertingkat untuk resto, villa, atau kafe)",
+prospek:"Sangat potensial untuk investasi masa depan, usaha tempat nongkrong/kafe, villa, resto kuliner, maupun objek wisata",
+point:"Berada di kawasan wisata populer Nanggulan, Kulon Progo, ± 300 meter dari Kopi Ingkar Janji, ± 16 km ke Candi Borobudur, ± 20 km ke Pusat Kota Jogja, ± 20 km ke Tumpeng Menoreh, Berjarak ± 22 km ke Bandara Internasional Yogyakarta (YIA)"
+},
+
+{
+judul:"Tanah SHM Luas 1115m² View Waduk Sermo & Bandara YIA di Bukit Menoreh Samping Wisata Gunung Gajah",
+lokasi:"Hargotirto, Kokap, Kulon Progo, D.I. Yogyakarta (Persis di samping Objek Wisata Gunung Gajah)",
+luas :"1115m²",
+mdpl:"741-750",
+harga:"Rp 695.000.000, (Nett)",
+thumbnail:"Kokap1114.jpg",
+video:"https://youtu.be/KJPOkn9r-lo",
+
+sertifikat:"SHM Tegalan",
+muka:"22 Meter",
+akses:"Jalan Utama Menghubungkan Kec. Girimulyo & Kec. Kokap, Mobil Bisa Masuk Sampai Lokasi / Lahan Parkir",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, Sejuk, Tenang, Perbukitan Menoreh, Bebas Bising",
+kondisi:"Lahan Relatif Datar, Memanjang ke Belakang",
+prospek:"Sangat Cocok untuk Villa, Resto / Cafe Skyview, Hotel, Penginapan, Maupun Investasi",
+point:"View istimewa Waduk Sermo, Bandara YIA, dan City Light Jogja sore/malam hari, Berada di jalur wisata aktif Kulon Progo, Samping Objek Wisata Gunung Gajah, 900 M dari Gua Seplawan, 1 KM dari Ekowisata Sungai Mudal, 2 KM dari Air Terjun Kembang Soko & Kedung Pedut, 3 KM dari Hutan Pinus Kalilo, 4 KM dari Wisata Dreamland & Gua Kiskendo, 12 KM dari Waduk Sermo, 25 KM dari Bandara Internasional YIA (Yogyakarta International Airport)"
+},
+
+{
+judul:"Tanah SHM 3420m² Muka 20m Pinggir Jalan Provinsi Kopi Puncak, Cocok Untuk Usaha & Villa",
+lokasi:"Purwosari Kulon Progo Regency, Kawasan Kopi Puncak / Kalilo (Sekitar 50–100 meter dari Kopi Puncak)",
+luas :"3420m²",
+mdpl:"777 - 789",
+harga:"Rp 450.000/m",
+thumbnail:"KopiPuncak3420.jpg",
+video:"https://youtu.be/3Az7N4QiSQo",
+
+sertifikat:"SHM Tegalan",
+muka:"20 Meter",
+akses:"Tepat di Pinggir Jalan Raya Provinsi (Akses mobil/kendaraan sangat mudah)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, Sejuk, Tenang, View Perbukitan Hijau, Suasana Pegunungan",
+kondisi:"Lahan Datar, Memanjang ke Belakang, Tanah Sangat Subur (Sudah Ada Tanaman Kopi, Pisang, dll.)",
+prospek:"Sangat Cocok Untuk Villa, Homestay, Rumah Pensiun/Masa Tua, Resto, Maupun Usaha Perkebunan",
+point:"Posisi sangat strategis, nol jalan raya provinsi. Berada di kawasan berkembang & jalur wisata populer (Hanya 50–100 m dari Kopi Puncak, ± 10 menit ke Wisata Kalilo). Luas tanah sangat lapang (3.420 m²) dengan bentuk memanjang ke belakang (171 m). Tanah subur dan kontur relatif datar, mudah untuk diolah atau dibangun. Suasana alam tenang dengan pemandangan pegunungan dan perbukitan yang indah. Bisa difasilitasi untuk jasa pembangunan/kontraktor langsung melalui tim Dimensi Rumah"
+},
+
+{
+judul:"CUMA 270 JUTA DAPAT 2480m² LAHAN KEBUN ASRI MUKA 35 METER DI SALAMAN MAGELANG",
+lokasi:"Krasak, Salaman, Kabupaten Magelang, Jawa Tengah",
+luas :"2480m²",
+mdpl:"145 - 152",
+harga:"Rp 270.000.000",
+thumbnail:"Krasak2480.jpg",
+video:"https://youtu.be/K4IphEI1R8A",
+
+sertifikat:"Letter C",
+muka:"35 meter",
+akses:"Mobil Masuk Sampai Lokasi (Jalan Lebar)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, dan aman, dikelilingi kawasan perkebunan produktif serta area perbukitan khas Magelang",
+kondisi:"Kebun duren produktif yang sudah tertata & dirawat, posisi tanah miring/berkontur dengan batas bawah pohon bambu penahan longsor alami",
+prospek:"Sangat ideal untuk investasi kebun buah produktif, villa/rumah singgah masa pensiun, agrowisata, maupun tabungan properti jangka panjang",
+point:"Sudah tertanam ± 50 Pohon Durian (estimasi 1–2 tahun lagi mulai siap panen) dan ± 15 Pohon Kelapa siap petik, Fasilitas Garansi Care/Perawatan: Tersedia opsi kerjasama perawatan/pemeliharaan kebun (pemupukan, penyiraman, hingga panen) langsung oleh Tim Dimensi, Lebar Muka / Mangku Jalan sangat luas (35 Meter), Akses kendaraan/mobil sangat aman & nyaman sampai ke titik lokasi lahan, Aksesibilitas & Jarak: ± 14 km ke Candi Borobudur, ± 15 km ke Kedai Kopi Aroma Kopi / Wisata Kuliner, ± 17 km ke Objek Wisata Embung Samiran / Embung Sambak, ± 20 km ke Destinasi Wisata Nepal Van Java (Sumbing)"
 },
 
 {
