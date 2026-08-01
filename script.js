@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"CUMA 270 JUTA DAPAT 2480m² LAHAN KEBUN ASRI MUKA 35 METER DI SALAMAN MAGELANG",
+lokasi:"Krasak, Salaman, Kabupaten Magelang, Jawa Tengah",
+luas :"2480m²",
+mdpl:"145 - 152",
+harga:"Rp 270.000.000",
+thumbnail:"Krasak2480.jpg",
+video:"https://youtu.be/K4IphEI1R8A",
+
+sertifikat:"Letter C",
+muka:"35 meter",
+akses:"Mobil Masuk Sampai Lokasi (Jalan Lebar)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, dan aman, dikelilingi kawasan perkebunan produktif serta area perbukitan khas Magelang",
+kondisi:"Kebun duren produktif yang sudah tertata & dirawat, posisi tanah miring/berkontur dengan batas bawah pohon bambu penahan longsor alami",
+prospek:"Sangat ideal untuk investasi kebun buah produktif, villa/rumah singgah masa pensiun, agrowisata, maupun tabungan properti jangka panjang",
+point:"Sudah tertanam ± 50 Pohon Durian (estimasi 1–2 tahun lagi mulai siap panen) dan ± 15 Pohon Kelapa siap petik, Fasilitas Garansi Care/Perawatan: Tersedia opsi kerjasama perawatan/pemeliharaan kebun (pemupukan, penyiraman, hingga panen) langsung oleh Tim Dimensi, Lebar Muka / Mangku Jalan sangat luas (35 Meter), Akses kendaraan/mobil sangat aman & nyaman sampai ke titik lokasi lahan, Aksesibilitas & Jarak: ± 14 km ke Candi Borobudur, ± 15 km ke Kedai Kopi Aroma Kopi / Wisata Kuliner, ± 17 km ke Objek Wisata Embung Samiran / Embung Sambak, ± 20 km ke Destinasi Wisata Nepal Van Java (Sumbing)"
+},
+
+{
 judul:"TANAH MURAH DI NANGGULAN, Luas 947m² SHM Pekarangan Siap Bangun! Cuma 330jt Dekat Jalur Provinsi",
 lokasi:"Desa Lengkong, Donomulyo, Nanggulan, Kulon Progo, Yogyakarta",
 luas :"947m²",
