@@ -1,43 +1,63 @@
 const properties=[
 
 {
-judul:"Cuma 300 Jutaan! Punya Tanah Luas 1856m² Kebun Cengkeh di Pegunungan Menoreh Jogja",
-lokasi:"Kebonharjo Kulon Progo Regency, Special Region of Yogyakarta",
-luas :"1856m²",
-mdpl:"631 - 692",
-harga:"Rp 325.000.000",
-thumbnail:"Kebonharjo1856.jpg",
-video:"https://youtu.be/Rh5rfwpsbJ4",
+judul:"DIJUAL TANAH SHM 1651m² VIEW LAUT & PERBUKITAN DI PANGGANG GUNUNGKIDUL HANYA 110 JUTA!",
+lokasi:"Desa Giriwungu, Panggang, Gunungkidul",
+luas :"1651m²",
+mdpl:"149-136",
+harga:"Rp 110.000.000",
+thumbnail:"GunungKidul1651.jpg",
+video:"https://youtu.be/3EHVfEAAfKw",
 
 sertifikat:"SHM Tegalan",
-muka:"±70 Meter",
-akses:"Jalan cor, mobil bisa masuk sampai lokasi",
+muka:"±20 meter",
+akses:"Jalan lingkungan (mobil/kendaraan masuk sampai lokasi)",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, tenang, dikelilingi kebun cengkeh dan suasana pegunungan",
-kondisi:"Tanah kebun produktif berisi pohon cengkeh siap petik dan tanaman subur lainnya",
-prospek:"Sangat cocok untuk hunian/rumah tinggal, villa, ataupun investasi karena berada di area wisata dekat Tumpeng Menoreh",
-point:"Memiliki kebun cengkeh produktif yang siap petik, Suasana alam yang asri dengan pemandangan pegunungan serta spot sunrise dan sunset, Lebar depan mangku jalan sangat luas (± 70 meter), Jarak ke Objek Wisata Tumpeng Menoreh ± 8 km, Jarak ke pusat Kota Jogja ± 30 km (sekitar 30 menit)"
+lingkungan:"Asri, tenang, dikelilingi pemandangan alam perbukitan dan view laut",
+kondisi:"Bagian depan datar (luas ±200 m² cocok untuk parkiran/pendopo), bagian belakang ngetrap/berbukit dengan view laut lepas",
+prospek:"Sangat potensial untuk dibangun villa, homestay, resto/kulineran, maupun investasi properti",
+point:"Berada di kawasan strategis dekat banyak objek wisata populer di Panggang, Gunungkidul. ±550 m dari Wisata Telaga Giriwungu, ±1 km dari Pantai Ngunggah, ±1,1 km dari Goa Songkadut, ±2,9 km dari Pantai Kesirat, ±3,5 km dari Pantai Wohkudu, ±4,7 km dari Laut Bekah, ±5 km dari Puncak Segoro, Dekat ke Pantai Gesing, Air Terjun Srunggo, & Wisata Air Terjun Lepo"
 },
 
 {
-judul:"Tanah 2589m² Pekarangan View Bukit Eksotik & Sumber Mata Air Alami di Kaliduren, Samigaluh",
-lokasi:"Kaliduren, Kebonharjo, Samigaluh",
-luas :"2589m²",
-mdpl:"573 - 641",
-harga:"Rp 225.000.000",
-thumbnail:"Kaliduren2589.jpg",
-video:"https://youtu.be/m4HhbEQPhuA",
+judul:"Tanah View Kebun Teh & Samping Sungai Luas 2802m² Cocok Untuk Villa Dan Kebun Sayur!",
+lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
+luas :"2802m²",
+mdpl:"795 - 849",
+harga:"Rp 550.000/m",
+thumbnail:"Karanganyar2802.jpg",
+video:"https://youtu.be/G7eAgWlU6eQ",
 
-sertifikat:"Letter C (sedang dalam proses perubahan ke SHM Pekarangan)",
-muka:"±30 Meter",
-akses:"Jalan selebar ± 3 meter, mobil bisa masuk sampai lokasi (bisa papasan dengan motor)",
+sertifikat:"SHM",
+muka:"-",
+akses:"Jalan kampung kawasan Kebun Teh Kemuning",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, dan tenang dengan suasana pegunungan",
-kondisi:"Tanah subur (banyak ditumbuhi tanaman/pohon seperti nangka, kelapa, mahoni, dan durian), bagian atas relatif datar, bagian bawah berstruktur terasering atau trap-trapan",
-prospek:"Sangat cocok untuk investasi, villa, hunian peristirahatan, tempat berkebun, maupun pengembangan wisata",
-point:"Memiliki pemandangan (view) bukit langsung yang sangat indah dan sejuk, Memiliki pasokan air yang sangat melimpah serta mata air alami yang jernih di dekat lokasi, Lokasi strategis dekat dengan berbagai destinasi wisata populer di kawasan Menoreh (seperti Menoreh Rock Cabin, Tumpeng Menoreh, serta area kuliner Nanggulan)"
+lingkungan:"Perkebunan Teh Kemuning yang Asri, adem, sejuk, dan dikelilingi oleh pemandangan Bukit Kemuning",
+kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah.  Sebagian tanah mangku/berbatasan langsung dengan sungai",
+prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
+point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Kebun Teh Ndoro Dongker, Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh"
+},
+
+{
+judul:"Tanah 4900m² Dengan Air Terjun Indah Di Daerah Wisata Payung Langit, Paralayang & Kemuning Sky",
+lokasi:"Segorogunung, Kec. Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah",
+luas :"4900m²",
+mdpl:"946 - 1015",
+harga:"Rp 375.000/m",
+thumbnail:"Karanganyar4900.jpg",
+video:"https://youtu.be/BWSmi1gKS7g",
+
+sertifikat:"SHM",
+muka:"40m",
+akses:"Mobil sampai lokasi (jalan cor lebar ±3 – 4,5 meter, berjarak sekitar 200 meter dari jalan aspal utama)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata alam aktif & ramai (Wisata Watu Payung / Jeep Tour), adem, asri, dengan pemandangan kebun sayur serta city view Kota Surakarta dan Karanganyar dari bagian atas",
+kondisi:"Tanah berkontur alam pegunungan dengan bentang lanskap otentik, memilik kedung/kolam air alami, dan berada di kawasan camping",
+prospek:"Sangat potensial dikembangkan menjadi Villa Privat/Resort Eksklusif, Kafe/Resto Premium, Spot Selfie, Glamping Site, atau Tempat Relaksasi/Therapy Wellness",
+point:"Memiliki air terjun alami (waterfall) setinggi ±15 meter yang nempel di lokasi tanah dan dikelilingi 3 sisi aliran sungai yang jernih, Legalitas SHM dan transaksi sudah terikat di Notaris (hak penjualan 100% aman), ±2–3 km ke Spot Selfie Payung Langit & Jembatan Kaca Kemuning, ±3 km (10 menit) ke Wisata Paralayang, 5 km ke Candi Sukuh & Air Terjun Jumok, 8 km ke Candi Cetho, 10 km ke Grojokan Sewu"
 },
 
 {
@@ -1253,6 +1273,46 @@ lingkungan:"Asri, Sejuk, Tenang, View Perbukitan Hijau, Suasana Pegunungan",
 kondisi:"Lahan Datar, Memanjang ke Belakang, Tanah Sangat Subur (Sudah Ada Tanaman Kopi, Pisang, dll.)",
 prospek:"Sangat Cocok Untuk Villa, Homestay, Rumah Pensiun/Masa Tua, Resto, Maupun Usaha Perkebunan",
 point:"Posisi sangat strategis, nol jalan raya provinsi. Berada di kawasan berkembang & jalur wisata populer (Hanya 50–100 m dari Kopi Puncak, ± 10 menit ke Wisata Kalilo). Luas tanah sangat lapang (3.420 m²) dengan bentuk memanjang ke belakang (171 m). Tanah subur dan kontur relatif datar, mudah untuk diolah atau dibangun. Suasana alam tenang dengan pemandangan pegunungan dan perbukitan yang indah. Bisa difasilitasi untuk jasa pembangunan/kontraktor langsung melalui tim Dimensi Rumah"
+},
+
+{
+judul:"Cuma 300 Jutaan! Punya Tanah Luas 1856m² Kebun Cengkeh di Pegunungan Menoreh Jogja",
+lokasi:"Kebonharjo Kulon Progo Regency, Special Region of Yogyakarta",
+luas :"1856m²",
+mdpl:"631 - 692",
+harga:"Rp 325.000.000",
+thumbnail:"Kebonharjo1856.jpg",
+video:"https://youtu.be/Rh5rfwpsbJ4",
+
+sertifikat:"SHM Tegalan",
+muka:"±70 Meter",
+akses:"Jalan cor, mobil bisa masuk sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dikelilingi kebun cengkeh dan suasana pegunungan",
+kondisi:"Tanah kebun produktif berisi pohon cengkeh siap petik dan tanaman subur lainnya",
+prospek:"Sangat cocok untuk hunian/rumah tinggal, villa, ataupun investasi karena berada di area wisata dekat Tumpeng Menoreh",
+point:"Memiliki kebun cengkeh produktif yang siap petik, Suasana alam yang asri dengan pemandangan pegunungan serta spot sunrise dan sunset, Lebar depan mangku jalan sangat luas (± 70 meter), Jarak ke Objek Wisata Tumpeng Menoreh ± 8 km, Jarak ke pusat Kota Jogja ± 30 km (sekitar 30 menit)"
+},
+
+{
+judul:"Tanah 2589m² Pekarangan View Bukit Eksotik & Sumber Mata Air Alami di Kaliduren, Samigaluh",
+lokasi:"Kaliduren, Kebonharjo, Samigaluh",
+luas :"2589m²",
+mdpl:"573 - 641",
+harga:"Rp 225.000.000",
+thumbnail:"Kaliduren2589.jpg",
+video:"https://youtu.be/m4HhbEQPhuA",
+
+sertifikat:"Letter C (sedang dalam proses perubahan ke SHM Pekarangan)",
+muka:"±30 Meter",
+akses:"Jalan selebar ± 3 meter, mobil bisa masuk sampai lokasi (bisa papasan dengan motor)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, dan tenang dengan suasana pegunungan",
+kondisi:"Tanah subur (banyak ditumbuhi tanaman/pohon seperti nangka, kelapa, mahoni, dan durian), bagian atas relatif datar, bagian bawah berstruktur terasering atau trap-trapan",
+prospek:"Sangat cocok untuk investasi, villa, hunian peristirahatan, tempat berkebun, maupun pengembangan wisata",
+point:"Memiliki pemandangan (view) bukit langsung yang sangat indah dan sejuk, Memiliki pasokan air yang sangat melimpah serta mata air alami yang jernih di dekat lokasi, Lokasi strategis dekat dengan berbagai destinasi wisata populer di kawasan Menoreh (seperti Menoreh Rock Cabin, Tumpeng Menoreh, serta area kuliner Nanggulan)"
 },
 
 {
