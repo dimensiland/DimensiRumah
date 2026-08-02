@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Jual Tanah Murah Kavling Sedayu Sisa 3 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
+lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
+luas:"430m², 570m² & 384m²",
+mdpl:"87 - 99",
+harga:"Kavling 2 | 430m² | 215 Juta, Kavling 3 | 384m² | 192 Juta, Kavling 4 | 570m² | 285 Juta",
+thumbnail:"KavlingSedayu.jpg",
+video:"https://youtu.be/xLkLBLh_RkM",
+
+sertifikat:"SHM Pekarangan",
+muka:"±20 Meter",
+akses:"Jalan Cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perumahan",
+kondisi:"Datar",
+prospek:"Investasi, Villa & Hunian",
+point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
+},
+
+{
 judul:"Hanya 325Juta Dapet Tanah 1338m²! View Istimewa Pegunungan Sangat Cocok Untuk Slow Living",
 lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
 luas:"1338m²",
@@ -832,25 +852,6 @@ lingkungan:"Berada di kawasan perbukitan yang sejuk, asri, dan tenang. Menawarka
 kondisi:"Tanah berupa lahan subur berundak (terasering)",
 prospek:"Sangat cocok dan potensial untuk dikembangkan sebagai kebun durian premium mandiri (bisa menampung tambahan sekitar 30–40 pohon durian premium seperti Musang King atau Duri Hitam/Alpukat), tempat villa/homestay peristirahan keluarga, atau investasi properti karena berada di jalur berkembangnya objek wisata",
 point:"Akses berkendara sekitar 1 jam menuju Malioboro (Kota Jogja), Bandara YIA, maupun ke Candi Borobudur, 6 km di bawah Tumpeng Menoreh, dekat dengan Menoreh Farm Stay (sekitar 0,5 - 1 km), Air Terjun Cibiru (1 km), Glamping Menoreh (5 km), Rimbono Homestay (5 km)"
-},
-
-{
-judul:"Jual Tanah Murah Kavling Sedayu Sisa 2 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
-lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
-luas:"430m² & 384m²",
-harga:"Kavling 2 | 430m² | 215 Juta, Kavling 3 | 384m² | 192 Juta",
-thumbnail:"KavlingSedayu.jpg",
-video:"https://youtu.be/RcAG0Cnu8zs",
-
-sertifikat:"SHM Pekarangan",
-muka:"±20 Meter",
-akses:"Jalan Cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perumahan",
-kondisi:"Datar",
-prospek:"Investasi, Villa & Hunian",
-point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
 },
 
 {
