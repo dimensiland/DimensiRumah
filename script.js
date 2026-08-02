@@ -1,6 +1,46 @@
 const properties=[
 
 {
+judul:"Cuma 300 Jutaan! Punya Tanah Luas 1856m² Kebun Cengkeh di Pegunungan Menoreh Jogja",
+lokasi:"Kebonharjo Kulon Progo Regency, Special Region of Yogyakarta",
+luas :"1856m²",
+mdpl:"631 - 692",
+harga:"Rp 325.000.000",
+thumbnail:"Kebonharjo1856.jpg",
+video:"https://youtu.be/Rh5rfwpsbJ4",
+
+sertifikat:"SHM Tegalan",
+muka:"±70 Meter",
+akses:"Jalan cor, mobil bisa masuk sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dikelilingi kebun cengkeh dan suasana pegunungan",
+kondisi:"Tanah kebun produktif berisi pohon cengkeh siap petik dan tanaman subur lainnya",
+prospek:"Sangat cocok untuk hunian/rumah tinggal, villa, ataupun investasi karena berada di area wisata dekat Tumpeng Menoreh",
+point:"Memiliki kebun cengkeh produktif yang siap petik, Suasana alam yang asri dengan pemandangan pegunungan serta spot sunrise dan sunset, Lebar depan mangku jalan sangat luas (± 70 meter), Jarak ke Objek Wisata Tumpeng Menoreh ± 8 km, Jarak ke pusat Kota Jogja ± 30 km (sekitar 30 menit)"
+},
+
+{
+judul:"Tanah 2589m² Pekarangan View Bukit Eksotik & Sumber Mata Air Alami di Kaliduren, Samigaluh",
+lokasi:"Kaliduren, Kebonharjo, Samigaluh",
+luas :"2589m²",
+mdpl:"573 - 641",
+harga:"Rp 225.000.000",
+thumbnail:"Kaliduren2589.jpg",
+video:"https://youtu.be/m4HhbEQPhuA",
+
+sertifikat:"Letter C (sedang dalam proses perubahan ke SHM Pekarangan)",
+muka:"±30 Meter",
+akses:"Jalan selebar ± 3 meter, mobil bisa masuk sampai lokasi (bisa papasan dengan motor)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, dan tenang dengan suasana pegunungan",
+kondisi:"Tanah subur (banyak ditumbuhi tanaman/pohon seperti nangka, kelapa, mahoni, dan durian), bagian atas relatif datar, bagian bawah berstruktur terasering atau trap-trapan",
+prospek:"Sangat cocok untuk investasi, villa, hunian peristirahatan, tempat berkebun, maupun pengembangan wisata",
+point:"Memiliki pemandangan (view) bukit langsung yang sangat indah dan sejuk, Memiliki pasokan air yang sangat melimpah serta mata air alami yang jernih di dekat lokasi, Lokasi strategis dekat dengan berbagai destinasi wisata populer di kawasan Menoreh (seperti Menoreh Rock Cabin, Tumpeng Menoreh, serta area kuliner Nanggulan)"
+},
+
+{
 judul:"Tanah Murah View Sawah Mewah Luas 8787m² di Jogja Barat – Cocok untuk Villa & Investasi!",
 lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Progo)",
 luas :"8787m²",
