@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah 700m² View Sawah & Gunung Menoreh di Sleman | Dekat Mang Engking & Pintu Tol",
+lokasi:"Plumbon, Sendangsari, Minggir, Sleman Barat, D.I. Yogyakarta",
+luas :"700m²",
+mdpl:"110 - 130",
+harga:"Rp 395.000.000,-",
+thumbnail:"Minggir700.jpg",
+video:"https://youtu.be/5u_iczoenmE",
+
+sertifikat:"SHM Sawah",
+muka:"20 Meter",
+akses:"Berjarak sekitar 20–30 meter dari jalan aspal utama, namun jalur masuk langsung menuju lokasi saat ini masih berupa tanah/jalan eksisting (disarankan untuk dicor), Berjarak sekitar 500 meter dari jalan provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan landscape pemandangan sawah dan Pegunungan Menoreh, Berada di lingkungan Sleman Barat yang subur, tenang, serta memiliki toleransi masyarakat yang bagus (dekat dengan tempat ibadah seperti masjid dan gereja)",
+kondisi:"Tanah subur siap bangun yang saat ini ditanami pohon pisang dan kelapa",
+prospek:"Sangat cocok untuk konsep slow living, tempat tinggal sekaligus kantor remote, maupun dibangun menjadi 2 unit vila sebagai aset investasi (passive income)",
+point:"Memiliki pemandangan alam (view gunung & sawah) yang indah dan udara yang sangat segar, Dekat dengan pintu tol Jogja–Semarang (sekitar 7 km), Hanya 1 km dari Kantor Kecamatan Minggir, Pasar Minggir, rumah sakit, dan pom bensin, Berjarak sekitar 15 km (kurang lebih 20–30 menit) dari kawasan Malioboro, Kota Jogja"
+},
+
+{
 judul:"Tanah View Kebun Teh & Samping Sungai Luas 2802m² Cocok Untuk Villa Dan Kebun Sayur!",
 lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
 luas :"2802m²",
