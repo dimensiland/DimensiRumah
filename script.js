@@ -1,26 +1,6 @@
 const properties=[
 
 {
-judul:"DIJUAL TANAH SHM 1651m² VIEW LAUT & PERBUKITAN DI PANGGANG GUNUNGKIDUL HANYA 110 JUTA!",
-lokasi:"Desa Giriwungu, Panggang, Gunungkidul",
-luas :"1651m²",
-mdpl:"149-136",
-harga:"Rp 110.000.000",
-thumbnail:"GunungKidul1651.jpg",
-video:"https://youtu.be/3EHVfEAAfKw",
-
-sertifikat:"SHM Tegalan",
-muka:"±20 meter",
-akses:"Jalan lingkungan (mobil/kendaraan masuk sampai lokasi)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, dikelilingi pemandangan alam perbukitan dan view laut",
-kondisi:"Bagian depan datar (luas ±200 m² cocok untuk parkiran/pendopo), bagian belakang ngetrap/berbukit dengan view laut lepas",
-prospek:"Sangat potensial untuk dibangun villa, homestay, resto/kulineran, maupun investasi properti",
-point:"Berada di kawasan strategis dekat banyak objek wisata populer di Panggang, Gunungkidul. ±550 m dari Wisata Telaga Giriwungu, ±1 km dari Pantai Ngunggah, ±1,1 km dari Goa Songkadut, ±2,9 km dari Pantai Kesirat, ±3,5 km dari Pantai Wohkudu, ±4,7 km dari Laut Bekah, ±5 km dari Puncak Segoro, Dekat ke Pantai Gesing, Air Terjun Srunggo, & Wisata Air Terjun Lepo"
-},
-
-{
 judul:"Tanah View Kebun Teh & Samping Sungai Luas 2802m² Cocok Untuk Villa Dan Kebun Sayur!",
 lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
 luas :"2802m²",
@@ -854,25 +834,6 @@ point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universit
 },
 
 {
-judul:"Tanah Luas 700m² Dengan Pemandangan Indah Berada Di Minggir, Sleman Dekat Restoran Mang Engking",
-lokasi:"Plembon, Sendangsari, Minggir, Sleman, Yogyakarta",
-luas:"700m²",
-harga:"Rp 395.000.000 Nego",
-thumbnail:"Minggir700.jpg",
-video:"https://youtu.be/6duk9u2aIzY",
-
-sertifikat:"SHM Sawah",
-muka:"20 meter",
-akses:"Jalan Tanah Selebar 5 Meter, Berjarak 30 Meter Dari Jalan Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Persawahan Dan Kebun",
-kondisi:"Tumbuh Beberapa Pohon Kelapa Di Lokasi",
-prospek:"Villa Dan Tempat Tinggal",
-point:"View Cantik Sawah Dan Bukit Menoreh, Dekat Restoran Mang Engking, Berjarak 4KM Dari Exit Tol"
-},
-
-{
 judul:"Tanah Pekarangan MURAH! Hanya 175 Juta di Sleman Luas 288 m² Dekat Tugu Dan Studio Alam Gamplong!",
 lokasi:"Sumber Arum, Moyudan, Sleman, Yogyakarta",
 luas :"288m²",
@@ -1353,6 +1314,26 @@ lingkungan:"Udara dingin sejuk, asri, nyaman, dan berada di jalur utama zona wis
 kondisi:"Kontur tanah terasering landai (2 trap), bagian bawah rata/datar, bentuk tanah mengotak",
 prospek:"Sangat potensial untuk dibangun cafe, resto, villa, tempat tinggal, maupun investasi properti",
 point:"Posisi sangat strategis langsung tepi/mangku jalan utama provinsi dengan lebar muka ±30 meter, Memiliki sumber mata air alami sendiri di area belakang lokasi. Dekat dengan berbagai destinasi wisata populer: 1 km dari Kopi Puncak. Dekat ke Menoreh Dreamland, Goa Kiskendo, Air Terjun Mudal, Kembang Soka, Kedung Pedut, dan Kuncung Emas. 12 km dari Pusat Wisata Nanggulan ±14 km dari Sleman ±28 km dari Bandara YIA (Wates) ±34 km dari Pusat Kota / Malioboro Yogyakarta. Pembelian dapat dibicarakan untuk skema cicilan"
+},
+
+{
+judul:"DIJUAL TANAH SHM 1651m² VIEW LAUT & PERBUKITAN DI PANGGANG GUNUNGKIDUL HANYA 110 JUTA!",
+lokasi:"Desa Giriwungu, Panggang, Gunungkidul",
+luas :"1651m²",
+mdpl:"149-136",
+harga:"Rp 110.000.000",
+thumbnail:"GunungKidul1651.jpg",
+video:"https://youtu.be/3EHVfEAAfKw",
+
+sertifikat:"SHM Tegalan",
+muka:"±20 meter",
+akses:"Jalan lingkungan (mobil/kendaraan masuk sampai lokasi)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dikelilingi pemandangan alam perbukitan dan view laut",
+kondisi:"Bagian depan datar (luas ±200 m² cocok untuk parkiran/pendopo), bagian belakang ngetrap/berbukit dengan view laut lepas",
+prospek:"Sangat potensial untuk dibangun villa, homestay, resto/kulineran, maupun investasi properti",
+point:"Berada di kawasan strategis dekat banyak objek wisata populer di Panggang, Gunungkidul. ±550 m dari Wisata Telaga Giriwungu, ±1 km dari Pantai Ngunggah, ±1,1 km dari Goa Songkadut, ±2,9 km dari Pantai Kesirat, ±3,5 km dari Pantai Wohkudu, ±4,7 km dari Laut Bekah, ±5 km dari Puncak Segoro, Dekat ke Pantai Gesing, Air Terjun Srunggo, & Wisata Air Terjun Lepo"
 },
 
 {
