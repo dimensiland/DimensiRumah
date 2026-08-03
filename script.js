@@ -21,6 +21,26 @@ point:"Menyuguhkan pemandangan spektakuler 180 derajat ke arah Kota Jogja, Gunun
 },
 
 {
+judul:"Jual Tanah Luas 4000m² Dekat Tumpeng Menoreh Cocok Untuk Berkebun Atau Villa Cabin With The View",
+lokasi:"Dusun Tritis, Desa Ngargosari, Kecamatan Samigaluh, Kulon Progo",
+luas :"4000m²",
+mdpl:"808 - 839",
+harga:"Rp 220.000.000 (Nett, bertahap hingga 10 kali)",
+thumbnail:"Tritis4000.jpg",
+video:"https://youtu.be/evyRo3rSs7E",
+
+sertifikat:"Letter C",
+muka:"7m Ngantong",
+akses:"Pinggir jalan aspal, mobil bisa simpangan, masuk dalam rencana pengembangan/program Bedah Menoreh",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sejuk dan adem (suhu malam mencapai ±15°C), tenang, berada di ekosistem kawasan wisata",
+kondisi:"Datar Terasering, Tanah subur, kontur ngantong dengan background view pemandangan lembah",
+prospek:"Sangat potensial untuk vila/kabin with view, tempat slow living, berkebun buah (alpukat Hans, durian), maupun investasi jangka panjang",
+point:"Berada di bawah objek wisata Tumpeng Menoreh (hanya ±1 km / 5 menit), Dekat dengan destinasi wisata lain: Kebun Teh Nglingo (1 km), Tumpeng Ayu (1 km), De Loano Glamping (1,5 km), Menoreh Sky Cabin (5 km), & Rajendra Farm (5 km), ±30 menit (22 km) ke Kota Sleman, ±45 menit (35 km) ke Malioboro, dan ±45 menit (44 km) ke Bandara Internasional Yogyakarta"
+},
+
+{
 judul:"Tanah Nuansa Ubud Bali di Samigaluh Luas 884m² Cuma 200 Jutaan! Bonus Sumber Mata Air Melimpah!",
 lokasi:"Ngemplak, Pagerharjo, Samigaluh, Kulon Progo, D.I. Yogyakarta (Kawasan Wisata Perbukitan Menoreh)",
 luas:"884m²",
