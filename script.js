@@ -21,6 +21,26 @@ point:"Menyuguhkan pemandangan spektakuler 180 derajat ke arah Kota Jogja, Gunun
 },
 
 {
+judul:"Tanah Nuansa Ubud Bali di Samigaluh Luas 884m² Cuma 200 Jutaan! Bonus Sumber Mata Air Melimpah!",
+lokasi:"Ngemplak, Pagerharjo, Samigaluh, Kulon Progo, D.I. Yogyakarta (Kawasan Wisata Perbukitan Menoreh)",
+luas:"884m²",
+mdpl:"474 - 476",
+harga:"Rp 275.000.000",
+thumbnail:"Ngemplak880.jpg",
+video:"https://youtu.be/1ztEwg9o3LA",
+
+sertifikat:"SHM Sawah",
+muka:"± Meter",
+akses:"Berupa Jalan Setapak sepanjang kurang lebih 150 meter hingga 200 meter dari pinggir jalan raya utama tempat parkir kendaraan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Berada di kawasan pedesaan yang asri, adem, tenang, dikelilingi pemandangan sawah terasering 360 derajat, berhawa sejuk, dan dekat dengan berbagai destinasi wisata Menoreh",
+kondisi:"Lahan produktif berupa hamparan sawah datar dengan aliran air alami yang terus-menerus mengalir",
+prospek:"Sangat kuat dan cocok untuk dikembangkan menjadi kawasan hidden gem villa dengan konsep panggung/kayu modern, farm stay, penginapan dengan konsep ketahanan pangan (perpaduan padi, sayuran, dan kolam ikan koi/konsumsi), atau tempat meditasi dan healing",
+point:"Berjarak dekat dengan berbagai destinasi wisata populer (sekitar 2-6 km dari Menoreh Rock Cabin, Tumpeng Menoreh, Menoreh Farm Stay, Borobudur Highland, dan Kebun Teh Nglinggo), Struktur tanah datar di area terasering memudahkan penataan landscape yang estetik"
+},
+
+{
 judul:"Tanah Dengan Aliran Sungai Jernih Dekat Wisata Jembatan Kaca & Kebun Teh Di Kaki Gunung Lawu",
 lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
 luas :"2520m² SHM Tegalan / 820m² & 337m² SHM Pekarangan",
@@ -796,25 +816,6 @@ lingkungan:"Kawasan asri perbukitan, sudah ada rumah-rumah tetangga di sekitar l
 kondisi:"Tanah berupa puncak bukit yang landai (kemiringan sangat rendah sekitar 5–7 derajat), memiliki 3 trap/terasering besar yang cukup datar karena dulunya sempat digunakan untuk bangunan rumah dan kebun. Area atas/puncak sudah dibersihkan oleh pemilik",
 prospek:"Sangat potensial untuk dibangun vila, resort, homestay, atau resto/kafe wisata, didukung oleh tren perkembangan pariwisata di kawasan Menoreh",
 point:" Menyuguhkan pemandangan perbukitan hijau, hamparan sawah terasering yang luas, serta pemandangan lampu kota (city light) saat malam hari, Kurang dari 5 menit ke Suasana Padi, ± 7 menit ke Puncak Saka, dekat dengan Kopi Ingkar Janji (4-5 km), Geblek Pari (6-7 km), Omah Cantrik, dan jalur menuju Wisata Goa Kiskendo serta Menoreh Dreamland,Hanya ± 1,5 km dari jalan raya aspal utama (Jalan Giripurwo). Berjarak sekitar 35 menit berkendara menuju Kota Yogyakarta (Malioboro/Tugu) dan sekitar 40 menit menuju Bandara Internasional Yogyakarta (YIA)"
-},
-
-{
-judul:"Tanah Nuansa Ubud Bali di Samigaluh Luas 884m² Cuma 200 Jutaan! Bonus Sumber Mata Air Melimpah!",
-lokasi:"Ngemplak, Pagerharjo, Samigaluh, Kulon Progo, D.I. Yogyakarta (Kawasan Wisata Perbukitan Menoreh)",
-luas:"884m²",
-harga:"Rp 275.000.000",
-thumbnail:"Ngemplak880.jpg",
-video:"https://youtu.be/F4bDsp_kWno",
-
-sertifikat:"SHM Sawah",
-muka:"± Meter",
-akses:"Berupa Jalan Setapak sepanjang kurang lebih 150 meter hingga 200 meter dari pinggir jalan raya utama tempat parkir kendaraan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Berada di kawasan pedesaan yang asri, adem, tenang, dikelilingi pemandangan sawah terasering 360 derajat, berhawa sejuk, dan dekat dengan berbagai destinasi wisata Menoreh",
-kondisi:"Lahan produktif berupa hamparan sawah datar dengan aliran air alami yang terus-menerus mengalir",
-prospek:"Sangat kuat dan cocok untuk dikembangkan menjadi kawasan hidden gem villa dengan konsep panggung/kayu modern, farm stay, penginapan dengan konsep ketahanan pangan (perpaduan padi, sayuran, dan kolam ikan koi/konsumsi), atau tempat meditasi dan healing",
-point:"Berjarak dekat dengan berbagai destinasi wisata populer (sekitar 2-6 km dari Menoreh Rock Cabin, Tumpeng Menoreh, Menoreh Farm Stay, Borobudur Highland, dan Kebun Teh Nglinggo), Struktur tanah datar di area terasering memudahkan penataan landscape yang estetik"
 },
 
 {
