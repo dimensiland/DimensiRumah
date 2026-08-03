@@ -9,7 +9,7 @@ harga:"Rp 220.000.000",
 thumbnail:"Ngargoretno1416.jpg",
 video:"https://youtu.be/bWVhbqMrN7w",
 
-sertifikat:"SHM",
+sertifikat:"Letter C",
 muka:"Datar di bagian depan (sangat siap bangun) dan sebagian berkontur terasering di bagian belakang yang memberikan keuntungan untuk mendapatkan view tanpa terhalang",
 akses:"Lebar 4 meter, sudah jalan cor beton (akses mobil lancar sampai ke lokasi lahan)",
 air:"Tersedia",
