@@ -11,7 +11,7 @@ video:"https://youtu.be/NKMIpF8n7JA",
 
 sertifikat:"SHM Tegalan & SHM Pekarangan",
 muka:"-",
-akses:" ",
+akses:"Jalan Cor kampung",
 air:"Tersedia",
 listrik:"PLN tersedia",
 lingkungan:"Perkampungan Asri, adem, sejuk, dan dikelilingi oleh pemandangan Bukit Kemuning",
