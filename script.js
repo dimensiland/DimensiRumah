@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"CUMA 220 JUTA NETT! Tanah SHM 1416m² di Bawah Tumpeng Menoreh & UFO Resto Siap Bangun Villa Mewah",
+lokasi:"Desa Ngargoretno, kawasan Menoreh (Jogja Barat / perbatasan Magelang-Kulon Progo)",
+luas :"1416m²",
+mdpl:"825 - 860",
+harga:"Rp 220.000.000",
+thumbnail:"Ngargoretno1416.jpg",
+video:"https://youtu.be/bWVhbqMrN7w",
+
+sertifikat:"SHM",
+muka:"Datar di bagian depan (sangat siap bangun) dan sebagian berkontur terasering di bagian belakang yang memberikan keuntungan untuk mendapatkan view tanpa terhalang",
+akses:"Lebar 4 meter, sudah jalan cor beton (akses mobil lancar sampai ke lokasi lahan)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, adem, dan dikelilingi oleh destinasi wisata populer serta perkebunan teh. Sangat cocok untuk konsep slow living",
+kondisi:"Sebagian tanah sudah datar bersih, sebagian lagi rimbun oleh vegetasi ringan (bambu/ranting pohon) yang jika dirapikan akan langsung membuka pemandangan view lepas 180 derajat",
+prospek:"Sangat potensial untuk dibangun villa komersial (passive income), rumah peristirahatan pribadi/masa pensiun, atau investasi properti karena berada di dalam ekosistem wisata yang sudah jadi dan terus berkembang",
+point:"Menyuguhkan pemandangan spektakuler 180 derajat ke arah Kota Jogja, Gunung Merapi, Gunung Merbabu, Gunung Sumbing, dan Gunung Sindoro. Berlokasi tepat di bawah kawasan wisata Tumpeng Menoreh, tidak jauh dari Kebun Teh Nglingo, Rock Cabin sekitar 3 km, dan berada persis di atas objek wisata UFO Resto yang terlihat langsung dari lahan. Lahan ini berada persis di sebelah menempel langsung dengan tanah milik Sandiaga Uno yang di bagian atasnya sudah dilengkapi fasilitas helipad.Pemilik membuka opsi pembayaran secara cash sekaligus maupun termin bisa dirembuk secara kekeluargaan"
+},
+
+{
 judul:"Tanah Dengan Aliran Sungai Jernih Dekat Wisata Jembatan Kaca & Kebun Teh Di Kaki Gunung Lawu",
 lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
 luas :"2520m² SHM Tegalan / 820m² & 337m² SHM Pekarangan",
@@ -158,26 +178,6 @@ lingkungan:"Perkebunan Teh Kemuning yang Asri, adem, sejuk, dan dikelilingi oleh
 kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah. Sebagian tanah mangku/berbatasan langsung dengan sungai",
 prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
 point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Kebun Teh Ndoro Dongker, Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh"
-},
-
-{
-judul:"CUMA 220 JUTA NETT! Tanah SHM 1416m² di Bawah Tumpeng Menoreh & UFO Resto Siap Bangun Villa Mewah",
-lokasi:"Desa Ngargoretno, kawasan Menoreh (Jogja Barat / perbatasan Magelang-Kulon Progo)",
-luas :"1416m²",
-mdpl:"825 - 860",
-harga:"Rp 220.000.000",
-thumbnail:"Tuumpeng1416.jpg",
-video:"https://youtu.be/bWVhbqMrN7w",
-
-sertifikat:"SHM",
-muka:"Datar di bagian depan (sangat siap bangun) dan sebagian berkontur terasering di bagian belakang yang memberikan keuntungan untuk mendapatkan view tanpa terhalang",
-akses:"Lebar 4 meter, sudah jalan cor beton (akses mobil lancar sampai ke lokasi lahan)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, adem, dan dikelilingi oleh destinasi wisata populer serta perkebunan teh. Sangat cocok untuk konsep slow living",
-kondisi:"Sebagian tanah sudah datar bersih, sebagian lagi rimbun oleh vegetasi ringan (bambu/ranting pohon) yang jika dirapikan akan langsung membuka pemandangan view lepas 180 derajat",
-prospek:"Sangat potensial untuk dibangun villa komersial (passive income), rumah peristirahatan pribadi/masa pensiun, atau investasi properti karena berada di dalam ekosistem wisata yang sudah jadi dan terus berkembang",
-point:"Menyuguhkan pemandangan spektakuler 180 derajat ke arah Kota Jogja, Gunung Merapi, Gunung Merbabu, Gunung Sumbing, dan Gunung Sindoro. Berlokasi tepat di bawah kawasan wisata Tumpeng Menoreh, tidak jauh dari Kebun Teh Nglingo, Rock Cabin sekitar 3 km, dan berada persis di atas objek wisata UFO Resto yang terlihat langsung dari lahan. Lahan ini berada persis di sebelah menempel langsung dengan tanah milik Sandiaga Uno yang di bagian atasnya sudah dilengkapi fasilitas helipad.Pemilik membuka opsi pembayaran secara cash sekaligus maupun termin bisa dirembuk secara kekeluargaan"
 },
 
 {
