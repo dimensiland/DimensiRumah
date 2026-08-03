@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Dengan Aliran Sungai Jernih Dekat Wisata Jembatan Kaca & Kebun Teh Di Kaki Gunung Lawu",
+lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
+luas :"2520m² SHM Tegalan / 820m² & 337m² SHM Pekarangan",
+mdpl:"839 - 921",
+harga:"Rp 500.000/m",
+thumbnail:"Kemuning2520.jpg",
+video:"https://youtu.be/NKMIpF8n7JA",
+
+sertifikat:"SHM Tegalan & SHM Pekarangan",
+muka:"-",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan Asri, adem, sejuk, dan dikelilingi oleh pemandangan Bukit Kemuning",
+kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah. Sebagian tanah mangku/berbatasan langsung dengan sungai",
+prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
+point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh dll"
+},
+
+{
 judul:"Jual Tanah Murah Kavling Sedayu Sisa 3 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
 lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
 luas:"430m², 570m² & 384m²",
