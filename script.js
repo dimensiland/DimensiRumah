@@ -973,25 +973,6 @@ point:"Hanya Rp75 juta untuk luas tanah lebih dari 2.000m2 di wilayah Jogja, Sek
 },
 
 {
-judul:"TURUN HARGA! Tanah Murah di Sleman Jogja Luas 381m² 250jt Dekat Studio Alam Gamplong & Bandara YIA",
-lokasi:"Jl. Godean KM 15, Sleman, Yogyakarta (Barat Studio Alam Gamplong)",
-luas:"381m²",
-harga:"Rp 250.000.000,- (Turun harga dari sebelumnya 265jt)",
-thumbnail:"Sejati381.jpg",
-video:"https://youtu.be/TPGfcR4MInw",
-
-sertifikat:"SHM Pekarangan",
-muka:"±13 Meter",
-akses:"Jalan lebar mobil bisa berpapasan, hanya 100 meter dari jalan aspal kabupaten",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang (nuansa healing), dan sudah banyak rumah penduduk serta vila di sekitarnya",
-kondisi:"Tanah datar siap bangun",
-prospek:"Sangat bagus untuk hunian, vila, atau investasi karena dekat pusat kota Jogja dan akses bandara YIA",
-point:"Hanya 30 menit ke Malioboro, Tugu Jogja, dan Kampus UGM, Selatan Studio Alam Gamplong (1 km) dan dekat Gua Maria Jatiningsih, Dekat Pasar Ngijon (1,5 km) dan sekitar 15 menit dari Ringroad Gamping"
-},
-
-{
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
 luas:"1435m²",
