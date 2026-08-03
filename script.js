@@ -1358,6 +1358,26 @@ point:"Berada di kawasan strategis dekat banyak objek wisata populer di Panggang
 },
 
 {
+judul:"MURAH BANGET! Tanah SHM Pekarangan 500m² View Pegunungan Menoreh Cuma 150 Ribu/Meter",
+lokasi:"Purwoharjo Samigaluh, Kulon Progo",
+luas :"500m²",
+mdpl:"151 - 172",
+harga:"Rp 150.000/m (Net)",
+thumbnail:"Purwoharjo500.jpg",
+video:"https://youtu.be/L-JqOtaXhWA",
+
+sertifikat:"SHM Pekarangan",
+muka:"-",
+akses:"Jalan Luas, Mobil Masuk Sampai Lokasi Tanah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, Sejuk, Tenang, Bernuansa Pegunungan dengan Energi Positif & Alam yang Bersahabat",
+kondisi:"Tanah Berundak / Terdiri dari 5 Terasering (Sangat Subur, Ada Tanaman Cengkeh, Singkong, dll.)",
+prospek:"Sangat Cocok untuk Rumah Tempat Tinggal / Hunian Masa Tua, Villa Pegunungan, Maupun Investasi",
+point:"Memiliki view pemandangan indah Pegunungan Menoreh yang bisa dinikmati dari siang hingga sore, Tanah sangat subur dengan kontur 5 tingkatan terasering yang siap diolah/diratakan untuk bangunan, Udara sangat segar dan sejuk khas Pegunungan Menoreh Jogja Barat, Jarak ke berbagai fasilitas & destinasi wisata penting 2 KM dari Balai Desa, Kantor Kelurahan, 5 KM dari Desa Wisata Purwosari, Lor Tinalah, 6 KM dari Puskesmas, Pusat Kesehatan, 15 KM dari Tumpeng Menoreh, 16 KM dari Candi Borobudur, 26 KM dari Pusat Kota Jogja, 39 KM dari Bandara Internasional YIA"
+},
+
+{
 judul:"Tanah Murah 7800m² Dekat Jalur Lintas Selatan (JLS) Cocok Untuk Homestay & Kuliner",
 lokasi:"Desa Giriwungu, Kecamatan Panggang, Kabupaten Gunungkidul, D.I. Yogyakarta",
 luas :"7800m²",
