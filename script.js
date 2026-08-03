@@ -1125,25 +1125,6 @@ point:"Akses mudah ke Kelurahan maupun Kecamatan, Dekat Kantor Pos, SD, TK, SMP,
 },
 
 {
-judul:"Tanah Luas 850m² Harga 250jt! Istimewa Bisa Bayar Bertahap Dekat Wisata Kaliurang Dan UII",
-lokasi:"Girikerto, Sleman Regency, Special Region of Yogyakarta",
-luas:"850m²",
-harga:"Rp 250.000.000 Bisa Bertahap, Global 450.000.000",
-thumbnail:"Girikerto850.jpg",
-video:"https://youtu.be/87EbZTNRGw0",
-
-sertifikat:"SHM Pekarangan",
-muka:"40 meter",
-akses:"Tersedia",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan",
-kondisi:"Datar Sejuk",
-prospek:"Villa, Rumah Pensiun, Investasi, Kebun Durian, Kebun Alpukat",
-point:"Harga murah kondisi bagus dengan akses Mudah, Ke UII sekitar 12km, dari lokasi ke tugu jogja sekitar 22km"
-},
-
-{
 judul:"Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
 lokasi:"Ngadirejo, Purworejo Regency, Central Java",
 luas:"1450m²",
