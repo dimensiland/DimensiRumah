@@ -81,6 +81,126 @@ point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata ya
 },
 
 {
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"RockCabin1500.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"Moydan251.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"Sejati381.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"Turi850.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"Puser1517.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"Bagunrejo1400.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
 judul:"Jual Tanah Murah Kavling Sedayu Sisa 3 Kavling - Sedayu Jalan Wates KM 15 - View Merapi & Dekat Tol",
 lokasi:"Gunung Polo, Argorejo, Sedayu, Yogyakarta",
 luas:"430m², 570m² & 384m²",
