@@ -819,25 +819,6 @@ point:" Menyuguhkan pemandangan perbukitan hijau, hamparan sawah terasering yang
 },
 
 {
-judul:"Tanah View Kota Jogja, Perbukitan & Pegunungan Cocok Untuk Kebun Pribadi Luas 1517m² Harga 275 Juta",
-lokasi:"Puser, Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat",
-luas:"1517m²",
-harga:"Rp 275.000.000",
-thumbnail:"Puser1517.jpg",
-video:"https://youtu.be/c8_ebEJKQ14",
-
-sertifikat:"SHM Pekarangan",
-muka:"± Meter",
-akses:"Memiliki akses jalan yang masuk ke area satu kompleks kebun, sudah ada komitmen akses tempat parkir mobil selamanya yang nyaman di area lokasi kebun",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, tenang, dan aman. Berada di kawasan pedesaan/perbukitan Menoreh yang subur dan dekat dengan tetangga (warga lokal yang ramah)",
-kondisi:"Kebun produktif yang sudah dibersihkan, dipupuk (kohe/organik), dan dirawat. Sudah ditanami sekitar 40 pohon buah",
-prospek:"Sangat cocok untuk kebun buah pribadi, tempat peristirahatan keluarga (villa/saung keluarga), investasi properti, atau dikembangkan untuk tempat nongkrong/wisata karena pemandangannya yang sangat indah",
-point:"Bisa dititipkan perawatannya ke warga lokal (pemilik awal) dengan biaya yang sangat terjangkau (tanpa biaya bulanan, hanya bayar saat butuh pembersihan/pupuk/pruning sekitar 3 kali setahun), Dekat lokasi Paralayang Giri Sembung, ± 500 meter dari Air Terjun Sidoharjo, ± 2 km ke Jalur Sepeda Luna Maya, ± 3 km ke Teras Menoreh, Kripala Resto, dan Banjar Arum,± 4 km ke Desa Wisata (Dewi) Tinalah,± 5 km (15 menit) ke Sleman,± 9 km ke Mahaloka / Girimanah,± 15 km (30 menit) ke Tumpeng Menoreh,± 25 km (45 menit) ke Malioboro, Kota Yogyakarta,± 43 km (1 jam) ke Bandara YIA"
-},
-
-{
 judul:"Tanah Kavling Murah di Sedayu, Bantul – Luas 116m² Cuma 155 Juta, Strategis & Siap Bangun!",
 lokasi:"Argodadi, Sedayu, Bantul (Jalan Wates KM 12)",
 luas:"116m²",
@@ -1026,25 +1007,6 @@ lingkungan:"Pemukiman padat penduduk, asri, dekat Pondok Pesantren Bina Umat dan
 kondisi:"Tanah datar siap bangun, sudah dibenteng/pagar keliling full, dan terdapat berbagai pohon buah (Alpukat, Mangga, Jambu, Nangka)",
 prospek:"Sangat ideal untuk hunian pribadi, rumah masa pensiun, atau investasi karena kenaikan nilai tanah di area Sleman Barat yang pesat",
 point:"±20 menit ke Tugu Jogja dan Malioboro, Kampus UMY & Mercu Buana (± 15 menit), RS PKU Muhammadiyah Klepu, Hemat biaya konstruksi karena tanah sudah rata dan sudah ada pagar permanen"
-},
-
-{
-judul:"Investasi Cerdas! Tanah 1500m² di Kawasan Viral Menoreh, Potensi Passive Income 30 Juta/Bulan!",
-lokasi:"Kawasan Rock Cabin Menoreh, Desa Pagerharjo, Samigaluh, Kulon Progo (Jogja Barat)",
-luas:"1500m²",
-harga:"Rp 650.000.000",
-thumbnail:"RockCabin.jpg",
-video:"https://youtu.be/u4yZ1v0C-Sg",
-
-sertifikat:"SHM Tanah Pertanian darat",
-muka:"±50-70 meter nempel sungai",
-akses:"Jalan Setapak (Terintegrasi dengan jalur wisata dan event lari internasional)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan Wisata (Rock Cabin Menoreh), dekat Tumpeng Menoreh, suasana tropis/hutan, tenang, dan asri",
-kondisi:"Datar Terasering",
-prospek:"Sangat bagus untuk investasi Villa atau Cabin, dapat diintegrasikan dengan manajemen penginapan setempat",
-point:"Terletak di dalam ekosistem wisata yang sudah jadi (okupansi kabin sekitar mencapai 70-100%), Lahan mangku sungai dengan air terjun kecil dan batu-batu alam yang eksotis, Hanya berjarak sekitar 1 jam dari Bandara YIA dan 45 menit dari Malioboro, Pengelolaan properti (hospitality) bisa diserahkan sepenuhnya ke manajemen kawasan"
 },
 
 {
