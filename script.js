@@ -991,25 +991,6 @@ point:"Memiliki pemandangan city view Kota Jogja, serta pemandangan pegunungan M
 },
 
 {
-judul:"TURUN HARGA!! Tanah 251m² Hanya 210jt Sudah Pagar Keliling – Siap Bangun di Sleman!",
-lokasi:"Jalan Godean KM 15, Kelurahan Sumberarum, Moyudan dekat Ngemplak/Sumber Agung, Sleman, Yogyakarta",
-luas:"251m²",
-harga:"Rp 210.000.000",
-thumbnail:"Km15Godean251.jpg",
-video:"https://youtu.be/nECeedxuoDc",
-
-sertifikat:"SHM Pekarangan",
-muka:"±12 Meter",
-akses:"Hanya 50 meter dari jalan aspal utama, akses mobil lancar",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Pemukiman padat penduduk, asri, dekat Pondok Pesantren Bina Umat dan Wisata Religi Jatiningsih",
-kondisi:"Tanah datar siap bangun, sudah dibenteng/pagar keliling full, dan terdapat berbagai pohon buah (Alpukat, Mangga, Jambu, Nangka)",
-prospek:"Sangat ideal untuk hunian pribadi, rumah masa pensiun, atau investasi karena kenaikan nilai tanah di area Sleman Barat yang pesat",
-point:"±20 menit ke Tugu Jogja dan Malioboro, Kampus UMY & Mercu Buana (± 15 menit), RS PKU Muhammadiyah Klepu, Hemat biaya konstruksi karena tanah sudah rata dan sudah ada pagar permanen"
-},
-
-{
 judul:"Jual Villa Lono Villa Menoreh Etnik Dengan Tanah Luas 1137m² Cocok Untuk Slow Living Tinggal Tempati",
 lokasi:"Sibolong, Giripurwo, Girimulyo",
 luas:"1137m²",
