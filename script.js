@@ -81,23 +81,23 @@ point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata ya
 },
 
 {
-judul:" ",
-lokasi:" ",
-luas :" ",
-mdpl:" ",
-harga:"Rp ",
+judul:"Tanah 1500m² Mangku Sungai di Kawasan Villa & Glamping Menoreh Jogja Siap Kelola Manajemen Villa",
+lokasi:"Kawasan Rock Cabin Menoreh, Separang, Pagerharjo, Kec. Samigaluh, Kulon Progo",
+luas :"1500m²",
+mdpl:"451 - 463",
+harga:"Rp 650.000.000",
 thumbnail:"RockCabin1500.jpg",
-video:" ",
+video:"https://youtu.be/DxRAZoAV38U",
 
-sertifikat:"SHM",
-muka:" ",
-akses:" ",
+sertifikat:"SHM Tanah Pertanian darat",
+muka:"Nempel sungai sepanjang ±50–70 meter (lebar tanah ±20–25 meter)",
+akses:"Akses jalan kawasan terintegrasi, tersedia area parkir luas",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:" ",
-kondisi:" ",
-prospek:" ",
-point:" "
+lingkungan:"Kawasan wisata bernuansa tropical jungle, asri, tenang, dan berdampingan langsung dengan Rock Cabin Menoreh & Tumpeng Menoreh",
+kondisi:"Kontur tanah datar siap bangun, dialiri sungai jernih berundak dengan batuan alami, tumbuh vegetasi pohon kelapa, aren, pucung, dan kopi",
+prospek:"Sangat potensial untuk investasi villa/glamping/cabin dengan potensi passive income ±Rp 30–40 Juta/bulan (estimasi ROI ~3 tahun)",
+point:"Tanah nempel dan terintegrasi penuh dengan kawasan wisata Rock Cabin Menoreh (parkiran, lanskap, dan fasilitas umum sudah siap), Pemilik tidak perlu repot mengelola operasional/hospitality; bisa diserahkan ke manajemen kawasan dengan sistem bagi hasil 50% Owner 50% Manajemen dari gross revenue, ±10 menit (4 km) dari Tumpeng Menoreh, 45 menit (35 km) dari Malioboro / Kota Yogyakarta, 1 jam (40 km) dari Bandara Internasional YIA, Dekat area Badan Otorita Borobudur (BOB) & rute event lari/trekking internasional"
 },
 
 {
