@@ -361,26 +361,6 @@ point:"Hanya berjarak 300 meter dari Desa Wisata Tinalah (Desa Wisata terkenal d
 },
 
 {
-judul:"Tanah View Kebun Teh & Samping Sungai Luas 2802m² Cocok Untuk Villa Dan Kebun Sayur!",
-lokasi:"Kemuning Ngargoyoso Karanganyar Jawa Tengah",
-luas :"2802m²",
-mdpl:"795 - 849",
-harga:"Rp 550.000/m",
-thumbnail:"Kemuning2802.jpg",
-video:"https://youtu.be/G7eAgWlU6eQ",
-
-sertifikat:"SHM",
-muka:"-",
-akses:"Jalan kampung kawasan Kebun Teh Kemuning",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan Teh Kemuning yang Asri, adem, sejuk, dan dikelilingi oleh pemandangan Bukit Kemuning",
-kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah. Sebagian tanah mangku/berbatasan langsung dengan sungai",
-prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
-point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Kebun Teh Ndoro Dongker, Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh"
-},
-
-{
 judul:"Hanya 325 Juta! Tanah SHM Pekarangan 947m² dengan Golden View Gunung Merapi & City Light Jogja",
 lokasi:"Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat (berada di atas kawasan wisata Geblek Pari / Mahaloka)",
 luas :"947m²",
@@ -1052,25 +1032,6 @@ lingkungan:"Asri, sejuk, tenang, dan dikelilingi pemandangan pegunungan (Bukit M
 kondisi:"Datar Terasering",
 prospek:"Villa, Rumah Pensiun atau Slow Living",
 point:"Sangat cocok untuk Slow Living, hunian pribadi, villa, kabin/glamping, atau investasi kebun produktif, View Bukit Menoreh, Matahari Terbit dan Tenggelam, Dekat jalan Besar"
-},
-
-{
-judul:"TURUN HARGA! Tanah 2086m² Hanya 75Jt di Kulon Progo Cocok Untuk Kebun Investasi Masa Depan di Jogja",
-lokasi:"Giripurwo, Girimulyo, Kulon Progo (Jogja Barat), dekat dengan area Wisma Pancoran dan Jogja Stay",
-luas:"2086m²",
-harga:"Rp 75.000.000",
-thumbnail:"Girimulyo2086.jpg",
-video:"https://youtu.be/V8NlOG6KZro",
-
-sertifikat:"SHM Tegalan",
-muka:"±30 Meter",
-akses:"Jalan Cor (saat ini baru akses motor sampai lokasi)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, view perbukitan dan sawah, dekat aliran sungai jernih, lingkungan penduduk",
-kondisi:"Datar Terasesing",
-prospek:"Cocok untuk kebun produktif, atau investasi jangka panjang",
-point:"Hanya Rp75 juta untuk luas tanah lebih dari 2.000m2 di wilayah Jogja, Sekitar 7 km dari pintu Tol Sentolo dan 2 km dari pusat Kecamatan Girimulyo"
 },
 
 {
