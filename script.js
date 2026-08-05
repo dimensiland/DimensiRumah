@@ -181,23 +181,23 @@ point:" "
 },
 
 {
-judul:" ",
-lokasi:" ",
-luas :" ",
-mdpl:" ",
-harga:"Rp ",
+judul:"TURUN HARGA JADI 150 JUTA! Tanah Luas 1400m² View Pegunungan Menoreh Samigaluh, SHM Siap Huni",
+lokasi:"Bangunrejo, Purwoharjo, Samigaluh, Kulon Progo",
+luas :"1400m²",
+mdpl:"427 - 460",
+harga:"Rp 150.000.000,- (turun harga)",
 thumbnail:"Bagunrejo1400.jpg",
-video:" ",
+video:"https://youtu.be/5sCbr6qIXZo",
 
-sertifikat:"SHM",
-muka:" ",
-akses:" ",
+sertifikat:"SHM Pekarangan",
+muka:"20 meter (hingga 40 meter)",
+akses:"Jalan dicor, mobil sampai lokasi",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:" ",
-kondisi:" ",
-prospek:" ",
-point:" "
+lingkungan:"Asri, tenang, hawanya sejuk/dingin, view pegunungan & sawah terasering, aman (dekat tetangga & rumah Pak Dukuh)",
+kondisi:"Tanah berkontur terasering, saat ini ditanami ketela dan pisang, siap diolah untuk hunian/kebun",
+prospek:"Cocok untuk hunian slow living, rumah singgah, villa, maupun kebun buah (durian/alpukat) di kawasan berkembang",
+point:"Dekat kawasan wisata unggulan Kulon Progo (±3 km dari Air Terjun Sidoharjo, dekat Tumpeng Menoreh, Teras Menoreh, Resto, dan Paralayang Giri Sembung Kaliwang), Dekat fasilitas umum (±5 km dari Pasar Boro), Akses mudah: hanya ±6-7 km dari batas Sleman (Minggir), ±45 menit ke Kota Jogja (Malioboro), dan ±45-60 menit ke Bandara YIA, Jaringan listrik dan air sudah masuk ke lokasi"
 },
 
 {
