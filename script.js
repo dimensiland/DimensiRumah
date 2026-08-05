@@ -341,6 +341,26 @@ point:"Memiliki air terjun alami (waterfall) setinggi ±15 meter yang nempel di 
 },
 
 {
+judul:"TURUN HARGA! Tanah 2086m² Hanya 75Jt di Kulon Progo Cocok Untuk Kebun Investasi Masa Depan di Jogja",
+lokasi:"Giripurwo, Girimulyo, Kulon Progo (Jogja Barat), dekat dengan area Wisma Pancoran dan Jogja Stay",
+luas :"2086m²",
+mdpl:"291 - 323",
+harga:"Rp 75.000.000",
+thumbnail:"Giripurwo2086.jpg",
+video:"https://youtu.be/Hk6K3P5no4Q",
+
+sertifikat:"SHM Tegalan",
+muka:"30 Meter",
+akses:"Jalan Cor (saat ini baru akses motor sampai lokasi)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, view perbukitan dan sawah, dekat aliran sungai jernih, lingkungan penduduk",
+kondisi:"Datar Terasesing",
+prospek:"Cocok untuk kebun produktif, atau investasi jangka panjang",
+point:"Hanya Rp75 juta untuk luas tanah lebih dari 2.000m2 di wilayah Jogja, Sekitar 7 km dari pintu Tol Sentolo dan 2 km dari pusat Kecamatan Girimulyo"
+},
+
+{
 judul:"Tanah Murah View Sawah Mewah Luas 8787m² di Jogja Barat – Cocok untuk Villa & Investasi!",
 lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Progo)",
 luas :"8787m²",
