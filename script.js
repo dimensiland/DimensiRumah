@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:".jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
 judul:"CUMA 220 JUTA NETT! Tanah SHM 1416m² di Bawah Tumpeng Menoreh & UFO Resto Siap Bangun Villa Mewah",
 lokasi:"Desa Ngargoretno, kawasan Menoreh (Jogja Barat / perbatasan Magelang-Kulon Progo)",
 luas :"1416m²",
@@ -198,6 +218,26 @@ lingkungan:"Asri, tenang, hawanya sejuk/dingin, view pegunungan & sawah teraseri
 kondisi:"Tanah berkontur terasering, saat ini ditanami ketela dan pisang, siap diolah untuk hunian/kebun",
 prospek:"Cocok untuk hunian slow living, rumah singgah, villa, maupun kebun buah (durian/alpukat) di kawasan berkembang",
 point:"Dekat kawasan wisata unggulan Kulon Progo (±3 km dari Air Terjun Sidoharjo, dekat Tumpeng Menoreh, Teras Menoreh, Resto, dan Paralayang Giri Sembung Kaliwang), Dekat fasilitas umum (±5 km dari Pasar Boro), Akses mudah: hanya ±6-7 km dari batas Sleman (Minggir), ±45 menit ke Kota Jogja (Malioboro), dan ±45-60 menit ke Bandara YIA, Jaringan listrik dan air sudah masuk ke lokasi"
+},
+
+{
+judul:"Tanah Strategis 1891m² Muka 30m di Nanggulan Samigaluh Ideal untuk Villa, Resto & Penginapan",
+lokasi:"Jl. Nanggulan - Samigaluh, Kalurahan Banjarsari, Kapanewon Samigaluh, Kabupaten Kulon Progo, D.I. Yogyakarta (Area Utara Kopi Ingkar Janji / Nanggulan)",
+luas :"1891m²",
+mdpl:"511 - 523",
+harga:"Rp 350.000.000,-",
+thumbnail:"Banjarsari1891.jpg",
+video:"https://youtu.be/SHyt1P5Q9BQ",
+
+sertifikat:"SHM Tegalan",
+muka:"30 meter (Memiliki 2 muka: Jalan Utama/Provinsi dan Jalan Desa)",
+akses:"Pinggir Jalan Provinsi dan Jalan Desa",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, adem, dan berkembang dekat kawasan vila/resto",
+kondisi:"Tanah bentuk terasiring lebar (dapat dibagi 4–5 level bangunan), kontur cenderung datar, tanah sangat subur dengan vegetasi lebat (pohon kelapa, dll.)",
+prospek:"Sangat prospektif untuk Vila/Penginapan, Resto/Kafe, Slow Living, kebun pribadi, maupun investasi jangka panjang (passive income)",
+point:"Pemandangan (View): Memiliki pemandangan (view) lepas menghadap Pegunungan Menoreh dan hamparan sawah/lembah di bawahnya. Berada tepat di pinggir jalan provinsi dengan lebar muka 30 meter serta akses 2 muka jalan. Hanya Rp 350 Juta untuk lahan seluas 1.891 m² (harga di bawah Rp 200 ribu/m²). 2 km dari Suantari Villa dan Balai Bungah, 5 km utara Kopi Ingkar Janji, 6 km dari Kripala Resto, Teras Menoreh, dan Gua Maria Lawangsih, 7 km dari Kabupaten Sleman, 12 km dari Tumpeng Menoreh, 26 km dari Malioboro / Kota Yogyakarta, 34 km dari Bandara Internasional Yogyakarta (YIA)"
 },
 
 {
@@ -577,26 +617,6 @@ lingkungan:"Asri, tenang, udara dingin dan sejuk. Area sekitar sudah mulai berke
 kondisi:"Tanah didominasi lahan datar (sekitar 90%), sebagian kecil berundak, menghadap langsung ke lembah sawah terasering dan Pegunungan Menoreh",
 prospek:"Sangat cocok untuk Slow Living, pembangunan Villa Premium (kapasitas hingga 5 unit villa dengan kolam renang), Glamping, atau investasi jangka panjang",
 point:"Dekat Vila Puri Kamaratik, Ke jalan Nasional hanya 200m, Dekat Kawasan Wisata Kuliner Nanggulan dan Menoreh, Udara Sejuk. View Spektakuler mencakup Landscape sawah terasering dan Gunung Menoreh (Aura tenang dan jernih). Strategis ke Tempat Wisata 4 km dari Kopi Ingkar Janji. 2 km dari Bali Bungah Glamping. 3 km dari lahan milik Luna Maya"
-},
-
-{
-judul:"Tanah Strategis Luas 1891 m² Hanya 350 Juta! – View Sawah & Gunung, Cocok untuk Villa/Slow Living",
-lokasi:"Banjarsari, Samigaluh, Kulonprogo Jalan Nanggulan - Samigaluh, Utara Kopi Ingkar Janji",
-luas:"1891m²",
-mdpl:"511 - 523",
-harga:"Rp 350.000.000",
-thumbnail:"Banjarsari1891.jpg",
-video:"https://youtu.be/p5xdGxZ_rNc",
-
-sertifikat:"SHM Tegalan",
-muka:"±30 Meter",
-akses:"Pinggir Jalan Provinsi (Aspal Lebar)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri dengan vegetasi subur pohon kelapa, udara sejuk, dan kawasan berkembang banyak terdapat villa/penginapan",
-kondisi:"Tanah pekarangan dengan kontur terasiring yang lebar-lebar dan landai, sangat mudah untuk penataan bangunan/landscaping tanpa banyak cut and fill",
-prospek:"Sangat cocok untuk investasi jangka panjang, pembangunan villa, penginapan homestay, atau rumah tinggal konsep slow living",
-point:"Memiliki pemandangan view lepas ke arah lembah, persawahan, dan Pegunungan Menoreh, Dekat dengan Kopi Ingkar Janji 5 km, Swantari Villa, Tumpeng Menoreh, dan berbagai destinasi wisata lainnya, Berjarak sekitar 26 km dari Malioboro dan 34 km dari Bandara YIA"
 },
 
 {
