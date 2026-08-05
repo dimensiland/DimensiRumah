@@ -1,23 +1,23 @@
 const properties=[
 
 {
-judul:" ",
-lokasi:" ",
-luas :" ",
-mdpl:" ",
-harga:"Rp ",
-thumbnail:".jpg",
-video:" ",
+judul:"Tanah 6600m² View Bukit, Sawah & Sungai Jernih! Dekat Wisata Tumpeng Menoreh Didatangi Raffi Ahmad!",
+lokasi:"Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
+luas :"6600m²",
+mdpl:"294 - 362",
+harga:"Rp 385.000.000",
+thumbnail:"Samigaluh6600.jpg",
+video:"https://youtu.be/stEY3omB0Z0",
 
-sertifikat:"SHM",
-muka:" ",
-akses:" ",
+sertifikat:"SHM Pekarangan",
+muka:"30m",
+akses:" Tersedia Aspal",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:" ",
-kondisi:" ",
-prospek:" ",
-point:" "
+lingkungan:"Perkebunan, Perkampungan",
+kondisi:"Terasering Datar",
+prospek:"Kebun Durian, Villa Kabin, Rumah Pribadi, Rumah Pensiun Konsep Slow Living",
+point:"Akses Mudah, Samping Air Terjun, View sawah dan sungai, Dekat Kawasan Wisata Menoreh seperti Tumpeng Menoreh, Glamping Menoreh Dan Kebun Teh Nglinggo. Juga Dekat dengan Kawasan Wisata Sekitar Dekso. Ke Sleman hanya 6km, Bandara YIA sekitar 1 jam, Malioboro Sekitar 45 menit dari lokasi"
 },
 
 {
