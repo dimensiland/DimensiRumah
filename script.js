@@ -381,6 +381,46 @@ point:"Berjarak ±200 meter dari Jalan Provinsi Nanggulan – Samigaluh, Dekat t
 },
 
 {
+judul:"TANAH MURAH PINGGIR JALAN RAYA! Luas 3200m² View Sawah Terasering & Bukit Menoreh (Bisa Dicicil 6x)",
+lokasi:"Pinggir Jalan Raya Provinsi Loano - Samigaluh, kawasan Bukit Menoreh, Jogja Barat (dekat perbatasan ke arah Purworejo)",
+luas:"3200m²",
+mdpl:"302 - 327",
+harga:"Rp 475.000.000 (Net). Skema pembayaran bisa dicicil/bertahap hingga 6x",
+thumbnail:"Loano3200.jpg",
+video:"https://youtu.be/EYjp35Zw6E8",
+
+sertifikat:"SHM Pekarangan (Luas 1.218 m²) Konversi Letter C ke SHM (Luas 1.982 m²) yang sedang diproses",
+muka:"±40 hingga 50 Meter",
+akses:"Sangat mudah, berada persis di pinggir jalan raya utama (jalan provinsi). Mobil bisa langsung masuk ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Berada di kawasan perbukitan yang sejuk, asri, dan tenang. Menawarkan suasana alam dengan suara aliran sungai terdekat, kabut pagi, serta pemandangan (view) indah berupa sawah terasering di bagian depan dan hutan pinus di bagian timur/samping",
+kondisi:"Tanah berupa lahan subur berundak (terasering)",
+prospek:"Sangat cocok dan potensial untuk dikembangkan sebagai kebun durian premium mandiri (bisa menampung tambahan sekitar 30–40 pohon durian premium seperti Musang King atau Duri Hitam/Alpukat), tempat villa/homestay peristirahan keluarga, atau investasi properti karena berada di jalur berkembangnya objek wisata",
+point:"Akses berkendara sekitar 1 jam menuju Malioboro (Kota Jogja), Bandara YIA, maupun ke Candi Borobudur, 6 km di bawah Tumpeng Menoreh, dekat dengan Menoreh Farm Stay (sekitar 0,5 - 1 km), Air Terjun Cibiru (1 km), Glamping Menoreh (5 km), Rimbono Homestay (5 km)"
+},
+
+{
+judul:"Jual Tanah View Bukit Menoreh Indah luas 4387m² Hanya 495 Juta!!! Cocok Untuk Slow Living Dan Villa!",
+lokasi:"Purwosari, Samigaluh, Kulon Progo",
+luas:"4387m² (Terdiri dari 2 SHM: 2.253m² dan 2.134m²)",
+mdpl:"416 - 430",
+harga:"Rp 495.000.000, Rp275 Juta (untuk luas 2.253 m²) dan Rp265 Juta (untuk luas 2.130 m²)",
+thumbnail:"Purwosari4387.jpg",
+video:"https://youtu.be/zUQJ-VMjCJg",
+
+sertifikat:"SHM Pekarangan",
+muka:"±80 Meter",
+akses:"Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dan dikelilingi pemandangan pegunungan (Bukit Menoreh). Dekat dengan berbagai resto terkenal dan objek wisata",
+kondisi:"Datar Terasering",
+prospek:"Villa, Rumah Pensiun atau Slow Living",
+point:"Sangat cocok untuk Slow Living, hunian pribadi, villa, kabin/glamping, atau investasi kebun produktif, View Bukit Menoreh, Matahari Terbit dan Tenggelam, Dekat jalan Besar"
+},
+
+{
 judul:"Tanah Murah View Sawah Mewah Luas 8787m² di Jogja Barat – Cocok untuk Villa & Investasi!",
 lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Progo)",
 luas :"8787m²",
@@ -617,26 +657,6 @@ lingkungan:"Asri, tenang, dikelilingi pemandangan (view) hamparan sawah dan Buki
 kondisi:"Tanah pekarangan dengan kontur ngetrap (terdiri dari 2 trap/undakan)",
 prospek:"Sangat cocok untuk dibangun villa, homestay, atau tempat tinggal karena lingkungannya yang tenang dengan pemandangan alam yang indah",
 point:"Dekat dengan berbagai tempat wisata kuliner populer di Nanggulan (Kopi Ingkar Janji ±1 km, Dadap Sumilir, Iwak Kalen, Vila Suwantari, dll), Samping tanah berbatasan langsung dengan sungai kecil, View langsung menghadap sawah, Bukit Menoreh, dan pemandangan matahari terbenam (sunset),kses ke Kota Jogja sekitar 15 km dan ke Bandara YIA sekitar 25 km (dekat perempatan Kenteng / jalur Godean-Kulon Progo)"
-},
-
-{
-judul:"Tanah Indah View Sawah Dan Bukit di Jogja! Tanah Mewah 2208m² Hanya 450 Juta Dekat Wisata Nanggulan!",
-lokasi:"Ngaran, Banjarsari, Kec. Samigaluh, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-luas:"2208m²",
-mdpl:"486 - 493",
-harga:"Rp 450.000.000 (Net)",
-thumbnail:"Ngaran2208.jpg",
-video:"https://youtu.be/lsJdBJC8t4Y",
-
-sertifikat:"SHM Sawah",
-muka:"±60 Meter",
-akses:"Pecah akses jalan, Akses mobil lebar 4 meter (jalan cor/semen), hanya berjarak 200 meter dari jalan provinsi Nanggulan-Samigaluh",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, udara dingin dan sejuk. Area sekitar sudah mulai berkembang dengan adanya villa-villa premium",
-kondisi:"Tanah didominasi lahan datar (sekitar 90%), sebagian kecil berundak, menghadap langsung ke lembah sawah terasering dan Pegunungan Menoreh",
-prospek:"Sangat cocok untuk Slow Living, pembangunan Villa Premium (kapasitas hingga 5 unit villa dengan kolam renang), Glamping, atau investasi jangka panjang",
-point:"Dekat Vila Puri Kamaratik, Ke jalan Nasional hanya 200m, Dekat Kawasan Wisata Kuliner Nanggulan dan Menoreh, Udara Sejuk. View Spektakuler mencakup Landscape sawah terasering dan Gunung Menoreh (Aura tenang dan jernih). Strategis ke Tempat Wisata 4 km dari Kopi Ingkar Janji. 2 km dari Bali Bungah Glamping. 3 km dari lahan milik Luna Maya"
 },
 
 {
@@ -998,25 +1018,6 @@ point:"Hanya 5 menit ke Jalan Nasional (Jalan Wates). Dekat dengan kampus UMY, M
 },
 
 {
-judul:"TANAH MURAH PINGGIR JALAN RAYA! Luas 3200m² View Sawah Terasering & Bukit Menoreh (Bisa Dicicil 6x)",
-lokasi:"Pinggir Jalan Raya Provinsi Loano - Samigaluh, kawasan Bukit Menoreh, Jogja Barat (dekat perbatasan ke arah Purworejo)",
-luas:"3200m²",
-harga:"Rp 475.000.000 (Net). Skema pembayaran bisa dicicil/bertahap hingga 6x",
-thumbnail:"Loano3200.jpg",
-video:"https://youtu.be/bPz5Z8ypyh0",
-
-sertifikat:"SHM Pekarangan (Luas 1.218 m²) Konversi Letter C ke SHM (Luas 1.982 m²) yang sedang diproses",
-muka:"±40 hingga 50 Meter",
-akses:"Sangat mudah, berada persis di pinggir jalan raya utama (jalan provinsi). Mobil bisa langsung masuk ke lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Berada di kawasan perbukitan yang sejuk, asri, dan tenang. Menawarkan suasana alam dengan suara aliran sungai terdekat, kabut pagi, serta pemandangan (view) indah berupa sawah terasering di bagian depan dan hutan pinus di bagian timur/samping",
-kondisi:"Tanah berupa lahan subur berundak (terasering)",
-prospek:"Sangat cocok dan potensial untuk dikembangkan sebagai kebun durian premium mandiri (bisa menampung tambahan sekitar 30–40 pohon durian premium seperti Musang King atau Duri Hitam/Alpukat), tempat villa/homestay peristirahan keluarga, atau investasi properti karena berada di jalur berkembangnya objek wisata",
-point:"Akses berkendara sekitar 1 jam menuju Malioboro (Kota Jogja), Bandara YIA, maupun ke Candi Borobudur, 6 km di bawah Tumpeng Menoreh, dekat dengan Menoreh Farm Stay (sekitar 0,5 - 1 km), Air Terjun Cibiru (1 km), Glamping Menoreh (5 km), Rimbono Homestay (5 km)"
-},
-
-{
 judul:"Tanah Pekarangan MURAH! Hanya 175 Juta di Sleman Luas 288 m² Dekat Tugu Dan Studio Alam Gamplong!",
 lokasi:"Sumber Arum, Moyudan, Sleman, Yogyakarta",
 luas :"288m²",
@@ -1053,25 +1054,6 @@ lingkungan:"Nasionalis, sudah ramai pemukiman, warga ramah, udara sejuk dan asri
 kondisi:"Tanah datar, subur, saat ini terdapat pohon kelapa, pisang, dan mahoni",
 prospek:"Cocok untuk rumah hunian pribadi, rumah masa tua/pensiun, villa, atau investasi homestay karena dekat kawasan wisata kuliner",
 point:"Dekat dengan berbagai pusat kuliner populer seperti Kopi Ampirono, Geblek Pari, dan Kopi Ingkar Janji, Dekat dengan Kantor Kecamatan Nanggulan, pasar, sekolah (TK, SMP, SMA), dan bank, Hanya sekitar 10 menit ke rencana Exit Tol Sentolo, 30 menit ke pusat Kota Jogja/Malioboro, dan sekitar 45 menit ke Bandara YIA"
-},
-
-{
-judul:"Jual Tanah View Bukit Menoreh Indah luas 4387m² Hanya 495 Juta!!! Cocok Untuk Slow Living Dan Villa!",
-lokasi:"Purwosari, Samigaluh, Kulon Progo",
-luas:"4387m² (Terdiri dari 2 SHM: 2.253m² dan 2.134m²)",
-harga:"Rp 495.000.000, Rp275 Juta (untuk luas 2.253 m²) dan Rp265 Juta (untuk luas 2.130 m²)",
-thumbnail:"Purwosari4387.jpg",
-video:"https://youtu.be/zUQJ-VMjCJg",
-
-sertifikat:"SHM Pekarangan",
-muka:"±80 Meter",
-akses:"Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, tenang, dan dikelilingi pemandangan pegunungan (Bukit Menoreh). Dekat dengan berbagai resto terkenal dan objek wisata",
-kondisi:"Datar Terasering",
-prospek:"Villa, Rumah Pensiun atau Slow Living",
-point:"Sangat cocok untuk Slow Living, hunian pribadi, villa, kabin/glamping, atau investasi kebun produktif, View Bukit Menoreh, Matahari Terbit dan Tenggelam, Dekat jalan Besar"
 },
 
 {
