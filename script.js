@@ -361,6 +361,26 @@ point:"Hanya Rp75 juta untuk luas tanah lebih dari 2.000m2 di wilayah Jogja, Sek
 },
 
 {
+judul:"Tanah Indah View Sawah Dan Bukit di Jogja! Tanah Mewah 2208m² Hanya 450 Juta Dekat Wisata Nanggulan!",
+lokasi:"Banjarsari, Kecamatan Samigaluh, Kabupaten Kulon Progo",
+luas :"2208m²",
+mdpl:"486 - 493",
+harga:"Rp 450.000.000 (Nett)",
+thumbnail:"Banjarsari2208.jpg",
+video:"https://youtu.be/AZ0xS08znHk",
+
+sertifikat:"SHM Sawah",
+muka:"±60 meter, muka belakang ±100 meter",
+akses:"Akses mobil (lebar jalan ±4 meter), berjarak hanya ±200 meter dari jalan provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Tenang, adem, sejuk, dikelilingi pemandangan lanskap sawah terasering, lembah, dan perbukitan/Gunung Menoreh",
+kondisi:"Sebagian besar (sekitar 90%) berkontur datar, terdapat sedikit area naik di bagian atas, lokasi aman dan nyaman untuk ditinggali",
+prospek:"Sangat cocok untuk hunian slow living, pembangunan vila premium/resort (bisa dibagi menjadi beberapa vila berlatar view bukit/sawah), glamping, maupun investasi properti bisnis",
+point:"Berjarak ±200 meter dari Jalan Provinsi Nanggulan – Samigaluh, Dekat tempat wisata & kuliner terkenal, Bali Bungah Glamping (±2 km), Kopi Ingkar Janji (±4 km), Suwantu / Suwantari Villa (±5 km), Gua Maria Lawangsih (±5 km), Kopi Ampirono, Geblek Pari, & Gayabaya Lodge (±6 km), Tumpeng Menoreh & Menoreh Rock Cabin (±12 km), Berdekatan dengan area tanah Luna Maya (±3 km), Menawarkan view lanskap sawah terasering dan pegunungan Menoreh dengan suasana yang romantis saat matahari terbit maupun terbenam"
+},
+
+{
 judul:"Tanah Murah View Sawah Mewah Luas 8787m² di Jogja Barat – Cocok untuk Villa & Investasi!",
 lokasi:"Purwoharjo, Kulon Progo (Dekat Desa Wisata Tinalah, Samigaluh, Kulon Progo)",
 luas :"8787m²",
