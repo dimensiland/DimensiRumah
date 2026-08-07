@@ -411,12 +411,12 @@ video:"https://youtu.be/zUQJ-VMjCJg",
 
 sertifikat:"SHM Pekarangan",
 muka:"±80 Meter",
-akses:"Aspal",
+akses:"Pinggir jalan aspal, ±1 km ke Jalan Provinsi Dekso – Kalibawang",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, tenang, dan dikelilingi pemandangan pegunungan (Bukit Menoreh). Dekat dengan berbagai resto terkenal dan objek wisata",
+lingkungan:"Asri, adem, tenang, pemandangan landscape 360 derajat pegunungan/pucuk Bukit Menoreh, sunrise & sunset terlihat jelas",
 kondisi:"Datar Terasering",
-prospek:"Villa, Rumah Pensiun atau Slow Living",
+prospek:"Sangat ideal untuk slow living, rumah tinggal/pribadi, villa/kabin panggung, glamping, tempat usaha kuliner/resto, maupun investasi jangka panjang",
 point:"Sangat cocok untuk Slow Living, hunian pribadi, villa, kabin/glamping, atau investasi kebun produktif, View Bukit Menoreh, Matahari Terbit dan Tenggelam, Dekat jalan Besar"
 },
 
