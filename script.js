@@ -146,7 +146,7 @@ lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak 
 luas:"442m²",
 mdpl:"730 - 744",
 harga:"Rp 85.000.000",
-thumbnail:"Pandanrejo442.jpg",
+thumbnail:"Pendem442.jpg",
 video:"https://youtu.be/UC99mO5u3d8",
 
 sertifikat:"SHM Pekarangan",
