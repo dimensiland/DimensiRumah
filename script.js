@@ -1038,25 +1038,6 @@ point:"Akses Strategis: Hanya 5 menit ke Jalan Raya Gedongan-Tempel, 30 menit me
 },
 
 {
-judul:"Jual Tanah STRATEGIS Murah 920m² di Nanggulan Dekat Kopi Ampirono & Geblek Pari Nanggulan",
-lokasi:"Krinjing, Jatisarono, Nanggulan, Kulon Progo",
-luas:"920m²",
-harga:"Rp 600.000/meter (Nego)",
-thumbnail:"Krinjing920.jpg",
-video:"https://youtu.be/8hM9V7eJmdk",
-
-sertifikat:"SHM Pekarangan",
-muka:"±15 Meter",
-akses:"Jalan aspal kampung, mobil bisa berpapasan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Nasionalis, sudah ramai pemukiman, warga ramah, udara sejuk dan asri",
-kondisi:"Tanah datar, subur, saat ini terdapat pohon kelapa, pisang, dan mahoni",
-prospek:"Cocok untuk rumah hunian pribadi, rumah masa tua/pensiun, villa, atau investasi homestay karena dekat kawasan wisata kuliner",
-point:"Dekat dengan berbagai pusat kuliner populer seperti Kopi Ampirono, Geblek Pari, dan Kopi Ingkar Janji, Dekat dengan Kantor Kecamatan Nanggulan, pasar, sekolah (TK, SMP, SMA), dan bank, Hanya sekitar 10 menit ke rencana Exit Tol Sentolo, 30 menit ke pusat Kota Jogja/Malioboro, dan sekitar 45 menit ke Bandara YIA"
-},
-
-{
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
 luas:"1435m²",
