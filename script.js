@@ -126,7 +126,7 @@ lokasi:"Pandanrejo, Kaligesing, kawasan Menoreh, Jogja Barat",
 luas :"657m²",
 mdpl:"718 - 743 Menoreh yang dingin dengan suhu rata-rata harian berkisar antara 17°C hingga 25°C",
 harga:"Rp 235.000.000",
-thumbnail:"Pandanrejo657.jpg",
+thumbnail:"Pendem657.jpg",
 video:"https://youtu.be/MnEOYmCcRpo",
 
 sertifikat:"SHM Pakarangan",
