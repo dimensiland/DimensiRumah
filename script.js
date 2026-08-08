@@ -1093,25 +1093,6 @@ point:"Akses mudah ke Kelurahan maupun Kecamatan, Dekat Kantor Pos, SD, TK, SMP,
 },
 
 {
-judul:"Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
-lokasi:"Ngadirejo, Purworejo Regency, Central Java",
-luas:"1450m²",
-harga:"Rp 175.000.000",
-thumbnail:"Ngadirejo1450.jpg",
-video:"https://youtu.be/duhG7mcri-E",
-
-sertifikat:"SHM Tegalan",
-muka:"30 meter",
-akses:"Jalan Bebatuan + Cor",
-air:"Tersedia Mata Air",
-listrik:"PLN tersedia",
-lingkungan:"perkampungan, kebun, hutan, mata air",
-kondisi:"Terasering",
-prospek:"investasi, kebun, villa",
-point:"Akses samping jalan lebar, dekat Wisata Alam Menoreh dan jalan provinsi. mangku jalan dan air terjun kecil. view perbukitan menoreh dan air terjun."
-},
-
-{
 judul:"Tanah Istimewa! Luas 834m² View Perbukitan! Dekat Kawasan Wisata Sungai Mudal Dan Menoreh Dreamland!",
 lokasi:"Jl. Banyunganti, Banyunganti, Jatimulyo, Kec. Girimulyo, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
 luas:"834m²",
@@ -1385,6 +1366,26 @@ lingkungan:"Asri, sejuk, tenang, dikelilingi pemandangan perbukitan Menoreh dan 
 kondisi:"Posisi tanah di atas jalan (elevasi naik ± 3–4 meter dari jalan), bagian atas sudah datar dan siap pakai/bangun, tanah subur (terdapat banyak pohon kelapa)",
 prospek:"Sangat potensial dan menjanjikan untuk tempat tinggal hari tua, villa, homestay, glamping, maupun coffee shop / kafe",
 point:"Bandara YIA (Yogyakarta International Airport) & Tugu Jogja: ± 25 km, Tumpeng Menoreh: ± 5,5 km, Menoreh Rock Cabin: ± 4,5 km, Glamping Menoreh: ± 4 km, Menoreh Farmstay: ± 3 km, Teras Menoreh / Kripala: ± 9 km, Kawasan Kuliner Wisata Nanggulan (Geblek Pari, Ampirono, Teraloka, dll.): ± 13 km, Dekat jalur ke Kebun Teh Suroloyo, Gua Kiskendo, Lawangsih, dan Purworejo"
+},
+
+{
+judul:"Tanah Samping Air Terjun, Luas 1450m² Hanya 175jt! Dekat Tumpeng Menoreh",
+lokasi:"Ngadirejo, Purworejo Regency, Central Java",
+luas:"1450m²",
+mdpl:"413 - 420",
+harga:"Rp 175.000.000",
+thumbnail:"Ngadirejo1450.jpg",
+video:"https://youtu.be/a-S8jIvFX04",
+
+sertifikat:"SHM Tegalan",
+muka:"30 meter",
+akses:"Jalan Bebatuan + Cor",
+air:"Tersedia Mata Air",
+listrik:"PLN tersedia",
+lingkungan:"perkampungan, kebun, hutan, mata air",
+kondisi:"Terasering",
+prospek:"investasi, kebun, villa",
+point:"Akses samping jalan lebar, dekat Wisata Alam Menoreh dan jalan provinsi. mangku jalan dan air terjun kecil. view perbukitan menoreh dan air terjun."
 },
 
 {
