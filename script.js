@@ -1368,6 +1368,26 @@ point:"Memiliki view pemandangan indah Pegunungan Menoreh yang bisa dinikmati da
 },
 
 {
+judul:"DIJUAL MURAH! Tanah View Sunset Perbukitan Menoreh 1110m² | Dekat Tumpeng Menoreh & Wisata Nanggulan",
+lokasi:"Jarakan, Banjarsari, Samigaluh (Tepi Jalan Nanggulan – Samigaluh, Kulon Progo, DI Yogyakarta)",
+luas :"1110m²",
+mdpl:"703 - 736",
+harga:"Rp 295.000.000,-",
+thumbnail:"Jarakan1110.jpg",
+video:"https://youtu.be/iu5J-CIPYJA",
+
+sertifikat:"SHM Tegalan",
+muka:"±30 meter",
+akses:"Mangku / Tepi Jalan Raya Aspal (Jalan Nanggulan – Samigaluh)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dikelilingi pemandangan perbukitan Menoreh dan Hutan Pinus Pucung Rotok",
+kondisi:"Posisi tanah di atas jalan (elevasi naik ± 3–4 meter dari jalan), bagian atas sudah datar dan siap pakai/bangun, tanah subur (terdapat banyak pohon kelapa)",
+prospek:"Sangat potensial dan menjanjikan untuk tempat tinggal hari tua, villa, homestay, glamping, maupun coffee shop / kafe",
+point:"Bandara YIA (Yogyakarta International Airport) & Tugu Jogja: ± 25 km, Tumpeng Menoreh: ± 5,5 km, Menoreh Rock Cabin: ± 4,5 km, Glamping Menoreh: ± 4 km, Menoreh Farmstay: ± 3 km, Teras Menoreh / Kripala: ± 9 km, Kawasan Kuliner Wisata Nanggulan (Geblek Pari, Ampirono, Teraloka, dll.): ± 13 km, Dekat jalur ke Kebun Teh Suroloyo, Gua Kiskendo, Lawangsih, dan Purworejo"
+},
+
+{
 judul:"Tanah Murah 7800m² Dekat Jalur Lintas Selatan (JLS) Cocok Untuk Homestay & Kuliner",
 lokasi:"Desa Giriwungu, Kecamatan Panggang, Kabupaten Gunungkidul, D.I. Yogyakarta",
 luas :"7800m²",
