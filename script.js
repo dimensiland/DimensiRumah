@@ -161,6 +161,66 @@ point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata ya
 },
 
 {
+judul:"Tanah Pekarangan IDEAL 657 m² di Menoreh, Dekat Pasar Kambing – Kawasan Adem & Padat Penduduk!",
+lokasi:"Pandanrejo, Kaligesing, kawasan Menoreh, Jogja Barat",
+luas :"657m²",
+mdpl:"718 - 743 Menoreh yang dingin dengan suhu rata-rata harian berkisar antara 17°C hingga 25°C",
+harga:"Rp 235.000.000",
+thumbnail:"Pandanrejo657.jpg",
+video:"https://youtu.be/MnEOYmCcRpo",
+
+sertifikat:"SHM Pakarangan",
+muka:"23–25 meter",
+akses:"Jalan lebar cor-coran, mobil berpapasan longgar/nyaman. Hanya berjarak sekitar 100 meter dari Jalan Provinsi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, adem, dan sudah padat penduduk. Berada di depan Pasar Hewan Kaligesing & dekat dengan Pasar Pendem. Di sekitar lokasi sudah banyak dibangun villa oleh pendatang/orang Jakarta.",
+kondisi:"Tanah dominan datar (tinggal sedikit perataan/bego agar rata sempurna). Saat ini di atas tanah sudah terdapat tanaman produktif lebat seperti alpukat, manggis, genitri, sengon, kelapa, kopi, pisang, dan tanaman talas.",
+prospek:"Sangat cocok untuk slow living, tempat tinggal/rumah kedua, bangun villa peristirahatan keluarga, maupun untuk investasi berkebun.",
+point:"Hanya 100 meter dari Jalan Provinsi & depan Pasar Kaligesing. ± 3 km ke Gua Maria Lawangsih. ± 4 km ke Menoreh Dreamland. ± 5 km ke Air Terjun Kembang Soka & Sungai Mudal. ± 10 km ke Tumpeng Menoreh. ± 13 km ke Girimanah & Mahaloka Paradise. ± 25 km ke Malioboro (Kota Yogyakarta). ± 30 km ke Bandara YIA (Yogyakarta International Airport)"
+},
+
+{
+judul:"Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
+lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
+luas:"442m²",
+mdpl:"730 - 744",
+harga:"Rp 85.000.000",
+thumbnail:"Pandanrejo442.jpg",
+video:"https://youtu.be/UC99mO5u3d8",
+
+sertifikat:"SHM Pekarangan",
+muka:"±- Meter",
+akses:"Sangat dekat dengan jalan provinsi (sekitar 70 meter). Saat ini akses ke lokasi berupa jalan resmi yang belum dicor, namun bisa dilewati kendaraan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan penduduk yang ramai namun memiliki suasana pegunungan yang sangat tenang, sejuk (suhu sekitar 20-an derajat), dan nyaman",
+kondisi:"Tanah datar di atas gunung",
+prospek:"Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
+point:"Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
+},
+
+{
+judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
+lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
+luas:"1025m²",
+mdpl:"65 - 76",
+harga:"Rp 650.000.000",
+thumbnail:"Kamal1025.jpg",
+video:"https://youtu.be/rHfXteySznc",
+
+sertifikat:"SHM Pekarangan",
+muka:"±40 Meter",
+akses:"Jalan mobil bisa sampai ke lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, dekat dengan pemukiman tetangga, dan berbatasan dengan sungai jernih yang mengalir sepanjang tahun",
+kondisi:"Lahan berkontur datar keseluruhan, siap bangun",
+prospek:"Sangat ideal untuk hunian masa tua/pensiun (slow living), villa, tempat berkebun, maupun usaha rekreasi air skala kecil (seperti river tubing atau area santai pinggir sungai) ",
+point:"Berjarak sekitar 7–8 km dari pusat Kota Wates, ±15 km dari Bandara (YIA), Dekat dengan Bumi Perkemahan Kedung Jinggo, serta berjarak sekitar 4–5 km di bawah objek wisata Waduk Sermo"
+},
+
+{
 judul:"Tanah 1500m² Mangku Sungai di Kawasan Villa & Glamping Menoreh Jogja Siap Kelola Manajemen Villa",
 lokasi:"Kawasan Rock Cabin Menoreh, Separang, Pagerharjo, Kec. Samigaluh, Kulon Progo",
 luas :"1500m²",
@@ -640,26 +700,6 @@ point:"Hanya Rp 150 ribu/m², Memiliki panjang muka yang menghadap ke sungai ber
 },
 
 {
-judul:"Tanah 1025m² di Pengasih Jogja Pinggir Sungai Mengalir Datar Siap Bangun Untuk Villa Pensiun",
-lokasi:"Kamal, Karangsari, Pengasih, Kulon Progo (Yogyakarta Barat)",
-luas:"1025m²",
-mdpl:"65 - 76",
-harga:"Rp 650.000.000",
-thumbnail:"Kamal1025.jpg",
-video:"https://youtu.be/TMbO5HIuPq0",
-
-sertifikat:"SHM Pekarangan",
-muka:"±40 Meter",
-akses:"Jalan mobil bisa sampai ke lokasi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, dekat dengan pemukiman tetangga, dan berbatasan dengan sungai jernih yang mengalir sepanjang tahun",
-kondisi:"Lahan berkontur datar keseluruhan, siap bangun",
-prospek:"Sangat ideal untuk hunian masa tua/pensiun (slow living), villa, tempat berkebun, maupun usaha rekreasi air skala kecil (seperti river tubing atau area santai pinggir sungai) ",
-point:"Berjarak sekitar 7–8 km dari pusat Kota Wates, ±15 km dari Bandara (YIA), Dekat dengan Bumi Perkemahan Kedung Jinggo, serta berjarak sekitar 4–5 km di bawah objek wisata Waduk Sermo"
-},
-
-{
 judul:"Kavling Sakana Siap Bangun di Belakang Omah Cantrik! Luas 116m² Dan 189m² View Sawah Dan Bukit",
 lokasi:"Nanggulan, Kulon Progo, D.I. Yogyakarta (Tepat di belakang Omah Cantrik milik Raminton)",
 luas :"Kavling A8 : 189m², Kavling A7 : 116m²",
@@ -717,26 +757,6 @@ lingkungan:"Asri, tenang, dikelilingi pemandangan (view) hamparan sawah dan Buki
 kondisi:"Tanah pekarangan dengan kontur ngetrap (terdiri dari 2 trap/undakan)",
 prospek:"Sangat cocok untuk dibangun villa, homestay, atau tempat tinggal karena lingkungannya yang tenang dengan pemandangan alam yang indah",
 point:"Dekat dengan berbagai tempat wisata kuliner populer di Nanggulan (Kopi Ingkar Janji ±1 km, Dadap Sumilir, Iwak Kalen, Vila Suwantari, dll), Samping tanah berbatasan langsung dengan sungai kecil, View langsung menghadap sawah, Bukit Menoreh, dan pemandangan matahari terbenam (sunset),kses ke Kota Jogja sekitar 15 km dan ke Bandara YIA sekitar 25 km (dekat perempatan Kenteng / jalur Godean-Kulon Progo)"
-},
-
-{
-judul:"Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
-lokasi:"Pandanrejo, Kaligesing (Dekat perbatasan Jogja Barat/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
-luas:"442m²",
-mdpl:"730 - 744",
-harga:"Rp 85.000.000",
-thumbnail:"Pandanrejo442.jpg",
-video:"https://youtu.be/ddEYwakwvSQ",
-
-sertifikat:"SHM Pekarangan",
-muka:"±- Meter",
-akses:"Sangat dekat dengan jalan provinsi (sekitar 70 meter). Saat ini akses ke lokasi berupa jalan resmi yang belum dicor, namun bisa dilewati kendaraan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan penduduk yang ramai namun memiliki suasana pegunungan yang sangat tenang, sejuk (suhu sekitar 20-an derajat), dan nyaman",
-kondisi:"Tanah datar di atas gunung",
-prospek:"Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
-point:"Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
 },
 
 {
@@ -877,26 +897,6 @@ lingkungan:"Dekat dengan pemukiman warga, asri, dengan pemandangan alam (jungle 
 kondisi:"Tanah cenderung datar dengan kontur agak terasering landai (tidak ekstrem), terdapat area yang saat ini difungsikan sebagai sawah, serta ditumbuhi pohon kelapa dan pohon jati",
 prospek:"Sangat cocok untuk dikembangkan menjadi kawasan wisata, vila, kebun produktif, atau peternakan",
 point:"Bentuk tanah cenderung trapesium sehingga mudah untuk ditata atau dipatok ulang, Memiliki ekosistem yang lengkap di dalam satu lahan (bisa untuk hunian vila, berkebun, bertani, sekaligus beternak), Lokasinya sangat strategis karena sangat dekat dengan jalan provinsi utama"
-},
-
-{
-judul:"Tanah Pekarangan IDEAL 657 m² di Menoreh, Dekat Pasar Kambing – Kawasan Adem & Padat Penduduk!",
-lokasi:"Pandanrejo, Kaligesing, kawasan Menoreh, Jogja Barat",
-luas :"657m²",
-mdpl:"718 - 743 Menoreh yang dingin dengan suhu rata-rata harian berkisar antara 17°C hingga 25°C",
-harga:"Rp 235.000.000",
-thumbnail:"Pandanrejo657.jpg",
-video:"https://youtu.be/lr4B4j7Ksko",
-
-sertifikat:"SHM Pakarangan",
-muka:"23–25 meter",
-akses:"Jalan lebar cor-coran, mobil berpapasan longgar/nyaman. Hanya berjarak sekitar 100 meter dari Jalan Provinsi",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, tenang, adem, dan sudah padat penduduk. Berada di depan Pasar Hewan Kaligesing & dekat dengan Pasar Pendem. Di sekitar lokasi sudah banyak dibangun villa oleh pendatang/orang Jakarta.",
-kondisi:"Tanah dominan datar (tinggal sedikit perataan/bego agar rata sempurna). Saat ini di atas tanah sudah terdapat tanaman produktif lebat seperti alpukat, manggis, genitri, sengon, kelapa, kopi, pisang, dan tanaman talas.",
-prospek:"Sangat cocok untuk slow living, tempat tinggal/rumah kedua, bangun villa peristirahatan keluarga, maupun untuk investasi berkebun.",
-point:"Hanya 100 meter dari Jalan Provinsi & depan Pasar Kaligesing. ± 3 km ke Gua Maria Lawangsih. ± 4 km ke Menoreh Dreamland. ± 5 km ke Air Terjun Kembang Soka & Sungai Mudal. ± 10 km ke Tumpeng Menoreh. ± 13 km ke Girimanah & Mahaloka Paradise. ± 25 km ke Malioboro (Kota Yogyakarta). ± 30 km ke Bandara YIA (Yogyakarta International Airport)"
 },
 
 {
