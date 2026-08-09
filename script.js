@@ -978,26 +978,6 @@ point:"Hanya 5 menit ke Jalan Nasional (Jalan Wates). Dekat dengan kampus UMY, M
 },
 
 {
-judul:"Tanah Pekarangan MURAH! Hanya 175 Juta di Sleman Luas 288 m² Dekat Tugu Dan Studio Alam Gamplong!",
-lokasi:"Sumber Arum, Moyudan, Sleman, Yogyakarta",
-luas :"288m²",
-mdpl:"74 - 80",
-harga:"Rp 175.000.000",
-thumbnail:"GodeanKM14.jpg",
-video:"https://youtu.be/8ag6snZZatk",
-
-sertifikat:"SHM Pekarangan",
-muka:"± 20 Meter (Bentuk tanah kotak ideal, panjang ke belakang ± 14-18 Meter)",
-akses:"Jalan utama sudah aspal. Akses masuk ke lokasi saat ini 2 meter, namun akan diperlebar oleh pihak penjual menjadi 2,5 meter sehingga mobil dipastikan bisa masuk berpapasan longgar.",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Lingkungan nasionalis, sudah ramai pemukiman, dan dekat dengan rumah warga/tetangga sekitar",
-kondisi:"Tanah pekarangan dengan kondisi sudah rata/datar dan bersih, terdapat pohon bambu besar di bagian belakang yang bisa dimanfaatkan",
-prospek:"Sangat ideal untuk dibangun rumah pribadi, rumah masa tua/pensiun, maupun untuk investasi kebun mini di area Jogja Barat",
-point:"Akses Strategis: Hanya 5 menit ke Jalan Raya Gedongan-Tempel, 30 menit menuju Tugu Jogja & Malioboro, serta ±45 menit ke Bandara YIA. Dekat Wisata & Fasilitas: Hanya 15 menit ke Studio Alam Gamplong, dekat ke kuliner hits Nanggulan (Geblek Pari, Dadap Semilir, Kopi Ingkar Janji), serta dekat dengan Kampus Mercu Buana, sekolah (SMA/SMK Muhammadiyah), pasar, dan swalayan. Kemudahan Transaksi: Pembelian tanah sudah termasuk fasilitas pelebaran jalan luar yang diurus langsung oleh penjual, serta sistem pembayaran yang fleksibel karena bisa di-tempo."
-},
-
-{
 judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
 lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
 luas:"1435m²",
@@ -1366,6 +1346,26 @@ lingkungan:"Asri, sejuk, tenang, dikelilingi pemandangan perbukitan Menoreh dan 
 kondisi:"Posisi tanah di atas jalan (elevasi naik ± 3–4 meter dari jalan), bagian atas sudah datar dan siap pakai/bangun, tanah subur (terdapat banyak pohon kelapa)",
 prospek:"Sangat potensial dan menjanjikan untuk tempat tinggal hari tua, villa, homestay, glamping, maupun coffee shop / kafe",
 point:"Bandara YIA (Yogyakarta International Airport) & Tugu Jogja: ± 25 km, Tumpeng Menoreh: ± 5,5 km, Menoreh Rock Cabin: ± 4,5 km, Glamping Menoreh: ± 4 km, Menoreh Farmstay: ± 3 km, Teras Menoreh / Kripala: ± 9 km, Kawasan Kuliner Wisata Nanggulan (Geblek Pari, Ampirono, Teraloka, dll.): ± 13 km, Dekat jalur ke Kebun Teh Suroloyo, Gua Kiskendo, Lawangsih, dan Purworejo"
+},
+
+{
+judul:"Tanah Pekarangan MURAH! Hanya 175 Juta di Sleman Luas 288 m² Dekat Tugu Dan Studio Alam Gamplong!",
+lokasi:"Sumber Arum, Moyudan, Sleman, Yogyakarta",
+luas :"288m²",
+mdpl:"74 - 80",
+harga:"Rp 175.000.000",
+thumbnail:"GodeanKM14.jpg",
+video:"https://youtu.be/jZ7jTLCEKKc",
+
+sertifikat:"SHM Pekarangan",
+muka:"± 20 Meter (Bentuk tanah kotak ideal, panjang ke belakang ± 14-18 Meter)",
+akses:"Jalan utama sudah aspal. Akses masuk ke lokasi saat ini 2 meter, namun akan diperlebar oleh pihak penjual menjadi 2,5 meter sehingga mobil dipastikan bisa masuk berpapasan longgar.",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Lingkungan nasionalis, sudah ramai pemukiman, dan dekat dengan rumah warga/tetangga sekitar",
+kondisi:"Tanah pekarangan dengan kondisi sudah rata/datar dan bersih, terdapat pohon bambu besar di bagian belakang yang bisa dimanfaatkan",
+prospek:"Sangat ideal untuk dibangun rumah pribadi, rumah masa tua/pensiun, maupun untuk investasi kebun mini di area Jogja Barat",
+point:"Akses Strategis: Hanya 5 menit ke Jalan Raya Gedongan-Tempel, 30 menit menuju Tugu Jogja & Malioboro, serta ±45 menit ke Bandara YIA. Dekat Wisata & Fasilitas: Hanya 15 menit ke Studio Alam Gamplong, dekat ke kuliner hits Nanggulan (Geblek Pari, Dadap Semilir, Kopi Ingkar Janji), serta dekat dengan Kampus Mercu Buana, sekolah (SMA/SMK Muhammadiyah), pasar, dan swalayan. Kemudahan Transaksi: Pembelian tanah sudah termasuk fasilitas pelebaran jalan luar yang diurus langsung oleh penjual, serta sistem pembayaran yang fleksibel karena bisa di-tempo."
 },
 
 {
