@@ -26,7 +26,7 @@ lokasi:"Kedung Rante, Kaligono, Kaligesing, Purworejo (Kawasan Menoreh, Jogja Ba
 luas :"1502m²",
 mdpl:"317 - 377",
 harga:"Rp 295.000.000",
-thumbnail:"Kaligono.jpg",
+thumbnail:"Kaligono1502.jpg",
 video:"https://youtu.be/cR9HmZM7S20",
 
 sertifikat:"Letter C (Bisa dibantu konversi ke SHM dengan pembayaran awal 50% setelah konversi, pelunasan saat SHM jadi)",
