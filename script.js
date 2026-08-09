@@ -21,6 +21,66 @@ point:"Memiliki pemandangan menakjubkan dari kombinasi pegunungan Menoreh, hampa
 },
 
 {
+judul:"Jual Tanah Murah 1502m² Pinggir Jalan Provinsi Cuma 295 Juta! View Sungai Jernih & Gunung",
+lokasi:"Kedung Rante, Kaligono, Kaligesing, Purworejo (Kawasan Menoreh, Jogja Barat)",
+luas :"1502m²",
+mdpl:"317 - 377",
+harga:"Rp 295.000.000",
+thumbnail:"Kaligono.jpg",
+video:"https://youtu.be/cR9HmZM7S20",
+
+sertifikat:"Letter C (Bisa dibantu konversi ke SHM dengan pembayaran awal 50% setelah konversi, pelunasan saat SHM jadi)",
+muka:"Mangku sungai sekitar 25-30 meter, dan muka tanah pinggir jalan raya sekitar 40-50 meter",
+akses:"Pinggir jalan raya provinsi (Jalan Raya Godean - Kaligesing) yang sudah diperlebar, akses mobil, truk, dan bus sangat mudah",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata duren & duku (Duren Menor), lingkungan asri, tenang, dikelilingi pepohonan besar, dekat dengan beberapa tempat wisata kuliner/vila seperti Menoreh Dreamland (±5 km), Sungai Mudal (±7 km), Kopi Puncak (±5 km), dan Kopi Ingkar Janji (±15 km)",
+kondisi:"Tanah berkontur terasering/miring dari jalan raya ke arah bawah menuju sungai, terdapat area datar sekitar 400 m² di pinggir sungai, dipenuhi vegetasi pohon durian dan pohon duku",
+prospek:"Sangat cocok untuk vila pribadi, kebun buah pribadi, tempat healing/menenangkan diri (hidden gem dengan view pegunungan dan sungai), atau investasi properti wisata",
+point:"bisa bayar DP 50% setelah konversi ke SHM, sisa pelunasan setelah SHM selesai, Terbuka untuk KTP mana saja (WNI maupun keturunan), Posisi tanah sangat strategis karena nempel jalan provinsi sekaligus mangku sungai jernih berbatu di bagian bawahnya"
+},
+
+{
+judul:"INTRUMEN INVESTASI IDEAL! Luas Tanah 4000m² Bisa Dibeli Sebagian! View Cantik Dekat Wisata Nanggulan",
+lokasi:"Wareng, Donomulyo, Nanggulan, Kulon Progo, Yogjakarta",
+luas :"4000m²",
+mdpl:"111 - 120",
+harga:"Rp 325.000/m",
+thumbnail:"Wareng4000.jpg",
+video:"https://youtu.be/22fOdrOAzYg",
+
+sertifikat:"SHM Pekarangan",
+muka:"30m Global",
+akses:"Tersedia cor",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkampungan dan kebun",
+kondisi:"Datar 50% terasering 50% sudah di clearance",
+prospek:"Villa atau Rumah dengan konsep slow living. Sebagai passive income dan instrumen Investasi menjanjikan",
+point:"Dekat Nanggula (kawasan wisata kuliner yang ramai), Dekat Bandara YIA"
+},
+
+{
+judul:"Tanah Murah 2301m² Dekat Glamping Menoreh, Cuma 295 Juta Menempel Sungai Cocok Untuk Villa & Healing",
+lokasi:"Purwoharjo, Samigaluh, Kulon Progo (Jogja Barat)",
+luas:"2301m²",
+mdpl:"238 - 247",
+harga:"Rp 295.000.000",
+thumbnail:"Purwoharjo2301.jpg",
+video:"https://youtu.be/x29U1qPLcMs",
+
+sertifikat:"SHM Pekarangan",
+muka:"±50 Meter",
+akses:"Jalan desa, sekitar 3 km dari jalan aspal mobil dapat simpangan jika jalan diperlebar pemerintah ke depannya",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang tenang",
+kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
+prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
+point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
+},
+
+{
 judul:"Tanah 6600m² View Bukit, Sawah & Sungai Jernih! Dekat Wisata Tumpeng Menoreh Didatangi Raffi Ahmad!",
 lokasi:"Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
 luas :"6600m²",
@@ -760,26 +820,6 @@ point:"Harga sangat terjangkau di bawah pasar untuk luasan hampir 300 m² di are
 },
 
 {
-judul:"Tanah Murah 2301m² Dekat Glamping Menoreh, Cuma 295 Juta Menempel Sungai Cocok Untuk Villa & Healing",
-lokasi:"Purwoharjo, Samigaluh, Kulon Progo (Jogja Barat)",
-luas:"2301m²",
-mdpl:"238 - 247",
-harga:"Rp 295.000.000",
-thumbnail:"Purwoharjo2301.jpg",
-video:"https://youtu.be/x29U1qPLcMs",
-
-sertifikat:"SHM Pekarangan",
-muka:"±50 Meter",
-akses:"Jalan desa, sekitar 3 km dari jalan aspal mobil dapat simpangan jika jalan diperlebar pemerintah ke depannya",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang tenang",
-kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
-prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
-point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
-},
-
-{
 judul:"Tanah 1700m² Hanya 75 Juta! Dekat Candi Borobudur, Cocok Untuk Kebun Kemandirian Pangan",
 lokasi:"Growong, Tempuran, Magelang, Jawa Tengah",
 luas :"1700m²",
@@ -797,26 +837,6 @@ lingkungan:"Suasana tenang, asri, udara bersih, dan memiliki pemandangan (view) 
 kondisi:"Tanah berupa lahan perkebunan subur yang saat ini masih berupa lahan rimbun pepohonan (perlu dibersihkan), di dalamnya sudah terdapat 3 pohon durian berukuran besar yang sudah berbuah, serta vegetasi alami seperti pohon bambu dan kayu mandiri",
 prospek:"Sangat prospektif untuk kebun produktif keluarga jangka panjang (passive income) atau area healing/pensiun. Cocok ditanami komoditas seperti durian (muat ~20 pohon), alpukat (~15 pohon), kopi (~50 tanaman), pisang (~25 pohon), empon-empon (serai), maupun sayuran",
 point:"Lahan seluas 1700m² hanya seharga 75 juta rupiah net, Sudah ada 3 pohon durian besar yang siap panen serta stok pohon kayu yang melimpah di lokasi—cukup untuk bahan baku membuat gubuk/pondok peristirahatan tanpa perlu beli kayu dari luar, Direkomendasikan khusus untuk aktivitas agrowisata pribadi/berkebun, bukan sebagai tapak rumah tinggal utama karena posisinya yang masuk 100 meter dari jalan utama"
-},
-
-{
-judul:"Jual Tanah Murah 1502m² Pinggir Jalan Provinsi Cuma 295 Juta! View Sungai Jernih & Gunung",
-lokasi:"Kedung Rante, Kaligono, Kaligesing, Purworejo (Kawasan Menoreh, Jogja Barat)",
-luas :"1502m²",
-mdpl:"317 - 377",
-harga:"Rp 295.000.000",
-thumbnail:"Kaligono.jpg",
-video:"https://youtu.be/cR9HmZM7S20",
-
-sertifikat:"Letter C (Bisa dibantu konversi ke SHM dengan pembayaran awal 50% setelah konversi, pelunasan saat SHM jadi)",
-muka:"Mangku sungai sekitar 25-30 meter, dan muka tanah pinggir jalan raya sekitar 40-50 meter",
-akses:"Pinggir jalan raya provinsi (Jalan Raya Godean - Kaligesing) yang sudah diperlebar, akses mobil, truk, dan bus sangat mudah",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan wisata duren & duku (Duren Menor), lingkungan asri, tenang, dikelilingi pepohonan besar, dekat dengan beberapa tempat wisata kuliner/vila seperti Menoreh Dreamland (±5 km), Sungai Mudal (±7 km), Kopi Puncak (±5 km), dan Kopi Ingkar Janji (±15 km)",
-kondisi:"Tanah berkontur terasering/miring dari jalan raya ke arah bawah menuju sungai, terdapat area datar sekitar 400 m² di pinggir sungai, dipenuhi vegetasi pohon durian dan pohon duku",
-prospek:"Sangat cocok untuk vila pribadi, kebun buah pribadi, tempat healing/menenangkan diri (hidden gem dengan view pegunungan dan sungai), atau investasi properti wisata",
-point:"bisa bayar DP 50% setelah konversi ke SHM, sisa pelunasan setelah SHM selesai, Terbuka untuk KTP mana saja (WNI maupun keturunan), Posisi tanah sangat strategis karena nempel jalan provinsi sekaligus mangku sungai jernih berbatu di bagian bawahnya"
 },
 
 {
@@ -917,26 +937,6 @@ lingkungan:"Kawasan sekitar sudah terbentuk dan sudah banyak dibangun vila-vila.
 kondisi:"Properti ditawarkan dengan konsep inden/rencana pembangunan Vila Nanggulan Joglo (berkonsep tradisional kontemporer/Jawa-modern yang memadukan unsur etnik khas Jogja dengan sentuhan minimalis bersih). Desain 3D dan gambar kerja sudah siap dieksekusi setelah kesepakatan",
 prospek:"Sangat potensial sebagai investasi properti, vila komersial/persewaan, tempat istirahat pribadi, maupun tempat singgah pariwisata karena lokasinya strategis di area berkembang Yogyakarta Barat",
 point:"Hanya 30 menit ke Malioboro (sekitar 15-18 km) dan 35 menit ke Bandara YIA (sekitar 25 km), Dekat dengan berbagai destinasi kuliner dan resort ternama seperti Resto La Barca (2 km), Rumah Rindu (3 km), The Palerenan (2 km), Mahaloka (7 km), dan Studio Alam Gamplong (7 km), Tata ruang vila privat dilengkapi dengan fasilitas area parkir untuk 3 mobil, pintu gebyok lawasan, kolam renang pribadi menghadap sawah, gazebo, ruang keluarga berpintu geser lebar, dapur, serta kamar mandi semi-terbuka dengan bathtub, Transaksi aman dan legal berlandaskan perjanjian resmi di hadapan Notaris"
-},
-
-{
-judul:"INTRUMEN INVESTASI IDEAL! Luas Tanah 4000m² Bisa Dibeli Sebagian! View Cantik Dekat Wisata Nanggulan",
-lokasi:"Wareng, Donomulyo, Nanggulan, Kulon Progo, Yogjakarta",
-luas :"4000m²",
-mdpl:"111 - 120",
-harga:"Rp 325.000/m",
-thumbnail:"Wareng4000.jpg",
-video:"https://youtu.be/sBlq7DEyDMM",
-
-sertifikat:"SHM Pekarangan",
-muka:"30m Global",
-akses:"Tersedia cor",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkampungan dan kebun",
-kondisi:"Datar 50% terasering 50% sudah di clearance",
-prospek:"Villa atau Rumah dengan konsep slow living. Sebagai passive income dan instrumen Investasi menjanjikan",
-point:"Dekat Nanggula (kawasan wisata kuliner yang ramai), Dekat Bandara YIA"
 },
 
 {
