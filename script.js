@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
+lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
+luas :"10.000m² - 1 Hektar",
+mdpl:"800 - 1000",
+harga:"Rp 295.000/m",
+thumbnail:"1HKopiPuncak.jpg",
+video:"https://youtu.be/MHiPOl-wYxU",
+
+sertifikat:"SHM Tegalan",
+muka:"70 hingga 80 meter",
+akses:"Pinggir jalan raya utama / jalan provinsi. Akses mudah dijangkau dari arah Kota Jogja maupun Sleman",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan ekosistem wisata alam yang asri, dikelilingi oleh lanskap perkebunan kopi dan kebun teh. Udara sangat sejuk, tenang, dan sering turun kabut. Samping lahan sudah laku dibeli untuk kawasan vila pensiunan dan kebun organik",
+kondisi:"Sebagian lahan sudah ditanami pohon kopi dan pohon sengon. Kontur tanah bervariasi dengan komposisi sekitar 50% hingga 60% berupa lahan datar (baik di area pinggir jalan utama maupun di area bawah), sisanya berupa lanskap terasering yang cantik",
+prospek:"Sangat fleksibel dan bernilai investasi tinggi. Cocok untuk dibangun kawasan wisata, tempat pernikahan (wedding venue), vila/resort, tempat pensiunan, perkebunan organik, maupun restoran kuliner karena berada satu jalur dengan berbagai objek wisata viral",
+point:"Lokasi emas nempel persis di samping Resto Kopi Puncak. Lebar muka tanah sangat panjang (70-80 meter) di pinggir jalan provinsi, memudahkan penataan gerbang utama maupun area parkir luas. Suasana di area bawah sangat tenang, bebas dari kebisingan jalan raya, dan memiliki pemandangan perbukitan yang lepas (view los). Dekat dengan banyak destinasi wisata dan vila terkenal di Menoreh (seperti Menoreh Dreamland, Gua Kiskendo, Eko Wisata Sungai Mudal, dll). Berjarak sekitar 10 km dari Sleman, serta sekitar 30 km dari Malioboro dan Bandara YIA"
+},
+
+{
 judul:"Hidden Gem Jogja Barat! Tanah Pinggir Sungai Luas 6105m² Cocok Untuk Villa Premium & Resto Eksotis!",
 lokasi:"Rejoso, Wijimulyo, Nanggulan, Kulon Progo (Jogja Barat)",
 luas :"6105m²",
@@ -997,26 +1017,6 @@ lingkungan:"Asri dengan pemandangan (view) sawah terasering dan pegunungan Menor
 kondisi:"Tanah kavling siap bangun, batas patok jelas, dan beberapa kavling tetangga di sekitarnya sudah laku bahkan mulai dibangun rumah joglo / villa",
 prospek:"Sangat cocok untuk dibangun villa, rumah joglo, atau hunian peristirahatan karena berada di kawasan berkembang dekat berbagai destinasi kuliner/wisata viral serta dekat akses infrastruktur utama",
 point:" Lokasi super strategis, menempel / tepat di belakang resto terkenal Omah Cantrik (bisa jalan kaki), Hanya berjarak sekitar 500 meter dari jalan provinsi (Jalan raya Nanggulan), Berada di area kuldesak (cul-de-sac) di ujung kavling tertentu sehingga memberikan ruang parkir umum ekstra yang bisa muat hingga 2 mobil, Hanya 5 km (10 menit) dari Exit Tol Sentolo, sekitar 30 menit (20 km) dari Malioboro/Kota Jogja, dan sekitar 35 menit (24 km) dari Bandara Internasional YIA"
-},
-
-{
-judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
-lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
-luas :"10.000m² - 1 Hektar",
-mdpl:"800 - 1000",
-harga:"Rp 295.000/m",
-thumbnail:"1HKopiPuncak.jpg",
-video:"https://youtu.be/MHiPOl-wYxU",
-
-sertifikat:"SHM Tegalan",
-muka:"70 hingga 80 meter",
-akses:"Pinggir jalan raya utama / jalan provinsi. Akses mudah dijangkau dari arah Kota Jogja maupun Sleman",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan ekosistem wisata alam yang asri, dikelilingi oleh lanskap perkebunan kopi dan kebun teh. Udara sangat sejuk, tenang, dan sering turun kabut. Samping lahan sudah laku dibeli untuk kawasan vila pensiunan dan kebun organik",
-kondisi:"Sebagian lahan sudah ditanami pohon kopi dan pohon sengon. Kontur tanah bervariasi dengan komposisi sekitar 50% hingga 60% berupa lahan datar (baik di area pinggir jalan utama maupun di area bawah), sisanya berupa lanskap terasering yang cantik",
-prospek:"Sangat fleksibel dan bernilai investasi tinggi. Cocok untuk dibangun kawasan wisata, tempat pernikahan (wedding venue), vila/resort, tempat pensiunan, perkebunan organik, maupun restoran kuliner karena berada satu jalur dengan berbagai objek wisata viral",
-point:"Lokasi emas nempel persis di samping Resto Kopi Puncak. Lebar muka tanah sangat panjang (70-80 meter) di pinggir jalan provinsi, memudahkan penataan gerbang utama maupun area parkir luas. Suasana di area bawah sangat tenang, bebas dari kebisingan jalan raya, dan memiliki pemandangan perbukitan yang lepas (view los). Dekat dengan banyak destinasi wisata dan vila terkenal di Menoreh (seperti Menoreh Dreamland, Gua Kiskendo, Eko Wisata Sungai Mudal, dll). Berjarak sekitar 10 km dari Sleman, serta sekitar 30 km dari Malioboro dan Bandara YIA"
 },
 
 {
