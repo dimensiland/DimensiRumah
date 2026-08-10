@@ -6,7 +6,7 @@ lokasi:"Besuki, Kec. Panggul, Kabupaten Trenggalek, Jawa Timur",
 luas :"2ha",
 mdpl:"1 - 7",
 harga:"Rp 125.000//m",
-thumbnail:"2haTirisan.jpg",
+thumbnail:"Besuki2Hektar.jpg",
 video:"https://youtu.be/eW9d-6GGeag",
 
 sertifikat:"SHM (Terdiri dari 4 Sertifikat)",
