@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Miliki Pantai Private Dengan Harga 125rb/m² Cocok Untuk Healing Dengan Suasana Alam Yang Indah",
+lokasi:"Besuki, Kec. Panggul, Kabupaten Trenggalek, Jawa Timur",
+luas :"2ha",
+mdpl:"1 - 7",
+harga:"Rp 125.000//m",
+thumbnail:"2haTirisan.jpg",
+video:"https://youtu.be/eW9d-6GGeag",
+
+sertifikat:"SHM (Terdiri dari 4 Sertifikat)",
+muka:"± 300 Meter langsung menempel/menghadap pantai",
+akses:"Jalan tanah, sudah bisa diakses langsung oleh mobil sampai ke lokasi lahan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Sangat asri, tenang, sejuk, dikelilingi tebing batu eksotis, pohon-pohon rindang, serta hamparan pasir putih bersih ",
+kondisi:"Merupakan hidden gem yang belum menjadi tempat wisata umum. Kondisi pantai sangat bersih tanpa sampah dan bebas dari keramaian pengunjung umum",
+prospek:"Sangat potensial dan cocok untuk dibangun kawasan private villa, resort eksklusif (disarankan maksimal 10 properti agar privasi terjaga), tempat yoga/terapi, kolam renang infinity menghadap laut, atau sebagai aset investasi pribadi premium",
+point:"Memiliki sensasi layaknya Pantai Pribadi (Private Beach) karena privasinya yang sangat tinggi, area pasir putih yang lembut, batuan karang estetis, dan area tebing tinggi dengan golden view, Hanya berjarak 10 menit dari jalan raya nasional"
+},
+
+{
 judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
 lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
 luas :"10.000m² - 1 Hektar",
@@ -898,26 +918,6 @@ lingkungan:"Kawasan Kuliner",
 kondisi:"datar, dengan view pemandangan sawah",
 prospek:"Bisa untuk Homestay, Villa dan Tempat tinggal",
 point:"Lokasi dekat Resto Omah Cantrik, dekat Exit tol Sentolo, Kawasan Kuliner Nanggulan, SMP Donomulyo, Swarna Padi Villa, Puskesmas Girimulyo, Pasar Mudal, Polsek Nanggulan, Puncak Saka"
-},
-
-{
-judul:"Miliki Pantai Private Dengan Harga 125rb/m² Cocok Untuk Healing Dengan Suasana Alam Yang Indah",
-lokasi:"Besuki, Kec. Panggul, Kabupaten Trenggalek, Jawa Timur",
-luas :"2ha",
-mdpl:"1 - 7",
-harga:"Rp 125.000//m",
-thumbnail:"2haTirisan.jpg",
-video:"https://youtu.be/eW9d-6GGeag",
-
-sertifikat:"SHM (Terdiri dari 4 Sertifikat)",
-muka:"± 300 Meter langsung menempel/menghadap pantai",
-akses:"Jalan tanah, sudah bisa diakses langsung oleh mobil sampai ke lokasi lahan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Sangat asri, tenang, sejuk, dikelilingi tebing batu eksotis, pohon-pohon rindang, serta hamparan pasir putih bersih ",
-kondisi:"Merupakan hidden gem yang belum menjadi tempat wisata umum. Kondisi pantai sangat bersih tanpa sampah dan bebas dari keramaian pengunjung umum",
-prospek:"Sangat potensial dan cocok untuk dibangun kawasan private villa, resort eksklusif (disarankan maksimal 10 properti agar privasi terjaga), tempat yoga/terapi, kolam renang infinity menghadap laut, atau sebagai aset investasi pribadi premium",
-point:"Memiliki sensasi layaknya Pantai Pribadi (Private Beach) karena privasinya yang sangat tinggi, area pasir putih yang lembut, batuan karang estetis, dan area tebing tinggi dengan golden view, Hanya berjarak 10 menit dari jalan raya nasional"
 },
 
 {
