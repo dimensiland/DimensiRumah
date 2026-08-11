@@ -21,6 +21,26 @@ point:"Memiliki sensasi layaknya Pantai Pribadi (Private Beach) karena privasiny
 },
 
 {
+judul:"Tanah Pekarangan 2900m² di Wonosari Lokasi Idaman Buat Bangun Joglo & Kebun Alpukat Masa Pensiun!",
+lokasi:"Desa Karangrejo, Kecamatan Karangmojo, Wonosari, Gunungkidul",
+luas :"2900m²",
+mdpl:"279 - 287",
+harga:"Rp 195.000.000",
+thumbnail:"Wonosari2900.jpg",
+video:"https://youtu.be/RL0WcuYX4rk",
+
+sertifikat:"SHM Pekarangan",
+muka:"±35 meter",
+akses:"Jalan lebar, mobil bisa masuk sampai ke lokasi lahan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, aman, dan sudah padat penduduk (berdampingan langsung dengan rumah warga sekitar)",
+kondisi:"Tanah pekarangan siap balik nama, kontur tanah berundak/memiliki variasi ketinggian dengan kemiringan landai (sekitar 20 derajat) sehingga penataannya bagus. Terdapat pohon jati dan kelapa di lokasi. Bagian bawah tanah langsung berbatasan dengan sungai berair jernih dengan landscape batuan yang ikonik",
+prospek:"Sangat cocok untuk rumah masa tua/pensiun (slow living), villa/rumah kedua (joglo), perkebunan (sangat bagus untuk ditanami alpukat), atau peternakan (seperti kambing)",
+point:"Menempel/mangku sungai jernih yang airnya terus mengalir murni dari mata air pegunungan meski di musim kemarau, View alam lembah pegunungan yang indah; matahari terbit dan terbenam dapat terlihat jelas dari lokasi, ± 10–15 menit (3 km) dari Pasar Karangmojo, ± 15–20 menit (7-8 km) dari Kota Wonosari, serta ± 2 jam perjalanan dari Kota Yogyakarta."
+},
+
+{
 judul:"Tanah Murah! 1 Hektar di Puncak Menoreh Jogja, Samping Resto Kopi Puncak & Ada Mata Air Mengalir",
 lokasi:"Jalan Nanggulan - Tegalsari, Puncak Menoreh, Jogja Barat (Akses arah Yogyakarta - Nanggulan - Purworejo). Samping persis Resto Kopi Puncak",
 luas :"10.000m² - 1 Hektar",
@@ -938,26 +958,6 @@ lingkungan:"Tenang, asri, menyatu dengan alam (vibe pegunungan dan pantai sekali
 kondisi:"Tanah subur (saat ini ditumbuhi kebun kelapa), memiliki landscape batuan alami yang eksotis, kontur tanah paling atas landai (kemiringan sekitar 15-20 derajat) dan langsung turun menghadap ke pantai pasir putih bersih (hidden gem dengan privasi tinggi)",
 prospek:"Sangat ideal untuk dikembangkan menjadi Resort mewah, Kafe/Resto bertema alam, kawasan Vila, tempat wisata pribadi (slow living), properti investasi jangka panjang, atau area meditasi/yoga karena suasananya yang menenangkan",
 point:"Berada langsung di pinggir Pantai Benges dengan panjang garis pantai pribadi ±200 meter lebih, Lokasi strategis, dekat dengan beberapa pantai populer lain di Pacitan seperti Pantai Soge, Pidakan, Sregit, Telengria, dan Wawaran, Hanya berjarak sekitar 15–20 menit dari pusat Kota Pacitan"
-},
-
-{
-judul:"Tanah Pekarangan 2900m² di Wonosari Lokasi Idaman Buat Bangun Joglo & Kebun Alpukat Masa Pensiun!",
-lokasi:"Desa Karangrejo, Kecamatan Karangmojo, Wonosari, Gunungkidul",
-luas :"2900m²",
-mdpl:"279 - 287",
-harga:"Rp 195.000.000",
-thumbnail:"Wonosari2900.jpg",
-video:"https://youtu.be/RL0WcuYX4rk",
-
-sertifikat:"SHM Pekarangan",
-muka:"±35 meter",
-akses:"Jalan lebar, mobil bisa masuk sampai ke lokasi lahan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, tenang, aman, dan sudah padat penduduk (berdampingan langsung dengan rumah warga sekitar)",
-kondisi:"Tanah pekarangan siap balik nama, kontur tanah berundak/memiliki variasi ketinggian dengan kemiringan landai (sekitar 20 derajat) sehingga penataannya bagus. Terdapat pohon jati dan kelapa di lokasi. Bagian bawah tanah langsung berbatasan dengan sungai berair jernih dengan landscape batuan yang ikonik",
-prospek:"Sangat cocok untuk rumah masa tua/pensiun (slow living), villa/rumah kedua (joglo), perkebunan (sangat bagus untuk ditanami alpukat), atau peternakan (seperti kambing)",
-point:"Menempel/mangku sungai jernih yang airnya terus mengalir murni dari mata air pegunungan meski di musim kemarau, View alam lembah pegunungan yang indah; matahari terbit dan terbenam dapat terlihat jelas dari lokasi, ± 10–15 menit (3 km) dari Pasar Karangmojo, ± 15–20 menit (7-8 km) dari Kota Wonosari, serta ± 2 jam perjalanan dari Kota Yogyakarta."
 },
 
 {
