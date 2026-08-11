@@ -461,26 +461,6 @@ point:"Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universit
 },
 
 {
-judul:"Hanya 325Juta Dapet Tanah 1338m²! View Istimewa Pegunungan Sangat Cocok Untuk Slow Living",
-lokasi:"Kluweh, Pendaworejo, Girimulyo, Kulon Progo, (Jogja Barat)",
-luas:"1338m²",
-mdpl:"158 - 185",
-harga:"Rp 225.000.000",
-thumbnail:"Kluwih1338.jpg",
-video:"https://youtu.be/RwjC3M69uNo",
-
-sertifikat:"SHM Pekarangan",
-muka:"Memiliki dua muka (pinggir aspal atas dan jalan desa di bawah) dengan lebar muka sekitar 20 meter",
-akses:"Berada di pinggir jalan aspal utama pada sisi atas dan akses jalan desa pada sisi bawah",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Padat penduduk di bagian bawah, dikelilingi ekosistem wisata villa dan restoran, serta memiliki suasana alam yang asri",
-kondisi:"Tanah dengan kontur miring (landscape) yang menawarkan pemandangan lepas, sebagian area masih berupa pepohonan/jungle",
-prospek:"Sangat cocok untuk slow living, rumah tinggal pensiun, villa, atau pembangunan kabin-kabin penginapan karena berada di kawasan wisata",
-point:"Memiliki view istimewa berupa deretan pegunungan Menoreh, hamparan sawah, serta pemandangan Kota Jogja dari ketinggian. Lokasi strategis hanya berjarak sekitar 30 menit dari Malioboro dan 45 menit dari Bandara YIA"
-},
-
-{
 judul:"Tanah Murah 700m² View Sawah & Gunung Menoreh di Sleman | Dekat Mang Engking & Pintu Tol",
 lokasi:"Plumbon, Sendangsari, Minggir, Sleman Barat, D.I. Yogyakarta",
 luas :"700m²",
