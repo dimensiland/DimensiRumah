@@ -1,43 +1,23 @@
 const properties=[
 
 {
-judul:"Jual Kebun Durian Produktif Siap Panen Luas 4000m² Dekat Borobudur Bonus View Gunung & Bisa Dicicil!",
-lokasi:"Copak, Banjarasri, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
-luas :"4000m²",
-mdpl:"287 - 291",
-harga:"Rp 485.000.000,- (Net)",
-thumbnail:"KebunDuren4000.jpg",
-video:"https://youtu.be/Z1q68CApxHY",
-
-sertifikat:"SHM Pekarangan",
-muka:"-",
-akses:"Mobil bisa masuk dan parkir sampai ke lokasi lahan. Lahan berjarak sekitar 100 meter dari jalan utama/jalan kabupaten beraspal. Lebar jalan resmi di sertifikat tertulis 3,5 meter (sebagian jalan akses masuk sudah dicor, sebagian masih tanah)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan pusat buah duren yang asri, tenang, sejuk, aman, dan memiliki pemandangan (view) pegunungan yang indah. Cocok untuk konsep slow living",
-kondisi:"Merupakan kebun buah produktif yang sangat subur. Sudah tertanam pohon durian (jenis Musang King, Bawor, dan Montong) yang berumur sekitar 7 tahun dan siap berbuah lebat, serta tanaman buah lain seperti alpukat, nanas super, jambu air, rambutan, kelengkeng, pisang, dan kelapa. Di area lahan juga sudah terdapat rumah singgah kecil untuk keperluan berkebun",
-prospek:"Sangat potensial untuk investasi masa tua/pensiun, aset pangan mandiri yang menghasilkan passive income dari panen buah-buahan, atau dibangun villa/rumah kayu sebagai tempat peristirahatan keluarga",
-point:"Hanya berjarak sekitar 20 menit ke Candi Borobudur, sekitar 10 menit (6 km) ke Sleman, dekat dengan wisata religi Sendangsono (1–2 km), serta dekat dengan wisata spiritual Nyi Ageng Serang. Jarak ke Malioboro sekitar 30–40 menit (± 25 km). Legalitas jalan resmi selebar 3,5 meter sudah sah dikeluarkan di dalam sertifikat pekarangannya"
-},
-
-{
-judul:" ",
-lokasi:" ",
-luas :" ",
-mdpl:" ",
-harga:"Rp ",
+judul:"Tanah 3300m² Hanya 275 Juta View Bukit & Pantai Indah Berada Di Tempat Melukis Mantan Presiden RI",
+lokasi:"Dadapan, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur ",
+luas :"3300m²",
+mdpl:"214 - 256",
+harga:"Rp 275.000.000",
 thumbnail:"Pacitan3300.jpg",
-video:" ",
+video:"https://youtu.be/nmTCgA4V87s",
 
 sertifikat:"SHM",
-muka:" ",
-akses:" ",
+muka:"Memiliki 2 muka (dua akses jalan). Kondisi lahan 50% datar di bagian atas dan 50% berupa terasiring/landai ke bawah, sehingga setiap lapis bangunan nantinya bisa mendapatkan view cakrawala yang lepas",
+akses:"Sangat mudah. Lahan menempel langsung dengan jalan pintu masuk wisata resmi yang sudah dicor selebar 4 meter (ditambah bahu jalan 2 meter, total lebar ruang jalan 6 meter), mobil bisa berpapasan dengan mudah. Jarak ke jalan provinsi hanya sekitar 200 meter (lebar jalan provinsi 7–8 meter)",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:" ",
-kondisi:" ",
-prospek:" ",
-point:" "
+lingkungan:"Tenang, hening, aman, adem, dan tidak bising oleh keramaian kota, namun sangat strategis karena berada di kawasan wisata aktif dengan udara dan angin perbukitan yang sejuk",
+kondisi:"Saat ini lahan masih berupa lahan terbuka yang sebagian tertutup semak-semak dan ranting pohon. Jika dibersihkan (land clearing), pemandangan laut, teluk, kota, dan gunung akan terlihat sangat jelas secara kasat mata",
+prospek:"Sangat tinggi untuk investasi jangka panjang (2-3 tahun ke depan lahan dengan golden view seperti ini akan makin langka). Cocok sekali dibangun sebagai resort premium, villa untuk long stay / healing, area kuliner, tempat nongkrong, ataupun spot kolam renang dengan view kota dan laut. Area atas sangat ideal untuk area parkir luas yang bisa menampung 50 hingga 100 mobil",
+point:"pemandangan langsung ke Pantai Telengria, Teluk Pacitan, Kota Pacitan, pegunungan, serta spot langsung untuk melihat sunrise (matahari terbit), Terkenal sebagai area mandi angin Pacitan dengan energi alam yang tenang dan sejuk, Lokasi ikonis yang sering digunakan oleh para seniman untuk mencari inspirasi melukis, termasuk oleh Mantan Presiden RI (Pak SBY), Hanya 15 menit dari Kota Pacitan, 20 menit dari Museum dan Galeri Seni SBY-ANI, serta dekat dengan alun-alun, Pantai Pancer, Menteri Ocean Resort, dan Pringkuku Beach Resort"
 },
 
 {
@@ -178,6 +158,26 @@ lingkungan:"Perkampungan dan kebun",
 kondisi:"Datar 50% terasering 50% sudah di clearance",
 prospek:"Villa atau Rumah dengan konsep slow living. Sebagai passive income dan instrumen Investasi menjanjikan",
 point:"Dekat Nanggula (kawasan wisata kuliner yang ramai), Dekat Bandara YIA"
+},
+
+{
+judul:"Jual Kebun Durian Produktif Siap Panen Luas 4000m² Dekat Borobudur Bonus View Gunung & Bisa Dicicil!",
+lokasi:"Copak, Banjarasri, Kec. Kalibawang, Kabupaten Kulon Progo, Daerah Istimewa Yogyakarta",
+luas :"4000m²",
+mdpl:"287 - 291",
+harga:"Rp 485.000.000,- (Net)",
+thumbnail:"KebunDuren4000.jpg",
+video:"https://youtu.be/Z1q68CApxHY",
+
+sertifikat:"SHM Pekarangan",
+muka:"-",
+akses:"Mobil bisa masuk dan parkir sampai ke lokasi lahan. Lahan berjarak sekitar 100 meter dari jalan utama/jalan kabupaten beraspal. Lebar jalan resmi di sertifikat tertulis 3,5 meter (sebagian jalan akses masuk sudah dicor, sebagian masih tanah)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan pusat buah duren yang asri, tenang, sejuk, aman, dan memiliki pemandangan (view) pegunungan yang indah. Cocok untuk konsep slow living",
+kondisi:"Merupakan kebun buah produktif yang sangat subur. Sudah tertanam pohon durian (jenis Musang King, Bawor, dan Montong) yang berumur sekitar 7 tahun dan siap berbuah lebat, serta tanaman buah lain seperti alpukat, nanas super, jambu air, rambutan, kelengkeng, pisang, dan kelapa. Di area lahan juga sudah terdapat rumah singgah kecil untuk keperluan berkebun",
+prospek:"Sangat potensial untuk investasi masa tua/pensiun, aset pangan mandiri yang menghasilkan passive income dari panen buah-buahan, atau dibangun villa/rumah kayu sebagai tempat peristirahatan keluarga",
+point:"Hanya berjarak sekitar 20 menit ke Candi Borobudur, sekitar 10 menit (6 km) ke Sleman, dekat dengan wisata religi Sendangsono (1–2 km), serta dekat dengan wisata spiritual Nyi Ageng Serang. Jarak ke Malioboro sekitar 30–40 menit (± 25 km). Legalitas jalan resmi selebar 3,5 meter sudah sah dikeluarkan di dalam sertifikat pekarangannya"
 },
 
 {
