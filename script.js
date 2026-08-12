@@ -1,6 +1,46 @@
 const properties=[
 
 {
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"KebunDuren4000.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
+judul:" ",
+lokasi:" ",
+luas :" ",
+mdpl:" ",
+harga:"Rp ",
+thumbnail:"Pacitan3300.jpg",
+video:" ",
+
+sertifikat:"SHM",
+muka:" ",
+akses:" ",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:" ",
+kondisi:" ",
+prospek:" ",
+point:" "
+},
+
+{
 judul:"Tanah Murah 150 Juta di Godean Sleman! Luas 274m² SHM Pekarangan, Siap Bangun Rumah Pertama",
 lokasi:"Sidoarjo, Godean, Sleman, DI Yogyakarta (Jalan Godean KM 13, ke utara dari Pasar Godean)",
 luas :"274m²",
