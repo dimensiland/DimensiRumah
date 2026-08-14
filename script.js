@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Hanya 325 Juta! Tanah SHM Pekarangan 947m² dengan Golden View Gunung Merapi & City Light Jogja",
+lokasi:"Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat (berada di atas kawasan wisata Geblek Pari / Mahaloka)",
+luas :"947m²",
+mdpl:"341 - 368",
+harga:"Rp 325.000.000",
+thumbnail:"Banjarasri947.jpg",
+video:"https://youtu.be/qSuGDiAuPNg",
+
+sertifikat:"SHM Pekarangan",
+muka:"±30 meter (posisi tanah berupa terasering, ketinggian awal ± 1,5 meter di atas jalan)",
+akses:"Pinggir jalan aspal kabupaten, lebar jalan saat ini sekitar 6 meter (mobil papasan/simpangan nyaman)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, sejuk, tenang, dan dikelilingi oleh ekosistem wisata Kulon Progo/Jogja Barat. Karakter tanahnya sangat subur dan alami (belum terkontaminasi bahan kimia)",
+kondisi:"Tanah berundak/terasering dengan formasi bebatuan alami yang eksotis. Sangat ideal untuk dimanfaatkan sebagai golden view karena posisinya yang tinggi",
+prospek:"Sangat cocok untuk investasi jangka panjang, tempat tinggal masa pensiun (slow living), atau dijadikan passive income (bisnis hospitality) dengan membangun kombinasi hunian pemilik (owner) dan beberapa unit vila sewa (potensi sewa harian tinggi karena dekat dengan berbagai destinasi populer)",
+point:"hamparan sawah, pegunungan Menoreh, suasana berkabut pagi hari, sunrise, hingga pemandangan Gunung Merapi & Merbabu saat cuaca cerah, serta kerlap-kerlip lampu Kota Jogja di malam hari. Berada di kawasan ekosistem wisata yang sudah jadi (dekat dengan Geblek Pari, Mahaloka, Kopi Ingkar Janji, Kopi Klotok Menoreh, Suantari Villa, Niscala Lands, dll.). Hanya berjarak ± 6 km dari Sleman, ± 25 km ke Borobudur, ± 27 km ke Malioboro, dan ± 30 km ke Bandara Internasional (YIA)"
+},
+
+{
 judul:"Tanah 3300m² Hanya 275 Juta View Bukit & Pantai Indah Berada Di Tempat Melukis Mantan Presiden RI",
 lokasi:"Dadapan, Kec. Pringkuku, Kabupaten Pacitan, Jawa Timur ",
 luas :"3300m²",
@@ -918,26 +938,6 @@ lingkungan:"Sangat adem, asri, tenang, dikelilingi view persawahan hijau dan per
 kondisi:"Saat ini masih berupa lahan semak belukar dan pepohonan (bambu), namun sudah siap diolah menjadi kawasan yang nyaman",
 prospek:"Sangat potensial untuk dibangun Villa, Resort, Homestay, tempat peristirahat/pensiun, atau investasi masa depan karena berada di kawasan berkembang Jogja Barat",
 point:"Hanya berjarak 300 meter dari Desa Wisata Tinalah (Desa Wisata terkenal di Jogja Barat). Hanya 1 km dari Desa Kripala / Teras Menoreh. Hanya 3 km dari Batas Kabupaten Sleman. Hanya 8 km dari Mahaloka Paradise / Kopi Ampirono / Geblek Pari / Kopi Ingkar Janji. Sekitar 10 km dari Tumpeng Menoreh. Dekat dengan situs bersejarah Museum Sandi. Hanya sekitar 27 km menuju Bandara YIA (Yogyakarta International Airport) dan 27 km menuju Pusat Kota Jogja / Malioboro. Udara bersih, kaya oksigen, dan suasana sangat syahdu dengan view sunrise pagi hari yang jelas dan indah"
-},
-
-{
-judul:"Hanya 325 Juta! Tanah SHM Pekarangan 947m² dengan Golden View Gunung Merapi & City Light Jogja",
-lokasi:"Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat (berada di atas kawasan wisata Geblek Pari / Mahaloka)",
-luas :"947m²",
-mdpl:"341 - 368",
-harga:"Rp 325.000.000",
-thumbnail:"Banjarasri947.jpg",
-video:"https://youtu.be/qSuGDiAuPNg",
-
-sertifikat:"SHM Pekarangan",
-muka:"±30 meter (posisi tanah berupa terasering, ketinggian awal ± 1,5 meter di atas jalan)",
-akses:"Pinggir jalan aspal kabupaten, lebar jalan saat ini sekitar 6 meter (mobil papasan/simpangan nyaman)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Asri, sejuk, tenang, dan dikelilingi oleh ekosistem wisata Kulon Progo/Jogja Barat. Karakter tanahnya sangat subur dan alami (belum terkontaminasi bahan kimia)",
-kondisi:"Tanah berundak/terasering dengan formasi bebatuan alami yang eksotis. Sangat ideal untuk dimanfaatkan sebagai golden view karena posisinya yang tinggi",
-prospek:"Sangat cocok untuk investasi jangka panjang, tempat tinggal masa pensiun (slow living), atau dijadikan passive income (bisnis hospitality) dengan membangun kombinasi hunian pemilik (owner) dan beberapa unit vila sewa (potensi sewa harian tinggi karena dekat dengan berbagai destinasi populer)",
-point:"hamparan sawah, pegunungan Menoreh, suasana berkabut pagi hari, sunrise, hingga pemandangan Gunung Merapi & Merbabu saat cuaca cerah, serta kerlap-kerlip lampu Kota Jogja di malam hari. Berada di kawasan ekosistem wisata yang sudah jadi (dekat dengan Geblek Pari, Mahaloka, Kopi Ingkar Janji, Kopi Klotok Menoreh, Suantari Villa, Niscala Lands, dll.). Hanya berjarak ± 6 km dari Sleman, ± 25 km ke Borobudur, ± 27 km ke Malioboro, dan ± 30 km ke Bandara Internasional (YIA)"
 },
 
 {
