@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah 4900m² Dengan Air Terjun Indah Di Daerah Wisata Payung Langit, Paralayang & Kemuning Sky",
+lokasi:"Segorogunung, Kec. Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah",
+luas :"4900m²",
+mdpl:"946 - 1015",
+harga:"Rp 375.000/m",
+thumbnail:"Karanganyar4900.jpg",
+video:"https://youtu.be/BWSmi1gKS7g",
+
+sertifikat:"SHM",
+muka:"40m",
+akses:"Mobil sampai lokasi (jalan cor lebar ±3 – 4,5 meter, berjarak sekitar 200 meter dari jalan aspal utama)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata alam aktif & ramai (Wisata Watu Payung / Jeep Tour), adem, asri, dengan pemandangan kebun sayur serta city view Kota Surakarta dan Karanganyar dari bagian atas",
+kondisi:"Tanah berkontur alam pegunungan dengan bentang lanskap otentik, memilik kedung/kolam air alami, dan berada di kawasan camping",
+prospek:"Sangat potensial dikembangkan menjadi Villa Privat/Resort Eksklusif, Kafe/Resto Premium, Spot Selfie, Glamping Site, atau Tempat Relaksasi/Therapy Wellness",
+point:"Memiliki air terjun alami (waterfall) setinggi ±15 meter yang nempel di lokasi tanah dan dikelilingi 3 sisi aliran sungai yang jernih, Legalitas SHM dan transaksi sudah terikat di Notaris (hak penjualan 100% aman), ±2–3 km ke Spot Selfie Payung Langit & Jembatan Kaca Kemuning, ±3 km (10 menit) ke Wisata Paralayang, 5 km ke Candi Sukuh & Air Terjun Jumok, 8 km ke Candi Cetho, 10 km ke Grojokan Sewu"
+},
+
+{
 judul:"Hanya 325 Juta! Tanah SHM Pekarangan 947m² dengan Golden View Gunung Merapi & City Light Jogja",
 lokasi:"Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta Barat (berada di atas kawasan wisata Geblek Pari / Mahaloka)",
 luas :"947m²",
@@ -578,26 +598,6 @@ lingkungan:"Perkebunan Teh Kemuning yang Asri, adem, sejuk, dan dikelilingi oleh
 kondisi:"Tanah Datar dan Terasering , subur untuk tanaman sayur dan buah.  Sebagian tanah mangku/berbatasan langsung dengan sungai",
 prospek:"Sangat ideal untuk investasi masa depan, tempat peristirahatan (slow living), dibangun rumah villa, hunian pribadi bernuansa alam, ataupun digunakan sebagai perkebunan buah (sangat cocok untuk alpukat seperti lahan sekitarnya)",
 point:"Lokasi HIDDEN GEM, tempatnya adem dan tenang, berada di kawasan wisata yang sedang berkembang pesat. Dekat dengan Kebun Teh Ndoro Dongker, Air Terjun Ngargoyoso, River Tubing & Jeep Adventure Kemuning, Kemuning Sky Hills, Paralayang Kemuning, Air Terjun Grojogan Sewu, Air Terjun Jumog, Telaga Madirda, Rumah Atsiri Indonesia, Agrowisata Kampung Karet, Agrowisata Kemuning, Candi Cetho, Candi  Sukuh"
-},
-
-{
-judul:"Tanah 4900m² Dengan Air Terjun Indah Di Daerah Wisata Payung Langit, Paralayang & Kemuning Sky",
-lokasi:"Segorogunung, Kec. Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah",
-luas :"4900m²",
-mdpl:"946 - 1015",
-harga:"Rp 375.000/m",
-thumbnail:"Karanganyar4900.jpg",
-video:"https://youtu.be/BWSmi1gKS7g",
-
-sertifikat:"SHM",
-muka:"40m",
-akses:"Mobil sampai lokasi (jalan cor lebar ±3 – 4,5 meter, berjarak sekitar 200 meter dari jalan aspal utama)",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Kawasan wisata alam aktif & ramai (Wisata Watu Payung / Jeep Tour), adem, asri, dengan pemandangan kebun sayur serta city view Kota Surakarta dan Karanganyar dari bagian atas",
-kondisi:"Tanah berkontur alam pegunungan dengan bentang lanskap otentik, memilik kedung/kolam air alami, dan berada di kawasan camping",
-prospek:"Sangat potensial dikembangkan menjadi Villa Privat/Resort Eksklusif, Kafe/Resto Premium, Spot Selfie, Glamping Site, atau Tempat Relaksasi/Therapy Wellness",
-point:"Memiliki air terjun alami (waterfall) setinggi ±15 meter yang nempel di lokasi tanah dan dikelilingi 3 sisi aliran sungai yang jernih, Legalitas SHM dan transaksi sudah terikat di Notaris (hak penjualan 100% aman), ±2–3 km ke Spot Selfie Payung Langit & Jembatan Kaca Kemuning, ±3 km (10 menit) ke Wisata Paralayang, 5 km ke Candi Sukuh & Air Terjun Jumok, 8 km ke Candi Cetho, 10 km ke Grojokan Sewu"
 },
 
 {
