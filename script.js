@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Murah Rp175 Ribu/m View Air Terjun & Sungai Alami di Menoreh Cocok untuk Destinasi Wisata",
+lokasi:"Sinogo Pagerharjo, Samigaluh, Kulon Progo",
+luas :"4400m², 10.800m², 3500m²",
+mdpl:"391 - 456",
+harga:"Rp 175.000/m",
+thumbnail:"Airterjuncibiru.jpg",
+video:"https://youtu.be/Op1ZMug4kqQ",
+
+sertifikat:"SHM",
+muka:"±70 meter",
+akses:"Jalan raya aspal jalan kabupaten (akses mobil sangat lancar/mudah)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Suasana asri dataran tinggi Menoreh, energi positif, pepohonan/vegetasi tropis rindang, udara sejuk, serta aliran sungai jernih berbatuan alam",
+kondisi:"Tanah existing berupa perbukitan/terasering alami dengan lanskap sungai berbatu, ada mata air, serta pemandangan (view) langsung ke air terjun alami",
+prospek:"Sangat potensial untuk dikembangkan menjadi kawasan villa premium/resort private, destinasi wisata alam, penginapan/glamping, kawasan local market, resto/kafe, maupun tempat event/retreat",
+point:"Memiliki view air terjun indah dan akses langsung nempel sungai berbatuan alam alami. Lokasi strategis di jalur wisata kawasan Menoreh. ± 30 menit dari Candi Borobudur / Tumpeng Menoreh. ± 45 - 60 menit ke Kota Jogja / Malioboro. ± 1 jam dari Bandara Internasional Yogyakarta (NYIA) Opsi pembelian fleksibel (bisa beli salah satu bidang/sertifikat atau diborong seluruhnya)"
+},
+
+{
 judul:"Tanah 4900m² Dengan Air Terjun Indah Di Daerah Wisata Payung Langit, Paralayang & Kemuning Sky",
 lokasi:"Segorogunung, Kec. Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah",
 luas :"4900m²",
