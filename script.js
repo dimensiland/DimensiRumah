@@ -6,7 +6,7 @@ lokasi:"Kamal, Pendoworejo, Nanggulan, Kulon Progo, Jogja Barat (Belakang Resto 
 luas :"1695m²",
 mdpl:"93 - 109",
 harga:"Rp 475.000/m (Nett)",
-thumbnail:".jpg",
+thumbnail:"Kamal1695.jpg",
 video:"https://youtu.be/JoiWS1NaA6o",
 
 sertifikat:"SHM Sawah / Terpisah dari area lain (Siap Balik Nama)",
