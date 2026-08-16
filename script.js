@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Istimewa Luas 1695m Berada di Kawasan Wisata Premium Cocok Untuk Villa & Resort Hanya 475Rb/m",
+lokasi:"Kamal, Pendoworejo, Nanggulan, Kulon Progo, Jogja Barat (Belakang Resto Kopi Ampirono / Seberang Dadap Sumilir)",
+luas :"1695m²",
+mdpl:"93 - 109",
+harga:"Rp 475.000/m (Nett)",
+thumbnail:".jpg",
+video:"https://youtu.be/JoiWS1NaA6o",
+
+sertifikat:"SHM Sawah / Terpisah dari area lain (Siap Balik Nama)",
+muka:"20 Meter (Lebar depan 20 m & lebar belakang 20 m)",
+akses:"Pinggir jalan aspal/cor, mobil bisa berpapasan/simpangan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata premium & eksklusif, tenang, asri, dikelilingi pemandangan alam sawah terasering serta pegunungan",
+kondisi:"Tanah pekarangan/lahan siap olah dengan kontur datar-terasering yang sangat ideal",
+prospek:"Sangat cocok dan potensial untuk pembangunan Villa, Resort, Glamping, Private Staycation, maupun Cafe/Resto bernuansa alam",
+point:"Harga Sangat Murah (Under Value): Rp 475 rb/m² (Nett), jauh di bawah pasaran sekitar yang sudah di atas Rp 1 Juta/m,  Pemandangan langsung Gunung Merapi, Merbabu, Pegunungan Menoreh, hamparan sawah terasering Nanggulan, serta city light Kota Jogja/Malioboro saat malam hari, Kawasan Ekosistem Wisata Premium: Berdekatan langsung dengan Resto Kopi Ampirono, Ingkar Janji, Dadap Sumilir, Iwak Kalen, Villa Suantari, Wasa Villa, Gaya Lodge, Geblek Pari, Mahaloka, dan Kembang Menoreh, 30–35 menit ke Bandara YIA (akan lebih cepat via Tol Sentolo yang hanya berjarak ±8 km / 10 menit), 30 menit ke Kawasan Malioboro / Pusat Kota Jogja (±20 km), 30 menit ke Candi Borobudur (±18 km)"
+},
+
+{
 judul:"Tanah Murah Rp175 Ribu/m View Air Terjun & Sungai Alami di Menoreh Cocok untuk Destinasi Wisata",
 lokasi:"Sinogo Pagerharjo, Samigaluh, Kulon Progo",
 luas :"4400m², 10.800m², 3500m²",
