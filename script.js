@@ -6,7 +6,7 @@ lokasi:"Segoro Gunung, Kecamatan Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah 
 luas :"7348m²",
 mdpl:"950 - 1022",
 harga:"Rp 500.000/m (Masih Nego Sampa Jadi)",
-thumbnail:".jpg",
+thumbnail:"Karanganyar7348.jpg",
 video:"https://youtu.be/l6qlsdRGrhg",
 
 sertifikat:"SHM (Pekarangan / Lahan Kebun)",
