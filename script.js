@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah 3700m² View City Light & Gunung di Nanggulan Cuma 350 Juta! Bonus Mata Air & Air Terjun Alami",
+lokasi:"Puncak Moyeng, Giripurwo, Girimulyo, Kulon Progo, D.I. Yogyakarta (Tepat di atas Rumah Makan Ingkar Janji & bawah Akala Cafe, kawasan ekosistem wisata Nanggulan)",
+luas :"3700m² (Sertifikat 3500m² + Akses Jalan 200m²)",
+mdpl:"219 - 289",
+harga:"Rp 350.000.000",
+thumbnail:"PuncakMoyeng3700.jpg",
+video:"https://youtu.be/sKNrjCaNo3M",
+
+sertifikat:"SHM Pekarangan (Langsung proses balik nama)",
+muka:"-",
+akses:"Jalan umum cor blok (lebar ±3 meter), bonus perapihan/pengepresan tanah akses masuk agar mobil bisa nyaman sampai lokasi",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, teduh dengan pepohonan besar (suasana jungle), tenang, dan berada di kawasan ekowisata populer",
+kondisi:"Tanah berkontur terasering alami, vegetasi hijau/pohon rindang, serta menyajikan pemandangan los sawah, pegunungan Menoreh, hingga city light Kota Jogja",
+prospek:"Sangat cocok untuk slow living, kebun buah, glamping, vila kabin/kaca (konsep resort/homestay), maupun investasi jangka panjang di jalur wisata Jogja Barat",
+point:"Terletak di ekosistem wisata hits Nanggulan (Dekat RM Ingkar Janji, Akala Cafe, Dadap Sumilir, Ampirono, Teraloka, Geblek Pari, Mahaloka Kembang Menoreh). ±10–15 menit dari rencana Pintu Tol Sentolo. ±16 km (30 menit) ke Candi Borobudur dan ±20 km ke Tugu/Malioboro Jogja. Memiliki mata air alami sendiri di dalam lokasi tanah. Pemandangan view lepas tanpa penghalang ke arah persawahan, Pegunungan Menoreh, Gunung Merapi & Merbabu (saat cerah), serta lanskap Kota Jogja"
+},
+
+{
 judul:"Tanah Istimewa Luas 1695m Berada di Kawasan Wisata Premium Cocok Untuk Villa & Resort Hanya 475Rb/m",
 lokasi:"Kamal, Pendoworejo, Nanggulan, Kulon Progo, Jogja Barat (Belakang Resto Kopi Ampirono / Seberang Dadap Sumilir)",
 luas :"1695m²",
