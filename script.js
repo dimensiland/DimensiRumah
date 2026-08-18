@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Luas 7348m² Dengan Mata Air Melimpah Ditanami Sayur Segar! Di Daerah Wisata Gunung Lawu",
+lokasi:"Segoro Gunung, Kecamatan Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah (Kawasan Wisata Gunung Lawu)",
+luas :"7348m²",
+mdpl:"950 - 1022",
+harga:"Rp 500.000/m (Masih Nego Sampa Jadi)",
+thumbnail:".jpg",
+video:"https://youtu.be/l6qlsdRGrhg",
+
+sertifikat:"SHM (Pekarangan / Lahan Kebun)",
+muka:" ±100 Meter (Nempel Akses Jalan)",
+akses:"Jalan Desa / Tanah (Lebar dan fleksibel, nempel muka tanah 100+ meter)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata bernuansa alam pegunungan, dikelilingi kebun sayur segar, rute wisata Jeep Tour, area camping ground, serta kafe-kafe hits Kemuning. Udara sangat segar dan tenang.",
+kondisi:"Lahan produktif (saat ini ditanami sayuran pegunungan), kontur kombinasi etrap & landai/datar di bagian ujung, serta dibatasi aliran sungai mata air bening",
+prospek:"Sangat Prospektif! Ideal dibangun Villa Premium / Glamping, Kawasan Agrowisata & Tubing, Kebun Organik Sayur Pegunungan, maupun Hunian Pensiun (Slow Living)",
+point:"Muka nempel jalan sangat panjang (100+ Meter). Aliran mata air alami deras & jernih sepanjang tahun, sangat potensial direkayasa untuk kolam/lanskap villa. Berada tepat di kawasan ekosistem wisata aktif Karanganyar & lalu lintas Wisata Jeep, Pemilik siap nego sampai deal."
+},
+
+{
 judul:"Tanah 3700m² View City Light & Gunung di Nanggulan Cuma 350 Juta! Bonus Mata Air & Air Terjun Alami",
 lokasi:"Puncak Moyeng, Giripurwo, Girimulyo, Kulon Progo, D.I. Yogyakarta (Tepat di atas Rumah Makan Ingkar Janji & bawah Akala Cafe, kawasan ekosistem wisata Nanggulan)",
 luas :"3700m² (Sertifikat 3500m² + Akses Jalan 200m²)",
