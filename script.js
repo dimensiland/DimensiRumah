@@ -1,6 +1,46 @@
 const properties=[
 
 {
+judul:"Tanah Dialiri Sungai Deras & Jernih Luas 1405m² Cocok Untuk Aset Kemandirian Pangan",
+lokasi:"Karanganyar, Solo Timur, Jawa Tengah",
+luas :"1405m²",
+mdpl:"966 - 1043",
+harga:"Rp 500.000/m",
+thumbnail:"Karanganyar1405.jpg",
+video:"https://youtu.be/MH8UI5MzZTg",
+
+sertifikat:"SHM (Sertifikat Hak Milik, KTP mana pun bisa balik nama)",
+muka:"±50 Meter",
+akses:"Jalan Makadam (Jalur wisata Jeep)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan perkebunan sayur, tenang, asri, dingin, dan dekat jalur wisata tubing serta jeep",
+kondisi:"Kontur tanah hampir datar, sangat subur, saat ini digulut/digunakan untuk lahan tanam sayuran",
+prospek:"Sangat cocok untuk vila pensiun, slow living, kebun produktif, atau investasi kemandirian pangan",
+point:"Berada tepat di tepi sungai air jernih dan segar yang bersumber langsung dari pegunungan. Tanah sangat subur untuk berbagai macam sayuran (sawi, kubis, cabai, dll.). Pengairan sangat mudah, air mengalir langsung dari atas tanpa perlu disiram manual. Pemandangan asri dan lingkungan sejuk khas dataran tinggi. Opsi fleksibel: Pembelian bisa 1 sertifikat (1405m²) atau digabung dengan lahan di sebelahnya"
+},
+
+{
+judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
+lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
+luas:"1435m²",
+mdpl:"216 - 221",
+harga:"Rp 125.000.000",
+thumbnail:"Boro1435.jpg",
+video:"https://youtu.be/QEVENmaz-JU",
+
+sertifikat:"SHM",
+muka:"30 meter",
+akses:"Jalan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan yang asri dan dekat dengan perkampungan/fasilitas umum seperti pasar dan rumah sakit",
+kondisi:"Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
+prospek:"Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
+point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
+},
+
+{
 judul:"Tanah Luas 7348m² Dengan Mata Air Melimpah Ditanami Sayur Segar! Di Daerah Wisata Gunung Lawu",
 lokasi:"Segoro Gunung, Kecamatan Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah (Kawasan Wisata Gunung Lawu)",
 luas :"7348m²",
@@ -1315,25 +1355,6 @@ lingkungan:"Asri, tenang, sudah banyak hunian dan rumah dengan konsep limasan/mo
 kondisi:"Tanah datar, siap bangun, batas patok jelas",
 prospek:"Sangat bagus untuk hunian pribadi, villa, guest house, atau investasi karena pertumbuhan area Sedayu yang pesat",
 point:"Hanya 5 menit ke Jalan Nasional (Jalan Wates). Dekat dengan kampus UMY, Mercu Buana, dan UNISA. Dekat dengan RS Queen Latifa. Hanya 20 menit ke Malioboro/Tugu Jogja dan 30 menit ke Bandara YIA. Posisi hook (dua muka) memberikan fleksibilitas desain bangunan yang lebih menarik"
-},
-
-{
-judul:"Tanah Subur Cocok Untuk Kebun Seluas 1435m² Hanya 125 Juta Dekat Curug Sidoharjo & Puncak Suroloyo",
-lokasi:"Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
-luas:"1435m²",
-harga:"Rp 125.000.000",
-thumbnail:"KebunDurian1435.jpg",
-video:"https://youtu.be/IQU-r6XnOX8",
-
-sertifikat:"SHM",
-muka:"30 meter",
-akses:"Jalan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan yang asri dan dekat dengan perkampungan/fasilitas umum seperti pasar dan rumah sakit",
-kondisi:"Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
-prospek:"Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
-point:"Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
 },
 
 {
