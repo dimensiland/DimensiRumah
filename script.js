@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah MURAH Dengan MATA AIR! Luas 6670m² Hanya 385 Juta! View Pegunungan, Sawah Dan Sungai",
+lokasi:"Kemiriombo, Gerbosari, Samigaluh, Kulon Progo (Jogja Barat)",
+luas :"6670m²",
+mdpl:"294 - 362",
+harga:"Rp 385.000.000",
+thumbnail:"Samigaluh6600.jpg",
+video:"https://youtu.be/ZFh1JHmogMM",
+
+sertifikat:"SHM Pekarangan",
+muka:"30m",
+akses:" Tersedia Aspal",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Perkebunan, Perkampungan",
+kondisi:"Terasering Datar",
+prospek:"Sangat cocok untuk slow living, vila pensiun, glamping/kabin penginapan, investasi aset, atau perkebunan (durian, alpukat, sayuran)",
+point:"View Menawan: Pemandangan Pegunungan Menoreh, Sawah, dan Aliran Sungai .Memiliki Mata Air Alami / Air Terjun sendiri di samping batas tanah. Dekat Destinasi Wisata Hits Menoreh (Tumpeng Menoreh ~5 km, Geblek Pari/Mahaloka/Ampirono ~5–8 km). Akses Strategis: ~10 km ke Borobudur (30 menit). & ~25 km ke Kota Jogja/Tugu (45 menit)"
+},
+
+{
 judul:"Tanah Dengan Mata Air DiJogja Barat Luas 753m²  Bonus Pohon Durian, Kopi Dan Vanili Hanya 175jt Nett",
 lokasi:"Pendem, Pendoworejo, Kaligesing (Jogja Barat / Perbatasan Kulon Progo)",
 luas :"753m²",
@@ -378,26 +398,6 @@ lingkungan:"Asri dengan suasana alam pedesaan, udara sejuk, dan lingkungan yang 
 kondisi:"Tanah berupa terasiring yang cukup lebar, bagian depan (dekat jalan) terdapat area datar sekitar 20 meter yang siap dibangun. Bagian belakang tanah langsung berbatasan dengan sungai yang memiliki batu-batu alam besar",
 prospek:"Sangat cocok untuk slow living, rumah pemulihan (healing), villa pribadi, saung santai, atau berkebun",
 point:"Memiliki pemandangan langsung ke perbukitan Menoreh, sawah terasiring, dan pegunungan, Tanah langsung menempel sungai di bagian belakang dengan panjang sekitar 25-30 meter, Dekat dengan Glamping Menoreh (± 1 km), Teras Menoreh, Kripala Resto, dan berjarak sekitar 25 km ke Borobudur serta 35 km ke Malioboro"
-},
-
-{
-judul:"Tanah 6600m² View Bukit, Sawah & Sungai Jernih! Dekat Wisata Tumpeng Menoreh Didatangi Raffi Ahmad!",
-lokasi:"Gerbosari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas :"6600m²",
-mdpl:"294 - 362",
-harga:"Rp 385.000.000",
-thumbnail:"Samigaluh6600.jpg",
-video:"https://youtu.be/stEY3omB0Z0",
-
-sertifikat:"SHM Pekarangan",
-muka:"30m",
-akses:" Tersedia Aspal",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Perkebunan, Perkampungan",
-kondisi:"Terasering Datar",
-prospek:"Kebun Durian, Villa Kabin, Rumah Pribadi, Rumah Pensiun Konsep Slow Living",
-point:"Akses Mudah, Samping Air Terjun, View sawah dan sungai, Dekat Kawasan Wisata Menoreh seperti Tumpeng Menoreh, Glamping Menoreh Dan Kebun Teh Nglinggo. Juga Dekat dengan Kawasan Wisata Sekitar Dekso. Ke Sleman hanya 6km, Bandara YIA sekitar 1 jam, Malioboro Sekitar 45 menit dari lokasi"
 },
 
 {
