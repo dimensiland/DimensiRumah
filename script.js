@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Tanah Dengan Mata Air DiJogja Barat Luas 753m²  Bonus Pohon Durian, Kopi Dan Vanili Hanya 175jt Nett",
+lokasi:"Pendem, Pendoworejo, Kaligesing (Jogja Barat / Perbatasan Kulon Progo)",
+luas :"753m²",
+mdpl:"725 - 753 (Suhu siang ±20°C, malam 15-17°C)",
+harga:"Rp 175.000.000",
+thumbnail:"Pendem753.jpg",
+video:"https://youtu.be/qoGEpg4Dq1s",
+
+sertifikat:"Letter C (Proses Konversi Ke Pekarangan)",
+muka:"± 40 meter ",
+akses:"Jalan lebar, akses mobil lancar, dekat jalan provinsi Kaligesing-Nanggulan",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Padat penduduk namun bernuansa pedesaan (village style), sejuk, dikelilingi hutan pinus/cemara",
+kondisi:"Tanah datar, di atas level jalan (tidak perlu uruk), sudah ditanami pohon produktif (Durian Montong, Vanili ±50 pohon, Kopi ±100 pohon, Manggis, Nangka, Pisang)",
+prospek:"Sangat cocok untuk slow living, rumah kedua/villa, atau investasi aset yang harganya diprediksi naik pesat dalam 2-3 tahun",
+point:"Bonus vegetasi mahal (Vanili & Durian siap berbuah). Sistem pembayaran fleksibel (Bisa dicicil). Dekat ekosistem wisata populer: Ingkar Janji, Ampirono, Geblek Pari, Tumpeng Menoreh, dan hanya 30 menit dari Borobudur atau pintu tol. Air mata air pegunungan yang jernih dan gratis"
+},
+
+{
 judul:"Tanah Dialiri Sungai Deras & Jernih Luas 1405m² Cocok Untuk Aset Kemandirian Pangan",
 lokasi:"Karanganyar, Solo Timur, Jawa Tengah",
 luas :"1405m²",
