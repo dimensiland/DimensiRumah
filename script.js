@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"TANAH MURAH 250 JUTA! Luas 2230m² Dekat Wisata Menoreh View Jungle Lembah Dingin & Mata Air",
+lokasi:"Sokomoyo, Jatimulyo, Girimulyo, Kulon Progo Regency, Yogyakarta",
+luas :"2230m² (Efektif sekitar 2100m² setelah dipotong akses jalan umum)",
+mdpl:"606 - 647",
+harga:"Rp 250.000.000",
+thumbnail:"Sokomoyo2230.jpg",
+video:"https://youtu.be/YbmIAhU65DA",
+
+sertifikat:"SHM (Sertifikat Hak Milik)",
+muka:"-",
+akses:"Mobil sampai lokasi (Sedang proses pelebaran jalan ±3 meter menggunakan alat berat/bego)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Tenang, asri, suasana jungle, dekat dengan pemukiman warga namun tetap privat",
+kondisi:"Tanah pekarangan dengan tanaman kopi lokal dan pemandangan lembah serta Gunung Si Bolong",
+prospek:"Sangat cocok untuk rumah pensiun, villa kabin/Airbnb (konsep kayu & batu), atau kebun produktif (kopi/buah/ternak etawa)",
+point:"Lokasi strategis di ekosistem wisata Jogja Barat (dekat Menoreh Dreamland, Sungai Mudal, Gua Kiskendo). Hanya ±45 menit dari pusat Kota Jogja/Malioboro dan Bandara YIA. Investasi menguntungkan dengan harga di bawah pasar untuk luasan 2.000m+ di Jogja"
+},
+
+{
 judul:"Tanah MURAH Dengan MATA AIR! Luas 6670m² Hanya 385 Juta! View Pegunungan, Sawah Dan Sungai",
 lokasi:"Kemiriombo, Gerbosari, Samigaluh, Kulon Progo (Jogja Barat)",
 luas :"6670m²",
