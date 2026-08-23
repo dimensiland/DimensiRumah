@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Hanya 350 Juta! Tanah Luas 953m² Mangku Jalan Bedah Menoreh, Bonus Kebun Kopi & Cokelat Produktif",
+lokasi:"Sebrangkidul, Purwosari, Girimulyo, Kulon Progo Regency,  Yogyakarta (Jogja Barat)",
+luas :"953m²",
+mdpl:"771 - 786 (Suhu sejuk 15-25°C)",
+harga:"Rp 350.000.000",
+thumbnail:"SabrangKidul953.jpg",
+video:"https://youtu.be/pmdTVxYBrCM",
+
+sertifikat:"SHM Tegalan",
+muka:"30 meter",
+akses:"Pinggir Jalan Provinsi (Jalur Bedah Menoreh / Raya Godean - Purworejo)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri, tenang, kawasan kebun kopi dan wisata alam",
+kondisi:"Tanah 2 level (level jalan untuk parkir & level bawah datar siap bangun), full tanaman produktif (Kopi Arabika, Cokelat, Pisang, Kelapa)",
+prospek:"Sangat cocok untuk Rumah Pensiun, Villa Slow Living, Kebun Organik, atau Investasi Aset",
+point:"Lokasi sangat strategis di pinggir jalan utama, dekat dengan berbagai destinasi wisata seperti Kopi Puncak, Menoreh Dreamland, Gua Kiskendo, dan Ekowisata Sungai Mudal. Hasil panen kopi rata-rata di atas 100kg per tahun"
+},
+
+{
 judul:"TANAH MURAH 250 JUTA! Luas 2230m² Dekat Wisata Menoreh View Jungle Lembah Dingin & Mata Air",
 lokasi:"Sokomoyo, Jatimulyo, Girimulyo, Kulon Progo Regency, Yogyakarta",
 luas :"2230m² (Efektif sekitar 2100m² setelah dipotong akses jalan umum)",
@@ -938,26 +958,6 @@ lingkungan:"Asri, sejuk, dan aman, dikelilingi kawasan perkebunan produktif sert
 kondisi:"Kebun duren produktif yang sudah tertata & dirawat, posisi tanah miring/berkontur dengan batas bawah pohon bambu penahan longsor alami",
 prospek:"Sangat ideal untuk investasi kebun buah produktif, villa/rumah singgah masa pensiun, agrowisata, maupun tabungan properti jangka panjang",
 point:"Sudah tertanam ± 50 Pohon Durian (estimasi 1–2 tahun lagi mulai siap panen) dan ± 15 Pohon Kelapa siap petik, Fasilitas Garansi Care/Perawatan: Tersedia opsi kerjasama perawatan/pemeliharaan kebun (pemupukan, penyiraman, hingga panen) langsung oleh Tim Dimensi, Lebar Muka / Mangku Jalan sangat luas (35 Meter), Akses kendaraan/mobil sangat aman & nyaman sampai ke titik lokasi lahan, Aksesibilitas & Jarak: ± 14 km ke Candi Borobudur, ± 15 km ke Kedai Kopi Aroma Kopi / Wisata Kuliner, ± 17 km ke Objek Wisata Embung Samiran / Embung Sambak, ± 20 km ke Destinasi Wisata Nepal Van Java (Sumbing)"
-},
-
-{
-judul:"DIJUAL TANAH SHM MANGKU JALAN PROVINSI DI NANGGULAN - COCOK UNTUK VILLA & CAFE (ADA MATA AIR)",
-lokasi:"Purwosari, Kulon Progo Regency, Special Region of Yogyakarta",
-luas :"953m²",
-mdpl:"800 – 900",
-harga:"Rp 500.000/m",
-thumbnail:"Prwosari953.jpg",
-video:"https://youtu.be/roOdhXeiT6Q",
-
-sertifikat:"SHM Tegalan",
-muka:"±30 meter",
-akses:"Jalan Provinsi, aspal lebar, mobil bisa simpangan",
-air:"Tersedia",
-listrik:"PLN tersedia",
-lingkungan:"Udara dingin sejuk, asri, nyaman, dan berada di jalur utama zona wisata",
-kondisi:"Kontur tanah terasering landai (2 trap), bagian bawah rata/datar, bentuk tanah mengotak",
-prospek:"Sangat potensial untuk dibangun cafe, resto, villa, tempat tinggal, maupun investasi properti",
-point:"Posisi sangat strategis langsung tepi/mangku jalan utama provinsi dengan lebar muka ±30 meter, Memiliki sumber mata air alami sendiri di area belakang lokasi. Dekat dengan berbagai destinasi wisata populer: 1 km dari Kopi Puncak. Dekat ke Menoreh Dreamland, Goa Kiskendo, Air Terjun Mudal, Kembang Soka, Kedung Pedut, dan Kuncung Emas. 12 km dari Pusat Wisata Nanggulan ±14 km dari Sleman ±28 km dari Bandara YIA (Wates) ±34 km dari Pusat Kota / Malioboro Yogyakarta. Pembelian dapat dibicarakan untuk skema cicilan"
 },
 
 {
