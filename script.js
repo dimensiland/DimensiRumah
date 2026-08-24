@@ -61,23 +61,23 @@ point:"View Menawan: Pemandangan Pegunungan Menoreh, Sawah, dan Aliran Sungai .M
 },
 
 {
-judul:"Tanah Dengan Mata Air DiJogja Barat Luas 753m²  Bonus Pohon Durian, Kopi Dan Vanili Hanya 175jt Nett",
-lokasi:"Pendem, Pendoworejo, Kaligesing (Jogja Barat / Perbatasan Kulon Progo)",
-luas :"753m²",
-mdpl:"725 - 753 (Suhu siang ±20°C, malam 15-17°C)",
-harga:"Rp 175.000.000",
-thumbnail:"Pendem753.jpg",
-video:"https://youtu.be/qoGEpg4Dq1s",
+judul:"Jual Tanah 1499m² SHM Pekarangan Hanya 250 Juta! Bonus Mata Air Melimpah & View Alam Menoreh",
+lokasi:"Klepuh, Pandanrejo, Kaligesing, Purworejo (Dekat perbatasan Kulon Progo Jogja Barat)",
+luas :"1499m²",
+mdpl:"600 - 683",
+harga:"Rp 250.000.000  (Net)",
+thumbnail:"Tlogoguwo1499.jpg",
+video:"https://youtu.be/h_s00mNBwUg",
 
-sertifikat:"Letter C (Proses Konversi Ke Pekarangan)",
-muka:"± 40 meter ",
-akses:"Jalan lebar, akses mobil lancar, dekat jalan provinsi Kaligesing-Nanggulan",
+sertifikat:"SHM Pekarangan",
+muka:"12 Meter",
+akses:"Jalan cor blok (Hanya 300 meter dari jalan raya provinsi Kaligesing - Nanggulan)",
 air:"Tersedia",
 listrik:"PLN tersedia",
-lingkungan:"Padat penduduk namun bernuansa pedesaan (village style), sejuk, dikelilingi hutan pinus/cemara",
-kondisi:"Tanah datar, di atas level jalan (tidak perlu uruk), sudah ditanami pohon produktif (Durian Montong, Vanili ±50 pohon, Kopi ±100 pohon, Manggis, Nangka, Pisang)",
-prospek:"Sangat cocok untuk slow living, rumah kedua/villa, atau investasi aset yang harganya diprediksi naik pesat dalam 2-3 tahun",
-point:"Bonus vegetasi mahal (Vanili & Durian siap berbuah). Sistem pembayaran fleksibel (Bisa dicicil). Dekat ekosistem wisata populer: Ingkar Janji, Ampirono, Geblek Pari, Tumpeng Menoreh, dan hanya 30 menit dari Borobudur atau pintu tol. Air mata air pegunungan yang jernih dan gratis"
+lingkungan:"Asri, tenang, dikelilingi pohon buah dan dekat kawasan wisata",
+kondisi:"Tanah datar, subur, dengan vegetasi alami (kelapa & bambu petung)",
+prospek:"Sangat potensial untuk hunian slow living, villa, atau investasi jangka panjang",
+point:"Lokasi dikepung mata air, suhu sejuk, dan Lokasi strategis dekat wisata Goa Anjani dan Kiskendo, hanya 45 menit menuju pusat Kota Jogja/Malioboro"
 },
 
 {
