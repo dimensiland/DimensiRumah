@@ -1,6 +1,26 @@
 const properties=[
 
 {
+judul:"Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
+lokasi:"Pantai Benges, Tulakan, Kabupaten Pacitan (±30 menit dari Kota Pacitan)",
+luas :"6823 m² (Terdiri dari 2 sertifikat: 4.575 m² dan 2.248 m²)",
+mdpl:"37 - 63",
+harga:"Rp 100.000,- per meter (Net) / Total Rp682.300.000,- (Net)",
+thumbnail:"Pacitan6823.jpg",
+video:"https://youtu.be/JK0zWdx_mYs",
+
+sertifikat:"SHM",
+muka:"Lebar muka menghadap selatan ±60m & menghadap timur ±100m",
+akses:"Akses jalan resmi mobil sampai lokasi (±1 km dari Jalan Lintas Selatan/JLS)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Destinasi wisata utama Pacitan, tenang, banyak pohon kelapa & pandan laut",
+kondisi:"Tanah datar, lebih tinggi dari bibir pantai (aman dari ombak langsung), view los ke laut",
+prospek:"Sangat cocok untuk Slow Living, Yoga Retreat, Villa, atau investasi properti Point",
+point:"View matahari terbit & terbenam, akses ke pasir putih, ombak cocok untuk surfing, dan dekat dengan pegunungan"
+},
+
+{
 judul:"Hanya 350 Juta! Tanah Luas 953m² Mangku Jalan Bedah Menoreh, Bonus Kebun Kopi & Cokelat Produktif",
 lokasi:"Sebrangkidul, Purwosari, Girimulyo, Kulon Progo Regency,  Yogyakarta (Jogja Barat)",
 luas :"953m²",
