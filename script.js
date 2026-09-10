@@ -1,4 +1,23 @@
 const properties=[
+{
+judul:"Investasi Langka! Jual Tanah 10.310m² di Bibir Pantai Benges Pacitan (View Sunrise & Sunset)",
+lokasi:"Dusun Kali Adem, Desa Tulakan, Kec. Tulakan, Kabupaten Pacitan, Jawa Timur",
+luas :"10.310 m² (1 Hektar lebih 310 meter)",
+mdpl:"-",
+harga:"Rp 1,5 Miliar (Net)",
+thumbnail:"10310mBenges.jpg",
+video:"https://youtu.be/XAJIV3RzaD4",
+
+sertifikat:"SHM",
+muka:"±100 Meter (Nempel/Mangku Pantai)",
+akses:"Akses mobil sampai lokasi, jalan datar dan halus (hanya 1 km dari Jalur Lintas Selatan/JLS)",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Asri dengan banyak vegetasi pohon kelapa, tenang, eksklusif, dan dekat dengan ekosistem wisata mancanegara.",
+kondisi:"Tanah datar dan landai, struktur tanah kuat (tebing karang di sisi pantai), memiliki pemandangan laut lepas (Emerald view).",
+prospek:"Sangat cocok untuk Resort Eksklusif, Villa Pribadi, Beach Club, atau Investasi jangka panjang karena perizinan di Pacitan relatif mudah dan cepat.",
+point:"Muka pantai sangat lebar (100 meter). Bisa menikmati Sunrise dan Sunset sekaligus di satu lokasi. Terdapat spot untuk memancing, camping, bahkan surfing (ombak besar di sisi timur, ombak tenang di sisi barat). Lokasi strategis 30 menit dari Kota Pacitan, ± 2,5 jam dari Jogja. Terdapat fenomena alam unik berupa gua pantai yang terlihat saat air surut."
+},
 
 {
 judul:"Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
