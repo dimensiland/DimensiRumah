@@ -1,6 +1,26 @@
 const properties=[
   
 {
+judul:"Raja Ampat Di Pacitan – Luas 1480m² Hanya 475 Juta! Tanah Paradise Dengan View Pantai Dan Laut",
+lokasi:"Dekat Pantai Kasap & Puncak Kasap, Pacitan, Jawa Timur",
+luas :"1.480 m²",
+mdpl:"30-40",
+harga:"Rp 475.000.000 Net",
+thumbnail:"1480mPantaiKasap.jpg",
+video:"https://youtu.be/pVGj7Q1Xp0Q",
+
+sertifikat:"SHM",
+muka:"±100 Meter (Nempel/Mangku Pantai)",
+akses:"Jalan konblok, sangat memadai untuk kendaraan roda empat",
+air:"Tersedia",
+listrik:"PLN tersedia",
+lingkungan:"Kawasan wisata premium yang sudah sangat berkembang, dikelilingi resort dan homestay ternama (Ombak Ecor Resort, Desa Limasan, dll.)",
+kondisi:"Tanah dengan kontur terasering, bagian atas datar dengan view 360 derajat",
+prospek:"Sangat potensial untuk dibangun resort, villa mewah, atau kafe eksklusif mengingat tingginya kunjungan wisatawan (5.000-10.000 pengunjung di akhir pekan)",
+point:"Berjarak hanya ± 20 menit (12 km) sebelum masuk Kota Pacitan. View ikonik 'Raja Ampat-nya Pacitan' (Pantai Kasap). Lokasi sangat strategis untuk investasi jangka panjang karena ekosistem wisata yang sudah terbentuk"
+},
+  
+{
 judul:"Investasi Langka! Jual Tanah 10.310m² di Bibir Pantai Benges Pacitan (View Sunrise & Sunset)",
 lokasi:"Dusun Kali Adem, Desa Tulakan, Kec. Tulakan, Kabupaten Pacitan, Jawa Timur",
 luas :"10.310 m² (1 Hektar lebih 310 meter)",
