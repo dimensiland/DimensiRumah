@@ -1,4 +1,5 @@
 const properties=[
+  
 {
 judul:"Investasi Langka! Jual Tanah 10.310m² di Bibir Pantai Benges Pacitan (View Sunrise & Sunset)",
 lokasi:"Dusun Kali Adem, Desa Tulakan, Kec. Tulakan, Kabupaten Pacitan, Jawa Timur",
