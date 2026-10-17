@@ -348,15 +348,12 @@ card.innerHTML=`
 
 ${generateDetail(item)}
 
-<a href="${item.video}" target="_blank" class="video-btn">
-▶ Lihat Video
-</a>
+<div class="btn-row">
+  <a href="${item.video}" target="_blank" class="video-btn">▶ Lihat Video</a>
 
-<a href="https://wa.me/6287737447313?text=Saya tertarik dengan properti: ${encodeURIComponent(item.judul)}"
-target="_blank"
-class="whatsapp-btn">
-Hubungi WhatsApp
-</a>
+  <a href="https://wa.me/6287737447313?text=Saya tertarik dengan properti: ${encodeURIComponent(item.judul)}"
+     target="_blank" class="whatsapp-btn">Hubungi WhatsApp</a>
+</div>
 
 </div>
 
