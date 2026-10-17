@@ -298,14 +298,6 @@ section { padding-block: clamp(4rem, 8vw, 6.5rem); }
   display: grid;
   grid-template-columns: 1fr; 
   gap: 1.75rem;
-}
-#property-list {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.75rem;
-  max-width: none;
-  margin-inline: auto;
-}
 
 .property-card{
 
@@ -314,7 +306,7 @@ border-radius:14px;
 overflow:hidden;
 box-shadow:0 8px 25px rgba(0,0,0,.08);
 display:grid;
-grid-template-columns:380px 1fr;
+grid-template-columns: 380px minmax(0, 1fr);
 transition:.3s;
 opacity:0;
 transform:translateY(20px);
@@ -354,7 +346,7 @@ font-size:20px;
 .price{
 font-size:26px;
 font-weight:bold;
-color:var(--primary);
+color:var(--blue);
 margin:10px 0;
 }
 
@@ -378,7 +370,7 @@ font-size:13px;
 .detail-item span{
 display:block;
 font-size:12px;
-color:var(--text-light);
+color:var(--muted);
 }
 
 
@@ -399,16 +391,23 @@ border-radius:8px;
 margin-top:10px;
 }
 
+.btn-row {
+  display: flex;
+  gap: .6rem;
+  margin-top: .8rem;
+}
+
 .video-btn,
 .whatsapp-btn {
-  flex: 1 1 180px;
+  flex: 1 1 0;            /* dua tombol selalu sama lebar */
+  min-width: 0;           /* boleh menyempit, tidak mendorong tombol sebelahnya */
   text-align: center;
   text-decoration: none;
-  font: 700 .96rem var(--font-body);
-  padding: .8rem 1.3rem;
+  font-weight: 700;
+  font-size: clamp(.78rem, 3.3vw, .95rem);   /* mengecil otomatis di layar sempit */
+  line-height: 1.25;
+  padding: .7rem .6rem;
   border-radius: 999px;
-  margin-top: .6rem;
-  transition: background .2s, color .2s, border-color .2s;
 }
 
 .video-btn { color: var(--navy); border: 2px solid var(--navy); background: transparent; }
@@ -551,9 +550,8 @@ margin-top:10px;
 }
 
 @media (max-width: 760px) {
-  .property-card {
-    grid-template-columns: 1fr;
-  }
+  .property-card { grid-template-columns: minmax(0, 1fr); }
+}
 
   .thumbnail-wrapper {
     aspect-ratio: 16 / 9;
