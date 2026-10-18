@@ -1,4 +1,4 @@
-/* ==========================================================
+   /* ==========================================================
    PT DIMENSI LAND — style.css
    Arah desain: peta kontur / survei lahan. Biru #2f7fd1, navy, navbar putih.
    Foto yang dibutuhkan: images/hero.jpg (lihat daftar foto)
@@ -298,19 +298,18 @@ section { padding-block: clamp(4rem, 8vw, 6.5rem); }
   display: grid;
   grid-template-columns: 1fr; 
   gap: 1.75rem;
+}
 
-.property-card{
-
-background:white;
-border-radius:14px;
-overflow:hidden;
-box-shadow:0 8px 25px rgba(0,0,0,.08);
-display:grid;
-grid-template-columns: 380px minmax(0, 1fr);
-transition:.3s;
-opacity:0;
-transform:translateY(20px);
-
+.property-card {
+  background: white;
+  border-radius: 14px;
+  overflow: hidden;
+  box-shadow: 0 8px 25px rgba(0,0,0,.08);
+  display: grid;
+  grid-template-columns: 380px minmax(0, 1fr);
+  opacity: 0;
+  translate: 0 20px;
+  transition: opacity .5s ease, translate .5s ease, transform .25s ease, box-shadow .25s ease;
 }
 
 .property-card.show { opacity: 1; translate: 0 0; }
