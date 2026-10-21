@@ -507,6 +507,36 @@ margin-top:10px;
   filter: saturate(.85);
 }
 
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .75rem;
+  margin-top: 1.5rem;
+}
+
+.social-links a {
+  width: 44px;
+  height: 44px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--white);
+  border: 1px solid rgba(255, 255, 255, .28);
+  border-radius: 50%;
+  transition: background .2s, border-color .2s, transform .2s;
+}
+
+.social-links a:hover {
+  background: var(--blue);
+  border-color: var(--blue);
+  transform: translateY(-2px);
+}
+
+.social-links svg {
+  width: 20px;
+  height: 20px;
+}
+
 /* ---------- FOOTER ---------- */
 .footer {
   background: #071a33;
