@@ -4,7 +4,24 @@ const properties=[
 
 
 
-
+{
+judul: "Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
+lokasi: "Kawasan Pantai Benges, Tulakan, Pacitan, Jawa Timur",
+luas: "6.823 m² (terdiri dari 2 sertifikat: 4.575 m² & 2.248 m²)",
+mdpl: "37 - 63",
+harga: "Rp 100.000 / m² (Nett) - Total Rp 682.300.000",
+thumbnail: "https://img.youtube.com/vi/hpVXV7f4M/maxresdefault.jpg",
+video: "https://www.youtube.com/watch?v=hpVXV7f4M",
+sertifikat: "SHM (Sertifikat Hak Milik), siap balik nama untuk KTP seluruh Indonesia",
+muka: "Memiliki 2 sisi muka (Muka menghadap pantai selatan ± 60 Meter, muka menghadap timur ± 100 Meter)",
+akses: "Akses mobil masuk lancar sampai ke lokasi lahan, hanya 1 km dari Jalur Lintas Selatan (JLS)",
+air: "Sumber air tawar bersih tersedia dan mudah",
+listrik: "Tersedia (PLN)",
+lingkungan: "Sangat tenang, damai, hening, asri dikelilingi ribuan pohon kelapa, vegetasi pandan laut dan akasia, udara bersih",
+kondisi: "Tanah datar asli, posisi lebih tinggi dari pantai (bebas risiko abrasi), batuan alami melimpah, view terbuka langsung ke laut lepas",
+prospek: "Resort/villa tepi pantai, glamping eksklusif, tempat retreat yoga/meditasi, surf camp, perkebunan kelapa terpadu, land banking",
+point: "1 km dari JLS, 20 meter dari pantai pasir putih, view sunrise, tebing karang, 30 menit ke Pusat Kota Pacitan, 2,5 Jam dari Yogyakarta",
+},
 
 {
 judul: "Dijual Tanah Luas 3470m² View Pegunungan Menoreh! Cocok untuk Villa & Resto di Nanggulan Kulon Progo",
