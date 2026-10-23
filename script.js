@@ -1,8 +1,24 @@
 const properties=[
 
 
-
-
+{
+judul: "Tanah Samping Air Terjun Surodipo Berada Di Kaki Gunung Prau, Luas 3034m² Dekat Dieng, Gn. Sindoro",
+lokasi: "Tawangsari, Kecamatan Wonoboyo, Kabupaten Temanggung, Jawa Tengah",
+luas: "3034m²",
+mdpl: "1200 Mdpl",
+harga: "Rp. 550.000.000 (Net)",
+thumbnail: "https://i.ytimg.com/vi/JToiUcUsAN8/maxresdefault.jpg",
+video: "https://youtu.be/JToiUcUsAN8",
+sertifikat: "SHM (Sertifikat Hak Milik)",
+muka: "Menempel sungai sekitar 80 meter dan berbatasan langsung dengan area Air Terjun Surodipo",
+akses: "Akses jalan kaki (tersedia opsi sewa/beli lahan parkir di depan)",
+air: "Tersedia mata air alami",
+listrik: "PLN Tersedia",
+lingkungan: "Asri dengan pemandangan pegunungan (Gunung Prau, Sindoro, Sumbing), perkebunan kopi, sayur, dan hutan bambu",
+kondisi: "Kontur bervariasi (datar dan tebing/lembah), tanah sangat subur dengan aura tenang",
+prospek: "Cocok untuk Private Villa, Kabin Panggung (Glamping), Tempat Meditasi/Yoga, atau Wisata Eksklusif",
+point: "Lokasi unik menempel Air Terjun Surodipo, debit air stabil, dekat ikon wisata internasional (Dieng, Sikunir, Borobudur), area konservasi.",
+},
 
 {
 judul: "Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
@@ -10,8 +26,8 @@ lokasi: "Kawasan Pantai Benges, Tulakan, Pacitan, Jawa Timur",
 luas: "6.823 m² (terdiri dari 2 sertifikat: 4.575 m² & 2.248 m²)",
 mdpl: "37 - 63",
 harga: "Rp 100.000 / m² (Nett) - Total Rp 682.300.000",
-thumbnail: "https://img.youtube.com/vi/hpVXV7f4M/maxresdefault.jpg",
-video: "https://www.youtube.com/watch?v=hpVXV7f4M",
+thumbnail: "https://img.youtube.com/vi/n-hpVXV7f4M/maxresdefault.jpg",
+video: "https://www.youtube.com/watch?v=n-hpVXV7f4M",
 sertifikat: "SHM (Sertifikat Hak Milik), siap balik nama untuk KTP seluruh Indonesia",
 muka: "Memiliki 2 sisi muka (Muka menghadap pantai selatan ± 60 Meter, muka menghadap timur ± 100 Meter)",
 akses: "Akses mobil masuk lancar sampai ke lokasi lahan, hanya 1 km dari Jalur Lintas Selatan (JLS)",
@@ -40,25 +56,6 @@ lingkungan: "Asri, tenang, pemandangan sawah terasering & view Pegunungan Menore
 kondisi: "Tanah berkontur miring/terasering",
 prospek: "Potensial untuk investasi, resto, villa, kafe, atau tempat wisata",
 point: "± 300m dari Kopi Ingkar Janji, ± 16km ke Borobudur, ± 20km ke Pusat Kota Jogja, ± 20km ke Tumpeng Menoreh, ± 22km ke Bandara YIA"
-},
-
-{
-judul: "Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
-lokasi: "Kawasan Pantai Benges, Tulakan, Pacitan, Jawa Timur",
-luas: "6.823 m²",
-mdpl: "37 - 63",
-harga: "Rp 100.000 / m² (Nett) — Total Rp 682.300.000",
-thumbnail: "https://i.ytimg.com/vi/vwyNv1Kx4Zc/maxresdefault.jpg",
-video: "https://www.youtube.com/watch?v=vwyNv1Kx4Zc",
-sertifikat: "SHM (Sertifikat Hak Milik, terdiri dari 2 sertifikat: 4.575 m² & 2.248 m²)",
-muka: "Memiliki 2 sisi muka (Muka menghadap pantai selatan ± 60 Meter, dan muka memanjang menghadap timur ± 100 Meter)",
-akses: "Akses mobil masuk lancar sampai ke lokasi, hanya 1 km dari Jalur Lintas Selatan (JLS)",
-air: "Tersedia (Sumber air tawar bersih tersedia dan mudah)",
-listrik: "PLN Tersedia",
-lingkungan: "Sangat tenang, damai, hening (grounding/healing), asri dikelilingi ribuan pohon kelapa",
-kondisi: "Tanah datar asli yang posisinya lebih tinggi dari pantai (bebas risiko abrasi), view terbuka langsung ke laut lepas",
-prospek: "Sangat potensial untuk dibangun resort/villa tepi pantai, glamping eksklusif, tempat retreat yoga, surf camp, maupun land banking",
-point: "Hanya 1 km dari JLS, 20 meter akses langsung ke pantai pasir putih, 30 menit ke Pusat Kota Pacitan, 2,5 Jam dari Yogyakarta",
 },
 
 {
