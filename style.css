@@ -294,11 +294,152 @@ section { padding-block: clamp(4rem, 8vw, 6.5rem); }
 /* ---------- PROPERTY ---------- */
 #property { background: var(--paper); }
 
-#property-list {
-  display: grid;
-  grid-template-columns: 1fr; 
-  gap: 1.75rem;
+/* ---- header: judul + search di sampingnya ---- */
+.property-head {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1rem 1.25rem;
+  padding-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--line);
 }
+
+.property-head::after {
+  content: "";
+  position: absolute;
+  left: 0; bottom: -1px;
+  width: 72px; height: 3px;
+  background: var(--blue);
+}
+
+.property-head .section-title {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.property-head .section-title::after { display: none; }
+
+/* ---- search: ikon bulat yang melebar ke kanan ---- */
+.property-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 48px;
+  padding: 3px;
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  box-shadow: var(--shadow-card);
+  transition: border-color .25s, box-shadow .25s;
+}
+
+.search-toggle {
+  flex: 0 0 40px;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  color: var(--white);
+  background: var(--blue);
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background .2s;
+}
+
+.search-toggle svg { width: 20px; height: 20px; }
+
+.property-search input {
+  width: 0;
+  height: 100%;
+  padding: 0;
+  opacity: 0;
+  font: 500 1rem var(--font-body);
+  color: var(--ink);
+  background: transparent;
+  border: 0;
+  outline: none;
+  transition: width .35s cubic-bezier(.2, .7, .2, 1), padding .35s, opacity .2s;
+}
+
+.property-search input::placeholder { color: var(--muted); }
+
+/* terbuka: saat disorot, difokus, atau sudah ada teks */
+.property-search:hover,
+.property-search:focus-within,
+.property-search:has(input:not(:placeholder-shown)) {
+  border-color: var(--blue);
+  box-shadow: 0 0 0 3px rgba(47, 127, 209, .2), var(--shadow-card);
+}
+
+.property-search:hover .search-toggle,
+.property-search:focus-within .search-toggle { background: var(--blue-dark); }
+
+.property-search:hover input,
+.property-search:focus-within input,
+.property-search input:not(:placeholder-shown) {
+  width: min(300px, calc(100vw - 8rem));
+  padding: 0 2.4rem 0 .9rem;
+  opacity: 1;
+}
+
+/* tombol hapus */
+#search-clear {
+  position: absolute;
+  right: .5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 30px;
+  height: 30px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .85rem;
+  color: var(--muted);
+  background: var(--paper);
+  border: 0;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#search-clear[hidden] { display: none; }
+#search-clear:hover { background: var(--line); color: var(--ink); }
+
+.no-result button {
+  display: inline-flex;
+  align-items: center;
+  gap: .55rem;
+  font: 700 .95rem var(--font-body);
+  color: var(--blue-dark);
+  background: var(--white);
+  border: 2px solid var(--blue);
+  padding: .7rem 1.4rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background .2s, color .2s, transform .2s, box-shadow .2s;
+}
+
+/* ikon panah melingkar, warnanya mengikuti teks tombol */
+.no-result button::before {
+  content: "";
+  width: 18px;
+  height: 18px;
+  background: currentColor;
+  -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8'/%3E%3Cpath d='M3 3v5h5'/%3E%3C/svg%3E") center / contain no-repeat;
+          mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8'/%3E%3Cpath d='M3 3v5h5'/%3E%3C/svg%3E") center / contain no-repeat;
+  transition: transform .4s ease;
+}
+
+.no-result button:hover {
+  color: var(--white);
+  background: var(--blue);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 24px -10px rgba(47, 127, 209, .7);
+}
+
+.no-result button:hover::before { transform: rotate(-180deg); }
 
 .property-card {
   background: white;
