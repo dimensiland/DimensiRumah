@@ -686,10 +686,72 @@ point: "View spektakuler tebing laut Samudera Hindia, sunrise, dekat JLS dan pan
 
 const itemsPerPage=10;
 let currentPage=1;
+let filtered=properties;
 
 const container=document.getElementById("property-list");
 const pagination=document.getElementById("pagination");
+const searchInput=document.getElementById("property-search");
+const searchClear=document.getElementById("search-clear");
+const searchInfo=document.getElementById("search-info");
 
+
+/* ---------- PENCARIAN ---------- */
+
+function normalize(text){
+return String(text||"")
+.toLowerCase()
+.replace(/²/g,"2")
+.replace(/\s+/g," ")
+.trim();
+}
+
+/* teks yang dicari: judul, lokasi, luas, harga, sertifikat */
+const searchIndex=properties.map(item=>({
+item,
+text:normalize([item.judul,item.lokasi,item.luas,item.harga,item.sertifikat].join(" "))
+}));
+
+function applySearch(){
+
+const query=normalize(searchInput.value);
+const words=query.split(" ").filter(Boolean);
+
+filtered=words.length
+? searchIndex.filter(e=>words.every(w=>e.text.includes(w))).map(e=>e.item)
+: properties;
+
+currentPage=1;
+searchClear.hidden=!searchInput.value;
+
+searchInfo.textContent=words.length
+? `${filtered.length} properti ditemukan untuk pencarian "${searchInput.value.trim()}"`
+: "";
+
+renderPage(1);
+
+}
+
+let searchTimer;
+
+searchInput.addEventListener("input",()=>{
+clearTimeout(searchTimer);
+searchTimer=setTimeout(applySearch,250);
+});
+
+function clearSearch(){
+searchInput.value="";
+applySearch();
+searchInput.focus();
+}
+
+searchClear.addEventListener("click",clearSearch);
+
+searchInput.addEventListener("keydown",e=>{
+if(e.key==="Escape") clearSearch();
+});
+
+
+/* ---------- DETAIL ---------- */
 
 function generateDetail(item){
 
@@ -752,14 +814,44 @@ Point Penting: ${item.point}
 }
 
 
+/* ---------- RENDER ---------- */
+
+function renderEmpty(){
+
+container.innerHTML="";
+pagination.innerHTML="";
+
+const box=document.createElement("div");
+box.className="no-result";
+
+const msg=document.createElement("p");
+msg.textContent=`Tidak ada properti untuk "${searchInput.value.trim()}".`;
+
+const btn=document.createElement("button");
+btn.type="button";
+btn.textContent="Hapus pencarian";
+btn.onclick=clearSearch;
+
+box.appendChild(msg);
+box.appendChild(btn);
+container.appendChild(box);
+
+}
+
+
 function renderPage(page){
+
+if(filtered.length===0){
+renderEmpty();
+return;
+}
 
 container.innerHTML="";
 
 const start=(page-1)*itemsPerPage;
 const end=start+itemsPerPage;
 
-properties.slice(start,end).forEach((item,i)=>{
+filtered.slice(start,end).forEach((item,i)=>{
 
 const card=document.createElement("div");
 
@@ -768,7 +860,7 @@ card.className="property-card";
 card.innerHTML=`
 
 <div class="thumbnail-wrapper">
-<img src="${item.thumbnail}">
+<img src="${item.thumbnail}" alt="${item.judul}" loading="lazy">
 </div>
 
 <div class="property-content">
@@ -805,7 +897,7 @@ function renderPagination(){
 
 pagination.innerHTML="";
 
-const totalPages=Math.ceil(properties.length/itemsPerPage);
+const totalPages=Math.ceil(filtered.length/itemsPerPage);
 
 for(let i=1;i<=totalPages;i++){
 
@@ -828,7 +920,6 @@ btn.onclick = () => {
     behavior: "smooth",
     block: "start"
   });
-
 
 };
 
