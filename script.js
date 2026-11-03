@@ -654,7 +654,7 @@ lokasi: "Pantai Blubuk, Kelurahan Worawari, Kecamatan Kebonagung, Kabupaten Paci
 luas: "5063 m² (total 2 sertifikat)",
 mdpl: "39-50",
 harga: "Rp475.000.000,- (Nett)",
-thumbnail: "https://img.youtube.com/vi/-1hYYeWu4W4/maxresdefault.jpg",
+thumbnail: "Turi850.jpg",
 video: "https://www.youtube.com/watch?v=-1hYYeWu4W4",
 sertifikat: "SHM (Sertifikat Hak Milik)",
 muka: "130 meter",
