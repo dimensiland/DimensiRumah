@@ -666,20 +666,6 @@ kondisi: "Tanah relatif datar, siap olah (cut & fill ringan)",
 prospek: "Sangat ideal untuk resort, villa kabin, glamping, atau investasi wisata",
 point: "View spektakuler tebing laut Samudera Hindia, sunrise, dekat JLS dan pantai-pantai populer",
 },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 ];
 
