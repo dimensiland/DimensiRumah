@@ -648,24 +648,6 @@ prospek: "Potensial untuk wisata alam, resto/cafe, villa/resort glamping mewah",
 point: "Menempel langsung dengan air terjun alami, 1 km ke Ekowisata Sungai Mudal, 17 km ke Bandara YIA, 27 km ke pusat kota Jogja",
 },
 
-{ 
-judul: "Jual Tanah Pinggir Tebing Pantai 5063m² di Pacitan Harga 475jt Net Siap Bangun Resort & Villa Cabin",
-lokasi: "Pantai Blubuk, Kelurahan Worawari, Kecamatan Kebonagung, Kabupaten Pacitan, Jawa Timur",
-luas: "5063 m² (total 2 sertifikat)",
-mdpl: "39-50",
-harga: "Rp475.000.000,- (Nett)",
-thumbnail: "Turi850.jpg",
-video: "https://www.youtube.com/watch?v=-1hYYeWu4W4",
-sertifikat: "SHM (Sertifikat Hak Milik)",
-muka: "130 meter",
-akses: "Mobil sampai lokasi, jalan resmi lebar 5 meter",
-air: "Tersedia",
-listrik: "PLN tersedia",
-lingkungan: "Asri, sejuk, tenang, vegetasi hijau alami",
-kondisi: "Tanah relatif datar, siap olah (cut & fill ringan)",
-prospek: "Sangat ideal untuk resort, villa kabin, glamping, atau investasi wisata",
-point: "View spektakuler tebing laut Samudera Hindia, sunrise, dekat JLS dan pantai-pantai populer",
-},
   
 ];
 
