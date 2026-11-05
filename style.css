@@ -5,24 +5,24 @@
    ========================================================== */
 
 :root {
-  --navy: #123a66;
-  --navy-deep: #0b2545;
-  --navy-soft: #1d5192;
-  --blue: #2f7fd1;
-  --blue-light: #6aa8e6;
-  --blue-dark: #2569b0;
-  --paper: #f3f7fc;
+  --navy: #075f9f;
+  --navy-deep: #063b68;
+  --navy-soft: #0877bd;
+  --blue: #1e87f0;
+  --blue-light: #70b7ff;
+  --blue-dark: #086fc9;
+  --paper: #f4f9ff;
   --white: #ffffff;
-  --ink: #131c2b;
-  --muted: #5a6678;
-  --line: #dbe4ef;
+  --ink: #142b40;
+  --muted: #60758a;
+  --line: #dceaf7;
 
   --font-head: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
   --font-body: "Figtree", "Segoe UI", system-ui, sans-serif;
 
-  --r-sm: 6px;
-  --r-md: 14px;
-  --shadow-card: 0 1px 2px rgba(11, 37, 69, .06), 0 12px 32px -12px rgba(11, 37, 69, .22);
+  --r-sm: 8px;
+  --r-md: 18px;
+  --shadow-card: 0 2px 8px rgba(6, 59, 104, .05), 0 16px 38px -18px rgba(6, 59, 104, .22);
   --nav-h: 76px;
 }
 
@@ -518,14 +518,14 @@ color:var(--muted);
 /* BOX */
 
 .prospek-box{
-background:#ecfeff;
+background:#eaf5ff;
 padding:12px;
 border-radius:8px;
 margin-top:10px;
 }
 
 .point-box{
-background:#f0fdf4;
+background:#f0f7ff;
 padding:12px;
 border-radius:8px;
 margin-top:10px;
@@ -726,3 +726,201 @@ margin-top:10px;
   .thumbnail-wrapper {
     aspect-ratio: 16 / 9;
   }
+
+/* ==========================================================
+   BRAND REFINEMENT — DIMENSI RUMAH
+   Palet utama mengikuti logo: #1E87F0 dan biru tua #075F9F.
+   Lapisan ini hanya menyempurnakan tampilan, tanpa mengubah
+   konten HTML maupun fungsi JavaScript.
+   ========================================================== */
+
+.navbar {
+  border-bottom-color: rgba(30, 135, 240, .14);
+  box-shadow: 0 8px 28px rgba(6, 59, 104, .07);
+}
+
+.nav-menu .nav-button,
+.nav-button,
+.hero-button,
+.maps-link,
+.whatsapp-btn {
+  background-image: linear-gradient(135deg, #1e87f0 0%, #0874cf 100%);
+}
+
+.nav-menu .nav-button:hover,
+.hero-button:hover,
+.maps-link:hover,
+.whatsapp-btn:hover {
+  background-image: linear-gradient(135deg, #0874cf 0%, #075f9f 100%);
+}
+
+.hero {
+  background-color: #063b68;
+  background-image:
+    linear-gradient(100deg, rgba(5, 48, 86, .94) 0%, rgba(6, 72, 122, .80) 58%, rgba(30, 135, 240, .36) 100%),
+    url("hero.jpg");
+}
+
+.hero-button {
+  box-shadow: 0 12px 30px -12px rgba(30, 135, 240, .85);
+}
+
+.section-title {
+  color: #075f9f;
+}
+
+.section-title::after,
+.property-head::after {
+  background: linear-gradient(90deg, #1e87f0, #70b7ff);
+  border-radius: 99px;
+}
+
+.about-box {
+  border-left-color: #1e87f0;
+  box-shadow: 0 8px 24px rgba(6, 59, 104, .045);
+}
+
+.about-box:nth-child(1) {
+  background: linear-gradient(145deg, #075f9f 0%, #063b68 100%);
+  border-left-color: #70b7ff;
+  box-shadow: 0 14px 30px rgba(6, 59, 104, .16);
+}
+
+.about-box h3,
+.about-box strong {
+  color: #075f9f;
+}
+
+.about-box:nth-child(1) h3 {
+  color: #ffffff;
+}
+
+.about-box li::before {
+  background: #1e87f0;
+  border-radius: 2px;
+}
+
+.property-search {
+  border-color: #d7e8f8;
+}
+
+.property-search:focus-within,
+.property-search:hover,
+.property-search:has(input:not(:placeholder-shown)) {
+  border-color: #1e87f0;
+  box-shadow: 0 0 0 4px rgba(30, 135, 240, .12), var(--shadow-card);
+}
+
+.search-toggle {
+  background: linear-gradient(135deg, #1e87f0, #0874cf);
+}
+
+.property-card {
+  border: 1px solid rgba(7, 95, 159, .08);
+  border-radius: 18px;
+  box-shadow: 0 8px 28px rgba(6, 59, 104, .07);
+}
+
+.property-card:hover {
+  box-shadow: 0 18px 42px -18px rgba(6, 59, 104, .28);
+}
+
+.property-content h3 {
+  color: #123b5d;
+  line-height: 1.35;
+}
+
+.price {
+  color: #0874cf;
+}
+
+.detail-item {
+  background: #f2f8ff;
+  border: 1px solid #e2effb;
+  border-radius: 10px;
+}
+
+.detail-item span {
+  color: #60758a;
+}
+
+.prospek-box,
+.point-box {
+  background: #edf6ff;
+  border: 1px solid #d9ebfc;
+  border-left: 3px solid #1e87f0;
+  color: #24445f;
+}
+
+.video-btn {
+  color: #075f9f;
+  border-color: #0874cf;
+}
+
+.video-btn:hover {
+  background: #075f9f;
+  border-color: #075f9f;
+  color: #ffffff;
+}
+
+.whatsapp-btn {
+  border-color: #1e87f0;
+}
+
+#pagination button,
+#pagination a {
+  border-radius: 10px;
+}
+
+#pagination button:hover,
+#pagination a:hover {
+  border-color: #1e87f0;
+  color: #0874cf;
+}
+
+#pagination .active,
+#pagination .current,
+#pagination button[disabled],
+#pagination [aria-current] {
+  background: #075f9f;
+  border-color: #075f9f;
+  color: #ffffff;
+}
+
+.contact-section {
+  background:
+    radial-gradient(ellipse at 85% 15%, rgba(30, 135, 240, .22), transparent 38%),
+    linear-gradient(135deg, #063b68 0%, #052f53 100%);
+}
+
+.maps-link {
+  box-shadow: 0 10px 24px rgba(30, 135, 240, .22);
+}
+
+.contact-phone a {
+  color: #8bc7ff;
+}
+
+.social-links a {
+  border-color: rgba(139, 199, 255, .35);
+}
+
+.social-links a:hover {
+  background: #1e87f0;
+  border-color: #1e87f0;
+}
+
+.footer {
+  background: #032743;
+  border-top-color: rgba(139, 199, 255, .12);
+}
+
+@media (max-width: 640px) {
+  .property-content {
+    padding: 18px;
+  }
+
+  .property-card {
+    border-radius: 14px;
+  }
+}
