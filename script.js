@@ -648,6 +648,7 @@ prospek: "Potensial untuk wisata alam, resto/cafe, villa/resort glamping mewah",
 point: "Menempel langsung dengan air terjun alami, 1 km ke Ekowisata Sungai Mudal, 17 km ke Bandara YIA, 27 km ke pusat kota Jogja",
 },
 
+//CODE DIBAWAH JANGAN DIUBAH ATAU DIUTAK ATIK 'u'
   
 ];
 
