@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "Tanah Luas 2994m² Hanya 250Rb/m Pinggir Jalan Provinsi View Lembah & Sawah Cocok Untuk Slow Living!",
+    lokasi: "Purwoharjo, Kecamatan Samigaluh, Kabupaten Kulon Progo, D.I. Yogyakarta",
+    mdpl: "217-274",
+    harga: "Rp 250.000/m,-",
+    thumbnail: "DL-274.jpg",
+    video: "https://youtu.be/pyhwllSav5k",
+    akses: "Mangku langsung jalan raya provinsi, jalur utama wisata Tumpeng Menoreh & Menoreh Rock Cabin",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berada di atas jalan 1–2 meter sehingga tidak perlu urug. Kontur tanah berupa 2 level terasiring alami yang sangat lapang, Level 1 (area depan) Datar",
+    prospek: "Sangat potensial untuk hunian masa pensiun (slow living) yang terintegrasi dengan bisnis komplek 3 unit villa premium + kolam renang/infinity pool berlatar lembah (potensi tarif sewa Rp 1 Juta – 2,5 Juta/malam dengan proyeksi passive income hingga Rp 25–50 Juta/bulan)",
+    point: "Berada di jalur utama menuju Wisata Tumpeng Menoreh & Menoreh Rock Cabin (7 km), 1 km ke Desa Wisata Tinalah, 3–4 km (5 menit) ke Teras Menoreh, Kripala Resto, dan Pasar Dekso, 7 km (10 menit) ke Perbatasan Sleman / Pasar Minggir, 15 menit ke kawasan ekosistem wisata Nanggulan (Mahaloka Paradise, Geblek Pari, Giri Manah, Niskala Lodge, Kembang Resort Menoreh, Suwantari Villa, dan Jalur Luna Maya), Sekitar 25 km (45 menit) ke Malioboro & Pusat Kota Jogja, Sekitar 35 km (1 jam) ke Bandara Internasional Yogyakarta (YIA)"
+  },
+  
+  {
     judul: "Tanah Murah 700m² View Sawah & Gunung Menoreh di Sleman | Dekat Mang Engking & Pintu Tol",
     lokasi: "Plumbon, Sendangsari, Minggir, Sleman Barat, D.I. Yogyakarta",
     mdpl: "110 - 130",
