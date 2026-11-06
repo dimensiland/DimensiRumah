@@ -12,7 +12,6 @@ const properties = [
     air: "Tersedia",
     listrik: "PLN Tersedia",
     kondisi: "Tanah subur siap bangun yang saat ini ditanami pohon pisang dan kelapa",
-    lingkungan: "Asri dengan landscape pemandangan sawah dan Pegunungan Menoreh",
     prospek: "Sangat cocok untuk konsep slow living, tempat tinggal sekaligus kantor remote, maupun dibangun menjadi 2 unit vila sebagai aset investasi (passive income)",
     point: "Memiliki pemandangan alam (view gunung & sawah) yang indah dan udara yang sangat segar, Dekat dengan pintu tol Jogja–Semarang (sekitar 7 km), Hanya 1 km dari Kantor Kecamatan Minggir, Pasar Minggir, rumah sakit, dan pom bensin, Berjarak sekitar 15 km (kurang lebih 20–30 menit) dari kawasan Malioboro, Kota Jogja"
   }
@@ -48,9 +47,9 @@ const searchIndex = properties.map(item => ({
   text: normalize([
     item.judul,
     item.lokasi,
-    item.luas,
+    item.mdpl,
     item.harga,
-    item.sertifikat
+    item.prospek
   ].join(" "))
 }));
 
