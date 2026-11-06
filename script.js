@@ -4,13 +4,10 @@ const properties=[
 {
 judul: "Tanah Murah 700m² View Sawah & Gunung Menoreh di Sleman | Dekat Mang Engking & Pintu Tol",
 lokasi: "Plumbon, Sendangsari, Minggir, Sleman Barat, D.I. Yogyakarta",
-luas: "700m²",
 mdpl: "110 - 130",
 harga: "Rp 395.000.000,-",
 thumbnail: "Minggir700m.jpg",
 video: "https://youtu.be/TxDTI_8L4QI",
-sertifikat: "SHM Sawah",
-muka: "20 Meter",
 akses: "Berjarak sekitar 20–30 meter dari jalan aspal utama, namun jalur masuk langsung menuju lokasi saat ini masih berupa tanah/jalan eksisting (disarankan untuk dicor), Berjarak sekitar 500 meter dari jalan provinsi",
 air: "Tersedia",
 listrik: "PLN Tersedia",
