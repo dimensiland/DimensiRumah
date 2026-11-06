@@ -1076,3 +1076,256 @@ body {
     font-size: .96rem;
   }
 }
+
+
+/* ==========================================================
+   RESPONSIVE PROPERTY LISTING
+   HP - TABLET - LAPTOP - DESKTOP
+   ========================================================== */
+
+/* DASAR DESKTOP */
+
+#property-list {
+  display: grid;
+  gap: 24px;
+}
+
+.property-card {
+  width: 100%;
+  min-width: 0;
+  grid-template-columns: minmax(280px, 36%) minmax(0, 1fr);
+  align-items: stretch;
+}
+
+.thumbnail-wrapper {
+  width: 100%;
+  height: 100%;
+  min-height: 260px;
+  aspect-ratio: auto;
+  overflow: hidden;
+}
+
+.thumbnail-wrapper img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.property-content {
+  min-width: 0;
+  padding: clamp(18px, 2.2vw, 28px);
+}
+
+.property-content h3 {
+  margin: 0 0 12px;
+  font-size: clamp(18px, 1.65vw, 23px);
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.price {
+  font-size: clamp(21px, 2vw, 28px);
+  line-height: 1.25;
+  margin: 0 0 16px;
+  overflow-wrap: anywhere;
+}
+
+.detail-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.detail-item {
+  min-width: 0;
+  padding: 12px 14px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+
+.detail-item strong {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.prospek-box,
+.point-box {
+  padding: 14px 16px;
+  line-height: 1.65;
+  overflow-wrap: anywhere;
+}
+
+.btn-row {
+  align-items: stretch;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.video-btn,
+.whatsapp-btn {
+  min-height: 46px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+}
+
+/* TABLET DAN LAPTOP KECIL */
+
+@media (min-width: 761px) and (max-width: 1100px) {
+
+  .container {
+    width: min(100% - 40px, 1000px);
+  }
+
+  .property-card {
+    grid-template-columns: minmax(250px, 34%) minmax(0, 1fr);
+  }
+
+  .property-content {
+    padding: 18px;
+  }
+
+  .property-content h3 {
+    font-size: 19px;
+  }
+
+  .detail-grid {
+    gap: 8px;
+  }
+
+}
+
+/* HP DAN TABLET PORTRAIT */
+
+@media (max-width: 760px) {
+
+  #property-list {
+    gap: 18px;
+  }
+
+  .property-card {
+    grid-template-columns: minmax(0, 1fr);
+    border-radius: 14px;
+  }
+
+  .thumbnail-wrapper {
+    width: 100%;
+    height: auto;
+    min-height: 0;
+    aspect-ratio: 16 / 9;
+  }
+
+  .property-content {
+    padding: 18px;
+  }
+
+  .property-content h3 {
+    font-size: clamp(18px, 4.4vw, 21px);
+    line-height: 1.35;
+  }
+
+  .price {
+    font-size: clamp(21px, 5vw, 25px);
+  }
+
+  .detail-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .detail-item {
+    padding: 10px;
+  }
+
+  .detail-item span {
+    font-size: 11px;
+  }
+
+  .detail-item strong {
+    font-size: 12px;
+  }
+
+  .prospek-box,
+  .point-box {
+    font-size: 13px;
+    padding: 12px;
+  }
+
+  .btn-row {
+    gap: 8px;
+  }
+
+  .video-btn,
+  .whatsapp-btn {
+    min-height: 44px;
+    font-size: 13px;
+    padding: 10px 8px;
+  }
+
+}
+
+/* HP KECIL */
+
+@media (max-width: 420px) {
+
+  .container {
+    width: calc(100% - 28px);
+  }
+
+  .property-content {
+    padding: 14px;
+  }
+
+  .property-content h3 {
+    font-size: 17px;
+  }
+
+  .detail-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .detail-item {
+    padding: 10px 12px;
+  }
+
+  .btn-row {
+    flex-direction: column;
+  }
+
+  .video-btn,
+  .whatsapp-btn {
+    width: 100%;
+  }
+
+  .property-head {
+    align-items: flex-start;
+  }
+
+  .property-search {
+    max-width: 100%;
+  }
+
+  .property-search:focus-within input,
+  .property-search:hover input,
+  .property-search input:not(:placeholder-shown) {
+    width: min(250px, calc(100vw - 100px));
+  }
+
+}
+
+/* MONITOR BESAR */
+
+@media (min-width: 1440px) {
+
+  .container {
+    width: min(1240px, 100% - 64px);
+  }
+
+  .property-card {
+    grid-template-columns: minmax(380px, 36%) minmax(0, 1fr);
+  }
+
+}
