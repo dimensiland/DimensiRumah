@@ -18,7 +18,7 @@ const properties = [
   }
 
   // Tambahkan data properti berikutnya di bawah ini.
-  // Jangan mengubah kode fungsi di bawah.
+  // Jangan mengubah kode fungsi di bawah by ChokyPinky, Selamat Dan Sukses.
 
 ];
 
