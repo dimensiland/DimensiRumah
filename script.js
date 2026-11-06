@@ -8,7 +8,7 @@ const properties = [
     harga: "Rp 395.000.000,-",
     thumbnail: "DL-026.jpg",
     video: "https://youtu.be/TxDTI_8L4QI",
-    akses: "Berjarak sekitar 20–30 meter dari jalan aspal utama, namun jalur masuk langsung menuju lokasi saat ini masih berupa tanah/jalan eksisting (disarankan untuk dicor), Berjarak sekitar 500 meter dari jalan provinsi",
+    akses: "Berjarak sekitar 20–30 meter dari jalan aspal utama, namun jalur masuk langsung menuju lokasi saat ini masih berupa tanah/jalan eksisting (disarankan untuk dicor)",
     air: "Tersedia",
     listrik: "PLN Tersedia",
     kondisi: "Tanah subur siap bangun yang saat ini ditanami pohon pisang dan kelapa",
