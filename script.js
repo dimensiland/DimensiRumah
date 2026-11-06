@@ -11,8 +11,8 @@ video: "https://youtu.be/TxDTI_8L4QI",
 akses: "Berjarak sekitar 20–30 meter dari jalan aspal utama, namun jalur masuk langsung menuju lokasi saat ini masih berupa tanah/jalan eksisting (disarankan untuk dicor), Berjarak sekitar 500 meter dari jalan provinsi",
 air: "Tersedia",
 listrik: "PLN Tersedia",
-lingkungan: "Asri dengan landscape pemandangan sawah dan Pegunungan Menoreh",
 kondisi: "Tanah subur siap bangun yang saat ini ditanami pohon pisang dan kelapa",
+lingkungan: "Asri dengan landscape pemandangan sawah dan Pegunungan Menoreh",
 prospek: "Sangat cocok untuk konsep slow living, tempat tinggal sekaligus kantor remote, maupun dibangun menjadi 2 unit vila sebagai aset investasi (passive income)",
 point: "Memiliki pemandangan alam (view gunung & sawah) yang indah dan udara yang sangat segar, Dekat dengan pintu tol Jogja–Semarang (sekitar 7 km), Hanya 1 km dari Kantor Kecamatan Minggir, Pasar Minggir, rumah sakit, dan pom bensin, Berjarak sekitar 15 km (kurang lebih 20–30 menit) dari kawasan Malioboro, Kota Jogja",
 },
@@ -121,11 +121,10 @@ return `
 <strong>${item.kondisi}</strong>
 </div>
 
-<div class="detail-item">
-<span>Kondisi</span>
-<strong>${item.Lingkungan}</strong>
 </div>
 
+<div class="Lingkungan-box">
+<strong>Lingkungan:</strong> ${item.lingkungan}
 </div>
 
 <div class="prospek-box">
