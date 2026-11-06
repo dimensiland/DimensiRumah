@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "MURAH! Tanah Luas 6516m² Hanya 85 Ribu/m² View Pantai & Kota Pacitan Hawa Sejuk & Sunrise Epik!",
+    lokasi: "Dusun Dadapan, Pringkulu, Kabupaten Pacitan, Jawa Timur",
+    mdpl: "214 - 249",
+    harga: "Rp 85.000/m,-",
+    thumbnail: "DL-242.jpg",
+    video: "https://youtu.be/LqwDD70thtI",
+    akses: "Jalan cor lebar 5–6 meter, hanya berjarak 100 meter dari jalan raya utama provinsi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Posisi tanah berada di atas jalan cor (bebas biaya urug, tinggal cut and fill / tata terasering), kontur bertingkat alami dengan hamparan atas yang datar",
+    prospek: "Sangat ideal untuk pengembangan komplek 10 unit resort/villa eksklusif dengan kolam renang pribadi (private pool) atau infinity pool, kafe & restoran berlatar pemandangan terbuka, area yoga & retreat alam",
+    point: "Nempel langsung dengan destinasi wisata ternama Sentono Gentong, 2 km ke Beiji Park, 3 km ke Gua Selo, 3 km turun menuju pusat Kota Pacitan, 5 km ke Museum & Galeri Seni SBY–Ani, 7 km ke Alun-Alun Pacitan, Kawasan wisata pantai Pacitan terkenal"
+  },
+  
+  {
     judul: "Tanah Luas 2994m² Hanya 250Rb/m Pinggir Jalan Provinsi View Lembah & Sawah Cocok Untuk Slow Living!",
     lokasi: "Purwoharjo, Kecamatan Samigaluh, Kabupaten Kulon Progo, D.I. Yogyakarta",
     mdpl: "217-274",
