@@ -16,8 +16,10 @@ const properties = [
     point: "Memiliki pemandangan alam (view gunung & sawah) yang indah dan udara yang sangat segar, Dekat dengan pintu tol Jogja–Semarang (sekitar 7 km), Hanya 1 km dari Kantor Kecamatan Minggir, Pasar Minggir, rumah sakit, dan pom bensin, Berjarak sekitar 15 km (kurang lebih 20–30 menit) dari kawasan Malioboro, Kota Jogja"
   }
 
-  // Tambahkan data properti berikutnya di bawah ini.
-  // Jangan mengubah kode fungsi di bawah by ChokyPinky, Selamat Dan Sukses.
+  // Tambahkan data properti berikutnya di Atas Halaman ini.
+  // Tanpa Merubah Satu Pun Huruf, Koma atau Titik Bagian Bawah.
+  // By. Choky Pinky
+  // SELAMAT DAN SUKSES
 
 ];
 
@@ -32,70 +34,109 @@ const searchClear = document.getElementById("search-clear");
 const searchInfo = document.getElementById("search-info");
 
 
-/* ---------- PENCARIAN ---------- */
+/* ---------- NORMALISASI PENCARIAN ---------- */
 
 function normalize(text) {
   return String(text || "")
     .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
     .replace(/²/g, "2")
+    .replace(/m\s*2/g, "m2")
+    .replace(/(\d)\s+(m|meter)\b/g, "$1$2")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
     .replace(/\s+/g, " ")
     .trim();
 }
 
-const searchIndex = properties.map(item => ({
-  item,
-  text: normalize([
-    item.judul,
-    item.lokasi,
-    item.mdpl,
-    item.harga,
-    item.prospek
-  ].join(" "))
-}));
+
+/* ---------- INDEKS PENCARIAN ---------- */
+
+// Mengambil seluruh informasi dari setiap properti
+const searchIndex = properties.map(item => {
+
+  const searchableText = Object.values(item)
+    .filter(value => value !== null && value !== undefined)
+    .join(" ");
+
+  return {
+    item,
+    text: normalize(searchableText)
+  };
+
+});
+
+
+/* ---------- PENCARIAN ---------- */
 
 function applySearch() {
+
   const query = normalize(searchInput.value);
   const words = query.split(" ").filter(Boolean);
 
   filtered = words.length
     ? searchIndex
-        .filter(entry => words.every(word => entry.text.includes(word)))
+        .filter(entry =>
+          words.every(word => entry.text.includes(word))
+        )
         .map(entry => entry.item)
     : properties;
 
   currentPage = 1;
+
   searchClear.hidden = !searchInput.value;
 
   searchInfo.textContent = words.length
     ? `${filtered.length} properti ditemukan untuk pencarian "${searchInput.value.trim()}"`
     : "";
 
-  renderPage(1);
+  renderPage(currentPage);
+
 }
 
+
+// Debounce pencarian agar lebih ringan
 let searchTimer;
 
 searchInput.addEventListener("input", () => {
+
   clearTimeout(searchTimer);
+
   searchTimer = setTimeout(applySearch, 250);
+
 });
 
+
+// Tombol hapus pencarian
 function clearSearch() {
+
+  clearTimeout(searchTimer);
+
   searchInput.value = "";
+
   applySearch();
+
   searchInput.focus();
+
 }
 
 searchClear.addEventListener("click", clearSearch);
 
+
+// Tombol Escape untuk menghapus pencarian
 searchInput.addEventListener("keydown", event => {
-  if (event.key === "Escape") clearSearch();
+
+  if (event.key === "Escape") {
+    clearSearch();
+  }
+
 });
 
 
 /* ---------- DETAIL PROPERTI ---------- */
 
 function generateDetail(item) {
+
   return `
     <div class="detail-grid">
 
@@ -136,53 +177,77 @@ function generateDetail(item) {
       ${item.point || "-"}
     </div>
   `;
+
 }
 
 
-/* ---------- RENDER ---------- */
+/* ---------- TAMPILAN KOSONG ---------- */
 
 function renderEmpty() {
+
   container.innerHTML = "";
+
   pagination.innerHTML = "";
 
   const box = document.createElement("div");
+
   box.className = "no-result";
 
   const message = document.createElement("p");
-  message.textContent = `Tidak ada properti untuk "${searchInput.value.trim()}".`;
+
+  message.textContent =
+    `Tidak ada properti untuk "${searchInput.value.trim()}".`;
 
   const button = document.createElement("button");
+
   button.type = "button";
+
   button.textContent = "Hapus pencarian";
+
   button.onclick = clearSearch;
 
   box.appendChild(message);
+
   box.appendChild(button);
+
   container.appendChild(box);
+
 }
 
+
+/* ---------- RENDER PROPERTI ---------- */
+
 function renderPage(page) {
+
   if (filtered.length === 0) {
+
     renderEmpty();
+
     return;
+
   }
 
   container.innerHTML = "";
 
   const start = (page - 1) * itemsPerPage;
+
   const end = start + itemsPerPage;
 
   filtered.slice(start, end).forEach((item, index) => {
+
     const card = document.createElement("div");
+
     card.className = "property-card";
 
     card.innerHTML = `
       <div class="thumbnail-wrapper">
+
         <img
           src="${item.thumbnail}"
           alt="${item.judul}"
           loading="lazy"
         >
+
       </div>
 
       <div class="property-content">
@@ -194,6 +259,7 @@ function renderPage(page) {
         ${generateDetail(item)}
 
         <div class="btn-row">
+
           <a
             href="${item.video}"
             target="_blank"
@@ -207,6 +273,7 @@ function renderPage(page) {
             rel="noopener noreferrer"
             class="whatsapp-btn"
           >Hubungi WhatsApp</a>
+
         </div>
 
       </div>
@@ -214,39 +281,68 @@ function renderPage(page) {
 
     container.appendChild(card);
 
-    setTimeout(() => card.classList.add("show"), 100 * index);
+    setTimeout(() => {
+
+      card.classList.add("show");
+
+    }, 100 * index);
+
   });
 
   renderPagination();
+
 }
 
+
+/* ---------- PAGINATION ---------- */
+
 function renderPagination() {
+
   pagination.innerHTML = "";
 
-  const totalPages = Math.ceil(filtered.length / itemsPerPage);
+  const totalPages = Math.ceil(
+    filtered.length / itemsPerPage
+  );
 
   for (let i = 1; i <= totalPages; i++) {
+
     const button = document.createElement("button");
 
     button.innerText = i;
+
     button.className = "page-btn";
 
     if (i === currentPage) {
+
       button.classList.add("active");
+
     }
 
     button.onclick = () => {
+
       currentPage = i;
+
       renderPage(i);
 
       document.getElementById("property").scrollIntoView({
+
         behavior: "smooth",
+
         block: "start"
+
       });
+
     };
 
     pagination.appendChild(button);
+
   }
+
 }
+
+
+/* ---------- INISIALISASI ---------- */
+
+searchClear.hidden = true;
 
 renderPage(currentPage);
