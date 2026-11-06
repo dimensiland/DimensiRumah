@@ -116,15 +116,11 @@ return `
 <strong>${item.air} / ${item.listrik}</strong>
 </div>
 
-<div class="detail-item">
-<span>Kondisi</span>
-<strong>${item.kondisi}</strong>
-</div>
 
 </div>
 
-<div class="Lingkungan-box">
-<strong>Lingkungan:</strong> ${item.lingkungan}
+<div class="kondisi-box">
+<strong>Kondisi:</strong> ${item.kondisi}
 </div>
 
 <div class="prospek-box">
