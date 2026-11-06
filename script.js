@@ -92,6 +92,7 @@ if(e.key==="Escape") clearSearch();
 });
 
 
+
 /* ---------- DETAIL ---------- */
 
 function generateDetail(item){
@@ -101,23 +102,13 @@ return `
 <div class="detail-grid">
 
 <div class="detail-item">
-<span>Status Sertifikat</span>
-<strong>${item.sertifikat}</strong>
-</div>
-
-<div class="detail-item">
-<span>Luasan</span>
-<strong>${item.luas}${item.mdpl ? ` | ${item.mdpl} mdpl` : ""}</strong>
-</div>
-
-<div class="detail-item">
-<span>Muka Tanah</span>
-<strong>${item.muka}</strong>
-</div>
-
-<div class="detail-item">
 <span>Lokasi</span>
 <strong>${item.lokasi}</strong>
+</div>
+
+<div class="detail-item">
+<span>Ketinggian</span>
+<strong>${item.mdpl ? `${item.mdpl} mdpl` : "-"}</strong>
 </div>
 
 <div class="detail-item">
@@ -143,11 +134,11 @@ return `
 </div>
 
 <div class="prospek-box">
-Prospek: ${item.prospek}
+<strong>Prospek:</strong> ${item.prospek}
 </div>
 
 <div class="point-box">
-Point Penting: ${item.point}
+<strong>Point Penting:</strong> ${item.point}
 </div>
 
 `;
