@@ -90,8 +90,6 @@ if(e.key==="Escape") clearSearch();
 
 
 
-/* ---------- DETAIL ---------- */
-
 function generateDetail(item){
 
 return `
@@ -114,13 +112,8 @@ return `
 </div>
 
 <div class="detail-item">
-<span>Fasilitas Air</span>
-<strong>${item.air}</strong>
-</div>
-
-<div class="detail-item">
-<span>Fasilitas Listrik</span>
-<strong>${item.listrik}</strong>
+<span>Fasilitas Air / Listrik</span>
+<strong>${item.air} / ${item.listrik}</strong>
 </div>
 
 <div class="detail-item">
