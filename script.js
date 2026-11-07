@@ -74,6 +74,51 @@ const properties = [
     kondisi: "Tanah subur siap bangun yang saat ini ditanami pohon pisang dan kelapa",
     prospek: "Sangat cocok untuk konsep slow living, tempat tinggal sekaligus kantor remote, maupun dibangun menjadi 2 unit vila sebagai aset investasi (passive income)",
     point: "Memiliki pemandangan alam (view gunung & sawah) yang indah dan udara yang sangat segar, Dekat dengan pintu tol Jogja–Semarang (sekitar 7 km), Hanya 1 km dari Kantor Kecamatan Minggir, Pasar Minggir, rumah sakit, dan pom bensin, Berjarak sekitar 15 km (kurang lebih 20–30 menit) dari kawasan Malioboro, Kota Jogja"
+  },
+
+  {
+    judul: "Tanah Sejuk Luas 1125m² Pinggir Jalan Provinsi View Bukit Menoreh Hanya 350Jt Nego",
+    lokasi: "Pagerharjo, Kecamatan Samigaluh, Kabupaten Kulon Progo",
+    mdpl: "397-413",
+    harga: "Rp 350.000.000,-",
+    thumbnail: "DL-314.jpg",
+    video: "https://youtu.be/giovo6GT67A",
+    akses: "Pinggir jalan aspal provinsi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berada di atas jalan (bagian depan sudah ditalut kokoh), akses masuk mobil sudah tersedia. Kontur bertingkat/nge-trap alami yang nyaman dan cenderung datar di bagian atas",
+    prospek: "Sangat ideal untuk hunian masa pensiun (slow living), rumah peristirahatan kedua (second home) berkonsep villa tropis/joglo/limasan maupun rumah ala Eropa modern kebun buah produktif (durian & alpukat), serta investasi aset land banking di jalur wisata berkembang",
+    point: "Seluruh KTP WNI bisa balik nama, Bagian depan sudah bertalut kokoh dan terdapat akses masuk mobil, View istimewa 360 derajat perbukitan Menoreh dengan suasana kabut alami yang dingin, 1 km ke Menoreh Rock Cabin (glamping campervan & air terjun), 2 km ke Pasar Plono, 4 km ke Destinasi Wisata Hits Tumpeng Menoreh & Kebun Teh Nglinggo, Dekat dengan fasilitas umum seperti Puskesmas Samigaluh"
+  },
+
+  {
+    judul: "Tanah Luas 1075m² SHM Pekarangan Hanya 325Juta Ada Mata Air & Aliran Sungai Dengan View Sawah!!",
+    lokasi: "Duwet, Banjarharjo, Kecamatan Kalibawang, Kabupaten Kulon Progo",
+    mdpl: "151-160",
+    harga: "Rp 325.000.000 Nett,-",
+    thumbnail: "DL-313.jpg",
+    video: "https://youtu.be/sgT_YirB-2M",
+    akses: "Jalan lingkungan selebar 4 meter, berjarak 20–30 meter dari jalan aspal desa",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berundak landai alami dengan area atas datar yang luas cukup untuk rumah owner + area parkir luas",
+    prospek: "Sangat ideal untuk hunian masa pensiun (slow living), rumah kebun keluarga, maupun bisnis 2 unit villa sewa bernuansa alam pedesaan lengkap dengan kolam renang/infinity pool, serta aset investasi capital gain menjelang beroperasinya jalan tol",
+    point: "Memiliki sumber mata air alami aktif di lokasi dan nempel aliran sungai jernih, Memiliki 2 muka akses jalan dengan view pemandangan sawah terasering tanpa halangan, 2–3 km dari rencana Gerbang/Exit Tol Banyurejo (Tempel Sleman / Tol Jogja–Bawen), 1 km ke Fasilitas Kesehatan (Klinik & Rumah Sakit), 3 km ke Warung Murakabi & Pasar Balangan, 4 km ke Wisata Religi Gua Maria Sendangsono, 5 km ke Kuliner Mang Engking Pusat Minggir, Sekitar 13–15 km (15 menit) ke Candi Borobudur, Sekitar 17 km (45 menit) ke Pusat Kota Jogja / Malioboro, Sekitar 40 km (1 jam) ke Bandara Internasional Yogyakarta (YIA)"
+  },
+
+  {
+    judul: "Jual Kavling MURAH! Di Sedayu Masih Tersedia 3 Kavling - Dekat Kota Jogja, Lingkungan Perumahan",
+    lokasi: "Gunung Polo, Argorejo, Sedayu, Yogyakarta",
+    mdpl: "87 - 99",
+    harga: "Rp 500.000/m,-",
+    thumbnail: "DL-003.jpg",
+    video: "https://youtu.be/CbaucbJXoUo",
+    akses: "Jalan Cor",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Datar",
+    prospek: "Investasi, Villa & Hunian",
+    point: "Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
   }
 
   // Tambahkan data properti berikutnya di Atas Halaman ini.
