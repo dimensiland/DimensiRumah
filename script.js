@@ -30,6 +30,21 @@ const properties = [
     prospek: "Hunian pensiun, villa/homestay passive income, integrated farming (kebun & ternak mandiri pangan), investasi jangka panjang",
     point: "3 km dari rencana Exit Tol Sentolo, 1 km dari Pasar Nanggulan & fasilitas umum (Puskesmas, Polsek, RS Nyi Ageng Serang, 2 km dari La Barka Resort & Palerenan 30 menit ke pusat Kota Jogja / Malioboro, 30–45 menit ke Bandara YIA"
   },
+
+  {
+    judul: "Tanah 4900m² Dengan Air Terjun Indah Di Daerah Wisata Payung Langit, Paralayang & Kemuning Sky",
+    lokasi: "Segorogunung, Kec. Ngargoyoso, Kabupaten Karanganyar, Jawa Tengah",
+    mdpl: "946 - 1015",
+    harga: "Rp 375.000/m,-",
+    thumbnail: "DL-247.jpg",
+    video: "https://youtu.be/3x0COow8xiE",
+    akses: "Mobil sampai lokasi (jalan cor lebar ±3 – 4,5 meter, berjarak sekitar 200 meter dari jalan aspal utama)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur alam pegunungan dengan bentang lanskap otentik, memilik kedung/kolam air alami, dan berada di kawasan camping",
+    prospek: "Sangat potensial dikembangkan menjadi Villa Privat/Resort Eksklusif, Kafe/Resto Premium, Spot Selfie, Glamping Site, atau Tempat Relaksasi/Therapy Wellness",
+    point: "Memiliki air terjun alami (waterfall) setinggi ±15 meter yang nempel di lokasi tanah dan dikelilingi 3 sisi aliran sungai yang jernih, Legalitas SHM dan transaksi sudah terikat di Notaris (hak penjualan 100% aman), ±2–3 km ke Spot Selfie Payung Langit & Jembatan Kaca Kemuning, ±3 km (10 menit) ke Wisata Paralayang, 5 km ke Candi Sukuh & Air Terjun Jumok, 8 km ke Candi Cetho, 10 km ke Grojokan Sewu"
+  },
   
   {
     judul: "Tanah Luas 2994m² Hanya 250Rb/m Pinggir Jalan Provinsi View Lembah & Sawah Cocok Untuk Slow Living!",
