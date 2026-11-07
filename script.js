@@ -15,6 +15,21 @@ const properties = [
     prospek: "Sangat ideal untuk pengembangan komplek 10 unit resort/villa eksklusif dengan kolam renang pribadi (private pool) atau infinity pool, kafe & restoran berlatar pemandangan terbuka, area yoga & retreat alam",
     point: "Nempel langsung dengan destinasi wisata ternama Sentono Gentong, 2 km ke Beiji Park, 3 km ke Gua Selo, 3 km turun menuju pusat Kota Pacitan, 5 km ke Museum & Galeri Seni SBY–Ani, 7 km ke Alun-Alun Pacitan, Kawasan wisata pantai Pacitan terkenal"
   },
+
+  {
+    judul: "Tanah Langka Nempel Sungai! Luas 1156m² Hanya 400Rb/m² di Nanggulan! Dekat Wisata Dan Exit Tol",
+    lokasi: "Rejoso, Nanggulan, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "79–125",
+    harga: "Rp 400.000/m (Net),-",
+    thumbnail: "DL-276.jpg",
+    video: "https://youtu.be/eAOHI6WsroI",
+    akses: "Jalan cor semen, mobil masuk sampai lokasi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah datar berkontur 2 trap/level terasering rata, subur, sudah ada kebun produktif (2 pohon durian lebat, kebun alpukat siap panen, 20 pohon kelapa), view sawah dan sungai jernih",
+    prospek: "Hunian pensiun, villa/homestay passive income, integrated farming (kebun & ternak mandiri pangan), investasi jangka panjang",
+    point: "3 km dari rencana Exit Tol Sentolo, 1 km dari Pasar Nanggulan & fasilitas umum (Puskesmas, Polsek, RS Nyi Ageng Serang, 2 km dari La Barka Resort & Palerenan 30 menit ke pusat Kota Jogja / Malioboro, 30–45 menit ke Bandara YIA"
+  },
   
   {
     judul: "Tanah Luas 2994m² Hanya 250Rb/m Pinggir Jalan Provinsi View Lembah & Sawah Cocok Untuk Slow Living!",
