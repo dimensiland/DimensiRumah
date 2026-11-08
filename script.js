@@ -134,6 +134,21 @@ const properties = [
     kondisi: "Datar",
     prospek: "Investasi, Villa & Hunian",
     point: "Dekat Bandara, Exit Tol Sentolo & Gamping, Kampus Mercu Buana & Universitas Muhammadiyah Yogyakarta"
+  },
+
+  {
+    judul: "Harga Terjangkau! Tanah Luas 1 Hektar Di Jogja Samping Kopi Puncak Ada Mata Air Besar Hanya 295 Rb/m",
+    lokasi: "Tegalsari, Kecamatan Girimulyo, Kabupaten Kulon Progo, D.I. Yogyakarta",
+    mdpl: "800-1000",
+    harga: "Rp 295.000/m,-",
+    thumbnail: "DL-229.jpg",
+    video: "https://youtu.be/BOn2MKUJ5BM",
+    akses: "Pinggir jalan raya utama / jalan provinsi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Bagian depan datar (sangat ideal untuk area parkir kendaraan/bus tamu), bagian tengah berundak/terasering alami (cocok untuk resort bertingkat dengan golden view masing-masing), dan area belakang sekitar 50% berkondisi datar siap bangun yang tenang dan privat",
+    prospek: "Sangat potensial untuk dibangun destinasi ikonik baru seperti Wedding Venue mewah (indoor/outdoor berhawa sejuk alami yang sedang dicari di Jogja), komplek resort/villa eksklusif, cafe & resto berkonsep taman tropis/jungle, agrowisata/avocado farm, maupun pusat retret/meditasi",
+    point: "Dari Tugu Jogja lurus ke barat tanpa belok (45 menit / 25 km), Memiliki limpahan air alami dari urat sumber mata air besar di lokasi, Bersebelahan langsung dengan Resto Kopi Puncak, 2 km ke Wisata Dreamland & Gua Kiskendo, 3 km ke Gua Maria Lawangsih, 4 km ke Gelanggang Kalilo, 5 km ke Ekowisata Taman Sungai Mudal, 6 km ke Air Terjun Kembang Soka, 10 km ke Skyline Bumiharjo & Pusat Kota Sleman (30 menit), Sekitar 1 jam ke Bandara Internasional Yogyakarta (YIA)"
   }
 
   // Tambahkan data properti berikutnya di Atas Halaman ini.
