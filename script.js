@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "Harga Terjangkau!! 150Juta Net! Tanah 425m² Samping Jalan Provinsi di Wisata Menoreh Kulon Progo",
+    lokasi: "Jl. Dekso - Samigaluh, Purwoharjo, Samigaluh, Kulon Progo, Yogyakarta",
+    mdpl: "132 - 202",
+    harga: "Rp 150.000.000 (Net),-",
+    thumbnail: "DL-239.jpg",
+    video: "https://youtu.be/Y_Tow-tdt_Q",
+    akses: "Pinggir jalan provinsi (Jalan utama Dekso ke Samigaluh)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah dengan kontur terasering (miring/turun dari jalan raya menuju arah sungai). Memerlukan penataan seperti pembuatan talut/pondasi",
+    prospek: "Sangat cocok dan strategis untuk dibangun Villa/Penginapan eksklusif karena mendapatkan ketenangan dari suara aliran sungai dan view sawah",
+    point: "Lokasi sangat strategis di pinggir jalan provinsi, hanya sekitar 4 km ke timur sudah masuk wilayah Kabupaten Sleman (Sungai Progo). Berjarak sekitar 30 menit (20-an km) dari Bandara YIA dan sekitar 15 km (40 km via rute memutar tertentu) menuju kawasan Borobudur. bagian depan nempel/mangku jalan provinsi, sementara bagian belakang langsung berbatasan dengan sungai dengan pemandangan sawah di seberangnya. Estimasi biaya untuk pembuatan talut setinggi 5-6 meter dan pengurukan tanah (sekitar 30 truk) berkisar di angka ± Rp70.000.000 untuk memaksimalkan nilai dan fungsi lahan"
+  },
+
+  {
     judul: "MURAH! Tanah Luas 6516m² Hanya 85 Ribu/m² View Pantai & Kota Pacitan Hawa Sejuk & Sunrise Epik!",
     lokasi: "Dusun Dadapan, Pringkulu, Kabupaten Pacitan, Jawa Timur",
     mdpl: "214 - 249",
