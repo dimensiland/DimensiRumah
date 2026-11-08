@@ -149,6 +149,21 @@ const properties = [
     kondisi: "Bagian depan datar (sangat ideal untuk area parkir kendaraan/bus tamu), bagian tengah berundak/terasering alami (cocok untuk resort bertingkat dengan golden view masing-masing), dan area belakang sekitar 50% berkondisi datar siap bangun yang tenang dan privat",
     prospek: "Sangat potensial untuk dibangun destinasi ikonik baru seperti Wedding Venue mewah (indoor/outdoor berhawa sejuk alami yang sedang dicari di Jogja), komplek resort/villa eksklusif, cafe & resto berkonsep taman tropis/jungle, agrowisata/avocado farm, maupun pusat retret/meditasi",
     point: "Dari Tugu Jogja lurus ke barat tanpa belok (45 menit / 25 km), Memiliki limpahan air alami dari urat sumber mata air besar di lokasi, Bersebelahan langsung dengan Resto Kopi Puncak, 2 km ke Wisata Dreamland & Gua Kiskendo, 3 km ke Gua Maria Lawangsih, 4 km ke Gelanggang Kalilo, 5 km ke Ekowisata Taman Sungai Mudal, 6 km ke Air Terjun Kembang Soka, 10 km ke Skyline Bumiharjo & Pusat Kota Sleman (30 menit), Sekitar 1 jam ke Bandara Internasional Yogyakarta (YIA)"
+  },
+
+  {
+    judul: "Tanah 1715m² Harga 8.5 Miliar Tepat Berada Di Bawah Bukit Bintang & Dekat HeHa Sky View",
+    lokasi: "Srimartani, Piyungan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
+    mdpl: "104-126",
+    harga: "Rp 8.500.000.000,-",
+    thumbnail: "DL-316.jpg",
+    video: "https://youtu.be/CCtAt8n0iJY",
+    akses: "Mangku langsung Jalan Raya Nasional/Provinsi (Jl.Jogja-Wonosari)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur datar di bagian bawah dan naik berundak/bertingkat landai ke arah bukit di bagian belakang, menyajikan panorama terbuka pemandangan perbukitan serta view lanskap Kota Jogja",
+    prospek: "Sangat potensial untuk tempat usaha komersial seperti cafe/resto tropical garden, komplek villa hijau privat dengan city view, pusat oleh-oleh khas Jogja, hunian slow living, maupun aset investasi capital gain bernilai tinggi di jalur wisata utama",
+    point: "Mangku langsung Jalan Raya Wonosari, persis di bawah kaki Bukit Bintang, pemandangan Kota Jogja, 2 km (5 menit) ke HeHa Sky View, 3,5 km (7 menit) ke The Manglung View, 5 km (7 menit) ke De Mangol Villa & Resto, 4 km (8 menit) ke Bukit Potret & spot piknik hits, 4 km (9 menit) ke Kids Fun Park, 3 km (5 menit) ke pasar tradisional dan pusat fasilitas kesehatan, 15 km (20–30 menit) ke Mall (Ambarrukmo Plaza / Pakuwon Mall Jogja), 15 km (30 menit) ke Pusat Kota Jogja & Tugu Jogja"
   }
 
   // Tambahkan data properti berikutnya di Atas Halaman ini.
