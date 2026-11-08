@@ -107,6 +107,21 @@ const properties = [
   },
 
   {
+    judul: "MURAH!! Tanah Luas 318m² Hanya 100jt Nett, Dekat Wisata Lor Tinalah Dan Goa Sriti View Bukit Menoreh",
+    lokasi: "Purwoharjo, Samigaluh, Kulon Progo, Yogyakarta",
+    mdpl: "246 – 282",
+    harga: "Rp 100.000.000 (Nett),-",
+    thumbnail: "DL-315.jpg",
+    video: "https://youtu.be/S3oRlhgvnFY",
+    akses: "5m Mobil bisa simpangan, posisi di atas jalan",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur terasering (ngetrap) landai/tidak ekstrem, bentuk tanah persegi/kotak, mudah untuk cut & fill/landscaping",
+    prospek: "Cocok untuk hunian/rumah kedua (villa/sanctuary), tempat istirahat akhir pekan, maupun investasi jangka panjang",
+    point: "Sekitar 800 meter ke Jalan Provinsi (Jalan Samigaluh), Sekitar 500 meter ke Goa Seriti,Sekitar 1 km ke Desa Wisata Tinalah, Sekitar 2 km ke Museum Sandi & Lor Tinalah, Dekat Perempatan Dekso & Resto Unagi Sleman (6 km), Sekitar 20 km ke Tugu Jogja / Malioboro, Sekitar 30 km (50 menit) ke Bandara YIA"
+  },
+
+  {
     judul: "Jual Kavling MURAH! Di Sedayu Masih Tersedia 3 Kavling - Dekat Kota Jogja, Lingkungan Perumahan",
     lokasi: "Gunung Polo, Argorejo, Sedayu, Yogyakarta",
     mdpl: "87 - 99",
