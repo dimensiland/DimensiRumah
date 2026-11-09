@@ -167,6 +167,21 @@ const properties = [
   },
 
   {
+    judul: "MURAH! Hanya 275Jt Tanah Luas 1639m² Udara Sejuk Cocok Untuk Slow Living & Kebun Buah!",
+    lokasi: "Ngepring, Purwobinangun, Kecamatan Pakem (Perbatasan Turi), Kabupaten Sleman, D.I. Yogyakarta",
+    mdpl: "723-755",
+    harga: "Rp 275.000.000,-",
+    thumbnail: "DL-312.jpg",
+    video: "https://youtu.be/lSIhfDQNo5s",
+    akses: "Akses mobil masuk lancar sampai ke lokasi, jalan aspal dan cor lingkungan",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Kontur tanah datar sempurna (jarang ada tanah berkontur rata di lereng bukit/Turi-Pakem), tanah sangat subur, saat ini sudah aktif menjadi kebun produktif (kebun salak sepanjang lahan, pohon nangka, pohon alpukat, pohon melinjo), serta menghadap panorama matahari terbenam (sunset)",
+    prospek: "Sangat ideal untuk hunian masa pensiun (slow living), rumah kebun keluarga/villa peristirahatan pribadi bernuansa alam sejuk, meneruskan kebun buah produktif (durian, alpukat, atau salak), maupun aset investasi land banking jangka panjang di koridor wisata Sleman",
+    point: "Legalitas sudah SHM utuh dengan luas 1639m², Kontur tanah datar memanjang (12 m x 150 m), hemat tanpa biaya perataan/urug, Harga super hemat hanya Rp 275 Juta Nett, Air melimpah (pralon air desa siap pakai) dan listrik sudah tersedia, Bonus tanaman produktif siap panen (salak, alpukat, nangka, melinjo), 500–600 meter (2 menit) ke Wisata Kebun Anggur Brazil / Kebun Anggur Ngepring"
+  },
+
+  {
     judul: "Tanah 1715m² Harga 8.5 Miliar Tepat Berada Di Bawah Bukit Bintang & Dekat HeHa Sky View",
     lokasi: "Srimartani, Piyungan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
     mdpl: "104-126",
