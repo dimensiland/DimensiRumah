@@ -152,6 +152,21 @@ const properties = [
   },
 
   {
+    judul: "Tanah Luas 4108m² Hanya 350rb/m!! Pekarangan Dengan Kebun Duren & Alpukat Subur Dekat Bandara YIA",
+    lokasi: "Hargomulyo, Kokap, Kabupaten Kulon Progo",
+    mdpl: "73 - 78",
+    harga: "Rp 350.000/M,-",
+    thumbnail: "DL-261.jpg",
+    video: "https://youtu.be/V4uLp711c0k",
+    akses: "Jalan beton (Mobil & motor bisa masuk sampai lokasi)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah ngetrap (terasering rapi) siap pakai, sudah terisi kebun durian (Musang King, Duri Hitam, Bawor, Tembaga) dan alpukat yang terawat & produktif. Ada gubuk petani di lokasi.",
+    prospek: "Sangat cocok untuk villa/homestay slow living, agrowisata/kebun buah produktif, maupun investasi jangka panjang mengingat lokasinya yang sangat dekat dengan Bandara YIA dan jajaran hotel berbintang.",
+    point: "5 km (± 10 Menit) ke Bandara Internasional Yogyakarta (YIA). 4 km ke Hotel Berbintang (Swiss-Belhotel, Morazen, Novotel). 1 - 1,5 km ke Pasar Tradisional (Pasar Pripih). 4 km ke Jalan Nasional / 3 km ke Jalan Kabupaten. 9 km ke Kota Wates, Stasiun Wates, & Alun-alun Wates. 34 km ke Tugu Jogja. Total 158 Pohon Buah: 80 Pohon Durian Musang King, 15 Pohon Durian Duri Hitam, 9 Pohon Durian Bawor, 3 Pohon Durian Tembaga, 48 Pohon Alpukat (Sudah belajar berbuah)"
+  },
+
+  {
     judul: "Tanah 1715m² Harga 8.5 Miliar Tepat Berada Di Bawah Bukit Bintang & Dekat HeHa Sky View",
     lokasi: "Srimartani, Piyungan, Kabupaten Bantul, Daerah Istimewa Yogyakarta",
     mdpl: "104-126",
