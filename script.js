@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "Termurah!! Luas 844m² Di Pakem Jl Kaliurang Dekat Ekosistem Wisata Terkenal Cocok Untuk Slow Living",
+    lokasi: "Purwobinangun, Pakem, Sleman, D.I. Yogyakarta",
+    mdpl: "610-624",
+    harga: "Rp 225.000.000,-",
+    thumbnail: "DL-311.jpg",
+    video: "https://youtu.be/gHUn4-tCyqQ",
+    akses: "Akses mobil sampai lokasi, lebar jalan 6 meter (mobil papasan lancar), jarak sekitar 100 meter dari jalan aspal utama",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah darat datar (hanya ada sedikit terasering kecil/galengan), tanah subur (banyak pohon nangka produktif)",
+    prospek: "Sangat cocok untuk slow living, hunian masa pensiun, berkebun di kawasan sejuk, villa/glamping, atau aset simpanan investasi wisata jangka panjang",
+    point: "Harga termurah di bawah pasaran kawasan wisata Pakem / Kaliurang. Terletak 500 meter di belakang restoran/kafe ternama (Kalluna / Cafe artis di Kaliurang) Sekitar 5 menit dari Jalan Kaliurang. Berada di ekosistem wisata: Dekat Glamping Merapi (1 km), HeHa Forest (3 km), Museum Ullen Sentalu (3 km), Kalyana Resort (3 km)"
+  },
+  
+  {
     judul: "Harga Terjangkau!! 150Juta Net! Tanah 425m² Samping Jalan Provinsi di Wisata Menoreh Kulon Progo",
     lokasi: "Jl. Dekso - Samigaluh, Purwoharjo, Samigaluh, Kulon Progo, Yogyakarta",
     mdpl: "132 - 202",
