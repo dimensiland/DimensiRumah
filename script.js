@@ -2,12 +2,27 @@
 const properties = [
 
   {
+    judul: "Hanya 350 Juta! Tanah Luas 953m² Mangku Jalan Bedah Menoreh, Bonus Kebun Kopi & Cokelat Produktif",
+    lokasi: "Sebrangkidul, Purwosari, Girimulyo, Kulon Progo",
+    mdpl: "771 - 786",
+    harga: "Rp 350.000.000,-",
+    thumbnail: "DL-222.jpg",
+    video: "https://youtu.be/pmdTVxYBrCM",
+    akses: "Pinggir Jalan Provinsi (Jalur Bedah Menoreh / Raya Godean - Purworejo)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah 2 level (level jalan untuk parkir & level bawah datar siap bangun), full tanaman produktif (Kopi Arabika, Cokelat, Pisang, Kelapa)",
+    prospek: "Sangat cocok untuk Rumah Pensiun, Villa Slow Living, Kebun Organik, atau Investasi Aset",
+    point: "Lokasi sangat strategis di pinggir jalan utama, dekat dengan berbagai destinasi wisata seperti Kopi Puncak, Menoreh Dreamland, Gua Kiskendo, dan Ekowisata Sungai Mudal. Hasil panen kopi rata-rata di atas 100kg per tahun"
+  },
+  
+  {
     judul: "HANYA 220 JUTA! Tanah SHM Pekarangan 413m² di Jalur Wisata Nanggulan View Sawah & Gunung MenorehHANYA 220 JUTA! Tanah SHM Pekarangan 413m² di Jalur Wisata Nanggulan View Sawah & Gunung Menoreh",
     lokasi: "Lengkong, Donomulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
     mdpl: "100-102",
     harga: "Rp 220.000.000,-",
     thumbnail: "DL-281.jpg",
-    video: "https://youtu.be/fsqRl6Ya9Fk",
+    video: "https://youtu.be/w6umwmxrrqY",
     akses: "Mobil Sampai Lokasi, Hanya 100 meter dari Jalan Provinsi",
     air: "Tersedia",
     listrik: "PLN Tersedia",
