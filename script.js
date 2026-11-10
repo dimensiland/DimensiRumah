@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "HANYA 220 JUTA! Tanah SHM Pekarangan 413m² di Jalur Wisata Nanggulan View Sawah & Gunung MenorehHANYA 220 JUTA! Tanah SHM Pekarangan 413m² di Jalur Wisata Nanggulan View Sawah & Gunung Menoreh",
+    lokasi: "Lengkong, Donomulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "100-102",
+    harga: "Rp 220.000.000,-",
+    thumbnail: "DL-281.jpg",
+    video: "https://youtu.be/fsqRl6Ya9Fk",
+    akses: "Mobil Sampai Lokasi, Hanya 100 meter dari Jalan Provinsi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah datar siap bangun, pemandangan terbuka langsung menghadap sawah terasering hijau dan deretan Perbukitan Menoreh tanpa halangan",
+    prospek: "Sangat ideal untuk hunian slow living, kebun produktif, komplek 2 unit villa privat untuk passive income, maupun tabungan investasi jangka panjang",
+    point: "100 meter dari Jalan Raya Provinsi, 3 km ke Rencana Pintu Exit Tol Sentolo, 1 km ke Omah Cantrik & Rumah Rindu, 3 km ke Labarka Villa & Resto, Villa Norwegia, dan Swarna Padi Villa, 4 km ke Waza Villa Laksari, 5 km ke Kembang Resort Menoreh, 5 km ke Perbatasan Sleman / Jalur Masuk Kota Jogja, 500 meter ke Ndalem Palerenan"
+  },
+  
+  {
     judul: "Termurah!! Luas 844m² Di Pakem Jl Kaliurang Dekat Ekosistem Wisata Terkenal Cocok Untuk Slow Living",
     lokasi: "Purwobinangun, Pakem, Sleman, D.I. Yogyakarta",
     mdpl: "610-624",
