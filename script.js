@@ -15,6 +15,21 @@ const properties = [
     prospek: "Sangat cocok untuk Rumah Pensiun, Villa Slow Living, Kebun Organik, atau Investasi Aset",
     point: "Lokasi sangat strategis di pinggir jalan utama, dekat dengan berbagai destinasi wisata seperti Kopi Puncak, Menoreh Dreamland, Gua Kiskendo, dan Ekowisata Sungai Mudal. Hasil panen kopi rata-rata di atas 100kg per tahun"
   },
+
+  {
+    judul: "TURUN HARGA JADI 150 JUTA! Tanah Luas 1400m² View Pegunungan Menoreh Samigaluh, SHM Siap Huni",
+    lokasi: "Bangunrejo, Purwoharjo, Samigaluh, Kulon Progo",
+    mdpl: "427 - 460",
+    harga: "Rp 150.000.000 (Turun Harga),-",
+    thumbnail: "DL-181.jpg",
+    video: "https://youtu.be/H0GRhu6KdxQ",
+    akses: "Jalan cor, mobil sampai lokasi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur terasering, saat ini ditanami ketela dan pisang, siap diolah untuk hunian/kebun",
+    prospek: "Cocok untuk hunian slow living, rumah singgah, villa, maupun kebun buah (durian/alpukat) di kawasan berkembang",
+    point: "Dekat kawasan wisata unggulan Kulon Progo (±3 km dari Air Terjun Sidoharjo, dekat Tumpeng Menoreh, Teras Menoreh, Resto, dan Paralayang Giri Sembung Kaliwang), Dekat fasilitas umum (±5 km dari Pasar Boro), Akses mudah: hanya ±6-7 km dari batas Sleman (Minggir), ±45 menit ke Kota Jogja (Malioboro), dan ±45-60 menit ke Bandara YIA, Jaringan listrik dan air sudah masuk ke lokasi"
+  },
   
   {
     judul: "HANYA 220 JUTA! Tanah SHM Pekarangan 413m² di Jalur Wisata Nanggulan View Sawah & Gunung MenorehHANYA 220 JUTA! Tanah SHM Pekarangan 413m² di Jalur Wisata Nanggulan View Sawah & Gunung Menoreh",
