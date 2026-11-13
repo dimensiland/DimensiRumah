@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "HANYA 295 JUTA! Luas 1377m² Samping Sungai Progo, Dekat Jalan Provinsi, Geblek Pari & Kota Jogja!",
+    lokasi: "Kembang, Nanggulan, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "89-103",
+    harga: "Rp 295.000.000,-",
+    thumbnail: "DL-317.jpg",
+    video: "https://youtu.be/4vrdGuD_Dzk",
+    akses: "Jalan cor/aspal mobil masuk (hanya ± 80–100 meter dari jalan provinsi Kenteng - Dekso)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur terasering alami; bagian depan relatif datar (cocok untuk parkir mobil & bangunan utama), bagian belakang melandai langsung menghadap aliran Sungai Progo",
+    prospek: "Sangat potensial untuk private villa, retreat center, resto/cafe nuansa alam, rumah kebun slow living, maupun investasi land banking mengingat Nanggulan berkembang pesat sebagai kawasan wisata dan dekat rencana exit tol",
+    point: "Harga sangat terjangkau (di bawah Rp 300 juta untuk luas 1.300+ m² ber-SHM Pekarangan). Posisi lahan langsung borderless dengan Sungai Progo (riverfront view). Akses cepat ke jalur wisata Nanggulan (Geblek Pari, Kopi Ampirono, dll.) dan jalan provinsi. Legalitas aman dan siap proses balik nama"
+  },
+  
+  {
     judul: "MURAH! Tanah Luas 850m² Harga 250jt! Istimewa Bisa Bayar Bertahap Dekat Wisata Kaliurang Dan UII",
     lokasi: "Dusun Ngandong, Kalurahan Girikerto, Kapanewon Turi, Kabupaten Sleman, D.I. Yogyakarta",
     mdpl: "813 - 825",
