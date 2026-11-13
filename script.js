@@ -15,6 +15,21 @@ const properties = [
     prospek: "Sangat ideal untuk rumah tinggal keluarga, rumah masa pensiun, tempat singgah mahasiswa, dibagi menjadi 2 kavling rumah, maupun instrumen investasi jangka panjang dekat kota Jogja",
     point: "1 km ke Pasar Ngijon, 1,5 km ke Sekolah Modern Bina Umat & Sendang, Jatiningsih, 2 km dari Outer Ring Road Jogja, Dekat Kawasan Wisata Studio Alam Gamplong, 15 Menit (5 – 8 km) ke Pintu Tol Gamping, Kampus Terpadu UMY, & Al-Azhar Ring Road Barat, 30 Menit ke Kawasan Tugu Jogja & Malioboro, 30 – 45 Menit ke Kampus UGM Yogyakarta, 45 Menit ke Bandara Internasional Yogyakarta (YIA / Wates)"
   },
+
+  {
+    judul: "Villa 600m² Mewah Private Pool View Sawah Di Nanggulan 30 Menit Ke Malioboro & Dekat Bandara YIA",
+    lokasi: "Kemiri, Wijimulyo, Nanggulan, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "68-94",
+    harga: "Rp 1.850.000.000,-",
+    thumbnail: "DL-211.jpg",
+    video: "https://youtu.be/XQ6hAsCbFsM",
+    akses: "Berada di pinggir jalan lingkungan (Jalan Setapak warga), berjarak hanya 200 meter dari jalan provinsi dan sekitar 3 km dari rencana pintu tol Sentolo",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Properti ditawarkan dengan konsep inden/rencana pembangunan Vila Nanggulan Joglo (berkonsep tradisional kontemporer/Jawa-modern yang memadukan unsur etnik khas Jogja dengan sentuhan minimalis bersih). Desain 3D dan gambar kerja sudah siap dieksekusi setelah kesepakatan",
+    prospek: "Sangat potensial sebagai investasi properti, vila komersial/persewaan, tempat istirahat pribadi, maupun tempat singgah pariwisata karena lokasinya strategis di area berkembang Yogyakarta Barat",
+    point: "Hanya 30 menit ke Malioboro (sekitar 15-18 km) dan 35 menit ke Bandara YIA (sekitar 25 km), Dekat dengan berbagai destinasi kuliner dan resort ternama seperti Resto La Barca (2 km), Rumah Rindu (3 km), The Palerenan (2 km), Mahaloka (7 km), dan Studio Alam Gamplong (7 km), Tata ruang vila privat dilengkapi dengan fasilitas area parkir untuk 3 mobil"
+  },
   
   {
     judul: "Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
