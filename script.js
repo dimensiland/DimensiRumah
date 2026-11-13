@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "MURAH! Tanah Luas 850m² Harga 250jt! Istimewa Bisa Bayar Bertahap Dekat Wisata Kaliurang Dan UII",
+    lokasi: "Dusun Ngandong, Kalurahan Girikerto, Kapanewon Turi, Kabupaten Sleman, D.I. Yogyakarta",
+    mdpl: "813 - 825",
+    harga: "Rp 250.000.000,-",
+    thumbnail: "DL-078.jpg",
+    video: "https://youtu.be/uLq8RudFPzU",
+    akses: "Jalan utama aspal, masuk sekitar 40–50 meter via jalan lingkungan selebar ±4,5–5 meter yang disediakan oleh penjual",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah datar",
+    prospek: "Sangat ideal untuk pembangunan Villa / Homestay / Penginapan (bisa dibuat 1–2 unit villa untuk opsi 850 m², atau 3–4 unit villa untuk opsi 1800 m²), tempat pensiun/hunian pribadi, maupun investasi",
+    point: "Bisa dicicil / bertahap hingga 6 kali atau 2 kali bayar, Akses jalan selebar 4,5–5 meter dibuatkan khusus menuju lokasi dan diproses sertifikatnya di notaris, Dekat berbagai objek wisata & villa di area Turi/Kaliurang (Kawasan Wisata Duren Manding ±3 km, Villa Utara ±3 km, Villa Joglo Pawang ±6 km, Griya Persada ±5 km)"
+  },
+  
+  {
     judul: "Tanah MURAH! Luas 381m² Hanya 230Juta di Jl Godean KM15 Sleman Dekat Kota Jogja Dan Kampus Ternama",
     lokasi: "Sejati, Sumberarum, Moyudan, Jl. Godean KM 15, Sleman",
     mdpl: "81-85",
