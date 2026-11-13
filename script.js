@@ -2,6 +2,36 @@
 const properties = [
 
   {
+    judul: "Tanah MURAH! Luas 381m² Hanya 230Juta di Jl Godean KM15 Sleman Dekat Kota Jogja Dan Kampus Ternama",
+    lokasi: "Sejati, Sumberarum, Moyudan, Jl. Godean KM 15, Sleman",
+    mdpl: "81-85",
+    harga: "Rp 230.000.000,-",
+    thumbnail: "DL-066.jpg",
+    video: "https://youtu.be/95GHk44gjFg",
+    akses: "Jalan cor lebar ± 5 meter, mobil leluasa simpangan sampai lokasi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah datar asli, tanah subur, siap bangun untuk 1 hingga 2 rumah",
+    prospek: "Sangat ideal untuk rumah tinggal keluarga, rumah masa pensiun, tempat singgah mahasiswa, dibagi menjadi 2 kavling rumah, maupun instrumen investasi jangka panjang dekat kota Jogja",
+    point: "1 km ke Pasar Ngijon, 1,5 km ke Sekolah Modern Bina Umat & Sendang, Jatiningsih, 2 km dari Outer Ring Road Jogja, Dekat Kawasan Wisata Studio Alam Gamplong, 15 Menit (5 – 8 km) ke Pintu Tol Gamping, Kampus Terpadu UMY, & Al-Azhar Ring Road Barat, 30 Menit ke Kawasan Tugu Jogja & Malioboro, 30 – 45 Menit ke Kampus UGM Yogyakarta, 45 Menit ke Bandara Internasional Yogyakarta (YIA / Wates)"
+  },
+  
+  {
+    judul: "Tanah Pekarangan 442m² Harga 85 Juta Net - Dekat Pasar Hewan, Dingin & Sejuk di Atas Gunung",
+    lokasi: "Pandanrejo, Kaligesing (Dekat perbatasan Kulonprogo/Menoreh), terletak di selatan Pasar Hewan Kaligesing",
+    mdpl: "730 - 744",
+    harga: "Rp 85.000.000,-",
+    thumbnail: "DL-013.jpg",
+    video: "https://youtu.be/UC99mO5u3d8",
+    akses: "Sangat dekat dengan jalan provinsi (sekitar 70 meter). Saat ini akses ke lokasi berupa jalan resmi yang belum dicor, namun bisa dilewati kendaraan",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah datar di atas gunung",
+    prospek: "Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
+    point: "Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
+  },
+  
+  {
     judul: "Hanya 350 Juta! Tanah Luas 953m² Mangku Jalan Bedah Menoreh, Bonus Kebun Kopi & Cokelat Produktif",
     lokasi: "Sebrangkidul, Purwosari, Girimulyo, Kulon Progo",
     mdpl: "771 - 786",
