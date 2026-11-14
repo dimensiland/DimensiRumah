@@ -7,7 +7,7 @@ const properties = [
     mdpl: "119 - 121",
     harga: "Rp 150.000.000,-",
     thumbnail: "DL-228.jpg",
-    video: " ",
+    video: "https://youtu.be/OFHJRe5oxf8",
     akses: "Masuk satu mobil (belum bisa simpangan), berjarak sekitar 70–100 meter dari jalan besar/jalan aspal utama kabupaten",
     air: "Tersedia",
     listrik: "PLN Tersedia",
