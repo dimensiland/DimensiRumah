@@ -43,7 +43,7 @@ const properties = [
     listrik: "PLN Tersedia",
     kondisi: "Tanah dengan kontur terasering, bagian atas datar dengan view 360 derajat",
     prospek: "Sangat potensial untuk dibangun resort, villa mewah, atau kafe eksklusif mengingat tingginya kunjungan wisatawan (5.000-10.000 pengunjung di akhir pekan)",
-    point: "Berjarak hanya ± 20 menit (12 km) sebelum masuk Kota Pacitan. View ikonik "Raja Ampat-nya Pacitan" (Pantai Kasap). Lokasi sangat strategis untuk investasi jangka panjang karena ekosistem wisata yang sudah terbentuk"
+    point: "Berjarak hanya ± 20 menit (12 km) sebelum masuk Kota Pacitan. View ikonik Raja Ampat-nya Pacitan (Pantai Kasap). Lokasi sangat strategis untuk investasi jangka panjang karena ekosistem wisata yang sudah terbentuk"
   },
 
   {
