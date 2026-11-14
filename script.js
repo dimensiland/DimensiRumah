@@ -7,7 +7,7 @@ const properties = [
     mdpl: "89-103",
     harga: "Rp 295.000.000,-",
     thumbnail: "DL-317.jpg",
-    video: "https://youtu.be/4vrdGuD_Dzk",
+    video: "https://youtu.be/G1afSC07qGI",
     akses: "Jalan cor/aspal mobil masuk (hanya ± 80–100 meter dari jalan provinsi Kenteng - Dekso)",
     air: "Tersedia",
     listrik: "PLN Tersedia",
