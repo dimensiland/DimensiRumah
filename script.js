@@ -2,6 +2,96 @@
 const properties = [
 
   {
+    judul: "Harga Terjangkau Hanya 150 Juta Dapat Tanah Luas 274m² SHM Pekarangan di Godean! Siap Bangun Rumah",
+    lokasi: "Sidoarjo, Godean, Sleman, DI Yogyakarta",
+    mdpl: "119 - 121",
+    harga: "Rp 150.000.000,-",
+    thumbnail: "DL-228.jpg",
+    video: " ",
+    akses: "Masuk satu mobil (belum bisa simpangan), berjarak sekitar 70–100 meter dari jalan besar/jalan aspal utama kabupaten",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkondisi agak masuk ke bawah (bekas dikeduk untuk bahan genteng oleh pemilik sebelumnya), sehingga membutuhkan urukan tanah agar rata dengan jalan",
+    prospek: "Sangat cocok untuk investasi jangka panjang, dijadikan rumah tinggal pertama, ataupun tempat usaha/kursus karena lokasinya hanya berjarak 13 km (sekitar 20 menit) dari kawasan Malioboro",
+    point: "Harga sangat terjangkau di bawah pasar untuk luasan hampir 300 m² di area Godean, Estimasi biaya pengurukan tanah agar rata sekitar Rp10 juta (menggunakan sekitar 20 truk tanah), namun bisa disiasati dengan biaya lebih hemat (sekitar Rp3 juta) jika membeli tanah uruk dari tetangga sebelah menggunakan sewa alat berat/bego, Fasilitas umum terdekat mencakup Pasar Kliwonan yang berjarak hanya sekitar 500 meter"
+  },
+
+  {
+    judul: "MURAH!! Tanah Luas 1250m² Pinggir Jalan Provinsi Di Ekosistem Wisata Cuma 375Jt! Cocok Untuk Villa",
+    lokasi: "Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "560-571",
+    harga: "Rp 375.000.000,-",
+    thumbnail: "DL-291.jpg",
+    video: "https://youtu.be/SYIr8MtxbXA",
+    akses: "Mangku langsung jalan raya provinsi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah relatif datar (hanya naik 1 meter dari jalan provinsi, mudah ditata), terdapat kebun tanaman kakao/cokelat, depan pemandangan alam hijau (jungle), dan bagian belakang menyajikan pemandangan terbuka (view) Kota Jogja serta perbukitan Menoreh",
+    prospek: "Sangat ideal untuk hunian masa pensiun (slow living), perpaduan rumah tinggal & villa kabin (passive income), resto/cafe pinggir jalan, maupun aset investasi jangka panjang di jalur Bedah Menoreh",
+    point: "Nempel persis di depan pintu masuk Wisata Air Terjun Kembang Soka, Hanya 500 meter ke Ekowisata Sungai Mudal, Hanya 1 km ke Ekowisata Sungai Mudal & Skyline Bumarjuki, Hanya 2 km ke Menoreh Dreamland & Omah Trava, Hanya 3 km ke Glamping Kalilo, Hanya 5 km ke Leno Villa Menoreh, Hanya 9 km ke Praboe Resort, Hanya 15 km ke sentra kuliner hits Menoreh"
+  },
+
+  {
+    judul: "Raja Ampat Di Pacitan – Luas 1480m² Hanya 475 Juta! Tanah Paradise Dengan View Pantai Dan Laut",
+    lokasi: "Dekat Pantai Kasap & Puncak Kasap, Pacitan, Jawa Timur",
+    mdpl: "30-40",
+    harga: "Rp 475.000.000,-",
+    thumbnail: "DL-267.jpg",
+    video: "https://youtu.be/pVGj7Q1Xp0Q",
+    akses: "Jalan konblok, sangat memadai untuk kendaraan roda empat",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah dengan kontur terasering, bagian atas datar dengan view 360 derajat",
+    prospek: "Sangat potensial untuk dibangun resort, villa mewah, atau kafe eksklusif mengingat tingginya kunjungan wisatawan (5.000-10.000 pengunjung di akhir pekan)",
+    point: "Berjarak hanya ± 20 menit (12 km) sebelum masuk Kota Pacitan. View ikonik "Raja Ampat-nya Pacitan" (Pantai Kasap). Lokasi sangat strategis untuk investasi jangka panjang karena ekosistem wisata yang sudah terbentuk"
+  },
+
+  {
+    judul: "CUMA 220 JUTA NETT! Tanah SHM 1416m² di Bawah Tumpeng Menoreh & UFO Resto Siap Bangun Villa Mewah",
+    lokasi: "Desa Ngargoretno, Magelang Regency, Central Java",
+    mdpl: "825 - 860",
+    harga: "Rp 220.000.000,-",
+    thumbnail: "DL-241.jpg",
+    video: "https://youtu.be/XWxY8unHwB4",
+    akses: "Lebar 4 meter, sudah jalan cor beton (akses mobil lancar sampai ke lokasi lahan)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Sebagian tanah sudah datar bersih, sebagian lagi rimbun oleh vegetasi ringan (bambu/ranting pohon) yang jika dirapikan akan langsung membuka pemandangan view lepas 180 derajat",
+    prospek: "Sangat potensial untuk dibangun villa komersial (passive income), rumah peristirahatan pribadi/masa pensiun, atau investasi properti karena berada di dalam ekosistem wisata yang sudah jadi dan terus berkembang.",
+    point: "Menyuguhkan pemandangan spektakuler 180 derajat ke arah Kota Jogja, Gunung Merapi, Gunung Merbabu, Gunung Sumbing, dan Gunung Sindoro. Berlokasi tepat di bawah kawasan wisata Tumpeng Menoreh, tidak jauh dari Kebun Teh Nglingo, Rock Cabin (sekitar 3 km), dan berada persis di atas objek wisata UFO Resto yang terlihat langsung dari lahan."
+  },
+
+  {
+    judul: "TANAH MURAH 125 JUTA! Luas 1435m² Full Tanaman Buah & Durian di Kalibawang Lokasi di Kaki Gunung",
+    lokasi: "Dusun Boro, Banjarasri, Kalibawang, Kulon Progo Dekat Rumah Sakit Santo Yusup",
+    mdpl: "216 - 221",
+    harga: "Rp 125.000.000,-",
+    thumbnail: "DL-182.jpg",
+    video: "https://youtu.be/QEVENmaz-JU",
+    akses: "Jalan setapak yang bisa dilalui motor hingga ke lokasi. Dari jalan aspal utama hanya berjarak sekitar 100 meter",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berbentuk terasering lebar (sekitar 3-4 level) dengan kondisi tanah yang subur",
+    prospek: "Sangat cocok untuk dijadikan kebun buah produktif (khususnya durian premium) atau Family Garden, Cocok untuk dibangun Saung atau Rumah Limasan sebagai tempat peristirahatan keluarga di akhir pekan (Rumah Kedua), Investasi aset pangan mandiri untuk masa depan",
+    point: "Di lokasi sudah terdapat pohon durian (usia 10 tahun), pohon petai, kelapa (sekitar 15 pohon), aren, jati, dan mahoni, Lokasi diapit oleh dua aliran air/sungai, memberikan suasana tenang dengan suara gemericik air, Hanya berjarak sekitar 1-2 km dari perempatan Dekso dan sekitar 45 menit dari pusat Kota Yogyakarta"
+  },
+
+  {
+    judul: "Tanah Luas 1355m² SHM Pekarangan Ada Sumber Mata Air Alami di Kaki Gunung Menoreh Hanya 175 Juta Net",
+    lokasi: "Balong, Banjarsari, Kecamatan Samigaluh, Kabupaten Kulon Progo, D.I. Yogyakarta ",
+    mdpl: "448-488",
+    harga: "Rp 175.000.000,-",
+    thumbnail: "DL-305.jpg",
+    video: "https://youtu.be/j5oaLBUxgsQ",
+    akses: "Kampung cor/aspal, mobil masuk sampai ke lokasi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berada di atas jalan 1,2 meter sehingga tidak perlu urug/urukan, sekitar 70%–80% berkondisi datar siap bangun (hanya perlu perataan ringan), area depan ideal untuk carport/parkir, sisa terasering ",
+    prospek: "Sangat ideal untuk hunian masa pensiun (slow living), rumah kayu/limasan/joglo, villa tropis peristirahatan keluarga, kebun buah durian/alpukat produktif, maupun aset investasi land banking dengan modal sangat hemat",
+    point: "Memiliki akses sumber mata air alami di samping lahan, Pembayaran fleksibel (bisa dirembuk bertahap), 2 km ke Balai Bungah Glamping, 5 km ke sentra kuliner Kopi Ingkar Janji, 8 km ke Niskala Lodge, Geblek Pari, Mahaloka Paradise, dan Girimanah Resto, 10 km ke Menoreh Rock Cabin, 10 km (20 menit) ke Pusat Kota Sleman, 12 km ke Destinasi Wisata Tumpeng Menoreh, Sekitar 25 km (45 menit) ke Kawasan Malioboro & Pusat Kota Jogja, Sekitar 36 km (1 jam) ke Bandara Internasional Yogyakarta (YIA)"
+  },
+  
+  {
     judul: "HANYA 295 JUTA! Luas 1377m² Samping Sungai Progo, Dekat Jalan Provinsi, Geblek Pari & Kota Jogja!",
     lokasi: "Kembang, Nanggulan, Kulon Progo, D.I. Yogyakarta",
     mdpl: "89-103",
