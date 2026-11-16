@@ -17,6 +17,21 @@ const properties = [
   },
 
   {
+    judul: "TURUN HARGA! Tanah 2086m² Hanya 75Jt di Kulon Progo Cocok Untuk Kebun Investasi Masa Depan di Jogja",
+    lokasi: "Giripurwo, Girimulyo, Kulon Progo (Jogja Barat), dekat dengan area Wisma Pancoran dan Jogja Stay",
+    mdpl: "291 - 323",
+    harga: "Rp 75.000.000,-",
+    thumbnail: "DL-007.jpg",
+    video: "https://youtu.be/Hk6K3P5no4Q",
+    akses: "Jalan Cor (saat ini baru akses motor sampai lokasi)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Datar Terasesing",
+    prospek: "Cocok untuk kebun produktif, atau investasi jangka panjang",
+    point: "Hanya Rp75 juta untuk luas tanah lebih dari 2000m² di wilayah Jogja, Sekitar 7 km dari pintu Tol Sentolo dan 2 km dari pusat Kecamatan Girimulyo"
+  },
+
+  {
     judul: "MURAH!! Tanah Luas 1250m² Pinggir Jalan Provinsi Di Ekosistem Wisata Cuma 375Jt! Cocok Untuk Villa",
     lokasi: "Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
     mdpl: "560-571",
