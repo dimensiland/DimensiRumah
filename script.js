@@ -135,6 +135,21 @@ const properties = [
     prospek: "Sangat potensial untuk private villa, retreat center, resto/cafe nuansa alam, rumah kebun slow living, maupun investasi land banking mengingat Nanggulan berkembang pesat sebagai kawasan wisata dan dekat rencana exit tol",
     point: "Harga sangat terjangkau (di bawah Rp 300 juta untuk luas 1.300+ m² ber-SHM Pekarangan). Posisi lahan langsung borderless dengan Sungai Progo (riverfront view). Akses cepat ke jalur wisata Nanggulan (Geblek Pari, Kopi Ampirono, dll.) dan jalan provinsi. Legalitas aman dan siap proses balik nama"
   },
+
+  {
+    judul: "Jual Tanah View  Air Terjun Mangku Sungai Luas 2187m², Cocok Untuk Glamping Atau Slow Living",
+    lokasi: "Ngetak, Pagerharjo, Samigaluh, Kulon Progo (Jogja Barat / Kawasan Perbukitan Menoreh)",
+    mdpl: "389 - 420",
+    harga: "Rp 325.000.000,-",
+    thumbnail: "DL-293.jpg",
+    video: "https://youtu.be/DMPspdOHCNY",
+    akses: "Berjarak 30 meter dari jalan aspal utama (bisa dibeli akses tanah jalan langsung tembus mobil sampai lokasi)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Kontur tanah berundak/terasering alami dengan bagian atas datar, Nempel, langsung dengan aliran sungai berbatu eksotis, Menghadap langsung ke view Air Terjun Cibiru dengan beberapa tingkatan grojogan air terjun alami",
+    prospek: "Sangat potensial untuk dibangun Villa / Resort bernuansa alam tropis, Wisata kuliner / Resto alam, Glamping, atau tempat healing / retreat pribadi, Nilai investasi tinggi karena berada di zona segitiga emas wisata Menoreh - Borobudur - YIA",
+    point: "View langsung Air Terjun Cibiru & menempel langsung dengan sungai berair jernih, Mata air melimpah sepanjang tahun, tidak pernah kering walau puncak musim kemarau, Harga sangat terjangkau (hanya Rp325 Juta untuk luasan 2187 m² bersertifikat SHM Tegalan di Jogja)"
+  },
   
   {
     judul: "MURAH! Tanah Luas 850m² Harga 250jt! Istimewa Bisa Bayar Bertahap Dekat Wisata Kaliurang Dan UII",
