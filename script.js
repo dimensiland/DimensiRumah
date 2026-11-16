@@ -32,6 +32,21 @@ const properties = [
   },
 
   {
+    judul: "Tanah Luas 2175m² View Sawah & Kota Jogja Di Kawasan Wisata Villa & Resto Hanya 275 Jt",
+    lokasi: "Pendoworejo, Kecamatan Girimulyo, Kabupaten Kulon Progo, D.I. Yogyakarta",
+    mdpl: "190-220",
+    harga: "Rp 275.000.000,-",
+    thumbnail: "DL-045.jpg",
+    video: "https://youtu.be/2qCKT0Im6xk",
+    akses: "Jalan cor beton lingkungan, hanya 200 meter dari jalan raya provinsi, mobil leluasa dan lancar masuk",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur terasering alami dari ketinggian 1,5 meter di atas jalan memanjang ke atas, mudah ditata tanpa perlu urug (cukup dikepras untuk area parkir 6–7 mobil di bawah, rumah owner di tengah, dan komplek 5 unit villa bertingkat di atas dengan golden view masing-masing)",
+    prospek: "Sangat potensial untuk dibangun komplek 5 unit villa sewa bernuansa alam (konsep bebatuan, kaca, dan kayu dengan private pool view sawah; potensi passive income puluhan juta per bulan), hunian masa pensiun (slow living), rumah kebun, maupun investasi land banking sebelum harga tanah sekitar melonjak",
+    point: "Skema pembayaran sangat ringan: bisa dicicil/tempo hingga 6 kali (6 bulan), 300 meter ke Villa Swarna Padi & area pembangunan villa premium sekitarnya, 500 meter ke Iwak Kalen Janti & Rumah Rindu, 1 km ke Wiswa Pancoran, 1,5 km ke sentra kuliner hits Menoreh Kopi Ingkar Janji, Kopi Ampirono, Geblek Pari, dan Girimanah Resto, 2 km ke Waza Villa Luxury, 3 km ke Kembang Resort Menoreh & Niskala Lodge, 5 km ke Villa Norwegia & Omah Cantrik"
+  },
+
+  {
     judul: "MURAH!! Tanah Luas 1250m² Pinggir Jalan Provinsi Di Ekosistem Wisata Cuma 375Jt! Cocok Untuk Villa",
     lokasi: "Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
     mdpl: "560-571",
