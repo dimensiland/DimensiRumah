@@ -2,6 +2,21 @@
 const properties = [
 
   {
+    judul: "Tanah Murah Tepi Sungai Jernih di Jogja, Luas 1451m² SHM Pekarangan Siap Bangun Villa Cuma 275 Juta",
+    lokasi: "Dusun Duwet, Pendoworejo, Girimulyo / Samigaluh, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "148 - 204",
+    harga: "Rp 275.000.000,-",
+    thumbnail: "DL-318.jpg",
+    video: "https://youtu.be/4CoIuXS3uFM",
+    akses: "Jalan cor (mobil bisa sampai ke lokasi) ",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Berkontur terasering alami dengan bagian bawah relatif datar, langsung berbatasan dengan sungai bebatuan eksotis beraliran jernih",
+    prospek: "Sangat cocok untuk villa/homestay bernuansa alam, resort privat, rumah singgah keluarga, kafe/resto tepi sungai, atau investasi jangka panjang",
+    point: "Muka tanah lebar 50 meter langsung menghadap jalan cor dan view sungai alami, View lepas perpaduan sungai jernih berbatu dan hamparan sawah hijau, Hanya ± 1 km dari jalan provinsi / perempatan Dekso, Dekat jalur gowes ikonik Luna Maya (± 1 km) dan Teras Menoreh (± 2 km)"
+  },
+  
+  {
     judul: "Harga Terjangkau Hanya 150 Juta Dapat Tanah Luas 274m² SHM Pekarangan di Godean! Siap Bangun Rumah",
     lokasi: "Sidoarjo, Godean, Sleman, DI Yogyakarta",
     mdpl: "119 - 121",
