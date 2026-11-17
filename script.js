@@ -77,6 +77,21 @@ const properties = [
   },
 
   {
+    judul: "Tanah Samping Air Terjun Surodipo Berada Di Kaki Gunung Prau, Luas 3034m² Dekat Dieng, Gn. Sindoro",
+    lokasi: "Tawangsari, Kecamatan Wonoboyo, Kabupaten Temanggung, Jawa Tengah di bawah kaki Gunung Prau (Perbatasan Dieng dan Temanggung)",
+    mdpl: "1134 - 1236",
+    harga: "Rp 550.000.000,-",
+    thumbnail: "DL-275.jpg",
+    video: "https://youtu.be/JToiUcUsAN8",
+    akses: "Mobil tidak sampai lokasi (saat ini akses jalan kaki), tersedia opsi sewa/beli lahan parkir di depan. Bisa dikembangkan dengan sarana lift/panggun",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah dengan kontur bervariasi (ada area datar dan tebing/lembah), sangat subur, dan memiliki aura spiritual/ketenangan yang kuat (Amphiteater Semesta)",
+    prospek: "Sangat cocok untuk Private Villa, Kabin Panggung (Glamping), Tempat Meditasi/Yoga, atau Destinasi Wisata Eksklusif berbasis alam",
+    point: "Lokasi unik menempel dengan Air Terjun Surodipo (salah satu yang tertinggi), debit air stabil meski musim panas, dekat dengan berbagai ikon wisata internasional (Dieng, Sikunir, Borobudur), dan merupakan area konservasi yang sangat dijaga kelestarian alamnya"
+  },
+
+  {
     judul: "Raja Ampat Di Pacitan – Luas 1480m² Hanya 475 Juta! Tanah Paradise Dengan View Pantai Dan Laut",
     lokasi: "Dekat Pantai Kasap & Puncak Kasap, Pacitan, Jawa Timur",
     mdpl: "30-40",
