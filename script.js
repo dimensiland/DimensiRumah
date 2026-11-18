@@ -18,7 +18,7 @@ const properties = [
   
   {
     judul: "Tanah Murah Tepi Sungai Jernih di Jogja, Luas 1451m² SHM Pekarangan Siap Bangun Villa Cuma 275 Juta",
-    lokasi: "Dusun Duwet, Pendoworejo, Girimulyo / Samigaluh, Kulon Progo, D.I. Yogyakarta",
+    lokasi: "Dusun Duwet, Purwoharjo, Samigaluh, Kulon Progo Regency,  Yogyakarta",
     mdpl: "148 - 204",
     harga: "Rp 275.000.000,-",
     thumbnail: "DL-318.jpg",
