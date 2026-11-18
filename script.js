@@ -30,6 +30,21 @@ const properties = [
     prospek: "Sangat cocok untuk villa/homestay bernuansa alam, resort privat, rumah singgah keluarga, kafe/resto tepi sungai, atau investasi jangka panjang",
     point: "Muka tanah lebar 50 meter langsung menghadap jalan cor dan view sungai alami, View lepas perpaduan sungai jernih berbatu dan hamparan sawah hijau, Hanya ± 1 km dari jalan provinsi / perempatan Dekso, Dekat jalur gowes ikonik Luna Maya (± 1 km) dan Teras Menoreh (± 2 km)"
   },
+
+  {
+    judul: "Tanah 3700m² View City Light & Gunung di Nanggulan Cuma 350 Juta! Bonus Mata Air & Air Terjun Alami",
+    lokasi: "Puncak Moyeng, Giripurwo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
+    mdpl: "219 - 289",
+    harga: "Rp 350.000.000,-",
+    thumbnail: "DL-257.jpg",
+    video: "https://youtu.be/5LvFt364MF4",
+    akses: "Jalan umum cor blok (lebar ±3 meter), bonus perapihan/pengepresan tanah akses masuk agar mobil bisa nyaman sampai lokasi",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berkontur terasering alami, vegetasi hijau/pohon rindang, serta menyajikan pemandangan los sawah, pegunungan Menoreh, hingga city light Kota Jogja",
+    prospek: "Sangat cocok untuk slow living, kebun buah, glamping, vila kabin/kaca (konsep resort/homestay), maupun investasi jangka panjang di jalur wisata Jogja Barat",
+    point: "Terletak di ekosistem wisata hits Nanggulan (Dekat RM Ingkar Janji, Akala Cafe, Dadap Sumilir, Ampirono, Teraloka, Geblek Pari, Mahaloka Kembang Menoreh). ±10–15 menit dari rencana Pintu Tol Sentolo. ±16 km (30 menit) ke Candi Borobudur dan ±20 km ke Tugu/Malioboro Jogja. Memiliki mata air alami sendiri di dalam lokasi tanah"
+  },
   
   {
     judul: "Harga Terjangkau Hanya 150 Juta Dapat Tanah Luas 274m² SHM Pekarangan di Godean! Siap Bangun Rumah",
