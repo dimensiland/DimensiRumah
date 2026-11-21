@@ -92,21 +92,6 @@ const properties = [
   },
 
   {
-    judul: "MURAH!! Tanah Luas 1250m² Pinggir Jalan Provinsi Di Ekosistem Wisata Cuma 375Jt! Cocok Untuk Villa",
-    lokasi: "Jatimulyo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
-    mdpl: "560-571",
-    harga: "Rp 375.000.000,-",
-    thumbnail: "DL-291.jpg",
-    video: "https://youtu.be/SYIr8MtxbXA",
-    akses: "Mangku langsung jalan raya provinsi",
-    air: "Tersedia",
-    listrik: "PLN Tersedia",
-    kondisi: "Tanah relatif datar (hanya naik 1 meter dari jalan provinsi, mudah ditata), terdapat kebun tanaman kakao/cokelat, depan pemandangan alam hijau (jungle), dan bagian belakang menyajikan pemandangan terbuka (view) Kota Jogja serta perbukitan Menoreh",
-    prospek: "Sangat ideal untuk hunian masa pensiun (slow living), perpaduan rumah tinggal & villa kabin (passive income), resto/cafe pinggir jalan, maupun aset investasi jangka panjang di jalur Bedah Menoreh",
-    point: "Nempel persis di depan pintu masuk Wisata Air Terjun Kembang Soka, Hanya 500 meter ke Ekowisata Sungai Mudal, Hanya 1 km ke Ekowisata Sungai Mudal & Skyline Bumarjuki, Hanya 2 km ke Menoreh Dreamland & Omah Trava, Hanya 3 km ke Glamping Kalilo, Hanya 5 km ke Leno Villa Menoreh, Hanya 9 km ke Praboe Resort, Hanya 15 km ke sentra kuliner hits Menoreh"
-  },
-
-  {
     judul: "Tanah Samping Air Terjun Surodipo Berada Di Kaki Gunung Prau, Luas 3034m² Dekat Dieng, Gn. Sindoro",
     lokasi: "Tawangsari, Kecamatan Wonoboyo, Kabupaten Temanggung, Jawa Tengah di bawah kaki Gunung Prau (Perbatasan Dieng dan Temanggung)",
     mdpl: "1134 - 1236",
