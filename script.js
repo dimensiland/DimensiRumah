@@ -122,6 +122,21 @@ const properties = [
   },
 
   {
+    judul: "TURUN HARGA! 350Juta  Luas 2526m² Di Kawasan Wisata Villa & Resto Dengan View Kota Jogja",
+    lokasi: "Muten, Pendoworejo, Kecamatan Girimulyo, Kabupaten Kulon Progo",
+    mdpl: "235-247",
+    harga: "Rp 350.000.000 (Turun Harga),-",
+    thumbnail: "DL-297.jpg",
+    video: "https://youtu.be/Wk2awNp8E-Y",
+    akses: "Hanya 200 meter dari jalan raya provinsi, jalan lingkungan cor blok 3 meter (bisa dilebarkan hingga 5 meter agar mobil leluasa bersimpangan, estimasi perapian/cor penambahan sangat terjangkau)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah terhampar luas dengan 60%–70% bidang datar di area utama, bagian depan berundak/terasering asri yang cocok untuk lanskap taman, sudah ditumbuhi pohon jati besar yang rindang, serta menyajikan pemandangan terbuka view lembah sawah terasering dan panorama Kota Jogja",
+    prospek: "Sangat potensial untuk kawasan resort / komplek 5 unit villa tropis privat dengan kolam renang, rumah tinggal owner/resepsionis 2 lantai, hunian masa pensiun, kebun buah produktif, maupun aset investasi land banking sebelum jalan tol beroperasi penuh",
+    point: "200 meter dari jalan raya provinsi, Muka tanah super lebar 66 meter, Skema pembayaran sangat ringan bisa tempo hingga 6 kali pembayaran, Legalitas SHM Pekarangan (bisa dibeli KTP se-Indonesia tanpa repot), 1 hingga 2 km ke Kopi Ingkar Janji & Mahaloka Paradise, 2 km ke Tinitah Alam & Kembang Resort Menoreh, 2,5 km ke Niskala Lodge, 3 km ke Waza Villa Luxury & Suantari Villa, Dekat sentra kuliner Geblek Pari, Girimanah Resto, dan jalur gowes hits Luna Maya / Selokan Mataram"
+  },
+
+  {
     judul: "Raja Ampat Di Pacitan – Luas 1480m² Hanya 475 Juta! Tanah Paradise Dengan View Pantai Dan Laut",
     lokasi: "Dekat Pantai Kasap & Puncak Kasap, Pacitan, Jawa Timur",
     mdpl: "30-40",
