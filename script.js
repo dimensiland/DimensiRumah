@@ -270,6 +270,21 @@ const properties = [
     prospek: "Sangat cocok untuk dibangun rumah kayu (rumah kedua), tempat berkebun keluarga (durian, manggis, alpukat), atau area ternak",
     point: "Lokasi strategis hanya berjarak jalan kaki ke pasar dan jalan raya provinsi, Harga sangat terjangkau untuk luasan tanah pekarangan di area wisata/pegunungan, Tanah sudah atas nama penjual, sehingga proses transaksi dan balik nama lebih mudah"
   },
+
+  {
+    judul: "Tanah Pekarangan MURAH Dengan MATA AIR! Luas 6670m² Hanya 385 Juta! View Pegunungan, Sawah & Sungai",
+    lokasi: "Kemiriombo, Gerbosari, Samigaluh, Kulon Progo",
+    mdpl: "294 - 362",
+    harga: "Rp 385.000.000 (Nett),-",
+    thumbnail: "DL-162.jpg",
+    video: "https://youtu.be/ikYqRiO8QJY",
+    akses: "Jalan Aspal Kabupaten, mobil bisa bersimpangan (sekitar 2 km dari jalan provinsi Dekso - Samigaluh).",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah terasiring, sangat subur, sebagian sudah ditanami pohon durian, dan menempel dengan aliran sungai/air terjun sepanjang ± 90 meter.",
+    prospek: "Sangat cocok untuk slow living, vila pensiun, glamping/kabin penginapan, investasi aset, atau perkebunan (durian, alpukat, sayuran).",
+    point: "View Menawan: Pemandangan Pegunungan Menoreh, Sawah, dan Aliran Sungai .Memiliki Mata Air Alami / Air Terjun sendiri di samping batas tanah. Dekat Destinasi Wisata Hits Menoreh (Tumpeng Menoreh ~5 km, Geblek Pari/Mahaloka/Ampirono ~5–8 km). Akses Strategis: ~10 km ke Borobudur (30 menit). & ~25 km ke Kota Jogja/Tugu (45 menit)"
+  },
   
   {
     judul: "Hanya 350 Juta! Tanah Luas 953m² Mangku Jalan Bedah Menoreh, Bonus Kebun Kopi & Cokelat Produktif",
