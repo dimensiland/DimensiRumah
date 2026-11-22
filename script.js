@@ -77,6 +77,36 @@ const properties = [
   },
 
   {
+    judul: "Tanah Strategis 1891m² Muka 30m di Nanggulan Samigaluh Ideal untuk Villa, Resto & Penginapan",
+    lokasi: "Jl. Nanggulan - Samigaluh, Kalurahan Banjarsari, Kapanewon Samigaluh",
+    mdpl: "511 - 523",
+    harga: "Rp 350.000.000,-",
+    thumbnail: "DL-196.jpg",
+    video: "https://youtu.be/sEqQ8-Cu_6s",
+    akses: "Pinggir Jalan Provinsi dan Jalan Desa",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah bentuk terasiring lebar (dapat dibagi 4–5 level bangunan), kontur cenderung datar, tanah sangat subur dengan vegetasi lebat (pohon kelapa, dll.)",
+    prospek: "Sangat prospektif untuk Vila/Penginapan, Resto/Kafe, Slow Living, kebun pribadi, maupun investasi jangka panjang (passive income)",
+    point: "Memiliki pemandangan lepas menghadap Pegunungan Menoreh dan hamparan sawah/lembah di bawahnya. Berada tepat di pinggir jalan provinsi dengan lebar muka 30 meter serta akses 2 muka jalan. Hanya Rp 350 Juta untuk lahan seluas 1.891 m² (harga di bawah Rp 200 ribu/m²). 2 km dari Suantari Villa dan Balai Bungah, 5 km utara Kopi Ingkar Janji, 6 km dari Kripala Resto, Teras Menoreh, dan Gua Maria Lawangsih, 7 km dari Kabupaten Sleman, 12 km dari Tumpeng Menoreh"
+  },
+
+  {
+    judul: "Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
+    lokasi: "Kawasan Pantai Benges, Tulakan, Pacitan, Jawa Timur",
+    mdpl: "37 - 63",
+    harga: "Rp 100.000/m (Nett),-",
+    thumbnail: "DL-264.jpg",
+    video: "https://youtu.be/n-hpVXV7f4M",
+    akses: "Akses mobil masuk lancar sampai ke lokasi lahan, hanya 1 km dari Jalur Lintas Selatan (JLS)",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah datar asli yang posisinya lebih tinggi dari pantai (bebas risiko abrasi pantai pas, konstruksi sangat kokoh), batuan alami melimpah (bisa dimanfaatkan untuk pondasi/taman), serta view terbuka langsung ke laut lepas, deburan ombak surfing, tebing karang, dan pegunungan",
+    prospek: "Sangat potensial untuk dibangun resort/villa tepi pantai bernuansa alam, glamping eksklusif, tempat retreat yoga/meditasi & slow living, surf camp/homestay wisatawan mancanegara, perkebunan kelapa terpadu, maupun land banking investasi jangka panjang",
+    point: "Hanya 1 km dari Jalur Lintas Selatan (JLS) Pacitan, Hanya beberapa langkah ( 20 meter) dengan akses langsung menuju pantai pasir putih & spot surfing, View laut lepas, sunrise di sisi timur, tebing karang eksotis, dan gua pantai saat air surut, 20 km ( 30 Menit) ke Pusat Kota Pacitan, 2,5 Jam dari Pusat Kota Yogyakarta / Jalur Selatan"
+  },
+
+  {
     judul: "Tanah Luas 2175m² View Sawah & Kota Jogja Di Kawasan Wisata Villa & Resto Hanya 275 Jt",
     lokasi: "Pendoworejo, Kecamatan Girimulyo, Kabupaten Kulon Progo, D.I. Yogyakarta",
     mdpl: "190-220",
