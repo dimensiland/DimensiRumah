@@ -77,33 +77,33 @@ const properties = [
   },
 
   {
-    judul: " ",
-    lokasi: " ",
-    mdpl: " ",
-    harga: "Rp ,-",
-    thumbnail: " .jpg",
-    video: " ",
-    akses: " ",
+    judul: "MURAH! Cuma 295 Juta! Tanah Luas 1502m² Pinggir Jalan Provinsi! View Sungai Jernih & Gunung",
+    lokasi: "Kedung Rante, Kaligono, Kaligesing, Purworejo",
+    mdpl: "317 - 377",
+    harga: "Rp 295.000.000,-",
+    thumbnail: "DL-226.jpg",
+    video: "https://youtu.be/RwbJBApzb-o",
+    akses: "Pinggir jalan raya provinsi (Jalan Raya Godean - Kaligesing) yang sudah diperlebar, akses mobil, truk, dan bus sangat mudah",
     air: "Tersedia",
     listrik: "PLN Tersedia",
-    kondisi: " ",
-    prospek: " ",
-    point: " "
+    kondisi: "Tanah berkontur terasering/miring dari jalan raya ke arah bawah menuju sungai, terdapat area datar sekitar 400 m² di pinggir sungai, dipenuhi vegetasi pohon durian dan pohon duku",
+    prospek: "Sangat cocok untuk vila pribadi, kebun buah pribadi, tempat healing/menenangkan diri (hidden gem dengan view pegunungan dan sungai), atau investasi properti wisata",
+    point: "bisa bayar DP 50% setelah konversi ke SHM, sisa pelunasan setelah SHM selesai, Terbuka untuk KTP mana saja (WNI maupun keturunan), Posisi tanah sangat strategis karena nempel jalan provinsi sekaligus mangku sungai jernih berbatu di bagian bawahnya"
   },
 
   {
-    judul: " ",
-    lokasi: " ",
-    mdpl: " ",
-    harga: "Rp ,-",
-    thumbnail: " .jpg",
-    video: " ",
-    akses: " ",
+    judul: "Kebun Durian & Kelengkeng SHM Pekarangan 1517m² View Kota Jogja Cocok untuk Villa / Kebun Pribadi",
+    lokasi: "Puser, Banjararum, Kec. Kalibawang, Kab. Kulon Progo, D.I. Yogyakarta",
+    mdpl: "441 - 456",
+    harga: "Rp 275.000.000,-",
+    thumbnail: "DL-188.jpg",
+    video: "https://youtu.be/R2gxAFHMqlk",
+    akses: "Tersedia akses dan komitmen tempat parkir di area lokasi",
     air: "Tersedia",
     listrik: "PLN Tersedia",
-    kondisi: " ",
-    prospek: " ",
-    point: " "
+    kondisi: "Kebun terawat dan sudah dibersihkan serta dipupuk organik. Berisi total ±40 tanaman buah produktif (sekitar 20 pohon durian usia 5 tahun siap berbuah, ±10 pohon kelengkeng, petai, jambu, dan pisang)",
+    prospek: "Sangat cocok untuk kebun keluarga/kebun pribadi, saung/villa peristirahatan, maupun investasi di kawasan berkembang wisata Kulon Progo/Menoreh",
+    point: "Sudah ada tanaman buah produktif yang sudah dirawat dan siap panen (Durian, Kelengkeng, dll.), Opsi perawatan kebun mudah dan hemat yang bisa dibantu warga setempat (tanpa biaya bulanan, hanya dibayar saat perawatan/pruning/pemupukan), Samping Paralayang Giri Sembung, ±2 km dari Jalur Sepeda Luna Maya, ±3 km dari Teras Menoreh & Kripala Resto, ±4 km dari Air Terjun Sidoharjo, ±5 km dari Desa Wisata Tinalah, ±15 km dari Tumpeng Menoreh, ±25 km (45 menit) ke Pusat Kota Jogja / Malioboro"
   },
 
   {
