@@ -32,6 +32,96 @@ const properties = [
   },
 
   {
+    judul: " ",
+    lokasi: " ",
+    mdpl: " ",
+    harga: "Rp ,-",
+    thumbnail: " .jpg",
+    video: " ",
+    akses: " ",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: " ",
+    prospek: " ",
+    point: " "
+  },
+
+  {
+    judul: " ",
+    lokasi: " ",
+    mdpl: " ",
+    harga: "Rp ,-",
+    thumbnail: " .jpg",
+    video: " ",
+    akses: " ",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: " ",
+    prospek: " ",
+    point: " "
+  },
+
+  {
+    judul: " ",
+    lokasi: " ",
+    mdpl: " ",
+    harga: "Rp ,-",
+    thumbnail: " .jpg",
+    video: " ",
+    akses: " ",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: " ",
+    prospek: " ",
+    point: " "
+  },
+
+  {
+    judul: " ",
+    lokasi: " ",
+    mdpl: " ",
+    harga: "Rp ,-",
+    thumbnail: " .jpg",
+    video: " ",
+    akses: " ",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: " ",
+    prospek: " ",
+    point: " "
+  },
+
+  {
+    judul: " ",
+    lokasi: " ",
+    mdpl: " ",
+    harga: "Rp ,-",
+    thumbnail: " .jpg",
+    video: " ",
+    akses: " ",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: " ",
+    prospek: " ",
+    point: " "
+  },
+
+  {
+    judul: "Hanya 325 Juta! Luas 947m² Dekat Geblek Pari dengan Golden View Gunung Merapi & City Light Jogja",
+    lokasi: "Banjarasri (Banjar Arum), Kalibawang, Kulon Progo, Yogyakarta",
+    mdpl: "341 - 368",
+    harga: "Rp 325.000.000 (Net),-",
+    thumbnail: "DL-240.jpg",
+    video: "https://youtu.be/YdLe-b2aukU",
+    akses: "Pinggir jalan aspal kabupaten, lebar jalan saat ini sekitar 6 meter",
+    air: "Tersedia",
+    listrik: "PLN Tersedia",
+    kondisi: "Tanah berundak/terasering dengan formasi bebatuan alami yang eksotis. Sangat ideal untuk dimanfaatkan sebagai golden view karena posisinya yang tinggi",
+    prospek: "Sangat cocok untuk investasi jangka panjang, tempat tinggal masa pensiun (slow living), atau dijadikan passive income (bisnis hospitality) dengan membangun kombinasi hunian pemilik (owner) dan beberapa unit vila sewa (potensi sewa harian tinggi karena dekat dengan berbagai destinasi populer)",
+    point: "hamparan sawah, pegunungan Menoreh, suasana berkabut pagi hari, sunrise, hingga pemandangan Gunung Merapi & Merbabu saat cuaca cerah, serta kerlap-kerlip lampu Kota Jogja di malam hari. Berada di kawasan ekosistem wisata yang sudah jadi (dekat dengan Geblek Pari, Mahaloka, Kopi Ingkar Janji, Kopi Klotok Menoreh, Suantari Villa, Niscala Lands, dll.). Hanya berjarak ± 6 km dari Sleman, ± 25 km ke Borobudur, ± 27 km ke Malioboro, dan ± 30 km ke Bandara Internasional (YIA)"
+  },
+
+  {
     judul: "Tanah 3700m² View City Light & Gunung di Nanggulan Cuma 350 Juta! Bonus Mata Air & Air Terjun Alami",
     lokasi: "Puncak Moyeng, Giripurwo, Girimulyo, Kulon Progo, D.I. Yogyakarta",
     mdpl: "219 - 289",
