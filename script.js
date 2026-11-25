@@ -62,18 +62,18 @@ const properties = [
   },
 
   {
-    judul: " ",
-    lokasi: " ",
-    mdpl: " ",
-    harga: "Rp ,-",
-    thumbnail: " .jpg",
-    video: " ",
-    akses: " ",
+    judul: "Tanah Luas 13.964m² Pekarangan, Harga Mulai 380Jutaan Di Kawasan Ekosistem Wisata & View Kota Jogja!",
+    lokasi: "Banjarsari, Kulon Progo Regency, Special Region of Yogyakarta",
+    mdpl: "445-462",
+    harga: "Rp 275.000/m – Rp 325.000/m,-",
+    thumbnail: "DL-289.jpg",
+    video: "https://youtu.be/5L_pdZXoAdU",
+    akses: "Sertifikat terdepan mangku jalan aspal besar, jalan lingkungan/kawasan dibuat lebar 5 meter",
     air: "Tersedia",
     listrik: "PLN Tersedia",
-    kondisi: " ",
-    prospek: " ",
-    point: " "
+    kondisi: "Tanah tergolong sangat langka karena relatif datar di puncak pegunungan (75% – 95% datar), batas alami sungai berbatu di sisi samping dan pagar di bagian belakang, siap bangun dan siap ditata",
+    prospek: "Sangat potensial untuk hunian masa pensiun (slow living), kawasan terpadu resort/villa tropis (kapasitas 20–30 unit villa), wedding venue, resto/cafe nuansa alam, maupun kebun buah produktif",
+    point: "Berada di ketinggian dengan panorama 360°, Memiliki mata air abadi dan nempel aliran sungai berbatu serta bendungan alami, Pilihan fleksibel bisa dibeli satuan per sertifikat atau diborong seluruh kawasan (1,39 Ha), 1 km ke Villa Kamaratih, 8 km (10 menit) ke sentra kuliner hits Menoreh (Kopi Ingkar Janji, Kopi Ampirono, Menoreh Resort, Swantari Villa, Niskala Lodge, Waza Villa), 12 km (15 menit) ke Tumpeng Menoreh, 12 km (30 menit) ke Pusat Kota Sleman, 25 km (45 menit) ke Malioboro, 29 km (1 jam) ke Bandara Internasional Yogyakarta (YIA)"
   },
 
   {
