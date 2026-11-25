@@ -47,18 +47,18 @@ const properties = [
   },
 
   {
-    judul: " ",
-    lokasi: " ",
-    mdpl: " ",
-    harga: "Rp ,-",
-    thumbnail: " .jpg",
-    video: " ",
-    akses: " ",
+    judul: "Jual Tanah 1499m² SHM Pekarangan Hanya 250 Juta! Bonus Mata Air Melimpah & View Alam Menoreh",
+    lokasi: "Klepuh, Pandanrejo, Kaligesing, Purworejo",
+    mdpl: "600 - 683",
+    harga: "Rp 250.000.000  (Net),-",
+    thumbnail: "DL-263.jpg",
+    video: "https://youtu.be/h_s00mNBwUg",
+    akses: "Jalan cor blok (Hanya 300 meter dari jalan raya provinsi Kaligesing - Nanggulan)",
     air: "Tersedia",
     listrik: "PLN Tersedia",
-    kondisi: " ",
-    prospek: " ",
-    point: " "
+    kondisi: "Tanah datar, subur, dengan vegetasi alami (kelapa & bambu petung)",
+    prospek: "Sangat potensial untuk hunian slow living, villa, atau investasi jangka panjang",
+    point: "Lokasi dikepung mata air, suhu sejuk, dan Lokasi strategis dekat wisata Goa Anjani dan Kiskendo, hanya 45 menit menuju pusat Kota Jogja/Malioboro."
   },
 
   {
