@@ -32,18 +32,18 @@ const properties = [
   },
 
   {
-    judul: " ",
-    lokasi: " ",
-    mdpl: " ",
-    harga: "Rp ,-",
-    thumbnail: " .jpg",
-    video: " ",
-    akses: " ",
+    judul: "Dijual Tanah Luas 1500m² Ada Mata Air & Nempel Air Terjun Cibiru Cocok Villa Kabin & Wisata Alam!",
+    lokasi: "Ngetak, Pagerharjo, Kecamatan Samigaluh, Kabupaten Kulon Progo",
+    mdpl: "375-420",
+    harga: "Rp 375.000.000 (Nett),-",
+    thumbnail: "DL-295.jpg",
+    video: "https://youtu.be/_yYOF4S8zZE",
+    akses: "Akses mobil sampai lokasi tanah dan terhubung langsung ke kawasan wisata",
     air: "Tersedia",
     listrik: "PLN Tersedia",
-    kondisi: " ",
-    prospek: " ",
-    point: " "
+    kondisi: "Bagian atas tanah berkondisi datar siap bangun dengan pepohonan rindang (pohon aren dll.), bagian bawah nempel langsung ke aliran sungai eksotis dengan batuan alami dan pemandangan air terjun",
+    prospek: "Sangat ideal untuk pembangunan 2–3 unit villa kabin bernuansa tropis alami, hunian masa pensiun (slow living / healing), glamping/camping ground eksklusif, maupun kafe/resto nuansa sungai alami",
+    point: "Nempel persis di Air Terjun Cibiru (sebelah selatan), Memiliki akses langsung ke sungai berbatu eksotis dan sumber mata air alami, Berada di ekosistem kawasan wisata terpadu (tetangga samping sudah dibeli untuk kawasan wisata, kuliner, dan villa), 3 km ke Menoreh Sky Cabin / Recabin, 5 km ke Tumpeng Menoreh, 15 km ( 30 menit) ke sentra kuliner hits Menoreh"
   },
 
   {
