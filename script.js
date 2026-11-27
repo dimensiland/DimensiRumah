@@ -482,7 +482,7 @@ const properties = [
   },
 
   {
-    judul: "MURAH! Tanah Luas 6516m² Hanya 85 Ribu/m² View Pantai & Kota Pacitan Hawa Sejuk & Sunrise Epik!",
+    judul: "MURAH! Bisa dibayar bertahap 10 kali Luas 6516m² Hanya 85 Ribu/m² View Pantai Hawa Sejuk !",
     lokasi: "Dusun Dadapan, Pringkulu, Kabupaten Pacitan, Jawa Timur",
     mdpl: "214 - 249",
     harga: "Rp 85.000/m,-",
