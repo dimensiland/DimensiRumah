@@ -347,12 +347,12 @@ const properties = [
   },
   
   {
-    judul: "Tanah MURAH! Luas 381m² Hanya 230Juta di Jl Godean KM15 Sleman Dekat Kota Jogja Dan Kampus Ternama",
+    judul: "Tanah MURAH! Bisa Dicicil 10 Kali Luas 381m² Hanya 230Juta di Jl Godean KM15 Sleman Dekat Kota Jogja",
     lokasi: "Sejati, Sumberarum, Moyudan, Jl. Godean KM 15, Sleman",
     mdpl: "81-85",
     harga: "Rp 230.000.000,-",
     thumbnail: "DL-066.jpg",
-    video: "https://youtu.be/95GHk44gjFg",
+    video: "https://youtu.be/kAdFVzI3iVE",
     akses: "Jalan cor lebar ± 5 meter, mobil leluasa simpangan sampai lokasi",
     air: "Tersedia",
     listrik: "PLN Tersedia",
