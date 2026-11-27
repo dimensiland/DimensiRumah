@@ -182,7 +182,7 @@ const properties = [
   },
 
   {
-    judul: "Cuma 100rb/m Tanah SHM 6823 m² Dekat Pasir Putih Pacitan View Laut Lepas Investasi Menguntungkan",
+    judul: "Bisa dibayar bertahap 10 kali Tanah SHM Luas 6823m² Dekat Pasir Putih Pacitan View Laut Lepas",
     lokasi: "Kawasan Pantai Benges, Tulakan, Pacitan, Jawa Timur",
     mdpl: "37 - 63",
     harga: "Rp 100.000/m (Nett),-",
