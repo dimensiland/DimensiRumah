@@ -155,7 +155,7 @@ const properties = [
     judul: "TURUN HARGA! Tanah 2086m² Hanya 75Jt di Kulon Progo Cocok Untuk Kebun Investasi Masa Depan di Jogja",
     lokasi: "Giripurwo, Girimulyo, Kulon Progo (Jogja Barat), dekat dengan area Wisma Pancoran dan Jogja Stay",
     mdpl: "291 - 323",
-    harga: "Rp 75.000.000,-",
+    harga: "Rp 75.000.000 (Nett),-",
     thumbnail: "DL-007.jpg",
     video: "https://youtu.be/Hk6K3P5no4Q",
     akses: "Jalan Cor (saat ini baru akses motor sampai lokasi)",
